@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "把雙手銬在一起。",
+          "quote": [
+            "《說文解字．手部》：「拲，兩手共同械也。」",
+            "《周禮．秋官．掌囚》：「凡囚者，上罪梏拲而桎。」",
+            "鄭玄注引鄭司農云：「拲者，兩手共一木也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gǒng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "手",
+  "stroke_count": 10,
+  "title": "拲"
+}

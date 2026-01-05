@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "開展、擴充。",
+          "example": [
+            "如：「開拓」、「拓展」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "開墾。",
+          "example": [
+            "如：「拓荒」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tuò"
+    },
+    {
+      "bopomofo": "ㄊㄚˋ",
+      "definitions": [
+        {
+          "def": "用紙墨摹印碑刻、銅器、甲骨等。方法是先在物體上蒙上一層薄紙（通常是棉紙或宣紙），再用髮束等物，予以拍打，依陰陽紋顯現凹凸紋路，然後上墨，以顯出所欲摹印的文字或圖像。",
+          "example": [
+            "如：「拓印」、「拓本」。"
+          ],
+          "link": [
+            "通「搨」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tà"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "手",
+  "stroke_count": 8,
+  "title": "拓"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄤ",
+      "definitions": [
+        {
+          "def": "鐵和碳的合金。比生鐵堅韌，比熟鐵質硬。依含碳量可分為柔鋼、建築用鋼及硬鋼等　，是工業上極重要的材料。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gāng"
+    },
+    {
+      "bopomofo": "ㄍㄤˋ",
+      "definitions": [
+        {
+          "def": "把刀在皮、布、磨刀石等上磨或重新打造，使刀變利。",
+          "example": [
+            "如：「你把刀子拿去鋼一鋼。　」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gàng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "金",
+  "stroke_count": 16,
+  "title": "鋼"
+}

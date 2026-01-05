@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "和、融洽。",
+          "quote": [
+            "《書經．召誥》：「其丕能諴于小民，今休。」",
+            "唐．孔穎達．正義：「若其大能和同於天下小民，則成今之美。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "真誠的、誠心的。",
+          "quote": [
+            "《書經．大禹謨》：「至諴感神，矧茲有苗！」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xián"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "言",
+  "stroke_count": 16,
+  "title": "諴"
+}

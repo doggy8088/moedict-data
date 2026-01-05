@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨˇ　ㄗˇ",
+      "definitions": [
+        {
+          "def": "公司除權時所發放的股票、股利。"
+        }
+      ],
+      "pinyin": "gǔ zǐ"
+    },
+    {
+      "bopomofo": "ㄍㄨˇ　˙ㄗ",
+      "definitions": [
+        {
+          "def": "股份。"
+        },
+        {
+          "def": "事物的一部分。"
+        },
+        {
+          "def": "一縷或一陣。"
+        }
+      ],
+      "pinyin": "gǔ zi"
+    }
+  ],
+  "title": "股子"
+}

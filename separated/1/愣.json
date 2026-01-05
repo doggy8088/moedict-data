@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄥˋ",
+      "definitions": [
+        {
+          "def": "痴呆。",
+          "example": [
+            "如：「愣小子」、「愣頭愣腦」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "失神、發呆。",
+          "example": [
+            "如：「乍聞惡耗，他竟愣在那裡一動也不動的。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lèng"
+    },
+    {
+      "bopomofo": "ㄌㄥ",
+      "definitions": [
+        {
+          "def": "參見「愣兒」條。"
+        }
+      ],
+      "pinyin": "lēng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "心",
+  "stroke_count": 12,
+  "title": "愣"
+}

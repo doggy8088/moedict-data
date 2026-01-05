@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄟ",
+      "definitions": [
+        {
+          "def": "同「杯」。今獎杯的杯字多用「盃」。",
+          "type": "名"
+        },
+        {
+          "def": "量詞。以盃的容量作為計算的單位。",
+          "quote": [
+            "《文選．嵇康．與山巨源絕交書》：「濁酒一盃，彈琴一曲，志願畢矣！」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bēi"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "皿",
+  "stroke_count": 9,
+  "title": "盃"
+}

@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄤ",
+      "definitions": [
+        {
+          "def": "褲子兩片腿管相連的地方。",
+          "example": [
+            "如：「褲襠」、「開襠褲」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dāng"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "衣",
+  "stroke_count": 19,
+  "title": "襠"
+}

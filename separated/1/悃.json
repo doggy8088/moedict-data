@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄣˇ",
+      "definitions": [
+        {
+          "def": "至誠的心意。",
+          "example": [
+            "如：「聊表謝悃」。"
+          ],
+          "quote": [
+            "《廣韻．上聲．混韻》：「悃，至誠。」",
+            "《三國演義．第三七回》：「特拜尊顏，面傾鄙悃。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "真誠。",
+          "quote": [
+            "《文選．王襃．聖主得賢臣頌》：「陳見悃誠，則上不然其信。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "kǔn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "悃"
+}

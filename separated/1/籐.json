@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄥˊ",
+      "definitions": [
+        {
+          "def": "竹製的器具。",
+          "quote": [
+            "《集韻．平聲．登韻》：「籐，竹器。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "蔓生植物的卷鬚或莖。",
+          "link": [
+            "同「藤」。"
+          ],
+          "quote": [
+            "南朝齊．謝朓〈與江水曹至干濱戲〉詩：「花枝聚如雪，垂籐散猶網。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "téng"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "竹",
+  "stroke_count": 21,
+  "title": "籐"
+}

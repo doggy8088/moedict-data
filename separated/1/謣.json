@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˊ",
+      "definitions": [
+        {
+          "def": "虛誇、胡說。",
+          "quote": [
+            "《說文解字．言部》：「謣，妄言。」",
+            "漢．揚雄《法言．問明》：「謣言敗俗，謣好敗則。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yú"
+    },
+    {
+      "bopomofo": "ㄒㄩ",
+      "definitions": [
+        {
+          "def": "參見「輿謣」條。"
+        }
+      ],
+      "pinyin": "xū"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "言",
+  "stroke_count": 18,
+  "title": "謣"
+}

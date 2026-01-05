@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄣ",
+      "definitions": [
+        {
+          "def": "舊稱褲子為「褌」。",
+          "example": [
+            "如：「紅褌」、「青布褌」。"
+          ],
+          "quote": [
+            "《史記．卷一一七．司馬相如傳》：「相如身自著犢鼻褌，與保庸雜作，滌器於市中。」",
+            "《晉書．卷四九．阮籍傳》：「君子之處域內，何異夫蝨之處褌中乎？」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kūn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "衣",
+  "stroke_count": 15,
+  "title": "褌"
+}

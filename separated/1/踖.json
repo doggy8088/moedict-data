@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˊ",
+      "definitions": [
+        {
+          "def": "踐踏。",
+          "quote": [
+            "《廣韻．入聲．昔韻》：「踖，踐也。」",
+            "《禮記．曲禮上》：「毋踐屨，毋踖席。」",
+            "漢．鄭玄．注：「踖，躐也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jí"
+    },
+    {
+      "bopomofo": "ㄑㄩㄝˋ",
+      "definitions": [
+        {
+          "def": "馬跑得很快的樣子。",
+          "quote": [
+            "《廣韻．入聲．藥韻》：「踖，馺也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "què"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "足",
+  "stroke_count": 15,
+  "title": "踖"
+}

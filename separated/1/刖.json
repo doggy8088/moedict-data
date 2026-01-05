@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄝˋ",
+      "definitions": [
+        {
+          "def": "古代一種砍斷雙腳的刑罰。",
+          "quote": [
+            "《漢書．卷二三．刑法志》：「刖罪五百。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "砍斷雙腳。",
+          "example": [
+            "如：「自刖而死」。"
+          ],
+          "quote": [
+            "唐．元稹〈出門行〉：「其兄因獻璞，再刖不履地。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yuè"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "刀",
+  "stroke_count": 6,
+  "title": "刖"
+}

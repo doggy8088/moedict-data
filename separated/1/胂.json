@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄣ",
+      "definitions": [
+        {
+          "def": "夾脊肉。",
+          "quote": [
+            "《說文解字．肉部》：「胂，夾脊肉也。」",
+            "段玉裁注引王弼云：「當中脊之肉也。」",
+            "《黃帝內經素問．卷一一．刺腰痛論》：「刺腰尻交者，兩髁胂上。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shēn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "肉",
+  "stroke_count": 9,
+  "title": "胂"
+}

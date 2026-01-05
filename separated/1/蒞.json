@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˋ",
+      "definitions": [
+        {
+          "def": "光臨、來到。",
+          "example": [
+            "如：「蒞臨」、「蒞會」。"
+          ],
+          "quote": [
+            "《國語．周語上》：「是故祓除其心，以和惠民，考中度衷以蒞之。」",
+            "《孟子．梁惠王上》：「欲辟土地，朝秦、楚，蒞中國而撫四夷也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「蒞蒞」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "lì"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "艸",
+  "stroke_count": 14,
+  "title": "蒞"
+}

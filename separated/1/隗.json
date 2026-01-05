@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "高。",
+          "link": [
+            "同「嵬」。"
+          ],
+          "quote": [
+            "《說文解字．{[28e0f]}部》：「隗，高也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "姓。如漢代有隗囂。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "wěi"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "阜",
+  "stroke_count": 13,
+  "title": "隗"
+}

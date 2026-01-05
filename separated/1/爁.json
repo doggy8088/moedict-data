@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄢˋ",
+      "definitions": [
+        {
+          "def": "焚燒。",
+          "quote": [
+            "《集韻．上聲．敢韻》：「爁，火焚也。」",
+            "明．賈仲名《蕭淑蘭．第二折》：「將韓王殿忽然火爁，藍橋驛平空水渰。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "燒烤。",
+          "quote": [
+            "元．王實甫《西廂記．第二本．楔子》：「這些時吃菜饅頭委實口淡，五千人也不索炙{[99f5]}煎爁。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "làn"
+    },
+    {
+      "bopomofo": "（又音）ㄌㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）lǎn"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "火",
+  "stroke_count": 18,
+  "title": "爁"
+}

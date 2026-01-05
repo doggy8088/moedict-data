@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨˊ",
+      "definitions": [
+        {
+          "def": "參見「珊瑚」條。",
+          "type": "名"
+        },
+        {
+          "def": "古代宗廟祭祀時盛黍稷的禮器。",
+          "quote": [
+            "《玉篇．玉部》：「瑚，《論語注》云：『瑚璉，黍稷之器。夏曰瑚，殷曰璉。』」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "hú"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "玉",
+  "stroke_count": 13,
+  "title": "瑚"
+}

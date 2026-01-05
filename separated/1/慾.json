@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˋ",
+      "definitions": [
+        {
+          "def": "兩性間所引起的生理衝動與需求。",
+          "example": [
+            "如：「情慾」、「性慾」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "心中想要滿足的意念、願望。",
+          "example": [
+            "如：「慾望」、「口腹之慾」。"
+          ],
+          "link": [
+            "通「欲」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yù"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "心",
+  "stroke_count": 15,
+  "title": "慾"
+}

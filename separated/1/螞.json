@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄚˇ",
+      "definitions": [
+        {
+          "def": "參見「螞蟻」、「螞蟥」等條。"
+        }
+      ],
+      "pinyin": "mǎ"
+    },
+    {
+      "bopomofo": "ㄇㄚˋ",
+      "definitions": [
+        {
+          "def": "參見「螞蚱」條。"
+        }
+      ],
+      "pinyin": "mà"
+    },
+    {
+      "bopomofo": "ㄇㄚ",
+      "definitions": [
+        {
+          "def": "參見「螞螂」條。"
+        }
+      ],
+      "pinyin": "mā"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "虫",
+  "stroke_count": 16,
+  "title": "螞"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄤˊ　ㄌㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "孤獨淒涼。",
+          "quote": [
+            "《孟子．盡心下》：「古之人，行何為踽踽涼涼？」"
+          ]
+        },
+        {
+          "def": "略具寒意，微寒。",
+          "quote": [
+            "《列子．湯問》：「日初出，滄滄涼涼。」"
+          ]
+        }
+      ],
+      "pinyin": "liáng liáng"
+    },
+    {
+      "bopomofo": "ㄌㄧㄤˋ　ㄌㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "使物體溫度降低。",
+          "example": [
+            "如：「這湯很燙，等涼涼了再喝。」"
+          ]
+        }
+      ],
+      "pinyin": "liàng liáng"
+    }
+  ],
+  "title": "涼涼"
+}

@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄟˇ",
+      "definitions": [
+        {
+          "def": "參見「斐斐」、「斐然」等條。"
+        }
+      ],
+      "pinyin": "fěi"
+    },
+    {
+      "bopomofo": "ㄈㄟ",
+      "definitions": [
+        {
+          "def": "姓。春秋時晉有斐豹。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "fēi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "文",
+  "stroke_count": 12,
+  "title": "斐"
+}

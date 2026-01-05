@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "古時席地而坐時所鋪的席子。",
+          "quote": [
+            "《禮記．投壺》：「退反位，揖賓就筵。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "酒席、宴席。",
+          "example": [
+            "如：「喜筵」、「壽筵」。"
+          ],
+          "quote": [
+            "唐．王勃〈滕王閣序〉：「嗚呼！勝地不常，盛筵難再。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yán"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "竹",
+  "stroke_count": 14,
+  "title": "筵"
+}

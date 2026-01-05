@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄠ",
+      "definitions": [
+        {
+          "def": "將蠶繭煮過抽出絲來。",
+          "quote": [
+            "《說文解字．糸部》：「繅，繹繭為絲也。」",
+            "南朝宋．鮑照〈夢歸鄉〉詩：「繅絲復鳴機，慊款論久別。」",
+            "唐．李頻〈送許棠歸涇縣作尉〉詩：「遶郭看秧插，尋街聽繭繅。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sāo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "糸",
+  "stroke_count": 17,
+  "title": "繅"
+}

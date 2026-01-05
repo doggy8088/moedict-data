@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧˊ",
+      "definitions": [
+        {
+          "def": "牛羊等反芻動物的胃。",
+          "example": [
+            "如：「膍胵」。"
+          ],
+          "quote": [
+            "《莊子．庚桑楚》：「臘者之有膍胲，可散而不可散也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "賜予。",
+          "quote": [
+            "《詩經．小雅．魚藻》：「樂只君子，福祿膍之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pí"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "肉",
+  "stroke_count": 14,
+  "title": "膍"
+}

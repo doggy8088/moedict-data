@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄠˊ",
+      "definitions": [
+        {
+          "def": "大波浪。",
+          "example": [
+            "如：「驚濤駭浪」、「波濤洶湧」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "似波濤的聲音。",
+          "example": [
+            "如：「松濤」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "táo"
+    },
+    {
+      "bopomofo": "（又音）ㄊㄠ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）tāo"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "水",
+  "stroke_count": 17,
+  "title": "濤"
+}

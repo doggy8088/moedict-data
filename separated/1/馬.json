@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄚˇ",
+      "definitions": [
+        {
+          "def": "動物名。脊椎動物門哺乳綱奇蹄目。四肢強健，每肢僅有一蹄，善跑，能載重行遠草食性，性溫和。",
+          "type": "名"
+        },
+        {
+          "def": "計數的工具。",
+          "example": [
+            "如：「籌馬」、「法馬」。"
+          ],
+          "link": [
+            "通「碼」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有馬融，元代有馬致遠。",
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "mǎ"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "馬",
+  "stroke_count": 10,
+  "title": "馬"
+}

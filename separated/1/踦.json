@@ -1,0 +1,50 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˇ",
+      "definitions": [
+        {
+          "def": "腿、腳脛。",
+          "quote": [
+            "唐．元稹〈蜘蛛詩．序〉：「巴蜘蛛，大而毒。其甚者，身邊數寸，而踦長數倍其身。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jǐ"
+    },
+    {
+      "bopomofo": "ㄑㄧˊ",
+      "definitions": [
+        {
+          "def": "傾斜不平。",
+          "link": [
+            "通「崎」。"
+          ],
+          "quote": [
+            "《文選．左思．魏都賦》：「山阜猥積而踦{[98b6]}。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "qí"
+    },
+    {
+      "bopomofo": "ㄧˇ",
+      "definitions": [
+        {
+          "def": "刺、觸、頂住。",
+          "quote": [
+            "《莊子．養生主》：「足之所履，膝之所踦，砉然嚮然，奏刀騞然，莫不中音。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yǐ"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "足",
+  "stroke_count": 15,
+  "title": "踦"
+}

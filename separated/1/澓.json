@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "潛流在地下的水。",
+          "link": [
+            "通「洑」。"
+          ],
+          "quote": [
+            "《集韻．入聲．屋韻》：「澓，伏流也。或從伏。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有澓仲翁。",
+          "type": "名"
+        },
+        {
+          "def": "水迴流。",
+          "quote": [
+            "晉．郭璞〈江賦〉：「迅澓增澆，涌湍疊躍。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "fú"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "水",
+  "stroke_count": 15,
+  "title": "澓"
+}

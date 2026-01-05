@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄠˊ",
+      "definitions": [
+        {
+          "def": "喧嘩、呼叫。",
+          "quote": [
+            "《說文解字．言部》：「恚嘑也。」",
+            "唐．徐鍇．繫傳：「聲高噪獰也。」",
+            "《晉書．卷五○．庾純傳》：「臨時諠譊，遂至荒越。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "náo"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "言",
+  "stroke_count": 19,
+  "title": "譊"
+}

@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄡˊ",
+      "definitions": [
+        {
+          "def": "使柔軟。",
+          "example": [
+            "如：「鞣皮革」。"
+          ],
+          "quote": [
+            "《說文解字．革部》：「鞣，耎也。」",
+            "清．錢坫《說文解字斠詮．卷三》：「鞣，今人治皮，俗猶曰鞣。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "柔軟的皮革。",
+          "quote": [
+            "《廣韻．去聲．宥韻》：「鞣，柔皮。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "róu"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "革",
+  "stroke_count": 18,
+  "title": "鞣"
+}

@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄓㄨˊ",
+      "definitions": [
+        {
+          "def": "船尾掌舵的地方。",
+          "quote": [
+            "南朝宋．鮑照〈還都道中〉詩三首之二：「風急訊灣浦，裝高偃檣舳。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "（讀音）zhú"
+    },
+    {
+      "bopomofo": "（語音）ㄓㄡˊ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）zhóu"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "舟",
+  "stroke_count": 11,
+  "title": "舳"
+}

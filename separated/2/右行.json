@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄡˋ　ㄏㄤˊ",
+      "definitions": [
+        {
+          "def": "古代軍制名。",
+          "quote": [
+            "《左傳．僖公十年》：「左行共華，右行賈華。」"
+          ]
+        },
+        {
+          "def": "右邊的行列。"
+        }
+      ],
+      "pinyin": "yòu háng"
+    },
+    {
+      "bopomofo": "ㄧㄡˋ　ㄒㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "文字自左至右的書寫形式。"
+        }
+      ],
+      "pinyin": "yòu xíng"
+    }
+  ],
+  "title": "右行"
+}

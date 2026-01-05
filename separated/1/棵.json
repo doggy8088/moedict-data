@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄜ",
+      "definitions": [
+        {
+          "def": "量詞。計算植物的單位。",
+          "example": [
+            "如：「一棵樹」。"
+          ],
+          "quote": [
+            "《紅樓夢．第九四回》：「怡紅院裡的海棠本來萎了幾棵，也沒人去澆灌他。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kē"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "木",
+  "stroke_count": 12,
+  "title": "棵"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨ",
+      "definitions": [
+        {
+          "def": "形容物體沒有毛、髮、草木、枝葉等。",
+          "example": [
+            "如：「禿子」、「禿頭」、「禿山」、「禿樹」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "物體尖端鈍粗、不尖銳。",
+          "example": [
+            "如：「禿針」、「禿筆」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "首尾不完整。",
+          "example": [
+            "如：「禿頭文章」、「這篇文章結尾有點禿了。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "tū"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "禾",
+  "stroke_count": 7,
+  "title": "禿"
+}

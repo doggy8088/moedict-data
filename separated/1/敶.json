@@ -1,0 +1,46 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄣˊ",
+      "definitions": [
+        {
+          "def": "陳列、排列。",
+          "link": [
+            "同「陳」。"
+          ],
+          "quote": [
+            "《楚辭．宋玉．招魂》：「敶鐘按鼓，造新歌些。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "述說。",
+          "link": [
+            "同「陳」。"
+          ],
+          "quote": [
+            "三國魏．張揖〈上廣雅表〉：「其敶道也，精研而無誤。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chén"
+    },
+    {
+      "bopomofo": "ㄓㄣˋ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「陣」。"
+          ]
+        }
+      ],
+      "pinyin": "zhèn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "攴",
+  "stroke_count": 15,
+  "title": "敶"
+}

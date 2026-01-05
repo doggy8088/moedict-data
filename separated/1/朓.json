@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "古代稱農曆月底月亮出現在西方時為「朓」。",
+          "quote": [
+            "《說文解字．月部》：「朓，晦而月見西方謂之朓。」",
+            "南朝宋．謝莊〈月賦〉：「朒朓警闕，朏魄示沖。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tiǎo"
+    },
+    {
+      "bopomofo": "ㄊㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "人名用字。如南朝有謝朓。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "tiào"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "月",
+  "stroke_count": 10,
+  "title": "朓"
+}

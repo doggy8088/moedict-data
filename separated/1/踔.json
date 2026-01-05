@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "超越。",
+          "quote": [
+            "《集韻．去聲．嘯韻》：「踔，越也。」",
+            "《後漢書．卷六○下．蔡邕傳》：「踔宇宙而遺俗兮，眇翩翩而獨征。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "高遠的、卓然特立的。",
+          "quote": [
+            "《漢書．卷八一．孔光傳》：「非有踔絕之能，不相踰越。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhuó"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "足",
+  "stroke_count": 15,
+  "title": "踔"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄣ",
+      "definitions": [
+        {
+          "def": "洗衣時用來輕搥衣服的石塊。",
+          "example": [
+            "如：「砧杵」。"
+          ],
+          "quote": [
+            "唐．白居易〈太湖石〉詩：「磨刀不如礪，擣帛不如砧。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "切菜時所墊的板子。",
+          "example": [
+            "如：「砧板」、「肉砧」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「砧鑕」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhēn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "石",
+  "stroke_count": 10,
+  "title": "砧"
+}

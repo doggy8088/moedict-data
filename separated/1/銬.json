@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄠˋ",
+      "definitions": [
+        {
+          "def": "戴在犯人手上的刑具。",
+          "example": [
+            "如：「手銬」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用手銬扣住。",
+          "example": [
+            "如：「將犯人銬起來。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kào"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "金",
+  "stroke_count": 14,
+  "title": "銬"
+}

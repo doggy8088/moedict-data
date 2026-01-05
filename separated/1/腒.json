@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩ",
+      "definitions": [
+        {
+          "def": "鳥類的乾肉。",
+          "quote": [
+            "《說文解字．肉部》：「腒，北方謂鳥腊腒。」",
+            "漢．王充《論衡．語增》：「言堯、舜若腊與腒，桀、紂垂腴尺餘，增之也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jū"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "肉",
+  "stroke_count": 12,
+  "title": "腒"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄡ",
+      "definitions": [
+        {
+          "def": "國名。",
+          "link": [
+            "同「鄒」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "地名。",
+          "link": [
+            "同「郰」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zōu"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "邑",
+  "stroke_count": 17,
+  "title": "鄹"
+}

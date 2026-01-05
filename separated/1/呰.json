@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗˇ",
+      "definitions": [
+        {
+          "def": "誹謗、詆毀。",
+          "quote": [
+            "《文選．曹植．與楊德祖書》：「昔田巴毀五帝，罪三王，呰五霸於稷下，  一旦而服千人。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「呰窳」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "zǐ"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "口",
+  "stroke_count": 9,
+  "title": "呰"
+}

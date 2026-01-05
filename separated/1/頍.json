@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "抬起頭來。",
+          "quote": [
+            "《說文解字．頁部》：「頍，舉頭也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "古代用來束髮，固定頭冠的髮飾。",
+          "quote": [
+            "《續漢書志．第三○．輿服志下》：「古者有冠無幘，其戴也，加首有頍，所以安物。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kuǐ"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "頁",
+  "stroke_count": 13,
+  "title": "頍"
+}

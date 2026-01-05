@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄚ",
+      "definitions": [
+        {
+          "def": "吹襲。",
+          "example": [
+            "如：「颳風」、「颱風把樹颳倒了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "guā"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "風",
+  "stroke_count": 15,
+  "title": "颳"
+}

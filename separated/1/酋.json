@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "首領。",
+          "example": [
+            "如：「酋長」、「匪酋」、「賊酋」。"
+          ],
+          "quote": [
+            "《北史．卷六六．李和傳》：「父僧養，以累世雄豪，為夏州酋。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiú"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "酉",
+  "stroke_count": 9,
+  "title": "酋"
+}

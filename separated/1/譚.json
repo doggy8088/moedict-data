@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄢˊ",
+      "definitions": [
+        {
+          "def": "安而放縱的樣子。",
+          "quote": [
+            "《大戴禮記．子張問入官》：「富恭有本能圖，脩業居久而譚。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "言論。",
+          "example": [
+            "如：「天方夜譚」、「風俗奇譚」。"
+          ],
+          "link": [
+            "同「談」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如清代有譚嗣同。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "tán"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "言",
+  "stroke_count": 19,
+  "title": "譚"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕˋ",
+      "definitions": [
+        {
+          "def": "揩、擦抹。",
+          "example": [
+            "如：「擦拭」、「拂拭」、「拭淚」、「拭目以待」。"
+          ],
+          "quote": [
+            "《儀禮．聘禮》：「賈人北面坐，拭圭。」",
+            "漢．鄭玄．注：「拭，清也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "手",
+  "stroke_count": 9,
+  "title": "拭"
+}

@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨˋ",
+      "definitions": [
+        {
+          "def": "收藏兵器的地方。",
+          "example": [
+            "如：「火藥庫」、「軍械庫」。"
+          ],
+          "quote": [
+            "《說文解字．广部》：「庫，兵車藏也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛指貯藏物品的地方。",
+          "example": [
+            "如：「血庫」、「書庫」、「倉庫」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kù"
+    },
+    {
+      "bopomofo": "ㄕㄜˋ",
+      "definitions": [
+        {
+          "def": "姓。如漢代有庫鈞。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shè"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "广",
+  "stroke_count": 10,
+  "title": "庫"
+}

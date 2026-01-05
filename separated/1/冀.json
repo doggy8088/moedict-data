@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˋ",
+      "definitions": [
+        {
+          "def": "希望。",
+          "example": [
+            "如：「希冀」、「冀望」。"
+          ],
+          "quote": [
+            "《楚辭．屈原．離騷》：「冀枝葉之峻茂兮，願俟時乎吾將刈。」",
+            "《漢書．卷六八．霍光傳》：「冀其自新。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "國名。周代時所建，後滅於晉。",
+          "type": "名"
+        },
+        {
+          "def": "大陸地區河北省的簡稱。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jì"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "八",
+  "stroke_count": 16,
+  "title": "冀"
+}

@@ -1,0 +1,58 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄚ",
+      "definitions": [
+        {
+          "def": "食。",
+          "quote": [
+            "《楚辭．宋玉．九辯》：「鳧鴈皆唼夫梁藻兮，鳳愈飄翔而高舉。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zā"
+    },
+    {
+      "bopomofo": "ㄑㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "參見「唼佞」條。"
+        }
+      ],
+      "pinyin": "qiè"
+    },
+    {
+      "bopomofo": "ㄕㄚˋ",
+      "definitions": [
+        {
+          "def": "蟲咬東西。",
+          "example": [
+            "如：「這棵死樹根螞蟻唼了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "魚、鳥在水中覓食。參見「唼喋」條。",
+          "type": "動"
+        },
+        {
+          "def": "除掉沒有用的東西。",
+          "example": [
+            "如：「用篩子唼細土。」、「吃飲時將沙唼出。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "小孔洩氣。參見「唼氣」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "shà"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "口",
+  "stroke_count": 11,
+  "title": "唼"
+}

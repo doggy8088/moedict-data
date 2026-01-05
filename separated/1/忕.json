@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄞˋ",
+      "definitions": [
+        {
+          "def": "奢侈。",
+          "quote": [
+            "《晉書．卷三三．何曾傳》：「劉毅等數劾奏曾侈忕無度。」",
+            "《文選．張衡．西京賦》：「有憑虛公子，心侈體忕。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "tài"
+    },
+    {
+      "bopomofo": "ㄕˋ",
+      "definitions": [
+        {
+          "def": "習慣、慣於。",
+          "quote": [
+            "《史記．卷一七．漢興以來諸侯年表．序》：「諸侯或驕奢，忕邪臣計謀為淫亂。」",
+            "唐．司馬貞．索隱：「忕訓習，言習於邪臣之謀計。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shì"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "心",
+  "stroke_count": 6,
+  "title": "忕"
+}

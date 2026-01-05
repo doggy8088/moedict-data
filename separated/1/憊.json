@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄟˋ",
+      "definitions": [
+        {
+          "def": "精神極度疲困。",
+          "example": [
+            "如：「疲憊不堪」。"
+          ],
+          "quote": [
+            "清．蔣士銓〈鳴機夜課圖記〉：「女本弱，今勞瘁過諸兄，憊矣。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "bèi"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "心",
+  "stroke_count": 16,
+  "title": "憊"
+}

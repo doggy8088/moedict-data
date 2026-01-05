@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄜˊ",
+      "definitions": [
+        {
+          "def": "有鱗目蛇亞目爬行動物的總稱。約二千七百種，臺灣約產五十八種。體圓長，無四肢，有鱗，口大，舌細長而分叉，體色不一，有蛻皮現象。卵生或卵胎生，分有毒跟無毒二種。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shé"
+    },
+    {
+      "bopomofo": "ㄧˊ",
+      "definitions": [
+        {
+          "def": "參見「蛇蛇」、「委蛇」等條。"
+        }
+      ],
+      "pinyin": "yí"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "虫",
+  "stroke_count": 11,
+  "title": "蛇"
+}

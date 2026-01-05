@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄞˋ",
+      "definitions": [
+        {
+          "def": "咽喉。",
+          "quote": [
+            "《說文解字．口部》：「噲，咽也。」",
+            "清．段玉裁．注：「噲者，會也，聲氣所會也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "稱心、暢快。",
+          "link": [
+            "通「快」。"
+          ],
+          "quote": [
+            "《淮南子．精神》：「當此之時，噲然得臥，則親戚兄弟歡然而喜。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "kuài"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "口",
+  "stroke_count": 16,
+  "title": "噲"
+}

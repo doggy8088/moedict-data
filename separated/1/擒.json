@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "捕捉。",
+          "example": [
+            "如：「欲擒故縱」、「擒賊先擒王」。"
+          ],
+          "quote": [
+            "《韓非子．存韓》：「是我兵未出，而勁韓以威擒。」",
+            "《三國演義．第九○回》：「驅巨獸六破蠻兵，燒藤甲七擒孟獲。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qín"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "手",
+  "stroke_count": 16,
+  "title": "擒"
+}

@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "雨水從屋簷向下流的樣子。",
+          "quote": [
+            "《說文解字．水部》：「濩，雨流霤下貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "煮。",
+          "link": [
+            "通「鑊」。"
+          ],
+          "quote": [
+            "《詩經．周南．葛覃》：「維葉莫莫，是刈是鑊。」",
+            "漢．毛亨．傳：「濩，煮之也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "huò"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "水",
+  "stroke_count": 17,
+  "title": "濩"
+}

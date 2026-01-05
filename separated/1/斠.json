@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "古代量穀物時，用器具畫除過滿的載量，使穀物與斗斛平齊。",
+          "example": [
+            "如：「斠斛」。"
+          ],
+          "quote": [
+            "《說文解字．斗部》：「斠，平斗斛量也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "校訂、校正。",
+          "example": [
+            "如：「斠訂」、「斠補」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jiào"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "斗",
+  "stroke_count": 14,
+  "title": "斠"
+}

@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄟˇ",
+      "definitions": [
+        {
+          "def": "敗壞、損毀。",
+          "quote": [
+            "唐．劉禹錫〈猶子蔚適越誡〉：「若知彝器乎！……苟措非其所，一有毫髮之傷，儡然與破甑為伍矣。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "清瘦、憔悴。",
+          "quote": [
+            "《文選．潘岳．寡婦賦》：「容貌儡以頓悴兮，左右悽其相慜。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "參見「傀儡」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "lěi"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "人",
+  "stroke_count": 17,
+  "title": "儡"
+}

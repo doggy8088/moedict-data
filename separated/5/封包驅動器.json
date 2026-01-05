@@ -1,0 +1,14 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄥ　ㄅㄠ　ㄑㄩ　ㄉㄨㄥˋ　ㄑㄧˋ",
+      "definitions": [
+        {
+          "def": "封包驅動程式（Packet Driver）就是介於 TCP 程式與網路卡之間的橋梁，以軟體中斷呼叫的方式提供一個標準的介面服務。"
+        }
+      ],
+      "pinyin": "fēng bāo qū dòng qì"
+    }
+  ],
+  "title": "封包驅動器"
+}

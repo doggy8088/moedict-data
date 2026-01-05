@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "到妓院狎玩娼妓。",
+          "example": [
+            "如：「嫖妓」、「吃喝嫖賭」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "piáo"
+    },
+    {
+      "bopomofo": "ㄆㄧㄠ",
+      "definitions": [
+        {
+          "def": "矯捷、輕捷。",
+          "example": [
+            "如：「嫖疾」。"
+          ],
+          "quote": [
+            "唐．李元紘〈綠墀怨〉詩：「征馬噪金珂，嫖姚向北河。  」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "piāo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "女",
+  "stroke_count": 14,
+  "title": "嫖"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄠˇ",
+      "definitions": [
+        {
+          "def": "母馬。",
+          "quote": [
+            "《玉篇．馬部》：「騲，牝馬也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "雌性牲畜的通稱。",
+          "example": [
+            "如：「騲驢」、「騲狗」。"
+          ],
+          "quote": [
+            "明．張自烈《正字通．馬部》：「騲，牝畜之通稱。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "cǎo"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "馬",
+  "stroke_count": 20,
+  "title": "騲"
+}

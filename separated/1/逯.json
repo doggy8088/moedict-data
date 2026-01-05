@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨˋ",
+      "definitions": [
+        {
+          "def": "走路謹慎的樣子。",
+          "quote": [
+            "《說文解字．辵部》：「逯，行謹逯逯也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "隨意的、無目的的。",
+          "quote": [
+            "《淮南子．精神》：「渾然而往，逯然而來。」",
+            "漢．高誘．注：「逯，謂無所為忽然往來也。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "姓。如漢代有逯並。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "lù"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "辵",
+  "stroke_count": 12,
+  "title": "逯"
+}

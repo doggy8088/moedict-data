@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢ",
+      "definitions": [
+        {
+          "def": "夾取。",
+          "example": [
+            "如：「用筷子搛菜。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jiān"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "手",
+  "stroke_count": 13,
+  "title": "搛"
+}

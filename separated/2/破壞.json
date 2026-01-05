@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄛˋ　ㄏㄨㄞˋ",
+      "definitions": [
+        {
+          "antonyms": "建設,修復,修理,維護,維持",
+          "def": "損害。",
+          "example": [
+            "如：「加熱，會破壞維他命Ｃ。」"
+          ],
+          "synonyms": "敗壞,毀壞,摧毀"
+        },
+        {
+          "def": "損毀。",
+          "example": [
+            "如：「這次任務是破壞敵人的工事。」"
+          ]
+        }
+      ],
+      "pinyin": "pò huài"
+    }
+  ],
+  "title": "破壞"
+}

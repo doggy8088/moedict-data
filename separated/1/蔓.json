@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄢˋ",
+      "definitions": [
+        {
+          "def": "植物細長而能攀繞他物的莖。",
+          "example": [
+            "如：「藤蔓」。"
+          ],
+          "quote": [
+            "唐．孟郊〈亂離〉詩：「直松摧高柯，弱蔓將何依？」",
+            "唐．柳宗元〈至小邱西小石潭記〉：「青樹翠蔓，蒙絡搖綴。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "延伸、滋長。",
+          "example": [
+            "如：「蔓延」。"
+          ],
+          "quote": [
+            "《左傳．隱公元年》：「無使滋蔓，蔓，難圖也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "màn"
+    },
+    {
+      "bopomofo": "ㄇㄢˊ",
+      "definitions": [
+        {
+          "def": "參見「蔓菁」條。"
+        }
+      ],
+      "pinyin": "mán"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "艸",
+  "stroke_count": 15,
+  "title": "蔓"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄞ",
+      "definitions": [
+        {
+          "def": "擦、抹。",
+          "example": [
+            "如：「揩汗」、「揩桌椅」。"
+          ],
+          "quote": [
+            "《五燈會元．卷一二．興化仁岳禪師》：「癩馬揩枯柳。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "撈取、榨取。",
+          "example": [
+            "如：「揩油」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kāi"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "手",
+  "stroke_count": 12,
+  "title": "揩"
+}

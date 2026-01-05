@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄚˇ",
+      "definitions": [
+        {
+          "def": "兩山之間。",
+          "quote": [
+            "《文選．左思．吳都賦》：「傾藪薄倒岬岫。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "地理學上指陸地向海突出的部分。",
+          "example": [
+            "如：「海岬」。"
+          ],
+          "link": [
+            "也稱為「角」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiǎ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "山",
+  "stroke_count": 8,
+  "title": "岬"
+}

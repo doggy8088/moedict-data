@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙˋ",
+      "definitions": [
+        {
+          "def": "等待。",
+          "example": [
+            "如：「俟機而動」。"
+          ],
+          "quote": [
+            "《詩經．邶風．靜女》：「靜女其姝，俟我於城隅。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sì"
+    },
+    {
+      "bopomofo": "ㄑㄧˊ",
+      "definitions": [
+        {
+          "def": "參見「万俟」條。"
+        }
+      ],
+      "pinyin": "qí"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "人",
+  "stroke_count": 9,
+  "title": "俟"
+}

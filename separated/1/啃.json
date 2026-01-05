@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄣˇ",
+      "definitions": [
+        {
+          "def": "咬。",
+          "example": [
+            "如：「啃骨頭」、「啃甘蔗」、「啃玉米」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "比喻勤勉讀書。",
+          "example": [
+            "如：「啃書本」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kěn"
+    },
+    {
+      "bopomofo": "ㄎㄣˋ",
+      "definitions": [
+        {
+          "def": "俗稱吃為「啃」。",
+          "example": [
+            "如：「他可以一口氣連啃好幾個山東大饅頭。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kèn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "口",
+  "stroke_count": 11,
+  "title": "啃"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄛ　ㄔㄨㄢ",
+      "definitions": [
+        {
+          "def": "刺穿。",
+          "example": [
+            "如：「新衣服被戳穿了一個洞。」"
+          ]
+        },
+        {
+          "antonyms": "隱瞞",
+          "def": "說破、揭開。",
+          "example": [
+            "如：「戳穿謊言」。"
+          ],
+          "synonyms": "揭破,揭發,揭露,揭穿"
+        }
+      ],
+      "pinyin": "chuō chuān"
+    }
+  ],
+  "title": "戳穿"
+}

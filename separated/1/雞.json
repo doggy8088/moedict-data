@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧ",
+      "definitions": [
+        {
+          "def": "動物名。鳥綱雞形目。常見家禽，品種很多。嘴短，上嘴稍彎曲。頭部有紅色肉冠，雄雞較大。翅短，飛行能力不佳。",
+          "example": [
+            "如：「母雞」、「土雞」、「來亨雞」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jī"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "隹",
+  "stroke_count": 18,
+  "title": "雞"
+}

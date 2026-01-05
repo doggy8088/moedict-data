@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄢˇ　ㄓㄜˊ",
+      "definitions": [
+        {
+          "def": "轉向、改變。",
+          "example": [
+            "如：「語氣一轉折，意思就不一樣。」"
+          ],
+          "synonyms": "轉變"
+        },
+        {
+          "antonyms": "順暢",
+          "def": "曲折。",
+          "example": [
+            "如：「這齣連續劇情節轉折多變，結局出人意外。」"
+          ]
+        }
+      ],
+      "pinyin": "zhuǎn zhé"
+    }
+  ],
+  "title": "轉折"
+}

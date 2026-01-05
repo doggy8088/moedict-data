@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「洗」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄕㄥˇ",
+      "definitions": [
+        {
+          "def": "𠗌冼：寒冷的樣子。",
+          "quote": [
+            "《集韻．上聲．拯韻》：「冼，𠗌冼，寒貌。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "shěng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "冫",
+  "stroke_count": 8,
+  "title": "冼"
+}

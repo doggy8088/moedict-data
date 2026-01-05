@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧˊ　ㄕㄣˊ",
+      "definitions": [
+        {
+          "def": "振作精神。",
+          "example": [
+            "如：「喝杯茶、洗個熱水澡，有助於提神。」"
+          ]
+        },
+        {
+          "antonyms": "失神",
+          "def": "留意。",
+          "example": [
+            "如：「開車要小心提神，以免出意外。」"
+          ],
+          "synonyms": "留神,注意"
+        }
+      ],
+      "pinyin": "tí shén"
+    }
+  ],
+  "title": "提神"
+}

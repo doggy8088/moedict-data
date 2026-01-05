@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "恐懼、害怕。",
+          "quote": [
+            "《文選．潘岳．笙賦》：「晉野悚而投琴，況齊瑟與秦箏。」",
+            "《紅樓夢．第三三回》：「賈政見他惶悚，應對不似往日。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sǒng"
+    },
+    {
+      "bopomofo": "ㄙㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "怯懦、軟弱。",
+          "example": [
+            "如：「這小子真悚！」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "sóng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "悚"
+}

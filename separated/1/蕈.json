@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄣˋ",
+      "definitions": [
+        {
+          "def": "一種寄生在木上的隱花植物。種類很多，多成傘形。顏色鮮豔的蕈類通常含有劇毒，無毒的則鮮美可食。如松蕈、香蕈等。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "xùn"
+    },
+    {
+      "bopomofo": "（又音）ㄒㄧㄣˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）xìn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "艸",
+  "stroke_count": 16,
+  "title": "蕈"
+}

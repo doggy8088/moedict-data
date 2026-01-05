@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧˊ",
+      "definitions": [
+        {
+          "def": "一種遊戲。有棋盤、棋子，下棋者依規則移動棋子，以定勝負。有跳棋、圍棋、象棋、五子棋、西洋棋等多種玩法。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qí"
+    },
+    {
+      "bopomofo": "ㄐㄧ",
+      "definitions": [
+        {
+          "def": "根底、根基。",
+          "link": [
+            "通「基」。"
+          ],
+          "quote": [
+            "《集韻．平聲．之韻》：「棋，根柢也。」",
+            "《史記．卷二五．律書》：「箕者，言萬物根棋，故曰箕。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jī"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "木",
+  "stroke_count": 12,
+  "title": "棋"
+}

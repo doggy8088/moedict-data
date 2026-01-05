@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄓˊ",
+      "definitions": [
+        {
+          "def": "動物入冬藏伏土中，不飲不食，稱為「蟄」。",
+          "quote": [
+            "晉．干寶《搜神記．卷一二》：「蟲土閉而蟄，魚淵潛而處。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "隱藏潛伏。",
+          "quote": [
+            "民國．孫文〈黃花岡烈士事略序〉：「久蟄之人心，乃大興奮。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "（讀音）zhí"
+    },
+    {
+      "bopomofo": "（語音）ㄓㄜˊ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）zhé"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "虫",
+  "stroke_count": 17,
+  "title": "蟄"
+}

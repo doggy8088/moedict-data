@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄞˊ",
+      "definitions": [
+        {
+          "def": "埋藏。",
+          "link": [
+            "同「埋」。"
+          ],
+          "quote": [
+            "《漢書．卷三六．楚元王劉交傳》：「又多殺宮人，生薶工匠，計以  萬數。」",
+            "北周．庾信〈小園賦〉：「鎮宅神以薶石，厭山精而照鏡。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mái"
+    },
+    {
+      "bopomofo": "ㄨㄛ",
+      "definitions": [
+        {
+          "def": "沾汙、弄髒。",
+          "quote": [
+            "《淮南子．俶真》：「夫鑑明者，塵垢弗能薶。神清者，嗜欲弗能亂。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "wō"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "艸",
+  "stroke_count": 18,
+  "title": "薶"
+}

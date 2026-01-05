@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄥ",
+      "definitions": [
+        {
+          "def": "古代諸侯或大官死亡稱為「薨」。",
+          "quote": [
+            "《禮記．曲禮下》：「天子死曰崩，諸侯曰薨。」",
+            "《漢書．卷八一．孔光傳》：「及霸薨，上素服臨弔者再。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hōng"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "艸",
+  "stroke_count": 17,
+  "title": "薨"
+}

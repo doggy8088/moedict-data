@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄡˇ",
+      "definitions": [
+        {
+          "def": "青黑色的。",
+          "example": [
+            "如：「黝黑」。"
+          ],
+          "quote": [
+            "《說文解字．黑部》：「黝，微青黑色。」",
+            "漢．王充《論衡．自紀》：「使面黝而黑醜，垢重襲而覆部，占射之者，十而失九。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yǒu"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "黑",
+  "stroke_count": 17,
+  "title": "黝"
+}

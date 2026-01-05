@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨˋ",
+      "definitions": [
+        {
+          "def": "空氣中接近地面的水蒸氣，因遇冷凝結成小水滴或冰晶，而漂浮在地表的一種現象。能見度低於一公里。",
+          "example": [
+            "如：「霧太濃了，幾乎伸手不見五指。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "wù"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "雨",
+  "stroke_count": 19,
+  "title": "霧"
+}

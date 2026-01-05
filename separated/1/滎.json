@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "古代的沼澤名稱。漢朝時已堙塞為平地，約在今大陸地區河南省滎澤縣治南。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "xíng"
+    },
+    {
+      "bopomofo": "ㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "參見「滎經縣」條。"
+        }
+      ],
+      "pinyin": "yíng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "水",
+  "stroke_count": 14,
+  "title": "滎"
+}

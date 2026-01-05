@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄣˇ",
+      "definitions": [
+        {
+          "def": "凶狠剛戾。",
+          "quote": [
+            "《韓非子．亡徵》：「佷剛而不和，愎諫而好勝。」",
+            "《新唐書．卷九八．韋挺傳》：「周言挺佷于自用，非宰相器。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "hěn"
+    },
+    {
+      "bopomofo": "ㄏㄥˊ",
+      "definitions": [
+        {
+          "def": "地名用字：(1) 如大陸地區湖北省長陽縣西北的佷山。(2) 如漢朝時的佷山縣，屬武陵郡，位於現今大陸地區湖北省長陽縣東。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "héng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "佷"
+}

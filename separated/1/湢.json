@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧˋ",
+      "definitions": [
+        {
+          "def": "浴室。",
+          "quote": [
+            "《禮記．內則》：「外內不共井，不共湢浴。」",
+            "漢．鄭玄．注：「湢，浴室也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "整肅。參見「湢然」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "bì"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "水",
+  "stroke_count": 12,
+  "title": "湢"
+}

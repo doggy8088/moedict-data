@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨˋ",
+      "definitions": [
+        {
+          "def": "推己及人之道。",
+          "quote": [
+            "《論語．衛靈公》：「其恕乎！己所不欲，勿施於人。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "寬宥、原諒。",
+          "example": [
+            "如：「饒恕」、「寬恕」。"
+          ],
+          "quote": [
+            "《水滸傳．第一三回》：「如無紅葉，便是汝等虛妄，官府定行責罰不恕。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shù"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "恕"
+}

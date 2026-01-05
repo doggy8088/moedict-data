@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˋ　ㄋㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "記載年代。",
+          "example": [
+            "如：「我國在過去是以干支紀年的。」"
+          ]
+        },
+        {
+          "def": "依年代先後為記載綱領的編史方法。",
+          "example": [
+            "如：「竹書紀年」。"
+          ],
+          "synonyms": "編年"
+        }
+      ],
+      "pinyin": "jì nián"
+    }
+  ],
+  "title": "紀年"
+}

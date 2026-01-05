@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧˋ",
+      "definitions": [
+        {
+          "def": "休息。",
+          "example": [
+            "如：「休憩」、「小憩」。"
+          ],
+          "quote": [
+            "晉．陶淵明〈閑情賦〉：「坦萬慮以存誠，憩遙情于八遐。」",
+            "唐．李白〈下終南山過斛斯山人宿置酒〉詩：「歡言得所憩，美酒聊共揮。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qì"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "心",
+  "stroke_count": 16,
+  "title": "憩"
+}

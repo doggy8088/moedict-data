@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨㄛ",
+      "definitions": [
+        {
+          "def": "參見「婆娑」條。",
+          "type": "形"
+        },
+        {
+          "def": "用於句中，無義。猶「個」。",
+          "quote": [
+            "南朝宋．劉義慶《世說新語．雅量》：「下官家故可有兩娑千萬，隨公所取。」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "suō"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "女",
+  "stroke_count": 10,
+  "title": "娑"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄥˋ",
+      "definitions": [
+        {
+          "def": "邊緣。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷二下．釋詁》：「絎，緣也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用針線粗針直縫，使布料固定。",
+          "quote": [
+            "《廣韻．去聲．映韻》：「絎，刺縫。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hèng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "糸",
+  "stroke_count": 12,
+  "title": "絎"
+}

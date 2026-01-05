@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄤˊ",
+      "definitions": [
+        {
+          "def": "古代下身穿的衣服稱為「裳」。即裙子。",
+          "quote": [
+            "《詩經．邶風．綠衣》：「綠兮衣兮，綠衣黃裳。」",
+            "漢．毛亨．傳：「上曰衣，下曰裳。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "cháng"
+    },
+    {
+      "bopomofo": "（又音）ㄕㄤ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）shāng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "衣",
+  "stroke_count": 14,
+  "title": "裳"
+}

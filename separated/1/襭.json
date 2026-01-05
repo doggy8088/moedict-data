@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "用衣服的下襬兜圍東西。",
+          "quote": [
+            "《廣韻．入聲．屑韻》：「襭，以衣衽盛物也。」",
+            "《詩經．周南．芣苢》：「采采芣苢，薄言襭之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xié"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "衣",
+  "stroke_count": 21,
+  "title": "襭"
+}

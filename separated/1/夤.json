@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "攀附求進。參見「夤緣」條。",
+          "type": "動"
+        },
+        {
+          "def": "敬惕。",
+          "link": [
+            "通「寅」。"
+          ],
+          "quote": [
+            "《漢書．卷一○○．敘傳下》：「中宗明明，夤用刑名。」",
+            "《北史．卷三九．房法壽傳》：「夤畏照臨，亦宜謹肅。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "深。",
+          "example": [
+            "如：「夤夜」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yín"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "夕",
+  "stroke_count": 14,
+  "title": "夤"
+}

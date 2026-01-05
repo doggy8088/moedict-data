@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄔㄨㄞˋ",
+      "definitions": [
+        {
+          "def": "叮、咬。",
+          "quote": [
+            "明．張自烈《正字通．口部》：「嘬，齧也。」",
+            "《孟子．滕文公上》：「狐狸食之，蠅蚋姑嘬之。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「嘬炙」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "（讀音）chuài"
+    },
+    {
+      "bopomofo": "（語音）ㄗㄨㄛ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）zuō"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "口",
+  "stroke_count": 15,
+  "title": "嘬"
+}

@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "閉塞、封閉。",
+          "quote": [
+            "《說文解字．攴部》：「敜，塞也。」",
+            "《書經．費誓》：「敜乃阱，無敢傷牿。」",
+            "漢．孔安國．傳：「阱，穿地陷獸，當以土室敜之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "niè"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "攴",
+  "stroke_count": 12,
+  "title": "敜"
+}

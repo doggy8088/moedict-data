@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄤ",
+      "definitions": [
+        {
+          "def": "水湧出的樣子。",
+          "example": [
+            "如：「滂湃」、「滂沱」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "湧流。",
+          "quote": [
+            "宋．蘇軾〈贈寫御容妙善師〉詩：「幅巾常服儼不動，孤臣入門涕自滂。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pāng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "水",
+  "stroke_count": 13,
+  "title": "滂"
+}

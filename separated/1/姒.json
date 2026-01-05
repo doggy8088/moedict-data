@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙˋ",
+      "definitions": [
+        {
+          "def": "古代眾妾同事一夫，少婦稱長婦為「姒」。",
+          "quote": [
+            "《爾雅．釋親》：「女子同出，謂先生為姒，後生為娣。」",
+            "晉．郭璞．注：「同出謂俱嫁事一夫。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「姒娣」條。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如元代有姒庸道。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "sì"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "女",
+  "stroke_count": 8,
+  "title": "姒"
+}

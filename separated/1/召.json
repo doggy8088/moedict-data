@@ -1,0 +1,48 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄠˋ",
+      "definitions": [
+        {
+          "def": "呼喚，特指上對下的呼喚。",
+          "example": [
+            "如：「召喚」、「召集」。"
+          ],
+          "quote": [
+            "《左傳．僖公三十二年》：「召 孟明、西乞、白乙，使出師於東門之外。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "招致、引來。",
+          "example": [
+            "如：「召禍」。"
+          ],
+          "quote": [
+            "《書經．微子》：「降監殷民，用乂讎斂，召敵讎不怠。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhào"
+    },
+    {
+      "bopomofo": "ㄕㄠˋ",
+      "definitions": [
+        {
+          "def": "國名。周畿內國，故址約在今大陸地區陝西省岐山縣西南。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有召平。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shào"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "口",
+  "stroke_count": 5,
+  "title": "召"
+}

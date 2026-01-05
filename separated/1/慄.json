@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˋ",
+      "definitions": [
+        {
+          "def": "因恐懼而發抖。",
+          "example": [
+            "如：「戰慄」、「不寒而慄」。"
+          ],
+          "quote": [
+            "《詩經．秦風．黃鳥》：「臨其穴，惴惴其慄。」",
+            "唐．孟郊〈石淙〉詩十首之八：「古駭毛髮慄，險驚視聽乖。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lì"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "心",
+  "stroke_count": 13,
+  "title": "慄"
+}

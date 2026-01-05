@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄤˋ",
+      "definitions": [
+        {
+          "def": "一種草。",
+          "quote": [
+            "《爾雅．釋草》：「蒡，隱荵。」",
+            "晉．郭璞．注：「似蘇有毛，今江東呼為隱荵，藏以為葅，亦可瀹食。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「牛蒡」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "bàng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "艸",
+  "stroke_count": 14,
+  "title": "蒡"
+}

@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨˊ",
+      "definitions": [
+        {
+          "def": "動物名。鳥綱雁形目。體形似雁而較大，頸長，腳短。行走不便，但在水中能迅速划行，姿態優雅。能高飛，且鳴聲洪亮。",
+          "link": [
+            "俗稱為「天鵝」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "比喻像鵠般伸長頸子的樣子。",
+          "example": [
+            "如：「鵠立」、「鵠候」、「鵠望」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "hú"
+    },
+    {
+      "bopomofo": "ㄍㄨˇ",
+      "definitions": [
+        {
+          "def": "箭靶的中心目標。",
+          "example": [
+            "如：「鵠的」、「中鵠」。"
+          ],
+          "quote": [
+            "《禮記．射義》：「故射者各射己之鵠。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǔ"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "鳥",
+  "stroke_count": 18,
+  "title": "鵠"
+}

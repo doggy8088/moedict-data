@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧ",
+      "definitions": [
+        {
+          "def": "拱手行禮。",
+          "example": [
+            "如：「揖讓」、「一揖到底」、「長揖不拜」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yī"
+    },
+    {
+      "bopomofo": "ㄐㄧˊ",
+      "definitions": [
+        {
+          "def": "聚合。",
+          "link": [
+            "通「輯」。"
+          ],
+          "quote": [
+            "《史記．卷六．秦始皇本紀》：「普天之下，摶心揖志。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jí"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "手",
+  "stroke_count": 12,
+  "title": "揖"
+}

@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄤˇ　ㄈㄨˋ",
+      "definitions": [
+        {
+          "def": "稱謂。稱非親生而經由拜認的父親。",
+          "quote": [
+            "《新五代史．卷一四．唐太祖家人傳．神閔敬皇后劉氏傳》：「酒酣，命后拜全義為養父。」"
+          ],
+          "synonyms": "乾爹,寄父"
+        }
+      ],
+      "pinyin": "yǎng fù"
+    },
+    {
+      "bopomofo": "ㄧㄤˋ　ㄈㄨˋ",
+      "definitions": [
+        {
+          "def": "奉養父親。"
+        }
+      ],
+      "pinyin": "yàng fù"
+    }
+  ],
+  "title": "養父"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄢˋ",
+      "definitions": [
+        {
+          "def": "廣大無邊際。",
+          "example": [
+            "如：「浩瀚」。"
+          ],
+          "quote": [
+            "《淮南子．俶貞》：「有無者，視之不見其形，聽之不聞其聲……浩浩瀚瀚，不可隱儀揆度而通光耀者。」",
+            "漢．高誘．注：「浩浩瀚瀚，廣大貌也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "參見「瀚海」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "hàn"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "水",
+  "stroke_count": 19,
+  "title": "瀚"
+}

@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄟ",
+      "definitions": [
+        {
+          "def": "參見「椑柿」條。"
+        }
+      ],
+      "pinyin": "bēi"
+    },
+    {
+      "bopomofo": "ㄆㄧˊ",
+      "definitions": [
+        {
+          "def": "橢圓形的盛酒器。",
+          "quote": [
+            "《說文解字．木部》：「椑，圜榼也。」",
+            "《漢書．卷六一．張騫傳》「以其頭 為飲器」句下唐．顏師古．注：「椑榼，即今之偏榼，所以盛酒耳，非用飲者也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "斧柄。",
+          "quote": [
+            "《玉篇．木部》：「椑，齊人謂斧柯為椑。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pí"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "木",
+  "stroke_count": 12,
+  "title": "椑"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗˋ",
+      "definitions": [
+        {
+          "def": "母牛。",
+          "quote": [
+            "《玉篇．牛部》：「牸，母牛也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "雌性牲畜的總稱。",
+          "quote": [
+            "《齊民要術．卷六．養牛馬驢騾》：「子欲速富，當畜五牸。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "牛",
+  "stroke_count": 10,
+  "title": "牸"
+}

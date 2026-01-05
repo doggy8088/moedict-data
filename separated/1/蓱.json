@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "同「萍」。",
+          "type": "名"
+        },
+        {
+          "def": "一種蒿類植物。",
+          "link": [
+            "通「苹」。"
+          ],
+          "quote": [
+            "南朝宋．謝靈運〈擬魏太子鄴中集〉詩八首之七：「自從食蓱來，唯見今日美。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "雨神屏翳的簡稱。",
+          "quote": [
+            "《楚辭．屈原．天問》：「蓱號起雨，何以興之？」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "píng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "艸",
+  "stroke_count": 13,
+  "title": "蓱"
+}

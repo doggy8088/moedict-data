@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄤˊ",
+      "definitions": [
+        {
+          "def": "廣大、模糊不明。",
+          "example": [
+            "如：「渺茫」、「人海茫茫」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "悵然無所知的樣子。",
+          "example": [
+            "如：「茫然」。"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "全然。",
+          "example": [
+            "如：「茫無頭緒」、「茫無所知」。"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "姓。如宋代有茫端臣。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "máng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "艸",
+  "stroke_count": 10,
+  "title": "茫"
+}

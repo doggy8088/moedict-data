@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄠ",
+      "definitions": [
+        {
+          "def": "抬起、舉起。",
+          "example": [
+            "如：「蹺腳」、「蹺起大拇指稱讚。」"
+          ],
+          "quote": [
+            "《紅樓夢．第九九回》：「李十兒坐在椅子上，蹺著一隻腿。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "死。",
+          "example": [
+            "如：「蹺了」、「蹺辮子」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "一種在傳統戲劇、舞蹈中供表演者綁在腳上使用的木製道具。",
+          "example": [
+            "如：「蹺工」、「踩高蹺」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiāo"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "足",
+  "stroke_count": 19,
+  "title": "蹺"
+}

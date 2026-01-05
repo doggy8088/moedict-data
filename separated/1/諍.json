@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄥ",
+      "definitions": [
+        {
+          "def": "以直言糾正、規勸。",
+          "example": [
+            "如：「諫諍」、「力諍」。"
+          ],
+          "quote": [
+            "《新唐書．卷一六四．崔玄亮傳》：「玄亮率諫官叩延英苦諍，反復數百言。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "競爭、爭執。",
+          "quote": [
+            "《戰國策．秦策二》：「有兩虎諍人而鬥者，管莊子將刺之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhēng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "言",
+  "stroke_count": 15,
+  "title": "諍"
+}

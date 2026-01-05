@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄤ　ㄔㄥ",
+      "definitions": [
+        {
+          "def": "互相稱呼。",
+          "example": [
+            "如：「董卓、呂布兩人原以父子相稱。」"
+          ]
+        }
+      ],
+      "pinyin": "xiāng chēng"
+    },
+    {
+      "bopomofo": "ㄒㄧㄤ　ㄔㄥˋ",
+      "definitions": [
+        {
+          "def": "雙方配合起來，顯得很合適。",
+          "quote": [
+            "《儒林外史．第一一回》：「門戶又相稱，才貌又相當。真個是『才子佳人，一雙兩好！』」"
+          ],
+          "synonyms": "相配,相當"
+        }
+      ],
+      "pinyin": "xiāng chèng"
+    }
+  ],
+  "title": "相稱"
+}

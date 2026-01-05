@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄟˊ",
+      "definitions": [
+        {
+          "def": "人的前額與上眼瞼連接處，橫形高超生有細毛的部分。",
+          "example": [
+            "如：「眉毛」、「八字眉」、「橫眉豎眼」、「舉案齊眉」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛稱上端為「眉」。",
+          "example": [
+            "如：「書眉」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如春秋時代有眉間尺。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "méi"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "目",
+  "stroke_count": 9,
+  "title": "眉"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄟˋ",
+      "definitions": [
+        {
+          "def": "中風癱瘓的疾病。",
+          "quote": [
+            "《漢書．卷五二．灌夫傳》：「嬰兒良久乃聞有劾，即陽病痱，不食欲死。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "夏季皮膚上因熱而生令人發癢的小疹子。",
+          "link": [
+            "也稱為「痱子」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fèi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "疒",
+  "stroke_count": 13,
+  "title": "痱"
+}

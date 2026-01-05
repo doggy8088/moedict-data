@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄥˋ",
+      "definitions": [
+        {
+          "def": "斧頭上裝柄的部分。",
+          "quote": [
+            "《集韻．去聲．送韻》：「銃，斧穿也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "武器名。舊式的一種槍械火器。",
+          "example": [
+            "如：「鳥銃」。"
+          ],
+          "quote": [
+            "《元史．卷一四五．達禮麻識理傳》：「糾集丁壯苗軍，火銃什伍相聯。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chòng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "金",
+  "stroke_count": 13,
+  "title": "銃"
+}

@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "臉部變色。",
+          "example": [
+            "如：「孛然大怒」。"
+          ],
+          "link": [
+            "同「勃」。"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "置於名詞前。如：「孛老」（為元劇中的年老男性）。",
+          "type": "綴"
+        }
+      ],
+      "pinyin": "bó"
+    },
+    {
+      "bopomofo": "ㄅㄟˋ",
+      "definitions": [
+        {
+          "def": "星名。即彗星。",
+          "quote": [
+            "《公羊傳．昭公十七年》：「冬，有星孛于大辰。孛者何？彗星也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bèi"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "子",
+  "stroke_count": 7,
+  "title": "孛"
+}

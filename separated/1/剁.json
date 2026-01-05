@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "用刀斬、切。",
+          "example": [
+            "如：「剁肉」、「剁餃子餡」。"
+          ],
+          "quote": [
+            "《聊齋志異．卷一．妖術》：「鬼益怒，吼如雷，轉身復剁。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "duò"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "刀",
+  "stroke_count": 8,
+  "title": "剁"
+}

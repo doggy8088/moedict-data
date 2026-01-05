@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "一種天然的青色染料，用藍草的葉子浸水加石灰沉殿而成。",
+          "link": [
+            "也稱為「靛青」、「藍靛」、「藍澱」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "藍色與紫色混合而成的顏色。",
+          "example": [
+            "如：「彩虹有紅、橙、黃、綠、藍、靛、紫七個顏色。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "diàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "青",
+  "stroke_count": 16,
+  "title": "靛"
+}

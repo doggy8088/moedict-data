@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄟ",
+      "definitions": [
+        {
+          "def": "一堆山丘。",
+          "quote": [
+            "《爾雅．釋山》：「山：三襲，陟；再成，英；一成，坯。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "未經燒煉的磚瓦陶器。本作「坏」。",
+          "example": [
+            "如：「陶坯」、「瓦坯」、「壞坯」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pēi"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄧ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）pī"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "土",
+  "stroke_count": 8,
+  "title": "坯"
+}

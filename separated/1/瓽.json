@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄤˋ",
+      "definitions": [
+        {
+          "def": "大盆。",
+          "quote": [
+            "《說文解字．瓦部》：「瓽，大盆也。」",
+            "《廣韻．去聲．宕韻》：「瓽，大甕。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "以磚砌成的井壁。",
+          "quote": [
+            "《漢書．卷九二．游俠傳．陳遵傳》：「一旦叀礙，為瓽所轠，身提黃泉，骨肉為泥。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dàng"
+    },
+    {
+      "bopomofo": "（又音）ㄉㄤˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）dǎng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "瓦",
+  "stroke_count": 13,
+  "title": "瓽"
+}

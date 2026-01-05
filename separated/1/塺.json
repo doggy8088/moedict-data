@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄟˊ",
+      "definitions": [
+        {
+          "def": "細塵。",
+          "quote": [
+            "《楚辭．劉向．九歎．惜賢》：「俟時風之清激兮，愈氛霧其如塺。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "méi"
+    },
+    {
+      "bopomofo": "（又音）ㄇㄛˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）mò"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "土",
+  "stroke_count": 14,
+  "title": "塺"
+}

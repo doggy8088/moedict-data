@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "把酒喝完。即乾杯。",
+          "quote": [
+            "《禮記．曲禮上》：「長者舉未釂，少者不敢飲。」",
+            "《聊齋志異．卷一．勞山道士》：「競飲先釂，惟恐樽盡。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jiào"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "酉",
+  "stroke_count": 24,
+  "title": "釂"
+}

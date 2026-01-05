@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄚˊ",
+      "definitions": [
+        {
+          "def": "傳說中造成旱災的鬼神。",
+          "quote": [
+            "《說文解字．鬼部》：「魃，旱鬼也。」",
+            "《詩經．大雅．雲漢》：「旱魃為虐，如惔如焚。」",
+            "漢．毛亨．傳：「魃，旱神也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bá"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "鬼",
+  "stroke_count": 15,
+  "title": "魃"
+}

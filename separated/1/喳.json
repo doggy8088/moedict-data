@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄚ",
+      "definitions": [
+        {
+          "def": "滿州語。為清朝時在下位者對主上的應答聲，相當於國語的「是」、「在」等。",
+          "type": "歎"
+        },
+        {
+          "def": "參見「喳喳」條。",
+          "type": "狀"
+        }
+      ],
+      "pinyin": "zhā"
+    },
+    {
+      "bopomofo": "ㄔㄚ",
+      "definitions": [
+        {
+          "def": "參見「喳喳」條。"
+        }
+      ],
+      "pinyin": "chā"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "口",
+  "stroke_count": 12,
+  "title": "喳"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄚ　˙ㄗ",
+      "definitions": [
+        {
+          "def": "碎屑的物品。",
+          "example": [
+            "如：「甘蔗渣子」。"
+          ],
+          "quote": [
+            "《紅樓夢．第六三回》：「賈蓉又和二姨搶砂仁吃。尤二姐嚼了一嘴渣子，吐了他一臉。」"
+          ]
+        }
+      ],
+      "pinyin": "zhā zi"
+    },
+    {
+      "bopomofo": "ㄓㄚˇ　˙ㄗ",
+      "definitions": [
+        {
+          "def": "自煤渣中篩出的塊狀煤。也作「砟子」。"
+        }
+      ],
+      "pinyin": "zhǎ zi"
+    }
+  ],
+  "title": "渣子"
+}

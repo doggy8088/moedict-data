@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄜ",
+      "definitions": [
+        {
+          "def": "嘮叼。參見「嘚啵」條。",
+          "type": "動"
+        },
+        {
+          "def": "形容馬蹄踏地的聲音。",
+          "example": [
+            "如：「嘚！嘚！嘚！遠方響起陣陣的馬蹄聲。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "趕驢、騾等牲口前進的吆喝聲。",
+          "example": [
+            "如：「王老頭往驢屁股一揮鞭，叫道：『嘚──走！』」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "dē"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "口",
+  "stroke_count": 14,
+  "title": "嘚"
+}

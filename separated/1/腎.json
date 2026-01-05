@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄣˋ",
+      "definitions": [
+        {
+          "def": "人體的內臟之一。位於腰部，在脊柱的兩側，左右對稱排列呈蠶豆狀；有分析血液中的廢料為尿液的功能，是人體中主要的排泄器官之一。",
+          "link": [
+            "也稱為「腎臟」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shèn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "肉",
+  "stroke_count": 12,
+  "title": "腎"
+}

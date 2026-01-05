@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄥˇ",
+      "definitions": [
+        {
+          "def": "頭長而直的樣子。",
+          "quote": [
+            "《說文解字．頁部》：「頲，狹頭頲也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "直的。",
+          "quote": [
+            "《爾雅．釋詁下》：「頲，直也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "tǐng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "頁",
+  "stroke_count": 16,
+  "title": "頲"
+}

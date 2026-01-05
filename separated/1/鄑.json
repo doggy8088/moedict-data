@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄣˋ",
+      "definitions": [
+        {
+          "def": "地名：(1)春秋時魯、宋交界的地方。約位於今大陸地區山東省濟寧縣境。《說文解字．邑部》：「鄑，宋、魯閒地。」(2) 春秋時紀國邑城。約位於今大陸地區山東省昌邑縣境。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jìn"
+    },
+    {
+      "bopomofo": "（又音）ㄗ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）zī"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "邑",
+  "stroke_count": 13,
+  "title": "鄑"
+}

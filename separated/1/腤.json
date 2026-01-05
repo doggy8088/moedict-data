@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄢ",
+      "definitions": [
+        {
+          "def": "以鹽、豉、蔥等與肉類一起烹煮。",
+          "example": [
+            "如：「腤雞」、「腤魚」。"
+          ],
+          "quote": [
+            "《玉篇．肉部》：「腤，煮魚肉。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「腤{[91c9]}」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "ān"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "肉",
+  "stroke_count": 13,
+  "title": "腤"
+}

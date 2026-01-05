@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄚˋ",
+      "definitions": [
+        {
+          "def": "女子結婚。",
+          "example": [
+            "如：「出嫁」、「婚嫁」。"
+          ],
+          "quote": [
+            "唐．張籍〈節婦吟寄東平李司空師道〉詩：「還君明珠雙淚垂，何不相逢未嫁時。」",
+            "唐．白居易〈琵琶行〉：「門前冷落鞍馬稀，老大嫁作商人婦。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "推惡於人。",
+          "example": [
+            "如：「嫁禍」、「嫁怨」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jià"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "女",
+  "stroke_count": 13,
+  "title": "嫁"
+}

@@ -1,0 +1,14 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄢˋ　ㄌㄧㄢˊ　ㄉㄧㄢˋ　ㄗㄨˇ",
+      "definitions": [
+        {
+          "def": "電阻一個接一個的串接在一起，其總電阻值等於各個電阻值的總和。"
+        }
+      ],
+      "pinyin": "chuàn lián diàn zǔ"
+    }
+  ],
+  "title": "串聯電阻"
+}

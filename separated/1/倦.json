@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄢˋ",
+      "definitions": [
+        {
+          "def": "疲憊、懈怠。",
+          "example": [
+            "如：「疲倦」、「倦怠」、「孜孜不倦」、「倦鳥歸巢」。"
+          ],
+          "quote": [
+            "宋．蘇軾〈永遇樂．明月如霜〉詞：「天涯倦客，山中歸路，望斷故園心眼。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "厭惡。",
+          "quote": [
+            "《易經．繫辭下》：「通其變，使民不倦。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "juàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "倦"
+}

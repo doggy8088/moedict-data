@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "挑剔、挑撥。",
+          "link": [
+            "通「抉」。"
+          ],
+          "quote": [
+            "《漢書．卷七七．孫寶傳》：「馮氏反事明白，故欲擿觖以揚我惡。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "不滿意。",
+          "quote": [
+            "《淮南子．繆稱》：「后稷廣利天下，猶不自矜，禹無廢功無蔽財，自視猶觖如也。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "jué"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "角",
+  "stroke_count": 11,
+  "title": "觖"
+}

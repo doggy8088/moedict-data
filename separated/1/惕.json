@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧˋ",
+      "definitions": [
+        {
+          "def": "小心謹慎，隨時警覺。",
+          "example": [
+            "如：「警惕」。"
+          ],
+          "quote": [
+            "《易經．乾卦．九三》：「君子終日乾乾，夕惕若厲。」",
+            "《文選．潘岳．悼亡詩三首之一》：「悵怳如或存，周遑忡驚惕。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tì"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "心",
+  "stroke_count": 11,
+  "title": "惕"
+}

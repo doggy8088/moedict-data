@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄣˊ",
+      "definitions": [
+        {
+          "def": "選擇。",
+          "quote": [
+            "《說文解字．手部》：「掄，擇也。」",
+            "《國語．晉語八》：「君掄賢人之後，有常位於國者而立之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lún"
+    },
+    {
+      "bopomofo": "ㄌㄨㄣ",
+      "definitions": [
+        {
+          "def": "揮動、旋動。",
+          "example": [
+            "如：「掄刀」、「掄拳」。"
+          ],
+          "quote": [
+            "《兒女英雄傳．第十六回》：「鄧九公聽了，掄起大巴掌來，把桌子拍的山響。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lūn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "手",
+  "stroke_count": 11,
+  "title": "掄"
+}

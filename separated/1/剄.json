@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄥˇ",
+      "definitions": [
+        {
+          "def": "用刀割頸。",
+          "quote": [
+            "《玉篇．刀部》：「剄，以刀割頸也。」",
+            "《史記．卷七．項羽本紀》：「大司馬咎、長史翳、塞王欣皆自剄汜水上。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jǐng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "刀",
+  "stroke_count": 9,
+  "title": "剄"
+}

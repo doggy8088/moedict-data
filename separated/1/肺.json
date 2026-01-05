@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄟˋ",
+      "definitions": [
+        {
+          "def": "動物呼吸器官之一，位於胸腔，分左右兩扇，左二葉，右三葉。",
+          "link": [
+            "也稱為「肺臟」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fèi"
+    },
+    {
+      "bopomofo": "ㄆㄟˋ",
+      "definitions": [
+        {
+          "def": "參見「肺肺」條。"
+        }
+      ],
+      "pinyin": "pèi"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "肉",
+  "stroke_count": 8,
+  "title": "肺"
+}

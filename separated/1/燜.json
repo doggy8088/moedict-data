@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄣˋ",
+      "definitions": [
+        {
+          "def": "一種烹飪方法。緊蓋鍋蓋，用鍋內的蒸氣和溫度將食物煮熟或燉爛。",
+          "example": [
+            "如：「燜菜」、「燜肉」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mèn"
+    },
+    {
+      "bopomofo": "（又音）ㄇㄣ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）mēn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "火",
+  "stroke_count": 16,
+  "title": "燜"
+}

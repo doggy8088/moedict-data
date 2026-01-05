@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄨㄣˋ",
+      "definitions": [
+        {
+          "def": "推擠。",
+          "quote": [
+            "《左傳．定公八年》：「將歃，涉佗捘衛侯之手及捥。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "按、捏。",
+          "quote": [
+            "《文選．馬融．長笛賦》：「挼拏捘臧，遞相乘邅。」",
+            "《聊齋志異．卷二．嬰寧》：「生扶之，陰捘其腕。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zùn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "手",
+  "stroke_count": 10,
+  "title": "捘"
+}

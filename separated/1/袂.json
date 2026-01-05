@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄟˋ",
+      "definitions": [
+        {
+          "def": "衣袖。",
+          "example": [
+            "如：「連袂前往」。"
+          ],
+          "quote": [
+            "《左傳．宣公十四年》：「楚子聞之，投袂而起。」",
+            "唐．白居易〈長恨歌〉：「風吹仙袂飄飄舉，猶似霓裳羽衣舞。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mèi"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "衣",
+  "stroke_count": 10,
+  "title": "袂"
+}

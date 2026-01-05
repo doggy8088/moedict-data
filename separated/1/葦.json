@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "參見「蘆葦」條。",
+          "type": "名"
+        },
+        {
+          "def": "一種船身窄長如葦草的小舟。",
+          "quote": [
+            "宋．蘇軾〈赤壁賦〉：「縱一葦之所如，凌萬頃之茫然。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "wěi"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "艸",
+  "stroke_count": 13,
+  "title": "葦"
+}

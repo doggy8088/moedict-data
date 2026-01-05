@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄢˊ",
+      "definitions": [
+        {
+          "def": "美好。",
+          "quote": [
+            "《詩經．邶風．靜女》：「靜女其孌，貽我彤管。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "luán"
+    },
+    {
+      "bopomofo": "（又音）ㄌㄩㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）lüǎn"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "女",
+  "stroke_count": 22,
+  "title": "孌"
+}

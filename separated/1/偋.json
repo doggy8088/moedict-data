@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "隱僻無人的地方。",
+          "quote": [
+            "《廣韻．去聲．勁韻》：「偋，隱僻也，無人處。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "排除、丟棄。",
+          "link": [
+            "通「摒」。"
+          ],
+          "quote": [
+            "《荀子．榮辱》：「恭儉者，偋五兵也。雖有戈矛之刺，不如恭儉之利也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bìng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "人",
+  "stroke_count": 11,
+  "title": "偋"
+}

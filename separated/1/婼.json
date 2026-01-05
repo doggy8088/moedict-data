@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "不順。",
+          "quote": [
+            "《說文解字．女部》：「婼，不順。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "人名用字。如春秋時魯國有叔孫婼。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "chuò"
+    },
+    {
+      "bopomofo": "ㄖㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "參見「婼羌」條。"
+        }
+      ],
+      "pinyin": "ruò"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "女",
+  "stroke_count": 12,
+  "title": "婼"
+}

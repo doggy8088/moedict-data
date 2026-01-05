@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "輕視、瞧不起。",
+          "quote": [
+            "《集韻．去聲．效韻》：「睄，小視。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "晦暗不明。",
+          "quote": [
+            "《楚辭．王逸．九思．疾世》：「日陰曀兮未光，閴睄窕兮靡睹。」",
+            "自注：「睄窕，幽冥也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "qiáo"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "目",
+  "stroke_count": 12,
+  "title": "睄"
+}

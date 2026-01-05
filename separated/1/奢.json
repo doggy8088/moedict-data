@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄜ",
+      "definitions": [
+        {
+          "def": "用錢浪費，沒有節制。參見「奢侈」條。",
+          "type": "形"
+        },
+        {
+          "def": "誇張。",
+          "quote": [
+            "《文選．司馬相如．子虛賦》：「今足下不稱楚王之德厚，而盛推雲夢以為高，奢言淫樂而顯侈靡。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "過分的、過多的。",
+          "example": [
+            "如：「奢望」、「奢求」。"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "姓。如明代有奢寅。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shē"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "大",
+  "stroke_count": 11,
+  "title": "奢"
+}

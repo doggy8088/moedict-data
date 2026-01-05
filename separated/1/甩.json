@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨㄞˇ",
+      "definitions": [
+        {
+          "def": "搖擺、揮動。",
+          "example": [
+            "如：「甩甩頭」、「甩尾巴」、「甩辮子」、「甩水袖」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "投擲、丟擲。",
+          "example": [
+            "如：「甩手榴彈」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "拋棄、拋開。",
+          "example": [
+            "如：「她被男友甩了。」、「等一會兒吧！別把他一個人甩在後面。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "理會。",
+          "example": [
+            "如：「不甩他那一套！」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shuǎi"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "用",
+  "stroke_count": 5,
+  "title": "甩"
+}

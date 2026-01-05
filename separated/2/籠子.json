@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄥˊ　˙ㄗ",
+      "definitions": [
+        {
+          "def": "拘囚人獸禽鳥的器具。",
+          "example": [
+            "如：「他提著鳥籠子到公園散步。」"
+          ]
+        }
+      ],
+      "pinyin": "lóng zi"
+    },
+    {
+      "bopomofo": "ㄌㄨㄥˇ　˙ㄗ",
+      "definitions": [
+        {
+          "def": "竹或木製的圓形有蓋的盛物器具。演雜技的人用來放置樂器。",
+          "example": [
+            "如：「她從籠子裡拿出樂器，準備獻藝。」"
+          ]
+        }
+      ],
+      "pinyin": "lǒng zi"
+    }
+  ],
+  "title": "籠子"
+}

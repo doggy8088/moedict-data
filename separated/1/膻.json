@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄢ",
+      "definitions": [
+        {
+          "def": "同「羶」。羊身上的臊味。",
+          "quote": [
+            "《集韻．平聲．仙韻》：「羴，《說文》，羊臭也，或作羶..、膻。」",
+            "《列子．周穆王》：「王之嬪御，膻惡而不可親。」"
+          ]
+        }
+      ],
+      "pinyin": "shān"
+    },
+    {
+      "bopomofo": "ㄉㄢˋ",
+      "definitions": [
+        {
+          "def": "參見「膻中」條。"
+        }
+      ],
+      "pinyin": "dàn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "肉",
+  "stroke_count": 17,
+  "title": "膻"
+}

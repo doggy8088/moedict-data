@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢ",
+      "definitions": [
+        {
+          "def": "礛䃴：琢磨玉器、刀劍等的磨石。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷八上．釋器》：「礛䃴，礪也。」",
+            "三國魏．曹丕〈劍銘〉：「魏太子丕造百辟寶劍三，……淬以清漳，厲以礛䃴。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiān"
+    },
+    {
+      "bopomofo": "（又音）ㄌㄢˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）lán"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "石",
+  "stroke_count": 19,
+  "title": "礛"
+}

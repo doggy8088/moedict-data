@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄥˊ",
+      "definitions": [
+        {
+          "def": "古代輔佐帝王或正官的官吏。",
+          "example": [
+            "如：「丞相」、「縣丞」、「府丞」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "輔佐、輔助。",
+          "quote": [
+            "《漢書．卷九三．佞幸傳．淳于長傳》：「會大將軍王鳳病，長侍病，晨夜扶丞左右，甚有甥舅之恩。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chéng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "一",
+  "stroke_count": 6,
+  "title": "丞"
+}

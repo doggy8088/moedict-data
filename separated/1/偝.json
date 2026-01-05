@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄟˋ",
+      "definitions": [
+        {
+          "def": "離棄、拋棄。",
+          "quote": [
+            "《集韻．去聲．隊韻》：「偝，違也。」",
+            "《禮記．坊記》：「利祿先死者而後生者，則民不偝。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "背向。",
+          "quote": [
+            "《禮記．投壺》：「毋偝立，毋踰言。」",
+            "漢．鄭玄．注：「偝者，不正鄉前也。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "bèi"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "人",
+  "stroke_count": 11,
+  "title": "偝"
+}

@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "手足因過度摩擦所生的厚皮。",
+          "quote": [
+            "《莊子．天道》：「百舍重趼，而不敢息。」",
+            "唐．陸德明《經典釋文．卷二七．莊子音義中》：「趼，胝也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiǎn"
+    },
+    {
+      "bopomofo": "ㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "獸蹄平正。",
+          "quote": [
+            "《爾雅．釋畜》：「騉蹄趼，善陞甗。」",
+            "宋．邢昺．疏：「趼，平也，謂蹄平正。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yán"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "足",
+  "stroke_count": 11,
+  "title": "趼"
+}

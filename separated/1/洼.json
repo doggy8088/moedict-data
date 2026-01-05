@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄚ",
+      "definitions": [
+        {
+          "def": "窪下有水的地方。",
+          "quote": [
+            "《水滸傳．第五五回》：「小可分兵攻打，務要肅清山寨，掃盡水洼，擒獲眾賊，拆毀巢穴。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "wā"
+    },
+    {
+      "bopomofo": "ㄍㄨㄟ",
+      "definitions": [
+        {
+          "def": "姓。如漢代有洼丹。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "guī"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洼"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄇㄚˊ",
+      "definitions": [
+        {
+          "def": "用作句末語助詞。",
+          "example": [
+            "如：「幹嘛」。"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "（讀音）má"
+    },
+    {
+      "bopomofo": "（語音）˙ㄇㄚ",
+      "definitions": [
+        {
+          "def": "參見「喇嘛」條。",
+          "type": "名"
+        },
+        {
+          "def": "表疑問語氣。同「嗎」(一)。",
+          "type": "助"
+        }
+      ],
+      "pinyin": "（語音）ma"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "口",
+  "stroke_count": 14,
+  "title": "嘛"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄠ　ㄓˋ",
+      "definitions": [
+        {
+          "def": "意志驕恣。",
+          "quote": [
+            "《禮記．樂記》：「衛音趨數煩志，齊音敖辟喬志。」"
+          ]
+        }
+      ],
+      "pinyin": "jiāo zhì"
+    },
+    {
+      "bopomofo": "ㄑㄧㄠˊ　ㄓˋ",
+      "definitions": [
+        {
+          "def": "心志驕逸。",
+          "quote": [
+            "《禮記．樂記》：「衛音趨數煩志，齊音敖辟喬志。」"
+          ]
+        }
+      ],
+      "pinyin": "qiáo zhì"
+    }
+  ],
+  "title": "喬志"
+}

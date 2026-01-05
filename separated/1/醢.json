@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄞˇ",
+      "definitions": [
+        {
+          "def": "肉醬。",
+          "quote": [
+            "《三國志．卷二一．魏書．王粲傳》：「昔伯牙絕絃於鍾期，仲尼覆醢於子路。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "剁成肉醬。",
+          "quote": [
+            "《戰國策．趙策四》：「魯仲連曰：『然吾將使秦王烹醢梁王。』」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hǎi"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "酉",
+  "stroke_count": 17,
+  "title": "醢"
+}

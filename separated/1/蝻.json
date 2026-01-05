@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄢˊ",
+      "definitions": [
+        {
+          "def": "蝗的幼蟲。形體似成蟲而略小，頭大，有翅芽，經五、六次蛻皮，發育為成蟲。常成群吃稻、麥、玉米等禾本科作物。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "nán"
+    },
+    {
+      "bopomofo": "（又音）ㄋㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）nǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "虫",
+  "stroke_count": 15,
+  "title": "蝻"
+}

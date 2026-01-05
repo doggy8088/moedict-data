@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔ",
+      "definitions": [
+        {
+          "def": "參見「鴟梟」、「鴟鴞」等條。",
+          "type": "名"
+        },
+        {
+          "def": "一種盛酒的器具。",
+          "quote": [
+            "宋．秦觀〈觀易元吉獐猿圖歌〉：「金錢百萬酒千鴟，荊南將軍欣得之。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chī"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "鳥",
+  "stroke_count": 16,
+  "title": "鴟"
+}

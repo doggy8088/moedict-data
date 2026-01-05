@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄤˇ",
+      "definitions": [
+        {
+          "def": "參見「伎倆」條。"
+        }
+      ],
+      "pinyin": "liǎng"
+    },
+    {
+      "bopomofo": "ㄌㄧㄚˇ",
+      "definitions": [
+        {
+          "def": "兩個。",
+          "example": [
+            "如：「哥倆好」、「小夫妻倆」。"
+          ],
+          "quote": [
+            "《老殘遊記．第一五回》：「叫他們姐兒倆打開蓋捲睡當中，好不好？」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "liǎ"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "倆"
+}

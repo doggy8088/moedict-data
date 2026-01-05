@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄤˊ",
+      "definitions": [
+        {
+          "def": "動物體內的油脂。",
+          "example": [
+            "如：「脂肪」。"
+          ],
+          "quote": [
+            "《文選．曹丕．與鍾大理書》：「白如截肪，黑譬純漆。」",
+            "元．陶宗儀《南村輟耕錄．卷二六．鵰傳》：「啄胔扼吭，裂肪絕筋。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fáng"
+    },
+    {
+      "bopomofo": "（又音）ㄈㄤ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）fāng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "肉",
+  "stroke_count": 8,
+  "title": "肪"
+}

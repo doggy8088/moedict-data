@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄝ　ㄕㄡ",
+      "definitions": [
+        {
+          "antonyms": "推卻,推辭,拒絕,謝絕",
+          "def": "收取。",
+          "example": [
+            "如：「接收禮物」、「接收遺產」。"
+          ],
+          "synonyms": "接受,收受　2.接管"
+        },
+        {
+          "def": "承辦。",
+          "example": [
+            "如：「是誰接收這項工程？」"
+          ]
+        }
+      ],
+      "pinyin": "jiē shōu"
+    }
+  ],
+  "title": "接收"
+}

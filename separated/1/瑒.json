@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄤˋ",
+      "definitions": [
+        {
+          "def": "古代祭祀宗廟時，用以灌地降神的一種禮器。圭長尺二寸而帶有瓚。",
+          "quote": [
+            "《說文解字．玉部》：「瑒，圭尺二寸，有瓚，以祠宗廟者也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chàng"
+    },
+    {
+      "bopomofo": "（又音）ㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yáng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "玉",
+  "stroke_count": 13,
+  "title": "瑒"
+}

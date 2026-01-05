@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄟ",
+      "definitions": [
+        {
+          "def": "古代駕車的馬，在兩旁的稱為「騑」，也稱為「驂」（一說：左驂、右騑）。",
+          "quote": [
+            "《說文解字．馬部》：「騑，驂也，旁馬也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛稱馬。",
+          "quote": [
+            "《文選．班彪．北征賦》：「紛吾去此舊都兮，騑遲遲以歷茲。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fēi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "馬",
+  "stroke_count": 18,
+  "title": "騑"
+}

@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄌㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "以動物乳汁所製成的半凝固食品。",
+          "example": [
+            "如：「乳酪」、「牛酪」。"
+          ],
+          "quote": [
+            "明．張自烈《正字通．酉部》：「酪，牛馬乳所造。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "（讀音）luò"
+    },
+    {
+      "bopomofo": "（語音）ㄌㄠˋ",
+      "definitions": [
+        {
+          "def": "以動物乳汁所製成的半凝固食品。",
+          "example": [
+            "如：「乳酪」、「牛酪」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "以果實熬煮而成的糊狀物。",
+          "example": [
+            "如：「杏仁酪」、「核桃酪」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "（語音）lào"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "酉",
+  "stroke_count": 13,
+  "title": "酪"
+}

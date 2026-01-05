@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄡˋ",
+      "definitions": [
+        {
+          "def": "打獵。",
+          "quote": [
+            "《詩經．魏風．伐檀》：「不狩不獵，胡瞻爾庭有縣貆兮。」",
+            "《列子．黃帝》：「趙 襄子率徒十萬，狩於中山。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「巡狩」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "shòu"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "犬",
+  "stroke_count": 9,
+  "title": "狩"
+}

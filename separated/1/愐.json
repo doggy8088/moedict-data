@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "勤勉。",
+          "quote": [
+            "《說文解字．心部》：「愐，勉也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "思念。",
+          "quote": [
+            "《廣韻．上聲．獮韻》：「愐，思也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "miǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "心",
+  "stroke_count": 12,
+  "title": "愐"
+}

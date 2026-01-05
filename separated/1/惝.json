@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄤˇ",
+      "definitions": [
+        {
+          "def": "悵惘、失意。",
+          "quote": [
+            "《莊子．則陽》：「客出，而君惝然若有亡也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "害怕的樣子。",
+          "quote": [
+            "《楚辭．嚴忌．哀時命》：「悵惝罔以永思兮，心紆軫而增傷。」",
+            "宋．洪興袓．補注：「惝，驚貌。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "chǎng"
+    },
+    {
+      "bopomofo": "（又音）ㄊㄤˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）tǎng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "心",
+  "stroke_count": 11,
+  "title": "惝"
+}

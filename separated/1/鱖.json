@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "動物名。魚綱鱸科。體側扁，顏色淡黃帶褐，具不規則的黑色斑紋。口大有細鱗，背鰭具硬棘，為凶猛的魚類。喜食魚蝦，大陸地區各大河流、湖泊均產。肉質鮮嫩美味，為淡水食用魚類之一。",
+          "link": [
+            "也稱為「花鯽」、「桂魚」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "guì"
+    },
+    {
+      "bopomofo": "（又音）ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）jué"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "魚",
+  "stroke_count": 23,
+  "title": "鱖"
+}

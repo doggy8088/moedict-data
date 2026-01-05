@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄥˊ　ㄇㄚˇ",
+      "definitions": [
+        {
+          "def": "騎馬。",
+          "quote": [
+            "《易經．繫辭下》：「服牛乘馬，引重致遠。」"
+          ]
+        }
+      ],
+      "pinyin": "chéng mǎ"
+    },
+    {
+      "bopomofo": "ㄕㄥˋ　ㄇㄚˇ",
+      "definitions": [
+        {
+          "def": "四匹馬或古代國君所乘的馬。",
+          "quote": [
+            "《詩經．小雅．鴛鴦》：「乘馬在廄，摧之秣之。」"
+          ]
+        }
+      ],
+      "pinyin": "shèng mǎ"
+    }
+  ],
+  "title": "乘馬"
+}

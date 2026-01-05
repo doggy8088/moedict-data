@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "用竿子打人。",
+          "quote": [
+            "《說文解字．竹部》：「箾，以竿擊人也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "古代舞者所拿的竿子。",
+          "quote": [
+            "《廣韻．入聲．覺韻》：「箾，舞者所執。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shuò"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "竹",
+  "stroke_count": 15,
+  "title": "箾"
+}

@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄤ",
+      "definitions": [
+        {
+          "def": "穀類馨香的氣味。",
+          "quote": [
+            "《玉篇．艸部》：「薌，穀氣。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用來調味的香菜。",
+          "quote": [
+            "《禮記．內則》：「魴鱮烝雛燒，雉薌無蓼。」",
+            "漢．鄭玄．注：「薌，蘇荏之屬也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "使香美。",
+          "quote": [
+            "《禮記．內則》：「鉅鑊湯，以小鼎薌脯於其中。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xiāng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "艸",
+  "stroke_count": 16,
+  "title": "薌"
+}

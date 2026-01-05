@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄢ",
+      "definitions": [
+        {
+          "def": "竹製的轎子。",
+          "quote": [
+            "《說文解字．竹部》：「箯，竹輿也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用竹子編成，用來盛飯的器具。",
+          "quote": [
+            "漢．史游《急就篇．卷三》：「{[9850]}篅箯筥䉛箅篝。」",
+            "唐．顏師古．注：「竹器之盛飯者，大曰箯，小曰筥。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "biān"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "竹",
+  "stroke_count": 15,
+  "title": "箯"
+}

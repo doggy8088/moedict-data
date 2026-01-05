@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "張嘴露齒的樣子。",
+          "quote": [
+            "《說文解字．齒部》：「齞，張口見齒也。」",
+            "《文選．宋玉．登徒子好色賦》：「其妻蓬頭攣耳，齞脣歷齒。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yǎn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "齒",
+  "stroke_count": 20,
+  "title": "齞"
+}

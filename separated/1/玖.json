@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄡˇ",
+      "definitions": [
+        {
+          "def": "比玉稍差的黑色美石。",
+          "example": [
+            "如：「瓊玖」。"
+          ],
+          "quote": [
+            "《說文解字．玉部》：「玖，石之次玉黑色者。」",
+            "《詩經．王風．丘中有麻》：「彼留之子，貽我佩玖。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "九的大寫。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiǔ"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "玉",
+  "stroke_count": 7,
+  "title": "玖"
+}

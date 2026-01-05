@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "心胸狹窄、性情急躁。",
+          "link": [
+            "通「褊」。"
+          ],
+          "quote": [
+            "《廣韻．上聲．銑韻》：「惼，愝惼，性狹。」",
+            "《莊子．山木》：「方舟而濟於河，有虛船來觸舟，雖有惼心之人，不怒。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "biǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "心",
+  "stroke_count": 12,
+  "title": "惼"
+}

@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨ",
+      "definitions": [
+        {
+          "def": "大聲叫喚。",
+          "link": [
+            "同「呼」。"
+          ],
+          "quote": [
+            "《新唐書．卷二○九．酷吏傳．姚紹之傳》：「囚嘑曰：『宰相有附三思者。』」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hū"
+    },
+    {
+      "bopomofo": "ㄏㄨˋ",
+      "definitions": [
+        {
+          "def": "參見「嘑爾」條。"
+        }
+      ],
+      "pinyin": "hù"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "口",
+  "stroke_count": 14,
+  "title": "嘑"
+}

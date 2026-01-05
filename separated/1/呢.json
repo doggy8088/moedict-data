@@ -1,0 +1,52 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧˊ",
+      "definitions": [
+        {
+          "def": "一種毛織物。",
+          "example": [
+            "如：「呢絨」、「呢料」。"
+          ],
+          "link": [
+            "也稱為「呢子」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「呢喃」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "ní"
+    },
+    {
+      "bopomofo": "˙ㄋㄜ",
+      "definitions": [
+        {
+          "def": "表示疑問的語氣。",
+          "example": [
+            "如：「怎麼辦呢？」"
+          ],
+          "quote": [
+            "《兒女英雄傳．第三二回》：「那狀元夫人又是怎麼件事呢？」",
+            "《老殘遊記．第一一回》：「何以還有人信服他呢？」"
+          ],
+          "type": "助"
+        },
+        {
+          "def": "表示加強、確定的語氣。",
+          "example": [
+            "如：「撐把傘，外面正下著雨呢！」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "ne"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "口",
+  "stroke_count": 8,
+  "title": "呢"
+}

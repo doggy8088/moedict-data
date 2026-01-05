@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄚˊ",
+      "definitions": [
+        {
+          "def": "忸怩的樣子。",
+          "example": [
+            "如：「嘁咨」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "zá"
+    },
+    {
+      "bopomofo": "ㄑㄧ",
+      "definitions": [
+        {
+          "def": "參見「嘁嘁喳喳」條。"
+        }
+      ],
+      "pinyin": "qī"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "口",
+  "stroke_count": 14,
+  "title": "嘁"
+}

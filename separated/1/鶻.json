@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨˇ",
+      "definitions": [
+        {
+          "def": "參見「鶻鵃」、「鶻鳩」等條。"
+        }
+      ],
+      "pinyin": "gǔ"
+    },
+    {
+      "bopomofo": "ㄏㄨˊ",
+      "definitions": [
+        {
+          "def": "部分鳥綱隼科隼屬動物的舊稱。行動敏捷，凶猛有力，獵人常馴以捕捉鳥兔。",
+          "example": [
+            "如：「千里鶻」、「穿雲鶻」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "hú"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "鳥",
+  "stroke_count": 21,
+  "title": "鶻"
+}

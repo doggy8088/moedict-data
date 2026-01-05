@@ -1,0 +1,51 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄠ",
+      "definitions": [
+        {
+          "def": "腥臭的氣味。",
+          "example": [
+            "如：「牛臊」、「羊臊」。"
+          ],
+          "quote": [
+            "《荀子．榮辱》：「口辨酸鹹甘苦，鼻辨芬芳腥臊。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "sāo"
+    },
+    {
+      "bopomofo": "ㄙㄠˋ",
+      "definitions": [
+        {
+          "def": "害羞、難為情。",
+          "example": [
+            "如：「害臊」。"
+          ],
+          "quote": [
+            "《程乙本紅樓夢．第二四回》：「那小紅臊的轉身一跑，卻被門檻子絆倒。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "羞辱。",
+          "quote": [
+            "《紅樓夢．第二四回》：「臊你娘的，瞎了眼睛，碰起我來了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「臊子」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "sào"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "肉",
+  "stroke_count": 17,
+  "title": "臊"
+}

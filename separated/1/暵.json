@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄢˋ",
+      "definitions": [
+        {
+          "def": "乾燥、乾涸。",
+          "quote": [
+            "《說文解字．日部》：「暵，乾也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "晒乾、曝晒。",
+          "quote": [
+            "《廣韻．上聲．旱韻》：「暵，日乾也。」",
+            "金．麻九疇〈許方村即事〉詩：「山雲頃刻雨，沙地須庾暵。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hàn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "日",
+  "stroke_count": 15,
+  "title": "暵"
+}

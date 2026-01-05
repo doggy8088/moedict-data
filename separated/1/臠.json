@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄢˊ",
+      "definitions": [
+        {
+          "def": "把肉切割、分解成肉塊。",
+          "quote": [
+            "《漢書．卷九九．王莽傳下》：「軍人分裂莽身，支節肌骨臠分，爭相殺者數十人。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「臠臠」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "luán"
+    },
+    {
+      "bopomofo": "（又音）ㄌㄩㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）lüǎn"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "肉",
+  "stroke_count": 25,
+  "title": "臠"
+}

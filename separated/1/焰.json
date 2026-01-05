@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "物體燃燒時發出光熱的部分。",
+          "example": [
+            "如：「火焰」、「赤焰」。"
+          ],
+          "link": [
+            "俗稱為「火苗」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "比喻氣勢、威勢。",
+          "example": [
+            "如：「氣焰逼人」、「敵焰囂張」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "火",
+  "stroke_count": 12,
+  "title": "焰"
+}

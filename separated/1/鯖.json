@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄥ",
+      "definitions": [
+        {
+          "def": "動物名。脊椎動物亞門鱸形目。體呈梭型，側扁。頭尖口大，密生小齒，鱗圓細小。背鰭有前後兩個，背部青綠，有波浪狀花紋，腹部銀白。主依嗅覺找尋食物，為一種重要的經濟性魚類。",
+          "link": [
+            "也稱為「青花魚」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qīng"
+    },
+    {
+      "bopomofo": "ㄓㄥ",
+      "definitions": [
+        {
+          "def": "魚與肉調製成的雜燴菜。",
+          "example": [
+            "如：「五侯鯖」。"
+          ],
+          "quote": [
+            "唐．韓愈、孟郊〈城南聯句〉：「惡嚼㗘腥鯖。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhēng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "魚",
+  "stroke_count": 19,
+  "title": "鯖"
+}

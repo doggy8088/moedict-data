@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄢˇ",
+      "definitions": [
+        {
+          "def": "荻。",
+          "quote": [
+            "《詩經．衛風．碩人》：「鱣鮪發發，葭菼揭揭。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "介於青白之間的顏色。",
+          "quote": [
+            "《詩經．王風．大車》：「大車檻檻，毳衣如菼。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tǎn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "艸",
+  "stroke_count": 12,
+  "title": "菼"
+}

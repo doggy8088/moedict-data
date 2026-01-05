@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄣ",
+      "definitions": [
+        {
+          "def": "霧氣。",
+          "quote": [
+            "《玉篇．雨部》：「雰，霧氣也。」",
+            "《黃帝內經素問．卷二一．六元正紀大論》：「大寒迺至，川澤嚴凝，寒雰結為霜雪。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "氣的通稱。",
+          "quote": [
+            "唐．李紳〈華山慶雲見〉詩：「氣色含珠日，晴光吐翠雰。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fēn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "雨",
+  "stroke_count": 12,
+  "title": "雰"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˊ",
+      "definitions": [
+        {
+          "def": "參見「江蘺」條。",
+          "type": "名"
+        },
+        {
+          "def": "用竹或樹枝編成的柵欄。",
+          "link": [
+            "通「籬」。"
+          ],
+          "quote": [
+            "《漢書．卷三一．陳勝項籍傳．贊曰》：「乃使蒙恬北築藩城而守藩蘺，卻匈奴七百餘里。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lí"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "艸",
+  "stroke_count": 23,
+  "title": "蘺"
+}

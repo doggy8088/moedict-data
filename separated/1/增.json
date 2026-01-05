@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄥ",
+      "definitions": [
+        {
+          "def": "加多。",
+          "example": [
+            "如：「倍增」、「遞增」、「激增」、「有增無減」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "重疊的。",
+          "link": [
+            "通「層」。"
+          ],
+          "quote": [
+            "《文選．揚雄．甘泉賦》：「增宮嵾差。」",
+            "《文選．郭璞．遊仙詩一九首之五》：「清源無增瀾，安得運吞舟？」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zēng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "土",
+  "stroke_count": 15,
+  "title": "增"
+}

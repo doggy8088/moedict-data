@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "怨恨、憤怒。",
+          "example": [
+            "如：「恚恨」、「恚怒」。"
+          ],
+          "quote": [
+            "《戰國策．齊策六》：「故去忿恚之心，而成終身之名。」",
+            "《三國志．卷五四．吳書．呂蒙傳》：「歸以告蒙母，母恚欲罰之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "huì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "恚"
+}

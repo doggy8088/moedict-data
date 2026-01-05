@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄢ",
+      "definitions": [
+        {
+          "def": "嗜酒、喜好喝酒。",
+          "quote": [
+            "《說文解字．酉部》：「酖，樂酒也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dān"
+    },
+    {
+      "bopomofo": "ㄓㄣˋ",
+      "definitions": [
+        {
+          "def": "毒酒。",
+          "quote": [
+            "南朝梁．劉勰《文心雕龍．奏啟》：「皁飭司直，肅清風禁。筆銳干將，墨含淳酖。」",
+            "唐．皇甫枚〈溫京兆〉：「事覺，飲酖而死。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhèn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "酉",
+  "stroke_count": 11,
+  "title": "酖"
+}

@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨˋ　ㄎㄨˋ",
+      "definitions": [
+        {
+          "def": "收沒歸公。",
+          "example": [
+            "如：「贓物入庫」。"
+          ]
+        },
+        {
+          "antonyms": "出庫",
+          "def": "把一般物品或貨物藏入倉庫。"
+        }
+      ],
+      "pinyin": "rù kù"
+    }
+  ],
+  "title": "入庫"
+}

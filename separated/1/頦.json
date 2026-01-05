@@ -1,0 +1,43 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄏㄞˊ",
+      "definitions": [
+        {
+          "def": "臉部的下方。即下巴。",
+          "quote": [
+            "唐．韓愈〈記夢〉詩：「石壇坡陀可坐臥，我手承頦肘拄座。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "（讀音）hái"
+    },
+    {
+      "bopomofo": "ㄎㄜˊ",
+      "definitions": [
+        {
+          "def": "頦兒：指下巴。",
+          "example": [
+            "如：「仰著頦兒向上看。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "ké"
+    },
+    {
+      "bopomofo": "（語音）ㄎㄜ",
+      "definitions": [
+        {
+          "def": "參見「下巴頦」條。"
+        }
+      ],
+      "pinyin": "（語音）kē"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "頁",
+  "stroke_count": 15,
+  "title": "頦"
+}

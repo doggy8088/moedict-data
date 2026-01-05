@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄡˋ",
+      "definitions": [
+        {
+          "def": "打。",
+          "example": [
+            "如：「揍人」、「揍他一頓」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "北平方言。指打破、打碎。",
+          "example": [
+            "如：「他一不留神把茶碗打揍了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zòu"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "手",
+  "stroke_count": 12,
+  "title": "揍"
+}

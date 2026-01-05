@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄣˋ",
+      "definitions": [
+        {
+          "def": "由於曆法中年、月、日的劃分與回歸年的長度不能配合，為調整曆法與天象間的差 距，在適當年分中增加完整的一日或一個月，稱為「閏」。參見「閏年」、「閏月」等條。",
+          "type": "名"
+        },
+        {
+          "def": "偏。參見「閏統」、「閏位」等條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "rùn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "門",
+  "stroke_count": 12,
+  "title": "閏"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄟˋ",
+      "definitions": [
+        {
+          "def": "狗叫稱為「吠」。",
+          "example": [
+            "如：「蜀犬吠日」、「狂吠」。"
+          ],
+          "quote": [
+            "《孟子．公孫丑上》：「雞鳴狗吠相聞而達乎四境，而齊有其民矣。」",
+            "漢．王符《潛夫論．賢難》：「一犬吠形，百犬吠聲。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "fèi"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "口",
+  "stroke_count": 7,
+  "title": "吠"
+}

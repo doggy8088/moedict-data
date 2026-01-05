@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧˇ",
+      "definitions": [
+        {
+          "def": "螳螂。",
+          "quote": [
+            "漢．揚雄《方言．卷一一》：「螳蜋謂之髦，或謂之虰或謂之{[8eb9]}{[8eb9]}。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "蛀食米穀的黑色小蟲。",
+          "quote": [
+            "《爾雅．釋蟲》：「蛄䗐，強{[8eb9]}。」",
+            "晉．郭璞．注：「今米穀中蠹小黑蟲是也。建平人呼為{[8eb9]}子。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mǐ"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "虫",
+  "stroke_count": 14,
+  "title": "{[8eb9]}"
+}

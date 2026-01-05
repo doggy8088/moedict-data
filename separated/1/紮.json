@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄚˊ",
+      "definitions": [
+        {
+          "def": "軍隊屯駐。",
+          "example": [
+            "如：「駐紮」。"
+          ],
+          "quote": [
+            "《三國演義．第七二回》：「操心怯，拔寨退三十里，就空闊處紮營。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "量詞。計算成束物品的單位。",
+          "example": [
+            "如：「一紮線香」、「兩紮鮮花」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhá"
+    },
+    {
+      "bopomofo": "ㄗㄚ",
+      "definitions": [
+        {
+          "def": "纏束。",
+          "example": [
+            "如：「包紮」、「紮彩」、「結紮」、「紮辮子」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zā"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "糸",
+  "stroke_count": 11,
+  "title": "紮"
+}

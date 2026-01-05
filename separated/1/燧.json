@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "古代用以取火的器具。",
+          "example": [
+            "如：「木燧」。"
+          ],
+          "quote": [
+            "《韓非子．五蠹》：「有聖人作，鑽燧取火，以化腥臊。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "古代邊防舉煙警示的訊號。",
+          "quote": [
+            "《墨子．號令》：「比至城者三表，與城上烽燧相望。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "suì"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "火",
+  "stroke_count": 17,
+  "title": "燧"
+}

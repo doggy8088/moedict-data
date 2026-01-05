@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥ",
+      "definitions": [
+        {
+          "def": "稱謂。用以尊稱丈夫的父親。",
+          "quote": [
+            "漢．劉熙《釋名．釋親屬》：「俗或謂舅曰章，又曰伀。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "恐懼。",
+          "quote": [
+            "《字彙．人部》：「伀，懼也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhōng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "人",
+  "stroke_count": 6,
+  "title": "伀"
+}

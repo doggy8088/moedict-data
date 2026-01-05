@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧˋ",
+      "definitions": [
+        {
+          "def": "看、瞪。",
+          "quote": [
+            "《三國志．卷一八．魏書．許褚傳》：「褚瞋目盻之，超不敢動。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "勤苦不休息的樣子。參見「盻盻」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "xì"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "目",
+  "stroke_count": 9,
+  "title": "盻"
+}

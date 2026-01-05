@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄠˋ",
+      "definitions": [
+        {
+          "def": "重新鬆土耕作。",
+          "quote": [
+            "《廣韻．去聲．效韻》：「耖，重耕田也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "一種翻鬆泥土的農具。",
+          "quote": [
+            "元．王禎《農書．耒耜門》：「耖，疏通田泥器也。高可三尺許，廣可四尺，上有橫柄，……。人以兩手按之，前用畜力輓行。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chào"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "耒",
+  "stroke_count": 10,
+  "title": "耖"
+}

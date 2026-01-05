@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "兩腳相併攏而不能交錯的疾病。",
+          "quote": [
+            "《字彙．足部》：「踂，足不相過，一云聚合不解。」",
+            "《穀梁傳．昭公二十年》：「兩足不能相過，齊謂之綦，楚謂之踂，衛謂之輒。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "niè"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "足",
+  "stroke_count": 14,
+  "title": "踂"
+}

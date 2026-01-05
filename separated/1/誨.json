@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "教導、勸導。",
+          "example": [
+            "如：「教誨」、「誨人不倦」。"
+          ],
+          "quote": [
+            "《左傳．襄公三十年》：「我有子弟，子產誨之。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "引誘、誘使。",
+          "example": [
+            "如：「誨盜誨淫」。"
+          ],
+          "quote": [
+            "《易經．繫辭上》：「慢藏誨盜，冶容誨淫。」",
+            "《史記．卷一．五帝本紀》：「取地之財而節用之，撫教萬民而利誨之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "huì"
+    },
+    {
+      "bopomofo": "（又音）ㄏㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）huǐ"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "言",
+  "stroke_count": 14,
+  "title": "誨"
+}

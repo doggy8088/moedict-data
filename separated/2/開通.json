@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄞ　ㄊㄨㄥ",
+      "definitions": [
+        {
+          "def": "排除障礙物。",
+          "quote": [
+            "《禮記．月令》：「開通道路，毋有障塞。」"
+          ]
+        },
+        {
+          "def": "啟發。",
+          "example": [
+            "如：「開通知識」。"
+          ]
+        }
+      ],
+      "pinyin": "kāi tōng"
+    },
+    {
+      "bopomofo": "ㄎㄞ　˙ㄊㄨㄥ",
+      "definitions": [
+        {
+          "antonyms": "保守,閉塞,守舊,頑固",
+          "def": "不頑固，能接受不同的想法意見。",
+          "example": [
+            "如：「他雖年老，卻很開通，能接受新的觀念。」"
+          ]
+        }
+      ],
+      "pinyin": "kāi tong"
+    }
+  ],
+  "title": "開通"
+}

@@ -1,0 +1,48 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄠ",
+      "definitions": [
+        {
+          "def": "小羊。",
+          "example": [
+            "如：「羔子」。"
+          ],
+          "quote": [
+            "《說文解字．羊部》：「羔，羊子也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "幼小的生物。",
+          "example": [
+            "如：「鹿羔」。"
+          ],
+          "quote": [
+            "金．元好問〈種松〉詩：「百錢買松羔，植之我東牆。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "幼小的。",
+          "example": [
+            "如：「迷途羔羊」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "黑羊皮製的。",
+          "quote": [
+            "《論語．鄉黨》：「緇衣羔裘。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "gāo"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "羊",
+  "stroke_count": 10,
+  "title": "羔"
+}

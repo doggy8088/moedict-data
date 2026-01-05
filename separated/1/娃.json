@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄚˊ",
+      "definitions": [
+        {
+          "def": "美女。",
+          "quote": [
+            "漢．揚雄〈反離騷〉：「資娵娃之珍髢兮，鬻九戎而索賴。」",
+            "元．馬致遠《漢宮秋．楔子》：「五穀豐登沒戰伐，寡人待刷室女選宮娃。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "小孩。",
+          "example": [
+            "如：「男娃」、「女娃」、「胖娃娃」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "wá"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "女",
+  "stroke_count": 9,
+  "title": "娃"
+}

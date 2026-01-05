@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "古時用來祭祀祖宗的屋舍。",
+          "example": [
+            "如：「太廟」、「祖廟」、「家廟」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "供奉神佛的屋舍。",
+          "example": [
+            "如：「神廟」、「寺廟」、「土地廟」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "miào"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "广",
+  "stroke_count": 15,
+  "title": "廟"
+}

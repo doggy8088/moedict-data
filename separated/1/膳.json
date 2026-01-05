@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄢˋ",
+      "definitions": [
+        {
+          "def": "置備食物。",
+          "quote": [
+            "《說文解字．肉部》：「膳，具食也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "進獻飯食。",
+          "quote": [
+            "《呂氏春秋．離俗覽．上德》：「太子祠而膳于公，麗姬易之。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "飯食。",
+          "example": [
+            "如：「早膳」、「晚膳」、「用膳」。"
+          ],
+          "quote": [
+            "《文選．曹植．箜篌引》：「中廚辦豐膳，烹羊宰肥牛。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shàn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "肉",
+  "stroke_count": 16,
+  "title": "膳"
+}

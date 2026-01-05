@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˋ",
+      "definitions": [
+        {
+          "def": "偵探、伺察。",
+          "quote": [
+            "《說文解字．{[3694]}部》：「睪，司視也。令吏將目捕罪人也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yì"
+    },
+    {
+      "bopomofo": "ㄍㄠ",
+      "definitions": [
+        {
+          "def": "參見「睪丸」條。",
+          "type": "名"
+        },
+        {
+          "def": "高大。",
+          "link": [
+            "同「皋」。"
+          ],
+          "quote": [
+            "《列子．天瑞》：「望其壙，睪如也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "gāo"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "目",
+  "stroke_count": 13,
+  "title": "睪"
+}

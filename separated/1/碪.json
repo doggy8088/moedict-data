@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄢˋ",
+      "definitions": [
+        {
+          "def": "巖崖的下方。",
+          "quote": [
+            "《集韻．去聲．勘韻》：「碪，巖崖之下。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kàn"
+    },
+    {
+      "bopomofo": "ㄓㄣ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「砧」。"
+          ]
+        }
+      ],
+      "pinyin": "zhēn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "石",
+  "stroke_count": 14,
+  "title": "碪"
+}

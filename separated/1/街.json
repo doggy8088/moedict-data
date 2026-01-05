@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄝ",
+      "definitions": [
+        {
+          "def": "城鎮中兩旁有商店，且較為熱鬧的道路。也泛指一般馬路。",
+          "example": [
+            "如：「街道」、「逛街」、「掃街車」、「大街小巷」、「阻街女郎」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "某種行業集中的商業區。",
+          "example": [
+            "如：「小吃街」、「家具街」、「電影街」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiē"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "行",
+  "stroke_count": 12,
+  "title": "街"
+}

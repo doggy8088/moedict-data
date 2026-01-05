@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛ",
+      "definitions": [
+        {
+          "def": "射鳥用的石製箭頭。",
+          "quote": [
+            "《集韻．平聲．戈韻》：「碆，石也。可為矢鏃。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用石製箭頭繫於絲弦上，射擊飛鳥。",
+          "quote": [
+            "《史記．卷四○．楚世家》：「出寶弓，碆新繳，射噣鳥於東海。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bō"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄛˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）pó"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "石",
+  "stroke_count": 13,
+  "title": "碆"
+}

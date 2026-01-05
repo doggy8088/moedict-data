@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘ",
+      "definitions": [
+        {
+          "def": "毛病、缺點。",
+          "example": [
+            "如：「吹毛求疵」、「瑕疵」。"
+          ],
+          "quote": [
+            "《韓非子．大體》：「不逆天理，不傷情性；不吹毛而求小疵。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "苛求、責備。",
+          "quote": [
+            "《荀子．不苟》：「正義直指，舉人之過，非毀疵也。」",
+            "《漢書．卷七○．陳湯傳》：「論大功者不錄小過；舉大美者不疵細瑕。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "cī"
+    },
+    {
+      "bopomofo": "（又音）ㄘˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）cí"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "疒",
+  "stroke_count": 11,
+  "title": "疵"
+}

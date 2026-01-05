@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨ",
+      "definitions": [
+        {
+          "def": "穀殼。",
+          "quote": [
+            "《廣韻．平聲．虞韻》：「稃，穀皮。」",
+            "《水滸傳．第二五回》：「我前日要糴些麥稃，一地裡沒糴處。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "禾本科植物子房基部的小鱗片，為花冠退化變形而成。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "fū"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "禾",
+  "stroke_count": 12,
+  "title": "稃"
+}

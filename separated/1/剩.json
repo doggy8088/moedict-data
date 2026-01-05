@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄥˋ",
+      "definitions": [
+        {
+          "def": "多餘的。",
+          "example": [
+            "如：「剩飯」、「剩菜」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "多餘、餘留。",
+          "example": [
+            "如：「人都走光了，只剩下他一個人。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shèng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "刀",
+  "stroke_count": 12,
+  "title": "剩"
+}

@@ -1,0 +1,51 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄤ",
+      "definitions": [
+        {
+          "def": "恐懼。",
+          "example": [
+            "如：「恐慌」、「驚慌」。"
+          ],
+          "quote": [
+            "《水滸傳．第一六回》：「先生休慌，且請相見。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "因急促而忙亂。",
+          "quote": [
+            "《儒林外史．第三回》：「周進……就撞死在地下，眾人多慌了！」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "急躁。",
+          "example": [
+            "如：「慌忙」、「他做事總這麼慌，今天早晨又打破了一個碗。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "huāng"
+    },
+    {
+      "bopomofo": "˙ㄏㄨㄤ",
+      "definitions": [
+        {
+          "def": "語尾助詞，含有難以忍受的意思。",
+          "example": [
+            "如：「煩得慌」、「悶得慌」、「累得慌」。"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "huang"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "心",
+  "stroke_count": 13,
+  "title": "慌"
+}

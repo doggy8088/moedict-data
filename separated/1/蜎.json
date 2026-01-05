@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄢ",
+      "definitions": [
+        {
+          "def": "蚊子的幼蟲。即孑孓。",
+          "quote": [
+            "《爾雅．釋魚》：「蜎，蠉。」",
+            "晉．郭璞．注：「井中小蛣蟩，赤蟲，一名孑孓。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如春秋時楚國有蜎淵。",
+          "type": "名"
+        },
+        {
+          "def": "彎曲。",
+          "quote": [
+            "《字彙．虫部》：「蜎，撓也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「蜎蜎」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "yuān"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "虫",
+  "stroke_count": 13,
+  "title": "蜎"
+}

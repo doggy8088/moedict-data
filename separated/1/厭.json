@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "飽、滿足。",
+          "example": [
+            "如：「貪得無厭」。"
+          ],
+          "quote": [
+            "《左傳．隱公元年》：「姜氏何厭之有？不如早為之所。」",
+            "《論語．述而》：「學而不厭，誨人不倦。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "憎惡、嫌棄。",
+          "example": [
+            "如：「厭惡」。"
+          ],
+          "quote": [
+            "《左傳．隱公十一年》：「天而既厭周德矣，吾其能與許爭乎？」",
+            "《論語．憲問》：「樂然後笑，人不厭其笑。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yàn"
+    },
+    {
+      "bopomofo": "ㄧㄢ",
+      "definitions": [
+        {
+          "def": "參見「厭厭」條。"
+        }
+      ],
+      "pinyin": "yān"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "厂",
+  "stroke_count": 14,
+  "title": "厭"
+}

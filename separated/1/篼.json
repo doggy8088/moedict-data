@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄡ",
+      "definitions": [
+        {
+          "def": "以竹製成，登山時用的轎子。",
+          "link": [
+            "也稱為「篼子」。"
+          ],
+          "quote": [
+            "明．張自烈《正字通．竹部》：「篼，竹輿也，箯之別 名，俗謂之篼子。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "竹片、柳條等編成的器具，可用以盛物。",
+          "example": [
+            "如：「背篼」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dōu"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "竹",
+  "stroke_count": 17,
+  "title": "篼"
+}

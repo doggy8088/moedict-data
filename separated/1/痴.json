@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔ",
+      "definitions": [
+        {
+          "def": "呆傻的。",
+          "example": [
+            "如：「痴呆」、「愚痴」、「痴人說夢」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "專情的。",
+          "example": [
+            "如：「痴心」、「痴情」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "指嗜好迷戀某種事物的人。",
+          "example": [
+            "如：「酒痴」、「情痴」、「書痴」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chī"
+    },
+    {
+      "bopomofo": "（又音）ㄔˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）chí"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "疒",
+  "stroke_count": 13,
+  "title": "痴"
+}

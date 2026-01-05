@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧ",
+      "definitions": [
+        {
+          "def": "淘米。",
+          "quote": [
+            "《說文解字．水部》：「淅，汏米也。」",
+            "《儀禮．士喪禮》：「淅米于堂。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "洗過的米。",
+          "quote": [
+            "《孟子．萬章下》：「孔子之去齊，接淅而行。」",
+            "漢．趙岐．注：「淅，漬米也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xī"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "水",
+  "stroke_count": 11,
+  "title": "淅"
+}

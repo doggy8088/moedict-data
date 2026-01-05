@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "放、扔、撇開。",
+          "quote": [
+            "《紅樓夢．第二八回》：「黛玉便把剪子一撂，說道：『理他呢，過一會就好了。』」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "弄倒、摔。",
+          "example": [
+            "如：「他兩三下就把對手撂倒。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "liào"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "手",
+  "stroke_count": 14,
+  "title": "撂"
+}

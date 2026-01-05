@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "賄賂。用來買通別人的財物。",
+          "quote": [
+            "《史記．卷一二六．滑稽傳．優孟傳》：「身死家室富，又恐受賕枉法。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "行賄或受賄。",
+          "quote": [
+            "《明史．卷二○二．胡松傳》：「伊王欲拓其洛陽府第，計直十萬金，以十二賕嚴嵩，期必得。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiú"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "貝",
+  "stroke_count": 14,
+  "title": "賕"
+}

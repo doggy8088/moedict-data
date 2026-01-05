@@ -1,0 +1,56 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄡ",
+      "definitions": [
+        {
+          "def": "竊取。",
+          "example": [
+            "如：「偷錢」、「偷東西」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "抽出、挪出（時間）。",
+          "example": [
+            "如：「偷空」、「偷閒」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "竊取東西的人。",
+          "example": [
+            "如：「小偷」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "私下、暗地裡。",
+          "example": [
+            "如：「偷看」、「偷聽」。"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "苟且敷衍。",
+          "example": [
+            "如：「偷安」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "刻薄、不厚道。",
+          "quote": [
+            "《論語．泰伯》：「故舊不遺，則民不偷。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "tōu"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "人",
+  "stroke_count": 11,
+  "title": "偷"
+}

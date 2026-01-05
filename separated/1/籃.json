@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄢˊ",
+      "definitions": [
+        {
+          "def": "藤、竹等物所編成的盛物器。",
+          "example": [
+            "如：「竹籃」、「菜籃」。"
+          ],
+          "quote": [
+            "《紅樓夢．第五九回》：「他卻一行走，一行編花籃。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "裝置在籃球架上供作投球目標的帶網鐵圈。",
+          "example": [
+            "如：「籃圈」、「投籃」、「進籃」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算籃裝物的單位。",
+          "example": [
+            "如：「一籃水果」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lán"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "竹",
+  "stroke_count": 20,
+  "title": "籃"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧˋ",
+      "definitions": [
+        {
+          "def": "果實與枝莖相連的部分。",
+          "example": [
+            "如：「根深蒂固」、「瓜熟蒂落」。"
+          ],
+          "quote": [
+            "明．楊繼盛〈書付尾箕兩兒〉：「心為一身之主，如樹之根，如果之蒂，最不可先壞了心。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "引申為末尾。",
+          "example": [
+            "如：「勿將菸蒂隨地亂扔！」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dì"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "艸",
+  "stroke_count": 13,
+  "title": "蒂"
+}

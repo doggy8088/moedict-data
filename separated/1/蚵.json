@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄜ",
+      "definitions": [
+        {
+          "def": "參見「屎蚵蜋」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "kē"
+    },
+    {
+      "bopomofo": "ㄜˊ",
+      "definitions": [
+        {
+          "def": "牡蠣。閩南、臺灣地區的音讀。",
+          "example": [
+            "如：「青蚵」、「蚵仔煎」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "é"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "虫",
+  "stroke_count": 11,
+  "title": "蚵"
+}

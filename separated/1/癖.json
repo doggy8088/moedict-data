@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧˇ",
+      "definitions": [
+        {
+          "def": "病名。中醫上指腹內生硬塊，消化不良的病症。",
+          "quote": [
+            "《玉篇．疒部》：「癖，食不消。」",
+            "《抱朴子．內篇．極言》：「凡食過則結積聚，飲過則成痰癖。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "習性、嗜好。",
+          "example": [
+            "如：「潔癖」、「書癖」、「睡癖」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pǐ"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄧˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）pì"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "疒",
+  "stroke_count": 18,
+  "title": "癖"
+}

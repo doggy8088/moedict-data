@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩˊ",
+      "definitions": [
+        {
+          "def": "參見「籧篨」條。"
+        }
+      ],
+      "pinyin": "qú"
+    },
+    {
+      "bopomofo": "ㄐㄩˇ",
+      "definitions": [
+        {
+          "def": "養蠶用的器具。",
+          "quote": [
+            "《禮記．月令》：「具曲植籧筐。」",
+            "漢．鄭玄．注：「時所以養蠶器也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jǔ"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "竹",
+  "stroke_count": 23,
+  "title": "籧"
+}

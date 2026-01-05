@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "由麥子研磨成粉或再加工而成的食品。如：「麵粉」、「麵條」。《說文解字．麥部》：「麵，麥屑末也」。",
+          "type": "名"
+        },
+        {
+          "def": "泛指研磨成粉末狀而可食用的食品。",
+          "example": [
+            "如：「豆麵」、「玉米麵」、「藥麵」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "miàn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "麥",
+  "stroke_count": 20,
+  "title": "麵"
+}

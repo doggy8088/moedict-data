@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "多話。",
+          "link": [
+            "通「讘」。"
+          ],
+          "quote": [
+            "《說文解字．品部》：「喦，多言也。」",
+            "清．段玉裁．注：「此與言部讘音義皆同。」",
+            "《玉篇．品部》：「喦，曳喦，爭言也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "niè"
+    },
+    {
+      "bopomofo": "ㄐㄧˊ",
+      "definitions": [
+        {
+          "def": "地名。春秋時代約在宋、鄭兩國之間。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jí"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "口",
+  "stroke_count": 12,
+  "title": "喦"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "一種足部浮腫的疾病。",
+          "quote": [
+            "《爾雅．釋訓》：「骭瘍為微，腫足為尰。」",
+            "《詩經．小雅．巧言》：「既微且尰，爾勇伊何！」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhǒng"
+    },
+    {
+      "bopomofo": "（又音）ㄔㄨㄥˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）chòng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "尢",
+  "stroke_count": 12,
+  "title": "尰"
+}

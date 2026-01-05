@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄞˋ",
+      "definitions": [
+        {
+          "def": "植物名。薔薇科蘋果屬，落葉小喬木。枝生絨毛，上揚如灌木。葉卵形，邊緣有細銳鋸齒，葉背有細柔毛。果實近於圓形，黃色或紅色，可供食用。",
+          "link": [
+            "俗稱為「蘋果」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "通「奈」。參見「柰何」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "nài"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "木",
+  "stroke_count": 9,
+  "title": "柰"
+}

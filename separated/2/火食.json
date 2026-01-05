@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄛˇ　˙ㄕ",
+      "definitions": [
+        {
+          "def": "每日的飯食。《北齊書．卷二五．張纂傳》：「輒令開門內之，分寄民家，給其火食，多所全濟。」也作「伙食」。",
+          "synonyms": "煙火"
+        }
+      ],
+      "pinyin": "huǒ shi"
+    },
+    {
+      "bopomofo": "ㄏㄨㄛˇ　ㄕˊ",
+      "definitions": [
+        {
+          "def": "熟食。",
+          "quote": [
+            "《禮記．王制》：「被髮文身，有不火食者矣。」"
+          ]
+        }
+      ],
+      "pinyin": "huǒ shí"
+    }
+  ],
+  "title": "火食"
+}

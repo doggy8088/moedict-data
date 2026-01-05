@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄤˊ",
+      "definitions": [
+        {
+          "def": "參見「劻勷」條。"
+        }
+      ],
+      "pinyin": "ráng"
+    },
+    {
+      "bopomofo": "ㄒㄧㄤ",
+      "definitions": [
+        {
+          "def": "成就、完成。",
+          "example": [
+            "如：「共勷盛舉」。"
+          ],
+          "link": [
+            "同「襄」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xiāng"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "力",
+  "stroke_count": 19,
+  "title": "勷"
+}

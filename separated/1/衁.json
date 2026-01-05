@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄤ",
+      "definitions": [
+        {
+          "def": "血液。",
+          "quote": [
+            "《說文解字．血部》：「衁，血也。」",
+            "《左傳．僖公十五年》：「士刲羊，亦無衁也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "huāng"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "血",
+  "stroke_count": 9,
+  "title": "衁"
+}

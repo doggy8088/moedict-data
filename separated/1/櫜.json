@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄠ",
+      "definitions": [
+        {
+          "def": "收藏盔甲、弓箭的囊袋。",
+          "quote": [
+            "《左傳．昭公元年》：「伍舉知其有備也，請垂櫜而入。」",
+            "晉．杜預．注：「垂櫜示無弓。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "收藏、儲存。",
+          "quote": [
+            "《詩經．小雅．彤弓》：「彤弓弨兮，受言櫜之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gāo"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "木",
+  "stroke_count": 19,
+  "title": "櫜"
+}

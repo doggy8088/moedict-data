@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨˋ",
+      "definitions": [
+        {
+          "def": "腹部。",
+          "quote": [
+            "《玉篇．肉部》：「肚，腹肚。」",
+            "宋．蘇軾〈鳳翔八觀詩．石鼓歌〉：「細觀初以指畫肚，欲讀嗟如箝在口。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dù"
+    },
+    {
+      "bopomofo": "ㄉㄨˇ",
+      "definitions": [
+        {
+          "def": "俗稱動物的胃為「肚」。",
+          "example": [
+            "如：「牛肚」、「豬肚」、「羊肚」。"
+          ],
+          "quote": [
+            "《集韻．上聲．姥韻》：「肚，胃也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dǔ"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "肉",
+  "stroke_count": 7,
+  "title": "肚"
+}

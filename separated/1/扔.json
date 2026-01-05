@@ -1,0 +1,70 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄥ",
+      "definitions": [
+        {
+          "def": "拋棄。",
+          "example": [
+            "如：「他扔下書本就走了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "投、擲。",
+          "example": [
+            "如：「把球扔過來。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "rēng"
+    },
+    {
+      "bopomofo": "ㄖㄥˊ",
+      "definitions": [
+        {
+          "def": "因、就。",
+          "quote": [
+            "《老子．第三八章》：「上禮為之而莫之應，則攘臂而扔之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "réng"
+    },
+    {
+      "bopomofo": "（又音）ㄖㄥˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）rěng"
+    },
+    {
+      "bopomofo": "ㄖㄥˋ",
+      "definitions": [
+        {
+          "def": "牽引。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷一下．釋詁》：「扔，引也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "摧毀。",
+          "quote": [
+            "《後漢書．卷六○．馬融傳》：「竄伏扔輪，發作梧槥。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "rèng"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "手",
+  "stroke_count": 5,
+  "title": "扔"
+}

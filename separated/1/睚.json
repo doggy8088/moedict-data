@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄚˊ",
+      "definitions": [
+        {
+          "def": "眼眶，眼睛的周邊。",
+          "quote": [
+            "說文新附．目部：「睚，目際也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yá"
+    },
+    {
+      "bopomofo": "（又音）ㄧㄞˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yái"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "目",
+  "stroke_count": 13,
+  "title": "睚"
+}

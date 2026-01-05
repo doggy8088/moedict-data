@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢ",
+      "definitions": [
+        {
+          "def": "木篋、木箱。",
+          "quote": [
+            "《說文解字．木部》：「椷，篋也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "書信。",
+          "example": [
+            "如：「瑤椷」、「華椷」。"
+          ],
+          "link": [
+            "通「緘」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiān"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "木",
+  "stroke_count": 13,
+  "title": "椷"
+}

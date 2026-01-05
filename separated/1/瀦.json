@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨ",
+      "definitions": [
+        {
+          "def": "水流停聚的地方。",
+          "quote": [
+            "唐．韓愈〈岳陽樓別竇司直〉詩：「瀦為七百里，吞納各殊狀。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "蓄積、積聚。",
+          "quote": [
+            "《新唐書．卷四一．地理志五》：「瀦溪水殖稻。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhū"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "水",
+  "stroke_count": 18,
+  "title": "瀦"
+}

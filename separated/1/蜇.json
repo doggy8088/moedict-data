@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄜˊ",
+      "definitions": [
+        {
+          "def": "參見「海蜇」條。",
+          "type": "名"
+        },
+        {
+          "def": "毒蟲叮咬。",
+          "quote": [
+            "唐．柳宗元〈讀韓愈所著毛穎傳後題〉：「而又設以奇異小蟲水草楂梨橘柚，苦鹹酸辛，雖蜇吻裂鼻，縮舌澀齒，而咸有篤好之者。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhé"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "虫",
+  "stroke_count": 13,
+  "title": "蜇"
+}

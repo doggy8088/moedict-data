@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "旺盛。",
+          "link": [
+            "通「勃」。"
+          ],
+          "quote": [
+            "《左傳．莊公十一年》：「禹湯罪己，其興也悖焉。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "bó"
+    },
+    {
+      "bopomofo": "ㄅㄟˋ",
+      "definitions": [
+        {
+          "def": "違背、違反。",
+          "quote": [
+            "《荀子．性惡》：「皆反於性而悖於情也。」",
+            "《國語．周語上》：「而後王斟酌焉，是以事行而不悖。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "衝突、矛盾。",
+          "quote": [
+            "《淮南子．脩務》：「聖人憂民如此其明也，而稱以無為，豈不悖哉！」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bèi"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "悖"
+}

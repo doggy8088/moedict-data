@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄚˇ",
+      "definitions": [
+        {
+          "def": "眼瞼一開一閉。",
+          "example": [
+            "如：「殺人不眨眼」、「他的眼睛連眨都不眨一下。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "閃動。",
+          "example": [
+            "如：「天上繁星一直眨個不停。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhǎ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "目",
+  "stroke_count": 10,
+  "title": "眨"
+}

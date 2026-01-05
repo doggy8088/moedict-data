@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄛˋ　˙ㄒㄧㄚ",
+      "definitions": [
+        {
+          "def": "掉落。",
+          "example": [
+            "如：「小雨點自天空紛紛落下。」"
+          ]
+        },
+        {
+          "def": "留下。",
+          "example": [
+            "如：「落下罵名」。"
+          ]
+        }
+      ],
+      "pinyin": "luò xia"
+    },
+    {
+      "bopomofo": "ㄌㄚˋ　˙ㄒㄧㄚ",
+      "definitions": [
+        {
+          "def": "遺漏而留下。",
+          "example": [
+            "如：「這是她昨天落下的皮包。」"
+          ]
+        },
+        {
+          "def": "落後。",
+          "example": [
+            "如：「他跑得太慢，落下一大截。」"
+          ]
+        }
+      ],
+      "pinyin": "là xia"
+    }
+  ],
+  "title": "落下"
+}

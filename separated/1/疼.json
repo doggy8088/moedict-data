@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄥˊ",
+      "definitions": [
+        {
+          "def": "痛。",
+          "example": [
+            "如：「頭疼」、「肚子疼」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "愛憐。",
+          "example": [
+            "如：「爺爺、奶奶最疼我了。」、「這孩子乖巧又伶俐，怪惹人疼的。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "téng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "疒",
+  "stroke_count": 10,
+  "title": "疼"
+}

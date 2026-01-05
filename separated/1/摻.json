@@ -1,0 +1,50 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄢ",
+      "definitions": [
+        {
+          "def": "參見「摻摻」條。"
+        }
+      ],
+      "pinyin": "shān"
+    },
+    {
+      "bopomofo": "ㄘㄢˋ",
+      "definitions": [
+        {
+          "def": "參見「漁陽摻撾」條。"
+        }
+      ],
+      "pinyin": "càn"
+    },
+    {
+      "bopomofo": "ㄕㄢˇ",
+      "definitions": [
+        {
+          "def": "持、握住。",
+          "quote": [
+            "《詩經．鄭風．遵大路》：「遵大路兮，摻執子之袪兮。」",
+            "唐．李白〈感時留別從兄徐王延年從弟延陵〉詩：「摻袂何所道，援毫投此辭。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shǎn"
+    },
+    {
+      "bopomofo": "ㄔㄢ",
+      "definitions": [
+        {
+          "def": "混合、雜入。同「攙」。如:「摻合」、「摻砂」、「摻水」。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "chān"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "手",
+  "stroke_count": 14,
+  "title": "摻"
+}

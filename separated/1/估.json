@@ -1,0 +1,43 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨ",
+      "definitions": [
+        {
+          "def": "評定、推算。",
+          "example": [
+            "如：「估價」、「估計」、「評估」。"
+          ],
+          "quote": [
+            "《儒林外史．第五二回》：「我前日新買了一匹馬，身材倒也還好，你估一估，值個甚麼價？」",
+            "《兒女英雄傳．第一○回》：「那金銀的數目多少，都料估得出來。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gū"
+    },
+    {
+      "bopomofo": "ㄍㄨˋ",
+      "definitions": [
+        {
+          "def": "參見「估衣」條。"
+        }
+      ],
+      "pinyin": "gù"
+    },
+    {
+      "bopomofo": "（又音）ㄍㄨˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）gǔ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "人",
+  "stroke_count": 7,
+  "title": "估"
+}

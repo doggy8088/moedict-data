@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄚˋ",
+      "definitions": [
+        {
+          "def": "動物名。哺乳動物綱食肉目。分水獺、海獺、旱獺三種。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "tà"
+    },
+    {
+      "bopomofo": "（又音）ㄊㄚˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）tǎ"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "犬",
+  "stroke_count": 19,
+  "title": "獺"
+}

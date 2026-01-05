@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄣˊ",
+      "definitions": [
+        {
+          "def": "撫、摸。",
+          "example": [
+            "如：「捫心自問」。"
+          ],
+          "quote": [
+            "宋．陸游〈午睡起遇急雨〉詩：「揩眼捫髯破晝眠，闌邊小立獨幽然。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "持、執。",
+          "quote": [
+            "明．徐弘祖《徐霞客遊記．卷三下．粵西遊日記二》：「捫石投水中，淵淵不遽及底。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mén"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "手",
+  "stroke_count": 11,
+  "title": "捫"
+}

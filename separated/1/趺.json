@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨ",
+      "definitions": [
+        {
+          "def": "腳背。",
+          "link": [
+            "同「跗」。"
+          ],
+          "quote": [
+            "《北史．卷九○．藝術傳下．馬嗣明傳》：「嗣明為灸兩足趺上各三七壯，便愈。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "盤腿而坐。",
+          "quote": [
+            "宋．蘇軾〈將往終南和子由見寄〉詩：「終朝危坐學僧趺，閉門不出閑履鳧。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "fū"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "足",
+  "stroke_count": 11,
+  "title": "趺"
+}

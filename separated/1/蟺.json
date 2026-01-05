@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄢˋ",
+      "definitions": [
+        {
+          "def": "參見「蜿蟺」條。"
+        }
+      ],
+      "pinyin": "shàn"
+    },
+    {
+      "bopomofo": "ㄔㄢˊ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「蟬」。"
+          ]
+        }
+      ],
+      "pinyin": "chán"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "虫",
+  "stroke_count": 19,
+  "title": "蟺"
+}

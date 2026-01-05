@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄛˊ",
+      "definitions": [
+        {
+          "def": "切、削。",
+          "quote": [
+            "漢．王充《論衡．彿騤》：「砥石劘厲，欲求銛也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "引申為直言勸諫。",
+          "quote": [
+            "《漢書．卷五一．賈山等傳．贊曰》：「賈山自下劘上。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "迫近。",
+          "quote": [
+            "唐．杜甫〈壯遊〉詩：「氣劘屈賈壘，目短曹劉牆。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mó"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "刀",
+  "stroke_count": 21,
+  "title": "劘"
+}

@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄜ",
+      "definitions": [
+        {
+          "def": "疾病。",
+          "example": [
+            "如：「沉痾」。"
+          ],
+          "quote": [
+            "《文選．潘岳．閑居賦》：「常膳載加，舊痾有痊。」",
+            "《文選．謝靈運．登池上樓詩》：「徇祿反窮海，臥痾對空林。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "仇隙、舊仇。",
+          "quote": [
+            "《後漢書．卷七四下．袁紹傳》：「願捐棄百痾，追攝舊義，復為母子昆弟如初。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "ē"
+    },
+    {
+      "bopomofo": "（又音）ㄎㄜ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）kē"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "疒",
+  "stroke_count": 13,
+  "title": "痾"
+}

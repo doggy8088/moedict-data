@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩˋ",
+      "definitions": [
+        {
+          "def": "麥粥。",
+          "quote": [
+            "《荀子．富國》：「夏日則與之瓜麮。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qù"
+    },
+    {
+      "bopomofo": "ㄑㄩˇ",
+      "definitions": [
+        {
+          "def": "烏麮：一種葉大花白，可供食用的植物。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷一○上．釋草》：「烏麮，葍也。」",
+            "疏證：「郭注云：『大葉白華，根如指，正白可啖。』」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qǔ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "麥",
+  "stroke_count": 16,
+  "title": "麮"
+}

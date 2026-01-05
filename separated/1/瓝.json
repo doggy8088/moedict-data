@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "小瓜。",
+          "quote": [
+            "《爾雅．釋草》宋．邢昺．疏：「瓞，一名瓝，小瓜也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "一莖九葉的草。",
+          "quote": [
+            "《爾雅．釋草》：「瓝，九葉。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bó"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "瓜",
+  "stroke_count": 9,
+  "title": "瓝"
+}

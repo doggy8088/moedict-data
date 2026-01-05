@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˋ",
+      "definitions": [
+        {
+          "def": "儲備、儲藏。",
+          "quote": [
+            "《說文解字．广部》：「庤，儲置屋下也。」",
+            "《遼史．卷五九．食貨志上》：「歲秋，社民隨所獲，戶出粟庤倉，社司籍其目。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "準備、具備。",
+          "quote": [
+            "《詩經．周頌．臣工》：「命我眾人，庤乃錢鎛。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "广",
+  "stroke_count": 9,
+  "title": "庤"
+}

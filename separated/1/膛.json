@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄤˊ",
+      "definitions": [
+        {
+          "def": "胸腔。",
+          "example": [
+            "如：「胸膛」、「開膛破肚」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "物體中空的部分。",
+          "example": [
+            "如：「槍膛」、「炮膛」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "táng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "肉",
+  "stroke_count": 15,
+  "title": "膛"
+}

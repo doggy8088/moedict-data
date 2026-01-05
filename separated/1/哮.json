@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄠ",
+      "definitions": [
+        {
+          "def": "吼叫。",
+          "example": [
+            "如：「怒哮」、「大肆咆哮」。"
+          ],
+          "quote": [
+            "《新唐書．卷一七三．裴度傳》：「猛虎自哮躍山林。」",
+            "宋．陸游〈呂氏子夔郎求詩〉：「果能哮吼如獅子，一瓣香應嗣放翁。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「哮喘」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiāo"
+    },
+    {
+      "bopomofo": "ㄒㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "高聲呼喚。",
+          "example": [
+            "如：「他大聲叫哮，希望有人聽到。」、「他正與對山的人呼哮著。」"
+          ],
+          "quote": [
+            "《集韻．去聲．效韻》：「哮，呼也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xiào"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "口",
+  "stroke_count": 10,
+  "title": "哮"
+}

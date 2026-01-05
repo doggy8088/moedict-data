@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄚˊ",
+      "definitions": [
+        {
+          "def": "參見「碴兒」條。",
+          "type": "名"
+        },
+        {
+          "def": "被陶瓷器或玻璃等碎片割傷。",
+          "example": [
+            "如：「被玻璃碎片碴破手了！」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chá"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "石",
+  "stroke_count": 14,
+  "title": "碴"
+}

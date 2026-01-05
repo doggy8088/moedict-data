@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄥˇ",
+      "definitions": [
+        {
+          "def": "在水中浮動。",
+          "example": [
+            "如：「游泳」、「晨泳」。"
+          ],
+          "quote": [
+            "《說文解字．水部》：「泳，潛行水中也。」",
+            "《詩經．邶風．谷風》：「就其淺矣！泳之游之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yǒng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "水",
+  "stroke_count": 8,
+  "title": "泳"
+}

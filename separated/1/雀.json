@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄑㄩㄝˋ",
+      "definitions": [
+        {
+          "def": "動物名。鳥綱雀形目鳴禽類。體形小，發聲器發達。羽毛褐色有黑斑。平時捕食昆蟲為生，亦食果實、種子。",
+          "link": [
+            "俗稱為「麻雀」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "（讀音）què"
+    },
+    {
+      "bopomofo": "ㄑㄧㄠ",
+      "definitions": [
+        {
+          "def": "雀斑的雀的語音。"
+        }
+      ],
+      "pinyin": "qiāo"
+    },
+    {
+      "bopomofo": "（語音）ㄑㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）qiǎo"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "隹",
+  "stroke_count": 11,
+  "title": "雀"
+}

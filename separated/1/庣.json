@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄠ",
+      "definitions": [
+        {
+          "def": "不滿的樣子。",
+          "quote": [
+            "《廣韻．平聲．蕭韻》：「庣，不滿之貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "凹下的地方。",
+          "quote": [
+            "《漢書．卷二一．律曆志上》：「其法用銅，方尺而圜其外，旁有庣焉。其上為斛，其下為斗。」",
+            "唐．顏師古．注：「庣，不滿之處也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tiāo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "广",
+  "stroke_count": 9,
+  "title": "庣"
+}

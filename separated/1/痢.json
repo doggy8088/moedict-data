@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˋ",
+      "definitions": [
+        {
+          "def": "病名。一種由細菌或阿米巴原蟲所感染的腸道炎症。患者有強烈的腹瀉及腹絞痛，解便頻繁且稀薄，嚴重時便中有血，並伴隨著電解質和水分的流失，而導致嚴重虛脫。",
+          "link": [
+            "也稱為「痢疾」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lì"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "疒",
+  "stroke_count": 12,
+  "title": "痢"
+}

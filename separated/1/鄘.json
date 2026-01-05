@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄥ",
+      "definitions": [
+        {
+          "def": "國名。周代諸侯國，故城在今河南省汲縣境內，周武王封管叔監殷於此。",
+          "type": "名"
+        },
+        {
+          "def": "城市。",
+          "link": [
+            "通「墉」。"
+          ],
+          "quote": [
+            "《左傳．昭公二十一年》：「宋城舊鄘及桑林之門而守之。」",
+            "晉．杜預．注：「舊鄘，故城也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有鄘瓊。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yōng"
+    },
+    {
+      "bopomofo": "（又音）ㄩㄥˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yúng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "邑",
+  "stroke_count": 14,
+  "title": "鄘"
+}

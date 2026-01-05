@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢˇ",
+      "definitions": [
+        {
+          "def": "突出。",
+          "quote": [
+            "唐．韓愈〈柳子厚墓誌銘〉：「逮其父時，雖少年，已自成人，能取進士第，嶄然見頭角。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "很、特別，表示程度。",
+          "example": [
+            "如：「嶄新」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "zhǎn"
+    },
+    {
+      "bopomofo": "ㄔㄢˊ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「巉」。"
+          ]
+        }
+      ],
+      "pinyin": "chán"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "山",
+  "stroke_count": 14,
+  "title": "嶄"
+}

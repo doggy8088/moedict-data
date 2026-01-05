@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨㄛˇ　ㄓㄤˇ",
+      "definitions": [
+        {
+          "def": "一所的負責人。",
+          "example": [
+            "如：「衛生所所長」、「研究所所長」。"
+          ]
+        }
+      ],
+      "pinyin": "suǒ zhǎng"
+    },
+    {
+      "bopomofo": "ㄙㄨㄛˇ　ㄔㄤˊ",
+      "definitions": [
+        {
+          "def": "專精的技能。",
+          "quote": [
+            "《文選．任昉．王文憲集序》：「立言必雅，未嘗顯其所長，持論從容，未嘗言人所短。」"
+          ],
+          "synonyms": "長處"
+        }
+      ],
+      "pinyin": "suǒ cháng"
+    }
+  ],
+  "title": "所長"
+}

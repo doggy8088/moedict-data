@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄢˊ",
+      "definitions": [
+        {
+          "def": "寬刃的斧頭。",
+          "quote": [
+            "《玉篇．金部》：「鐇，廣刃斧也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "鏟。",
+          "quote": [
+            "《後漢書．卷八○．文苑傳上．杜篤傳》：「田田相如，鐇钁株林。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fán"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "金",
+  "stroke_count": 20,
+  "title": "鐇"
+}

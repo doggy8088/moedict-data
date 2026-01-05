@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "才德出眾的人。",
+          "example": [
+            "如：「俊彥」、「碩彥」。"
+          ],
+          "quote": [
+            "《詩經．鄭風．羔裘》：「彼其之子，邦之彥兮。」",
+            "漢．毛亨．傳：「彥，士之美稱。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yàn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "彡",
+  "stroke_count": 9,
+  "title": "彥"
+}

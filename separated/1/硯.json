@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "磨墨的用具，通常用石頭製成。",
+          "example": [
+            "如：「硯臺」。"
+          ],
+          "quote": [
+            "宋．蘇軾〈次韻孔毅父久旱已而甚雨〉詩三首之一：「我生無田食破硯，爾來硯枯磨不出。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "有同學情誼的。",
+          "example": [
+            "如：「硯兄」、「硯友」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yàn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "石",
+  "stroke_count": 12,
+  "title": "硯"
+}

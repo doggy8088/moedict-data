@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄥ",
+      "definitions": [
+        {
+          "def": "驚擾、恐懼不安。",
+          "quote": [
+            "《左傳．僖公二十八年》：「曹人兇懼。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "凶惡。",
+          "link": [
+            "通「凶」。"
+          ],
+          "quote": [
+            "南朝宋．劉義慶《世說新語．自新》：「周處年少時，兇彊俠氣，為鄉里所患。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiōng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "儿",
+  "stroke_count": 6,
+  "title": "兇"
+}

@@ -1,0 +1,54 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄤˋ",
+      "definitions": [
+        {
+          "def": "發起、領導。",
+          "example": [
+            "如：「倡導」、「提倡」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chàng"
+    },
+    {
+      "bopomofo": "ㄔㄤ",
+      "definitions": [
+        {
+          "def": "古以歌舞演戲為業的人。",
+          "example": [
+            "如：「倡優」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "娼妓。",
+          "link": [
+            "通「娼」。"
+          ],
+          "quote": [
+            "唐．白行簡《李娃傳》：「汧國夫人李娃，長安之倡女也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "狂妄。",
+          "link": [
+            "通「猖」。"
+          ],
+          "quote": [
+            "《莊子．山木》：「倡狂妄行。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "chāng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "倡"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄣˋ",
+      "definitions": [
+        {
+          "def": "敏捷、疾速。",
+          "quote": [
+            "《說文解字．人部》：「侚，疾也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "為達某種目的、理想而犧牲生命。",
+          "link": [
+            "通「徇」、「殉」。"
+          ],
+          "quote": [
+            "《敦煌變文集新書．卷二．長興四年中興殿應聖節講經文》：「弟子常欲齋戒不煞，迫以身侚物，不獲從志。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xùn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "侚"
+}

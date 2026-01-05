@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄥˇ",
+      "definitions": [
+        {
+          "def": "古代殉葬用的木偶。",
+          "example": [
+            "如：「陶俑」、「兵馬俑」。"
+          ],
+          "quote": [
+            "《孟子．梁惠王上》：「始作俑者，其無後乎？」",
+            "《文選．謝惠連．祭古冢文》：「循題興念，撫俑增哀。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yǒng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "人",
+  "stroke_count": 9,
+  "title": "俑"
+}

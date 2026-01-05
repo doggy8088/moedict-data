@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄛ",
+      "definitions": [
+        {
+          "def": "旋轉流動成圓形而中間下陷的水流。",
+          "example": [
+            "如：「漩渦」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "像渦樣的凹點。",
+          "example": [
+            "如：「酒渦」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "wō"
+    },
+    {
+      "bopomofo": "ㄍㄨㄛ",
+      "definitions": [
+        {
+          "def": "參見「渦河」條。"
+        }
+      ],
+      "pinyin": "guō"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "水",
+  "stroke_count": 12,
+  "title": "渦"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗ",
+      "definitions": [
+        {
+          "def": "商量、詢問。",
+          "example": [
+            "如：「諮詢」、「諮商」。"
+          ],
+          "link": [
+            "通「咨」。"
+          ],
+          "quote": [
+            "《後漢書．卷四四．胡廣傳》：「國有大政，必議之於前訓，諮之於故老。」",
+            "三國魏．王粲〈七哀〉詩三首之三：「蓼蟲不知辛，去來勿與諮。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zī"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "言",
+  "stroke_count": 16,
+  "title": "諮"
+}

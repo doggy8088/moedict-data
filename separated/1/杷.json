@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄆㄚˊ",
+      "definitions": [
+        {
+          "def": "參見「枇杷」條。",
+          "type": "名"
+        },
+        {
+          "def": "一種用來聚攏或散開穀物的農具。",
+          "quote": [
+            "漢．王襃〈僮約〉：「屈竹作杷，削治鹿盧。」",
+            "宋．蘇軾〈吳中田婦歎〉：「霜風來時雨如瀉，杷頭出菌鐮生衣。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "（讀音）pá"
+    },
+    {
+      "bopomofo": "（語音）˙ㄆㄚ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）pa"
+    },
+    {
+      "bopomofo": "（又音）˙ㄅㄚ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）ba"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "木",
+  "stroke_count": 8,
+  "title": "杷"
+}

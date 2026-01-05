@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄠˊ",
+      "definitions": [
+        {
+          "def": "一種烙餅用的平底鍋。",
+          "quote": [
+            "《玉篇．金部》：「鏊，餅鏊也。」",
+            "明．張自烈《正字通．金部》：「鏊，今烙餅平鍋曰餅鏊，亦曰烙鍋。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "áo"
+    },
+    {
+      "bopomofo": "（又音）ㄠˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）ào"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "金",
+  "stroke_count": 19,
+  "title": "鏊"
+}

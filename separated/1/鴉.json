@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄚ",
+      "definitions": [
+        {
+          "def": "鳥綱燕雀目鴉科的通稱。其嘴大，翼長，腳有力，純黑者稱為「烏」，背灰者稱為「鴉」。常見的有烏鴉、寒鴉等。",
+          "type": "名"
+        },
+        {
+          "def": "色黑如鴉羽。",
+          "example": [
+            "如：「鴉青」、「鴉鬢」、「鴉髻」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yā"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "鳥",
+  "stroke_count": 15,
+  "title": "鴉"
+}

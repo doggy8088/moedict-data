@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄡˊ",
+      "definitions": [
+        {
+          "def": "歡悅、高興。",
+          "quote": [
+            "《廣韻．平聲．虞韻》：「慺，悅也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "恭敬、謹慎。",
+          "quote": [
+            "《玉篇．心部》：「慺，謹敬也。」",
+            "《抱朴子．外篇．尚博》：「於是以其所不解者為虛誕，慺誠以為爾，未必違情以傷物也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "lóu"
+    },
+    {
+      "bopomofo": "ㄌㄩˇ",
+      "definitions": [
+        {
+          "def": "姓。",
+          "quote": [
+            "《集韻．上聲．噳韻》：「慺，姓也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lǚ"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "心",
+  "stroke_count": 14,
+  "title": "慺"
+}

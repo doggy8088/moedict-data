@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨㄢ",
+      "definitions": [
+        {
+          "def": "繫、綁。",
+          "example": [
+            "如：「她被孩子拴住了，走不開。」"
+          ],
+          "quote": [
+            "《紅樓夢．第四七回》：「湘蓮見前面人跡已稀，且有一帶葦塘。便下馬將馬拴在樹上。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "門閂。",
+          "quote": [
+            "《水滸傳．第四回》：「門子只得捻腳捻手，把拴拽了，飛也似閃入房裡躲了。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shuān"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "手",
+  "stroke_count": 9,
+  "title": "拴"
+}

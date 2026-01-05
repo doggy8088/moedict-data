@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄤ",
+      "definitions": [
+        {
+          "def": "行走。",
+          "quote": [
+            "《西遊記．第二○回》：「八戒調過頭來，把耳朵擺了幾擺，長嘴伸了一伸，嚇得那些人東倒西歪，亂蹡亂跌。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiāng"
+    },
+    {
+      "bopomofo": "ㄑㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "參見「踉蹡」條。"
+        }
+      ],
+      "pinyin": "qiàng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "足",
+  "stroke_count": 18,
+  "title": "蹡"
+}

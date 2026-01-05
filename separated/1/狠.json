@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄣˇ",
+      "definitions": [
+        {
+          "def": "忍住痛苦，下定決心。",
+          "example": [
+            "如：「他竟狠下心來不管他。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "凶惡、殘忍。",
+          "example": [
+            "如：「狠毒」、「心狠手辣」。"
+          ],
+          "quote": [
+            "《喻世明言．卷四○．沈小霞相會出師表》：「他為人更狠，但有些小人之才，博聞強記，能思善算。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "hěn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "犬",
+  "stroke_count": 9,
+  "title": "狠"
+}

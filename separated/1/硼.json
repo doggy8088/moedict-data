@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄥˊ",
+      "definitions": [
+        {
+          "def": "（boron，B）化學元素。原子序5 。非金屬固體元素之一。純品由人工製成，有褐色　非晶形粉末及堅硬的結晶形二種。用作催化劑，可供製陶瓷、合金、溫度計等。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "péng"
+    },
+    {
+      "bopomofo": "ㄆㄥ",
+      "definitions": [
+        {
+          "def": "參見「硼砰」條。"
+        }
+      ],
+      "pinyin": "pēng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "石",
+  "stroke_count": 13,
+  "title": "硼"
+}

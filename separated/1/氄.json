@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "鳥獸細密的毛髮。",
+          "quote": [
+            "《書經．堯典》：「厥民隩，鳥獸氄毛。」",
+            "漢．孔安國．傳：「鳥獸皆生耎毳細毛以自溫焉。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "rǒng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "毛",
+  "stroke_count": 16,
+  "title": "氄"
+}

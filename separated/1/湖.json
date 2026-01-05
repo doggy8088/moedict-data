@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨˊ",
+      "definitions": [
+        {
+          "def": "被陸地包圍，匯集大水的地方。",
+          "example": [
+            "如：「太湖」、「洞庭湖」、「鄱陽湖」、「三江五湖」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有湖沐。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "hú"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "水",
+  "stroke_count": 12,
+  "title": "湖"
+}

@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄌㄜˋ",
+      "definitions": [
+        {
+          "def": "肋骨的簡稱。",
+          "example": [
+            "如：「左肋」、「右肋」、「雞肋」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "（讀音）lè"
+    },
+    {
+      "bopomofo": "（語音）ㄌㄟˋ",
+      "definitions": [
+        {
+          "def": "參見「肋條」、「肋巴扇兒」等條。"
+        }
+      ],
+      "pinyin": "（語音）lèi"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "肉",
+  "stroke_count": 6,
+  "title": "肋"
+}

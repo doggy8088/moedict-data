@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "脛（小腿）和股（大腿）的總稱。是人或動物用來行走或支持軀體的部位。",
+          "example": [
+            "如：「玉腿」、「拔腿就跑」、「盤腿而坐」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "器物底部如腿一般，用來支撐物體的部分。",
+          "example": [
+            "如：「桌腿」、「椅腿」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "火腿的簡稱。",
+          "example": [
+            "如：「雲腿」、「宣腿」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tuǐ"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "肉",
+  "stroke_count": 14,
+  "title": "腿"
+}

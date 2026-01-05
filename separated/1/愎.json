@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧˋ",
+      "definitions": [
+        {
+          "def": "任性、固執。",
+          "example": [
+            "如：「剛愎自用」。"
+          ],
+          "quote": [
+            "《左傳．哀公二十六年》：「君愎而虐。」",
+            "宋．胡銓〈戊午上高宗封事〉：「則檜之遂非狠愎，已自可見。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "bì"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "心",
+  "stroke_count": 12,
+  "title": "愎"
+}

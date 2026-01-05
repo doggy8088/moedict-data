@@ -1,0 +1,48 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "一種樹木。其花可織為布。",
+          "quote": [
+            "《廣韻．平聲．東韻》：「橦，木名。花可為布。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tóng"
+    },
+    {
+      "bopomofo": "ㄔㄨㄥ",
+      "definitions": [
+        {
+          "def": "刺。",
+          "quote": [
+            "《戰國策．秦策一》：「寬則兩軍相攻，迫則杖戟相橦。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chōng"
+    },
+    {
+      "bopomofo": "ㄔㄨㄤˊ",
+      "definitions": [
+        {
+          "def": "柱子。",
+          "quote": [
+            "《文選．木華．海賦》：「決帆摧橦，戕風起惡。」",
+            "唐．李白〈天長節度使鄂州刺史韋公德政碑〉：「都盧尋橦，倒掛浮雲之影。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chuáng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "木",
+  "stroke_count": 16,
+  "title": "橦"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˋ",
+      "definitions": [
+        {
+          "def": "割稻穀的鐮刀。",
+          "quote": [
+            "《說文解字．金部》：「銍，穫禾短鎌也。」",
+            "《漢書．卷九九．王莽傳中》：「予之西巡，必躬載銍。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用鐮刀割。",
+          "quote": [
+            "《廣韻．入聲．質韻》：「銍，刈也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "金",
+  "stroke_count": 14,
+  "title": "銍"
+}

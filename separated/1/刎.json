@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄣˇ",
+      "definitions": [
+        {
+          "def": "用刀割頸。",
+          "quote": [
+            "《戰國策．燕策三》：「樊于期偏袒扼腕而進曰：『此臣日夜切齒拊心也，乃今得聞教。』遂自刎。」",
+            "《漢書．卷九○．酷吏傳．田延年傳》：「聞鼓聲，自刎死。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "wěn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "刀",
+  "stroke_count": 6,
+  "title": "刎"
+}

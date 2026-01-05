@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢˋ",
+      "definitions": [
+        {
+          "def": "身體因受寒或驚恐而抖動。",
+          "quote": [
+            "《儒林外史．第三回》：「那手早顫起來，不敢打到第二下。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "物體搖動、晃動。",
+          "quote": [
+            "唐．韓偓〈忍笑〉詩：「水精鸚鵡釵頭顫，舉袂佯羞忍笑時。」",
+            "宋．史達祖〈杏花天．細風微月〉詞：「棲鶯未覺花梢顫，踏損殘紅幾片。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhàn"
+    },
+    {
+      "bopomofo": "（又音）ㄔㄢˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）chàn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "頁",
+  "stroke_count": 22,
+  "title": "顫"
+}

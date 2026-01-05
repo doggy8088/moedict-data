@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "威武勇猛。",
+          "quote": [
+            "《說文解字．人部》：「僩，武貌。」",
+            "《廣韻．上聲．潸韻》：「僩，武猛貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "胸襟寬大開闊。",
+          "quote": [
+            "《荀子．榮辱》：「陋者俄且僩也，愚者俄且知也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiàn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "人",
+  "stroke_count": 14,
+  "title": "僩"
+}

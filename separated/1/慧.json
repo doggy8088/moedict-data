@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "聰明才智。",
+          "example": [
+            "如：「智慧」。"
+          ],
+          "quote": [
+            "《左傳．成公十八年》：「周子有兄而無慧，不能辨菽麥。」",
+            "南朝宋．劉義慶《世說新語．假譎》：「唯有一女，甚有姿慧。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "聰敏、敏捷。",
+          "example": [
+            "如：「聰慧」、「慧黠」、「慧性」、「秀外慧中」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "huì"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "心",
+  "stroke_count": 15,
+  "title": "慧"
+}

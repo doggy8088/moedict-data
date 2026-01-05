@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˊ",
+      "definitions": [
+        {
+          "def": "樂器名。古代一種吹奏樂器，形似笙而較大，三六管，後減至二三管。",
+          "quote": [
+            "《周禮．春官．笙師》：「笙師掌教吹竽、笙……管。」",
+            "鄭玄注引鄭司農云：「竽，三十六簧；笙，十三簧。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yú"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "竹",
+  "stroke_count": 9,
+  "title": "竽"
+}

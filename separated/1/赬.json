@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄥ",
+      "definitions": [
+        {
+          "def": "淺紅色。",
+          "quote": [
+            "《爾雅．釋器》：「再染謂之赬。」",
+            "晉．郭璞．注：「赬，淺赤。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "淺紅的。",
+          "quote": [
+            "《詩經．周南．汝墳》：「魴魚赬尾，王室如燬。」",
+            "唐．李白〈明唐賦〉：「赬欄各落，偃蹇霄漢。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "chēng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "赤",
+  "stroke_count": 16,
+  "title": "赬"
+}

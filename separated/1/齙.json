@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（語音）ㄅㄠ",
+      "definitions": [
+        {
+          "def": "牙齒突露。",
+          "quote": [
+            "《玉篇．齒部》：「齙，露齒。」",
+            "《資治通鑑．卷二六八．後梁紀三．均王乾化三年》：「蜀太子元膺，豭喙齙齒，目視不正。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "（語音）bāo"
+    },
+    {
+      "bopomofo": "（讀音）ㄆㄠˊ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。"
+        }
+      ],
+      "pinyin": "（讀音）páo"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "齒",
+  "stroke_count": 20,
+  "title": "齙"
+}

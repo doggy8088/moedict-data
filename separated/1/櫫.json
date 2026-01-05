@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨ",
+      "definitions": [
+        {
+          "def": "小木樁。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷七上．釋宮》：「櫫，杙也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "有所表識、記號。",
+          "quote": [
+            "《廣韻．平聲．魚韻》：「櫫，揭櫫，有所表識。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhū"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "木",
+  "stroke_count": 19,
+  "title": "櫫"
+}

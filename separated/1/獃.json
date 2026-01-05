@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄞ",
+      "definitions": [
+        {
+          "def": "痴愚。《儒林外史．第一三回》：「獃兄弟，這又沒主意了。」今作「呆」。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "dāi"
+    },
+    {
+      "bopomofo": "（又音）ㄞˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）ái"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "犬",
+  "stroke_count": 14,
+  "title": "獃"
+}

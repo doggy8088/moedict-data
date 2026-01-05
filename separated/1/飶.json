@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧˋ",
+      "definitions": [
+        {
+          "def": "食物的香味。",
+          "quote": [
+            "《說文解字．食部》：「飶，食之香也。」",
+            "《詩經．周頌．載芟》：「有飶其香，邦家之光。」",
+            "漢．毛亨．傳：「飶，芬香也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bì"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "食",
+  "stroke_count": 13,
+  "title": "飶"
+}

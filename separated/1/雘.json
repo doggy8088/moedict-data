@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "一種赤色的石脂，可做顏料。",
+          "quote": [
+            "《書經．梓材》：「若作梓材，既勤撲斲，惟其塗丹雘。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "huò"
+    },
+    {
+      "bopomofo": "（又音）ㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）wò"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "隹",
+  "stroke_count": 18,
+  "title": "雘"
+}

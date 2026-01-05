@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧˇ",
+      "definitions": [
+        {
+          "def": "遷移、移轉。",
+          "example": [
+            "如：「遷徙」。"
+          ],
+          "quote": [
+            "《老子．第八○章》：「使民重死而不遠徙。」",
+            "《史記．卷三．殷本紀》：「殷民咨胥皆怨，不欲徙。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xǐ"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "彳",
+  "stroke_count": 11,
+  "title": "徙"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄤˋ",
+      "definitions": [
+        {
+          "def": "在布帛上題字，作為慶賀或祭弔的禮品。",
+          "example": [
+            "如：「喜幛」、「壽幛」、「祭幛」。"
+          ],
+          "link": [
+            "也稱為「幛子」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "遮蔽、遮擋。",
+          "quote": [
+            "《聊齋志異．卷一○．葛巾》：「嫗以身幛女，叱曰：『狂生何為！』」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhàng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "巾",
+  "stroke_count": 14,
+  "title": "幛"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄤˇ",
+      "definitions": [
+        {
+          "def": "遮蔽。",
+          "example": [
+            "如：「擋太陽」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "攔阻、抵擋。",
+          "example": [
+            "如：「擋風遮雨」、「兵來將擋，水來土掩。」"
+          ],
+          "quote": [
+            "《兒女英雄傳．第四○回》：「你看這可不叫作運氣來了，崑崙山也擋不住麼。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dǎng"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "手",
+  "stroke_count": 16,
+  "title": "擋"
+}

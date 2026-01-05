@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧˋ",
+      "definitions": [
+        {
+          "def": "鞋子。",
+          "quote": [
+            "《太平廣記．卷四八六．長恨傳》：「珮紅玉，曳鳳舄。」",
+            "宋．無名氏《梅妃傳》：「御榻下有婦女遺舄。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "鹹而貧瘠的土地。",
+          "link": [
+            "通「潟」。"
+          ],
+          "quote": [
+            "《文選．木華．海賦》：「襄陵廣舄。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xì"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "臼",
+  "stroke_count": 11,
+  "title": "舄"
+}

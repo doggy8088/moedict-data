@@ -1,0 +1,43 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "河川名。發源於今大陸地區山東省濟南市，東流為小青河，北流注入濟水。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "luò"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄛˋ",
+      "definitions": [
+        {
+          "def": "(二)之又音。"
+        }
+      ],
+      "pinyin": "（又音）pò"
+    },
+    {
+      "bopomofo": "ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "湖泊。",
+          "link": [
+            "通「泊」。"
+          ],
+          "quote": [
+            "《大宋宣和遺事．亨集》：「直奔梁山濼上。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bó"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "水",
+  "stroke_count": 18,
+  "title": "濼"
+}

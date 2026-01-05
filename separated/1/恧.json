@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄩˋ",
+      "definitions": [
+        {
+          "def": "羞慚、慚愧。",
+          "example": [
+            "如：「慚恧」。"
+          ],
+          "quote": [
+            "《文選．嵇康．幽憤詩》：「內負宿心，外恧良朋。」",
+            "唐．柳宗元〈乞巧文〉：「言語譎詭，令臣縮恧。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "nǜ"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "恧"
+}

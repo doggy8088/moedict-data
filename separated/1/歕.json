@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄣ",
+      "definitions": [
+        {
+          "def": "吐、噴出。",
+          "quote": [
+            "元．紀君祥《趙氏孤兒．第一折》：「見孤兒額顱上汗津津，口角頭乳食歕　。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pēn"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄣˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）pèn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "欠",
+  "stroke_count": 16,
+  "title": "歕"
+}

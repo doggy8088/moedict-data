@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˇ",
+      "definitions": [
+        {
+          "def": "質地似玉的美石。",
+          "quote": [
+            "《說文解字．玉部》：「瑀，石之次玉者。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "玉佩。",
+          "quote": [
+            "《續漢書志．第三十．輿服志下》：「至孝明皇帝，乃為大佩，衝牙雙瑀璜，皆以白玉。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yǔ"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "玉",
+  "stroke_count": 13,
+  "title": "瑀"
+}

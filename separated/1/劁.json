@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "割、斷。",
+          "quote": [
+            "《集韻．平聲．宵韻》：「劁，斷也，刈也。」",
+            "《齊民要術．卷一．收種》：「選好穗純色者，劁刈高懸之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiáo"
+    },
+    {
+      "bopomofo": "（又音）ㄑㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）qiào"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "刀",
+  "stroke_count": 14,
+  "title": "劁"
+}

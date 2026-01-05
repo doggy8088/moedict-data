@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "細布。",
+          "link": [
+            "通「絨」。"
+          ],
+          "quote": [
+            "《廣韻．平聲．東韻》：「狨，細布。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "動物名。脊椎動物門哺乳綱靈長目猿科。體型矮小，被黃色的絲狀軟毛，耳上有白色長叢毛。頭圓，尾長，通常棲於樹上，類似松鼠。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "róng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "犬",
+  "stroke_count": 9,
+  "title": "狨"
+}

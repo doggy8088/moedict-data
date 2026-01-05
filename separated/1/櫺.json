@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "門或窗檻、欄杆上雕花的格子。",
+          "quote": [
+            "《文選．班固．西都賦》：「舍櫺檻而卻倚，若顛墜而復稽。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "屋檐。",
+          "quote": [
+            "南朝宋．謝靈運〈山居賦〉：「夏涼寒燠，隨時取適，階基回互，橑櫺乘隔。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "líng"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "木",
+  "stroke_count": 21,
+  "title": "櫺"
+}

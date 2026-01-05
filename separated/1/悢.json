@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "悲傷、惆悵。",
+          "quote": [
+            "《文選．李陵．與蘇武詩三首之三》：「徘徊蹊路側，悢悢不得辭。」",
+            "《文選．趙至．與稽茂齊書》：「臨書悢然，知復何云。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "liàng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "悢"
+}

@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "草類植物的總稱。",
+          "example": [
+            "如：「奇卉」、「花卉」。"
+          ],
+          "quote": [
+            "《爾雅．釋草》：「卉，草。」",
+            "晉．郭璞．注：「卉，百卉總名。」",
+            "《詩經．小雅．出車》：「春日遲遲，卉木萋萋。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "huì"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "十",
+  "stroke_count": 5,
+  "title": "卉"
+}

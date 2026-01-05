@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "刀套。",
+          "example": [
+            "如：「還刀入鞘」。"
+          ],
+          "quote": [
+            "唐．盧照鄰〈劉生〉詩：「翠羽裝刀鞘，黃金飾馬鈴。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用來盛裝銀物，以便轉運的中空木筒。",
+          "quote": [
+            "《儒林外史．第三四回》：「儘著響馬賊趕著百十個牲口，馱了銀鞘，往小路上去了。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiào"
+    },
+    {
+      "bopomofo": "ㄕㄠ",
+      "definitions": [
+        {
+          "def": "拴在鞭子上頭的細皮條。",
+          "quote": [
+            "《晉書．卷一一四．苻堅載記下》：「長鞘馬鞭擊左股，太歲南行當復虜。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shāo"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "革",
+  "stroke_count": 16,
+  "title": "鞘"
+}

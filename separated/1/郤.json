@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧˋ",
+      "definitions": [
+        {
+          "def": "孔隙。",
+          "link": [
+            "通「隙」。"
+          ],
+          "quote": [
+            "《莊子．知北遊》：「人生天地之間，若白駒之過郤。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如春秋時晉國有郤缺。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "xì"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "邑",
+  "stroke_count": 10,
+  "title": "郤"
+}

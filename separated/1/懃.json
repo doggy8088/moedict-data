@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "努力。",
+          "link": [
+            "通「勤」。"
+          ],
+          "quote": [
+            "晉．支遁〈座右銘〉：「懃之懃之，至道非彌。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "待人誠懇周到。",
+          "example": [
+            "如：「慇懃」、「懃懇」。"
+          ],
+          "link": [
+            "通「勤」。"
+          ],
+          "quote": [
+            "宋．蘇舜欽〈和韓三謁歐陽九之作〉詩：「韓子我所佳，招我懃有謂。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "姓。如宋代有懃鉉。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qín"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "心",
+  "stroke_count": 17,
+  "title": "懃"
+}

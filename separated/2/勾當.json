@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄡˋ　ㄉㄤ",
+      "definitions": [
+        {
+          "def": "擔當、料理事務。",
+          "quote": [
+            "《初刻拍案驚奇．卷二五》：「院判勾當喪事畢了，帶了靈柩歸葬臨安。」"
+          ],
+          "synonyms": "營謀"
+        }
+      ],
+      "pinyin": "gòu dāng"
+    },
+    {
+      "bopomofo": "ㄍㄡˋ　˙ㄉㄤ",
+      "definitions": [
+        {
+          "def": "事情。多指壞事而言。",
+          "quote": [
+            "《紅樓夢．第三三回》：「你們問問他幹的勾當可饒不可饒。」"
+          ]
+        }
+      ],
+      "pinyin": "gòu dang"
+    }
+  ],
+  "title": "勾當"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄢ",
+      "definitions": [
+        {
+          "def": "大畚箕。",
+          "quote": [
+            "《廣韻．平聲．元韻》：「籓，大箕。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "屏障。",
+          "quote": [
+            "宋．蘇軾〈答新蘇州黃龍圖啟〉：「金華玉堂，帝左右之高選；武林茂苑，江東南之要籓。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fān"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "竹",
+  "stroke_count": 21,
+  "title": "籓"
+}

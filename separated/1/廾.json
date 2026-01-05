@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「廿」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄍㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "並攏兩手以捧物。",
+          "quote": [
+            "《說文解字．廾部》：「廾，竦手也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "二十。",
+          "link": [
+            "同「廿」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǒng"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "廾",
+  "stroke_count": 3,
+  "title": "廾"
+}

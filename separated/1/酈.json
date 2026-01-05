@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˋ",
+      "definitions": [
+        {
+          "def": "地名。春秋時魯地。",
+          "quote": [
+            "《左傳．僖公元年》：「公子友帥師敗莒師于酈。」",
+            "晉．杜預．注：「酈，魯地。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有酈食其。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "lì"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "邑",
+  "stroke_count": 22,
+  "title": "酈"
+}

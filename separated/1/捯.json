@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄠˊ",
+      "definitions": [
+        {
+          "def": "方言。指兩手交替將繩線拉回或繞好。",
+          "example": [
+            "如：「捯線」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "方言。指尋究線索。",
+          "example": [
+            "如：「這案子已捯出點頭緒來了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dáo"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "手",
+  "stroke_count": 11,
+  "title": "捯"
+}

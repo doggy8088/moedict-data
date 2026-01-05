@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄢˋ",
+      "definitions": [
+        {
+          "def": "一種玉石。",
+          "quote": [
+            "《說文解字．玉部》：「瓘，玉也。」",
+            "《左傳．昭公十七年》：「若我用瓘斝、玉瓚，鄭必不火。」",
+            "漢．鄭玄．注：「瓘，珪也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "guàn"
+    }
+  ],
+  "non_radical_stroke_count": 18,
+  "radical": "玉",
+  "stroke_count": 22,
+  "title": "瓘"
+}

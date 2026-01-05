@@ -1,0 +1,14 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄛˊ　ㄐㄧˊ　ㄩㄣˋ　ㄙㄨㄢˋ",
+      "definitions": [
+        {
+          "def": "運算數和結果都是單個數位的運算，包括布林 (Boolean)運算、比較、選擇、分類、合併、移位、轉移等。"
+        }
+      ],
+      "pinyin": "luó jí yùn suàn"
+    }
+  ],
+  "title": "邏輯運算"
+}

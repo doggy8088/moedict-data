@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄡ",
+      "definitions": [
+        {
+          "def": "牙齒折斷。",
+          "quote": [
+            "《說文解字．齒部》：「齺，齒搚也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "咬。",
+          "quote": [
+            "《說文解字．齒部》：「齺，一曰齰。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "橫在馬口裡駕馭馬匹的器具。",
+          "quote": [
+            "《說文解字．齒部》：「齺，一曰馬口中橛也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zōu"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "齒",
+  "stroke_count": 25,
+  "title": "齺"
+}

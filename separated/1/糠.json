@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄤ",
+      "definitions": [
+        {
+          "def": "穀粒上剝落下的外皮。",
+          "example": [
+            "如：「米糠」、「麥糠」。"
+          ],
+          "quote": [
+            "《莊子．達生》：「不如食以糠糟，而錯之牢筴之中。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "蘿蔔肉質不結實、不細緻。",
+          "example": [
+            "如：「糠蘿蔔」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "kāng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "米",
+  "stroke_count": 17,
+  "title": "糠"
+}

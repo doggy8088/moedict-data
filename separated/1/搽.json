@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄚˊ",
+      "definitions": [
+        {
+          "def": "敷、塗抹。",
+          "example": [
+            "如：「搽藥」。"
+          ],
+          "quote": [
+            "《儒林外史．第二四回》：「這和尚積年剃了光頭，把鹽搽在頭上，走到放牛所在。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chá"
+    },
+    {
+      "bopomofo": "（又音）ㄘㄚ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）cā"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "手",
+  "stroke_count": 13,
+  "title": "搽"
+}

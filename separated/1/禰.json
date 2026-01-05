@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧˇ",
+      "definitions": [
+        {
+          "def": "先父的祠廟。《公羊傳．隱公元年》「惠公者何，隱之考也」句下漢．何休．解詁：「生稱父，死稱考，入廟稱禰。」",
+          "type": "名"
+        },
+        {
+          "def": "地名。春秋時鄭地。故址約在今大陸地區山東省荷澤縣西。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "nǐ"
+    },
+    {
+      "bopomofo": "ㄇㄧˊ",
+      "definitions": [
+        {
+          "def": "姓。如漢代有禰衡。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "mí"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "示",
+  "stroke_count": 19,
+  "title": "禰"
+}

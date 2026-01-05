@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「聽」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄧㄣˇ",
+      "definitions": [
+        {
+          "def": "笑的樣子。",
+          "quote": [
+            "《文選．司馬相如．上林賦》：「亡是公听然而笑。」",
+            "唐．劉禹錫〈說驥〉：「睹之周體，眙然視，听然笑，既而抃隨之。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "yǐn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "口",
+  "stroke_count": 7,
+  "title": "听"
+}

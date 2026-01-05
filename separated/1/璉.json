@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "參見「瑚璉」條。",
+          "type": "名"
+        },
+        {
+          "def": "連續。",
+          "link": [
+            "通「連」。"
+          ],
+          "quote": [
+            "《文選．何晏．景福殿賦》：「既櫛比而欑集，又宏璉以豐敞。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "lián"
+    },
+    {
+      "bopomofo": "ㄌㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "liǎn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "玉",
+  "stroke_count": 15,
+  "title": "璉"
+}

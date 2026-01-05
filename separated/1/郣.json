@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "隆起的地。",
+          "quote": [
+            "《說文解字．邑部》：「郣，地之起者曰『郣』。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "塵土。",
+          "quote": [
+            "《說文解字．邑部》「郣」字．清．段玉裁．注：「今俗謂粉之細者曰勃，皆即郣字。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "地名。春秋時齊國屬地。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "bó"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "邑",
+  "stroke_count": 10,
+  "title": "郣"
+}

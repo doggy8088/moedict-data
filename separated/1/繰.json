@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄠˇ",
+      "definitions": [
+        {
+          "def": "有文采的絲織品。",
+          "quote": [
+            "清．袁枚《隨園詩話．卷一四》：「余在揚州江魯佩家，見桓圭，長七寸，葵首垂繰，質粹沁紅，真三代物也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zǎo"
+    },
+    {
+      "bopomofo": "ㄙㄠ",
+      "definitions": [
+        {
+          "def": "煮繭抽絲。",
+          "link": [
+            "通「繅」。"
+          ],
+          "quote": [
+            "唐．李白〈贈清漳明姪聿〉詩：「繰絲鳴機杼，百里聲相聞。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sāo"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "糸",
+  "stroke_count": 19,
+  "title": "繰"
+}

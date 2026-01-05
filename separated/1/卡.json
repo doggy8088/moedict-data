@@ -1,0 +1,51 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄚˇ",
+      "definitions": [
+        {
+          "def": "政府派兵駐守的關口或收稅的地方。",
+          "example": [
+            "如：「關卡」、「兵卡」、「釐卡」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "硬紙片。為英語card的音譯。",
+          "example": [
+            "如：「聖誕卡」、「生日卡」、「賀年卡」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "卡路里的簡稱。",
+          "example": [
+            "如：「十卡熱量」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "被夾住或堵塞而不能活動。",
+          "example": [
+            "如：「他被卡在兩部車中間，動彈不得。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kǎ"
+    },
+    {
+      "bopomofo": "ㄑㄧㄚˇ",
+      "definitions": [
+        {
+          "def": "參見「卡脖子」條。"
+        }
+      ],
+      "pinyin": "qiǎ"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "卜",
+  "stroke_count": 5,
+  "title": "卡"
+}

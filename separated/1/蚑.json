@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧˊ",
+      "definitions": [
+        {
+          "def": "動物爬行徐緩的樣子。",
+          "quote": [
+            "《淮南子．俶真》：「蠉飛蝡動，蚑行噲息。」",
+            "《文選．嵇康．琴賦》：「感天地以致和，況蚑行之眾類。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "qí"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "虫",
+  "stroke_count": 10,
+  "title": "蚑"
+}

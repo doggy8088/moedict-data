@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "競爭。",
+          "quote": [
+            "《淮南子．氾論》：「而風氣者，陰陽相捔者也。」",
+            "魏．卞蘭〈許昌宮賦〉：「眾伎並奏，捔巧騁奇。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jué"
+    },
+    {
+      "bopomofo": "ㄓㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "刺。",
+          "quote": [
+            "《集韻．入聲．覺韻》：「捔，刺也。」",
+            "《文選．張衡．西京賦》：「义蔟之所攙捔，徒  博之所撞㧙。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhuó"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "手",
+  "stroke_count": 10,
+  "title": "捔"
+}

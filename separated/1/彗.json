@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "掃帚。",
+          "quote": [
+            "《禮記．曲禮上》：「國中以策彗卹勿驅，塵不出軌。」",
+            "漢．鄭玄．注：「彗，竹帚。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「彗星」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "huì"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "彐",
+  "stroke_count": 11,
+  "title": "彗"
+}

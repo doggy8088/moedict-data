@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨˋ",
+      "definitions": [
+        {
+          "def": "坐臥時鋪在身體下面的墊子。",
+          "example": [
+            "如：「床褥」、「被褥」。"
+          ],
+          "link": [
+            "也稱為「褥子」。"
+          ],
+          "quote": [
+            "唐．韓偓〈已涼〉詩：「八尺龍鬚方錦褥，已涼天氣未寒時。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "rù"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "衣",
+  "stroke_count": 16,
+  "title": "褥"
+}

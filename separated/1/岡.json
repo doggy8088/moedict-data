@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄤ",
+      "definitions": [
+        {
+          "def": "山脊、山嶺。",
+          "example": [
+            "如：「山岡」。"
+          ],
+          "quote": [
+            "《書經．胤征》：「火炎崑岡，玉石俱焚。」",
+            "《楚辭．王逸．九思．守志》：「陟玉巒兮逍遙，覽高岡兮嶢嶢。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gāng"
+    },
+    {
+      "bopomofo": "（又音）ㄍㄤˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）gǎng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "山",
+  "stroke_count": 8,
+  "title": "岡"
+}

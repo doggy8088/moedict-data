@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧ",
+      "definitions": [
+        {
+          "def": "參見「栖栖」條。",
+          "type": "副"
+        },
+        {
+          "def": "停留、休息。",
+          "link": [
+            "通「棲」。"
+          ],
+          "quote": [
+            "《莊子．盜跖》：「晝拾橡栗，暮栖木上。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xī"
+    },
+    {
+      "bopomofo": "（又音）ㄑㄧ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）qī"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "木",
+  "stroke_count": 10,
+  "title": "栖"
+}

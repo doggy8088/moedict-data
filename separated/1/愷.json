@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄞˇ",
+      "definitions": [
+        {
+          "def": "和樂、和善。",
+          "quote": [
+            "《說文解字．心部》：「愷，樂也。」",
+            "《莊子．天道》：「中心物愷，兼愛無私。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "軍隊勝利所奏的樂曲。",
+          "link": [
+            "通「凱」。"
+          ],
+          "quote": [
+            "明．張自烈《正字通．心部》：「愷，軍勝之樂。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kǎi"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "心",
+  "stroke_count": 13,
+  "title": "愷"
+}

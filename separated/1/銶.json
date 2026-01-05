@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "一種鑿子。",
+          "quote": [
+            "《詩經．豳風．破斧》：「既破我斧，又缺我銶。」",
+            "漢．鄭玄．箋：「韓詩云：『鑿屬也。』一解云：『今之獨頭斧。』」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiú"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "金",
+  "stroke_count": 15,
+  "title": "銶"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄥˋㄦ",
+      "definitions": [
+        {
+          "def": "因驚疑而發呆。",
+          "example": [
+            "如：「當她聽到父親去世的消息時，不覺一愣兒，手足無措。」"
+          ]
+        }
+      ],
+      "pinyin": "lèngr"
+    },
+    {
+      "bopomofo": "ㄌㄥㄦ",
+      "definitions": [
+        {
+          "def": "譏笑人初經某事，不明細理，以致顯現痴呆的樣子。",
+          "example": [
+            "如：「知道了就去辦，別愣兒了。」"
+          ]
+        }
+      ],
+      "pinyin": "lēngr"
+    }
+  ],
+  "title": "愣兒"
+}

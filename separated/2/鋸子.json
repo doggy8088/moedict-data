@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩ　˙ㄗ",
+      "definitions": [
+        {
+          "def": "用銅鐵製成，形扁長，兩端尖銳下屈，用以綴合破裂瓷器的工具。"
+        }
+      ],
+      "pinyin": "jū zi"
+    },
+    {
+      "bopomofo": "ㄐㄩˋ　˙ㄗ",
+      "definitions": [
+        {
+          "def": "在薄鋼板的邊緣，有細細的刀刃並排的工具。用來鋸斷木材、石材和金屬等。"
+        }
+      ],
+      "pinyin": "jù zi"
+    }
+  ],
+  "title": "鋸子"
+}

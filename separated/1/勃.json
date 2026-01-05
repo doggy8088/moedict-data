@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "繁盛。",
+          "example": [
+            "如：「蓬勃」、「生氣勃勃」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "變色。",
+          "quote": [
+            "《論語．鄉黨》：「君召使擯，色勃如也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "衝擊產生的浪花。",
+          "quote": [
+            "北魏．酈道元《水經注．江水注》：「灘頭白勃堅相持，倏忽沒淪別無期。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "突然。參見「勃然」條。",
+          "type": "副"
+        }
+      ],
+      "pinyin": "bó"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "力",
+  "stroke_count": 9,
+  "title": "勃"
+}

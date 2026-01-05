@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄤ",
+      "definitions": [
+        {
+          "def": "波光耀動的樣子。",
+          "quote": [
+            "《說文解字．水部》：「洸，水涌光也。」",
+            "《文選．郭璞．江賦》：「若乃曾潭之府，靈湖之淵，澄澹汪洸，瀇滉淵泫。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "威武的樣子。",
+          "quote": [
+            "《詩經．邶風．谷風》：「有洸有潰，既詒我肄。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "guāng"
+    },
+    {
+      "bopomofo": "ㄏㄨㄤˇ",
+      "definitions": [
+        {
+          "def": "參見「洸洸」條。"
+        }
+      ],
+      "pinyin": "huǎng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洸"
+}

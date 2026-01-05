@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄤ",
+      "definitions": [
+        {
+          "def": "竹列。",
+          "quote": [
+            "《說文解字．竹部》：「笐，竹列也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "一種竹製的弦樂器。",
+          "quote": [
+            "《集韻．平聲．唐韻》：「笐，樂器，有弦。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gāng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "竹",
+  "stroke_count": 10,
+  "title": "笐"
+}

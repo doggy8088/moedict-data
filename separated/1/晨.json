@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄣˊ",
+      "definitions": [
+        {
+          "def": "早上太陽剛出來的時候。",
+          "example": [
+            "如：「清晨」、「一日之計在於晨」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "雞鳴報曉。",
+          "quote": [
+            "《書經．牧誓》：「古人有言曰：『牝雞無晨。』」",
+            "唐．孔穎達．正義：「言無晨鳴之道。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chén"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "日",
+  "stroke_count": 11,
+  "title": "晨"
+}

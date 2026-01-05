@@ -1,0 +1,51 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄤˇ",
+      "definitions": [
+        {
+          "def": "居中介紹買賣馬隻的人。",
+          "quote": [
+            "《史記．卷一二九．貨殖傳》：「子貸金錢千貫，節駔會。」",
+            "裴駰集解引徐廣曰：「駔，馬儈也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛指商人。",
+          "quote": [
+            "《儒林外史．第一一回》：「那知辭官未久，被了這一場橫禍，受小人駔儈之欺！」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zǎng"
+    },
+    {
+      "bopomofo": "ㄘㄤˇ",
+      "definitions": [
+        {
+          "def": "參見「駔子」條。"
+        }
+      ],
+      "pinyin": "cǎng"
+    },
+    {
+      "bopomofo": "ㄗㄨˋ",
+      "definitions": [
+        {
+          "def": "駿馬，高大健壯的馬。",
+          "quote": [
+            "《楚辭．劉向．九歎．憂苦》：「同駑騾與椉駔兮，雜斑駁與闒茸。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zù"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "馬",
+  "stroke_count": 15,
+  "title": "駔"
+}

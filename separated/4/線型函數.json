@@ -1,0 +1,14 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄢˋ　ㄒㄧㄥˊ　ㄏㄢˊ　ㄕㄨˋ",
+      "definitions": [
+        {
+          "def": "函數內之自變數為一次者，稱為「線型函數」。例如在二個變數 x，y 存在下，a、b為常數 a不等於 0，則 y=aX+b 為一個線型函數。"
+        }
+      ],
+      "pinyin": "xiàn xíng hán shù"
+    }
+  ],
+  "title": "線型函數"
+}

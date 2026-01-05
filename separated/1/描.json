@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "依樣摹畫。",
+          "example": [
+            "如：「描摹」。"
+          ],
+          "quote": [
+            "明．湯顯祖《牡丹亭．第一四齣》：「三分春色描來易，一段傷心畫出難。」",
+            "《紅樓夢．第四二回》：「原先蓋這園子，就有一張細緻圖樣，雖是匠工描的，那地步方向是不錯的。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "反覆塗寫。",
+          "example": [
+            "如：「越描越黑」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "miáo"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "手",
+  "stroke_count": 12,
+  "title": "描"
+}

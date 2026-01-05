@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "圓形的盛物器。",
+          "example": [
+            "如：「木桶」、「水桶」、「汽油桶」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算桶裝物的單位。",
+          "example": [
+            "如：「一桶水」、「兩桶汽油」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tǒng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "木",
+  "stroke_count": 11,
+  "title": "桶"
+}

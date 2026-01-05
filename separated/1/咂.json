@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄚ",
+      "definitions": [
+        {
+          "def": "品嚐、吸吮。",
+          "example": [
+            "如：「咂一口酒」、「咂指頭」。"
+          ],
+          "quote": [
+            "元．無名氏《陳州糶米．第一折》：「都是些喫倉廒的鼠耗，咂濃血的蒼蠅。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "體會。",
+          "quote": [
+            "《兒女英雄傳．第四○回》：「我這半天細咂你這句話的滋味兒。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zā"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "口",
+  "stroke_count": 8,
+  "title": "咂"
+}

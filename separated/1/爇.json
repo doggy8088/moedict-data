@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "焚燒。",
+          "quote": [
+            "《左傳．昭公二十七年》：「遂令攻郤氏，且爇之。」",
+            "晉．杜預．注：「爇，燒也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "ruò"
+    },
+    {
+      "bopomofo": "（又音）ㄖㄜˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）rè"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "火",
+  "stroke_count": 19,
+  "title": "爇"
+}

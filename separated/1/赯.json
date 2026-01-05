@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄤˊ",
+      "definitions": [
+        {
+          "def": "紅色。",
+          "quote": [
+            "《廣韻．平聲．唐韻》：「赯，赤色。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "紅潤的。",
+          "example": [
+            "如：「這人身高八尺，紫赯臉兒。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "táng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "赤",
+  "stroke_count": 17,
+  "title": "赯"
+}

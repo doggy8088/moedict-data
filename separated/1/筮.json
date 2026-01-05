@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕˋ",
+      "definitions": [
+        {
+          "def": "古代用蓍草占卜吉凶的方法。",
+          "quote": [
+            "《左傳．僖公四年》：「卜人曰：『筮短龜長，不如從長。』」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "占卜。",
+          "quote": [
+            "唐．王勃〈益州夫子廟碑〉：「鳳德鉤深，玉策筮亡秦之兆。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shì"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "竹",
+  "stroke_count": 13,
+  "title": "筮"
+}

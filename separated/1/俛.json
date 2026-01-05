@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˇ",
+      "definitions": [
+        {
+          "def": "低頭。",
+          "link": [
+            "同「俯」。"
+          ],
+          "quote": [
+            "《文選．賈誼．過秦論》：「百越之君，俛首係頸，委命下吏。」",
+            "《文選．曹植．雜詩六首之四》：「俛仰歲將暮，榮耀難久恃。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "fǔ"
+    },
+    {
+      "bopomofo": "ㄇㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "勤勞、努力。",
+          "link": [
+            "同「勉」。"
+          ],
+          "quote": [
+            "《禮記．表記》：「俛焉日有孳孳，斃而后已。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "miǎn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "人",
+  "stroke_count": 9,
+  "title": "俛"
+}

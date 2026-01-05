@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "眼睛邪視。",
+          "quote": [
+            "《說文解字．目部》：「眺，目不正也。」",
+            "《文選．潘岳．射雉賦》：「亦有目不步體，邪眺旁剔。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "遠望。",
+          "example": [
+            "如：「眺望」、「登高遠眺」。"
+          ],
+          "quote": [
+            "唐．杜甫〈喜晴〉詩：「出郭眺四郊，肅肅春增華。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tiào"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "目",
+  "stroke_count": 11,
+  "title": "眺"
+}

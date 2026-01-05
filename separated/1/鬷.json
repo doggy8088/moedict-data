@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄨㄥ",
+      "definitions": [
+        {
+          "def": "釜類的器皿。",
+          "quote": [
+            "《說文解字．鬲部》：「鬷，鬴屬。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如春秋時鄭國有鬷蔑。",
+          "type": "名"
+        },
+        {
+          "def": "聚集。",
+          "quote": [
+            "《詩經．陳風．東門之枌》：「穀旦于逝，越以鬷邁。」",
+            "唐．張說〈弔國殤文〉：「 鬷六校之飛將，鎮五營之勁卒。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zōng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "鬲",
+  "stroke_count": 19,
+  "title": "鬷"
+}

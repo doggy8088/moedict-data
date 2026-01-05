@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "小便不通暢的症狀。",
+          "quote": [
+            "《黃帝內經素問．卷七．宣明五氣篇》：「膀胱不利為癃。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "彎腰駝背、老態龍鍾的樣子。",
+          "quote": [
+            "《晏子春秋．內篇．問下》：「公所見癃老者七十人。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "lóng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "疒",
+  "stroke_count": 17,
+  "title": "癃"
+}

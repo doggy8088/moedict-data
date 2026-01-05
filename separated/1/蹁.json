@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "走路腳不正。",
+          "quote": [
+            "《玉篇．足部》：「蹁，足不正。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "泛指一般姿勢歪斜。",
+          "quote": [
+            "漢．賈誼．《新書．卷六．容經》：「若夫立而技，生而蹁……，皆禁也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pián"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "足",
+  "stroke_count": 16,
+  "title": "蹁"
+}

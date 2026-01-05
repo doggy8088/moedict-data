@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄟˇ",
+      "definitions": [
+        {
+          "def": "玷汙。",
+          "quote": [
+            "《孟子．萬章下》：「爾為爾，我為我，雖袒裸裼裎於我側，爾焉能浼我哉！」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "請託、請求。",
+          "quote": [
+            "《聊齋志異．卷二．聶小倩》：「妾少誦《楞嚴經》，今強半遺忘，浼求一卷，夜暇，就兄正之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "měi"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "水",
+  "stroke_count": 10,
+  "title": "浼"
+}

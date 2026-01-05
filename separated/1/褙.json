@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄟˋ",
+      "definitions": [
+        {
+          "def": "短衣。",
+          "quote": [
+            "《集韻．去聲．隊韻》：「褙，襦也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "裝貼書畫。參見「裱褙」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "bèi"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "衣",
+  "stroke_count": 15,
+  "title": "褙"
+}

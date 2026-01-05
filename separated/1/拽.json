@@ -1,0 +1,60 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（語音）ㄓㄨㄞˋ",
+      "definitions": [
+        {
+          "def": "拖拉。",
+          "example": [
+            "如：「拽車」、「生拉硬拽」、「拽著不放」。"
+          ],
+          "quote": [
+            "《封神演義．第一六回》：「一把拽住那人，就往河裡跑。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "牽引。",
+          "quote": [
+            "元．關漢卿《魯齋郎．第二折》：「我拽滿彈弓，誰想落下彈子來打著張珪家小的，將我千般毀罵。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "（語音）zhuài"
+    },
+    {
+      "bopomofo": "ㄓㄨㄞ",
+      "definitions": [
+        {
+          "def": "用力投擲。",
+          "example": [
+            "如：「把球拽過去。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "胳膊受傷或有毛病而無法靈活伸動的樣子。",
+          "example": [
+            "如：「他的胳膊拽了。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhuāi"
+    },
+    {
+      "bopomofo": "（讀音）ㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。"
+        }
+      ],
+      "pinyin": "（讀音）yè"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "手",
+  "stroke_count": 9,
+  "title": "拽"
+}

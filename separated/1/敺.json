@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩ",
+      "definitions": [
+        {
+          "def": "驅逐、驅趕。",
+          "link": [
+            "同「驅」。"
+          ],
+          "quote": [
+            "《孟子．離婁上》：「為湯武敺民者，桀與紂也。」",
+            "漢．賈誼〈說積貯〉：「今敺民而歸之農，皆著于本。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qū"
+    },
+    {
+      "bopomofo": "ㄡ",
+      "definitions": [
+        {
+          "def": "捶擊。",
+          "link": [
+            "同「毆」。"
+          ],
+          "quote": [
+            "《漢書．卷四七．文三王傳．梁懷王劉揖傳》：「後數復敺傷郎，夜私出宮。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "ōu"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "攴",
+  "stroke_count": 15,
+  "title": "敺"
+}

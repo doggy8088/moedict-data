@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄕˋ",
+      "definitions": [
+        {
+          "def": "動物名。一種浮游在水面的蟲。體大如豆，顏色黑亮。",
+          "type": "名"
+        },
+        {
+          "def": "豆豉的豉的又音。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "（讀音）shì"
+    },
+    {
+      "bopomofo": "（語音）ㄔˇ",
+      "definitions": [
+        {
+          "def": "參見「豆豉」條。"
+        }
+      ],
+      "pinyin": "（語音）chǐ"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "豆",
+  "stroke_count": 11,
+  "title": "豉"
+}

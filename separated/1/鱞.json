@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄢ",
+      "definitions": [
+        {
+          "def": "一種魚。",
+          "quote": [
+            "《古今圖書集成．卷一四八．雜魚部》：「鱞魚大者如指，長八寸，有鋒刺，脊骨美滑，宜羹。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "男子年老無妻或喪偶。",
+          "quote": [
+            "《楚辭．屈原．天問》：「舜閔在家，父何以鱞」",
+            "漢．王逸．注：「無妻曰鱞。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "guān"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "魚",
+  "stroke_count": 24,
+  "title": "鱞"
+}

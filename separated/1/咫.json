@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˇ",
+      "definitions": [
+        {
+          "def": "古代的長度單位。周制八寸為一咫。",
+          "quote": [
+            "《說文解字．尺部》：「咫，中婦人手長八寸，謂之咫，周尺也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "距離很短、很近。",
+          "quote": [
+            "《呂氏春秋．孝行覽．孝行》：「不虧其身，不損其形，可謂孝矣。君子無行咫步而忘之。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhǐ"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "口",
+  "stroke_count": 9,
+  "title": "咫"
+}

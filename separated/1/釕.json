@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "金飾之器。",
+          "quote": [
+            "《廣韻．上聲．篠韻》：「釕，釕鈌，帶頭飾。」",
+            "《新唐書．卷二二五．逆臣傳下．黃巢傳》：「使沙陀以五百騎釕轡藻韉，望賊陣縱而遁，賊以為怯。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "（ruthenium，Ru)化學元素。原子序44。銀灰色，質堅而脆，熔點極高，多存在於鉑礦中。與銤、銥等金屬元素製成合金，可用來作首飾、電接觸器、合金等。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "liǎo"
+    },
+    {
+      "bopomofo": "ㄌㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "參見「釕銱兒」條。"
+        }
+      ],
+      "pinyin": "liào"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "金",
+  "stroke_count": 10,
+  "title": "釕"
+}

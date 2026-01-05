@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄛˇ",
+      "definitions": [
+        {
+          "def": "小孩剪髮後所餘留的頭髮。",
+          "quote": [
+            "《禮記．內則》：「三月之末，擇日翦髮為鬌。」",
+            "唐．孔穎達．正義：「三月翦髮所留不翦者謂之鬌。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "duǒ"
+    },
+    {
+      "bopomofo": "（又音）ㄉㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）duò"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "髟",
+  "stroke_count": 19,
+  "title": "鬌"
+}

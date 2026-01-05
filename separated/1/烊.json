@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "鎔化金屬。",
+          "example": [
+            "如：「烊銅」、「烊鐵」。"
+          ],
+          "link": [
+            "同「煬」。"
+          ],
+          "quote": [
+            "《老殘遊記．第一六回》：「半霎工夫，墨盒裡冒白氣，下半邊已烊了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "商店晚上休息，停止營業稱為「打烊」。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "yáng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "火",
+  "stroke_count": 10,
+  "title": "烊"
+}

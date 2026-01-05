@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄤ",
+      "definitions": [
+        {
+          "def": "一種盛裝、儲藏東西的容器。圓形、寬口、腹大、底小。舊時用陶、瓷、玻璃等製成，現代亦有塑膠製成。",
+          "example": [
+            "如：「醬缸」、「水缸」、「魚缸」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "像缸一樣的器物。",
+          "example": [
+            "如：「汽缸」、「茶缸」、「菸灰缸」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gāng"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "缶",
+  "stroke_count": 9,
+  "title": "缸"
+}

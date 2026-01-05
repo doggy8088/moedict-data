@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄝˋ",
+      "definitions": [
+        {
+          "def": "高山或山的最高峰。",
+          "example": [
+            "如：「三山五嶽」。"
+          ],
+          "quote": [
+            "唐．李白〈古風〉詩五九首之四：「藥物秘海嶽，採鉛青溪濱。」",
+            "宋．陸游〈秋夜將曉出籬門迎涼有感〉詩：「三萬里河東入海，五千仞嶽上摩天。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有嶽崇。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yuè"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "山",
+  "stroke_count": 17,
+  "title": "嶽"
+}

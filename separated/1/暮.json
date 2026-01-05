@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄨˋ",
+      "definitions": [
+        {
+          "def": "傍晚、太陽將落的時候。",
+          "example": [
+            "如：「日暮」。"
+          ],
+          "quote": [
+            "唐．杜甫〈石壕吏〉詩：「暮投石壕村，有吏夜捉人。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "天晚的。",
+          "example": [
+            "如：「暮煙」、「暮色」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "晚、將盡的。",
+          "example": [
+            "如：「暮年」、「暮春」、「天寒歲暮」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "衰頹的。",
+          "example": [
+            "如：「暮氣沉沉」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "mù"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "日",
+  "stroke_count": 15,
+  "title": "暮"
+}

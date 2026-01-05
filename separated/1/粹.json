@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "純美無雜。",
+          "example": [
+            "如：「純粹」。"
+          ],
+          "quote": [
+            "《淮南子．說山》：「貂裘而雜，不若狐裘而粹。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "人、物、事理的精華。",
+          "example": [
+            "如：「針灸乃是中國的國粹之一。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "cuì"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "米",
+  "stroke_count": 14,
+  "title": "粹"
+}

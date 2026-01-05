@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥ",
+      "definitions": [
+        {
+          "def": "心跳驚恐。",
+          "quote": [
+            "《玉篇．心部》：「忪，心動不定，驚也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhōng"
+    },
+    {
+      "bopomofo": "ㄙㄨㄥ",
+      "definitions": [
+        {
+          "def": "參見「惺忪」條。"
+        }
+      ],
+      "pinyin": "sōng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "心",
+  "stroke_count": 7,
+  "title": "忪"
+}

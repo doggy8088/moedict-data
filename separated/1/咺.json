@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄢˇ",
+      "definitions": [
+        {
+          "def": "哭泣不止。",
+          "quote": [
+            "唐．皮日休〈九風系述．遇謗〉：「聲咺唏以無音兮，氣鬱悒而空噎。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "威儀顯著、煥發。",
+          "quote": [
+            "《詩經．衛風．淇奧》：「瑟兮僩兮，赫兮咺兮。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xuǎn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "口",
+  "stroke_count": 9,
+  "title": "咺"
+}

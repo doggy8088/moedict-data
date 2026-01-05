@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄢ",
+      "definitions": [
+        {
+          "def": "竭盡。",
+          "example": [
+            "如：「殫思竭慮」。"
+          ],
+          "quote": [
+            "《漢書．卷六○．杜欽傳》：「殫天下之財以奉淫侈，匱萬姓之力以從耳目。」",
+            "唐．柳宗元〈捕蛇者說〉：「殫其地之出，竭其廬之入，號呼而轉徒，饑渴而頓踣。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dān"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "歹",
+  "stroke_count": 16,
+  "title": "殫"
+}

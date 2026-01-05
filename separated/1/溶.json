@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "物質在液體中分解。",
+          "example": [
+            "如：「溶化」、「溶解」、「即溶」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "水流盛大的樣子。",
+          "quote": [
+            "南朝梁．江淹〈江上之山賦〉：「淵潾澒溶兮，楚水而吳江。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "róng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "水",
+  "stroke_count": 13,
+  "title": "溶"
+}

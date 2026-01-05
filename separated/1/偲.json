@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙ",
+      "definitions": [
+        {
+          "def": "參見「偲偲」條。"
+        }
+      ],
+      "pinyin": "sī"
+    },
+    {
+      "bopomofo": "ㄙㄞ",
+      "definitions": [
+        {
+          "def": "能力好。",
+          "quote": [
+            "《詩經．齊風．盧令》：「盧重鋂，其人美且偲。」",
+            "漢．毛亨．傳：「偲，才也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "sāi"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "人",
+  "stroke_count": 11,
+  "title": "偲"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄞˊ　ㄌㄞˊ",
+      "definitions": [
+        {
+          "def": "仍來。",
+          "example": [
+            "如：「上次都警告過了，你還來！」"
+          ]
+        }
+      ],
+      "pinyin": "hái lái"
+    },
+    {
+      "bopomofo": "ㄏㄨㄢˊ　ㄌㄞˊ",
+      "definitions": [
+        {
+          "def": "歸還。",
+          "example": [
+            "如：「你欠我的錢，還不趕快還來！」"
+          ]
+        }
+      ],
+      "pinyin": "huán lái"
+    }
+  ],
+  "title": "還來"
+}

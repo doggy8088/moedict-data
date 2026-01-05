@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨˋ",
+      "definitions": [
+        {
+          "def": "小石眾多的樣子。",
+          "quote": [
+            "《廣韻．入聲．屋韻》：「碌，多石貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "繁忙。",
+          "example": [
+            "如：「忙碌」、「勞碌」。"
+          ],
+          "quote": [
+            "《西遊記．第二二回》：「這一向在途中奔碌，未及致謝。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "參見「碌碌」條。",
+          "type": "副"
+        }
+      ],
+      "pinyin": "lù"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "石",
+  "stroke_count": 13,
+  "title": "碌"
+}

@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄡ",
+      "definitions": [
+        {
+          "def": "食物腐敗而變味。",
+          "example": [
+            "如：「飯菜餿了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "腐壞變味的。",
+          "example": [
+            "如：「餿水」。"
+          ],
+          "quote": [
+            "《紅樓夢．第六一回》：「前兒要吃豆腐，你弄了些餿的，叫他說了我一頓。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "不管用、不高明的。",
+          "example": [
+            "如：「餿主意」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "sōu"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "食",
+  "stroke_count": 18,
+  "title": "餿"
+}

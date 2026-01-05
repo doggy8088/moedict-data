@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄩˇ",
+      "definitions": [
+        {
+          "def": "衣襟。",
+          "quote": [
+            "漢．揚雄《方言．卷四》：「褸謂之衽。」",
+            "晉．郭璞．注：「衣襟也。或曰裳際也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "衣服破敝。",
+          "example": [
+            "如：「衣衫襤褸」。"
+          ],
+          "quote": [
+            "《玉篇．衣部》：「褸，衣壞也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "lǚ"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "衣",
+  "stroke_count": 17,
+  "title": "褸"
+}

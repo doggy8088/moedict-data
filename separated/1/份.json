@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄣˋ",
+      "definitions": [
+        {
+          "def": "整體中的一個單位。",
+          "example": [
+            "如：「股份」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算定量事物的單位。",
+          "example": [
+            "如：「一份工作」、「兩份薪水」、「一份報紙」、「三份資料」、「兩份甜點」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fèn"
+    },
+    {
+      "bopomofo": "ㄅㄧㄣ",
+      "definitions": [
+        {
+          "def": "文質兼備。",
+          "link": [
+            "同「彬」。"
+          ],
+          "quote": [
+            "《說文解字．人部》：「份，文質備也。《論語》曰：『文質份份。』彬，古文份。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "bīn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "人",
+  "stroke_count": 6,
+  "title": "份"
+}

@@ -1,0 +1,49 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘ",
+      "definitions": [
+        {
+          "def": "鳥獸的殘骨。",
+          "quote": [
+            "《集韻．去聲．寘韻》：「骴，鳥獸殘骨。亦作髊。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "cī"
+    },
+    {
+      "bopomofo": "ㄗˋ",
+      "definitions": [
+        {
+          "def": "帶有腐肉的人骨。",
+          "quote": [
+            "《玉篇．疋部》：「髊，腐骨也。」",
+            "《呂氏春秋．孟春紀．孟春》：「無置城郭，揜骼霾髊。」",
+            "漢．高誘．注：「髊，讀水漬物之漬。白骨曰骼，有肉曰髊。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zì"
+    },
+    {
+      "bopomofo": "ㄘㄨㄛ",
+      "definitions": [
+        {
+          "def": "把牙、骨、角等材料製做成器物。",
+          "quote": [
+            "《集韻．平聲．戈韻》：「髊，治牙骨也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "cuō"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "骨",
+  "stroke_count": 20,
+  "title": "髊"
+}

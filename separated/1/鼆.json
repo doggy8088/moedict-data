@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄥˇ",
+      "definitions": [
+        {
+          "def": "古代的一種昆蟲。",
+          "quote": [
+            "《集韻．上聲．耿韻》：「鼆，蟲名。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "地名。春秋魯邑。",
+          "link": [
+            "也稱為「句鼆」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "měng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "黽",
+  "stroke_count": 23,
+  "title": "鼆"
+}

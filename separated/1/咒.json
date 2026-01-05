@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄡˋ",
+      "definitions": [
+        {
+          "def": "用法術驅鬼除邪或治病的口訣。",
+          "example": [
+            "如：「畫符念咒」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "以梵文發音的偈語或咒語。",
+          "example": [
+            "如：「大悲咒」、「六字大明咒」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用惡毒不吉利的話罵人。",
+          "example": [
+            "如：「詛咒」。"
+          ],
+          "quote": [
+            "《西遊記．第一○回》：「李定聞言，大怒道：『……你怎麼咒我？』」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "發誓。",
+          "example": [
+            "如：「賭咒」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhòu"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "口",
+  "stroke_count": 8,
+  "title": "咒"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "閹割去勢的牛。",
+          "quote": [
+            "《說文解字．牛部》：「犗，騬牛也。」",
+            "《莊子．外物》：「任公子為大鉤巨緇，五十犗以為餌。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "閹割。",
+          "quote": [
+            "唐．釋玄應《一切經音義．卷十三．餓鬼報應經》：「犗，騬牛也，以刀去陰也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jiè"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "牛",
+  "stroke_count": 14,
+  "title": "犗"
+}

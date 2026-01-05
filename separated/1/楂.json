@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄚ",
+      "definitions": [
+        {
+          "def": "參見「山楂」條。"
+        }
+      ],
+      "pinyin": "zhā"
+    },
+    {
+      "bopomofo": "ㄔㄚˊ",
+      "definitions": [
+        {
+          "def": "木筏。",
+          "quote": [
+            "《集韻．平聲．麻韻》：「楂，水中浮木。」",
+            "唐．貫休〈寄李道士〉詩：「長嘯仙鐘外，眠楂海月邊。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "砍伐後所留的樹樁。",
+          "quote": [
+            "元．司農司《農桑輯要．卷三．接廢樹》：「掘去中間正根，將周圍根楂，細鋸子截成砧盤。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chá"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "木",
+  "stroke_count": 13,
+  "title": "楂"
+}

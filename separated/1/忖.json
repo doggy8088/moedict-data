@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄨㄣˇ",
+      "definitions": [
+        {
+          "def": "思量、揣度。",
+          "example": [
+            "如：「自忖」、「暗忖」。"
+          ],
+          "quote": [
+            "《詩經．小雅．巧言》：「他人有心，予忖度之。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "姓。如春秋時有忖乙。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "cǔn"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "心",
+  "stroke_count": 6,
+  "title": "忖"
+}

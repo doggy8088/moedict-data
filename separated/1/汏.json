@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄞˋ",
+      "definitions": [
+        {
+          "def": "方言。指刷、沖洗。",
+          "example": [
+            "如：「汏衣服」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "波濤。",
+          "quote": [
+            "《楚辭．屈原．九章．涉江》：「乘舲船余上沅兮，齊吳榜以擊汏。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dài"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "水",
+  "stroke_count": 6,
+  "title": "汏"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "燈燭燒剩的殘餘物。",
+          "quote": [
+            "唐．元稹〈通州丁溪館夜別李景信〉詩三首之二：「離床別臉睡還開，燈灺暗飄珠蔌蔌。」",
+            "唐．李商隱〈聞歌〉：「此聲腸斷非今日，香灺燈光奈爾何。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiè"
+    },
+    {
+      "bopomofo": "（又音）ㄉㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）duò"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "火",
+  "stroke_count": 7,
+  "title": "灺"
+}

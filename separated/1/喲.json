@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄠ",
+      "definitions": [
+        {
+          "def": "表示驚訝、讚嘆的語氣。",
+          "example": [
+            "如：「喲！想不到他也會來。」"
+          ],
+          "type": "歎"
+        },
+        {
+          "def": "用於句末，表示祈使語氣。",
+          "example": [
+            "如：「來喲！快來買喲！」"
+          ],
+          "type": "助"
+        },
+        {
+          "def": "歌詞中的襯字，無義。",
+          "example": [
+            "如：「虹彩妹妹哼嗨喲，長得好那麼哼嗨喲。」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "yāo"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "口",
+  "stroke_count": 12,
+  "title": "喲"
+}

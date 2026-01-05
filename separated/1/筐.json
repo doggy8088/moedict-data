@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄤ",
+      "definitions": [
+        {
+          "def": "盛物的方形竹器。今稱用竹篾或柳條等所編成的盛物器。",
+          "example": [
+            "如：「竹筐」、「籮筐」。"
+          ],
+          "quote": [
+            "《詩經．召南．采蘋》：「于以盛之，維筐及筥。」",
+            "漢．毛亨．傳：「方曰筐，圓曰筥。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kuāng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "竹",
+  "stroke_count": 12,
+  "title": "筐"
+}

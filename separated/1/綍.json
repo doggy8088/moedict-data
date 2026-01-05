@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "下葬時拉引棺木入墓穴的繩子。",
+          "link": [
+            "同「紼」。"
+          ],
+          "quote": [
+            "《周禮．地官．遂人》：「及葬，帥而屬六綍。」",
+            "《禮記．雜記下》：「升正柩，諸侯執綍五百人。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "大繩。",
+          "quote": [
+            "《禮記．緇衣》：「王言如綸，其出如綍。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fú"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "糸",
+  "stroke_count": 13,
+  "title": "綍"
+}

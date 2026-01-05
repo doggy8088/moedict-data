@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄠ",
+      "definitions": [
+        {
+          "def": "液體由上往下淋灌。",
+          "example": [
+            "如：「澆水」、「澆油」。"
+          ],
+          "quote": [
+            "唐．李賀〈浩歌〉：「買絲繡作平原君，有酒惟澆趙州土。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "輕浮的、淺薄的。",
+          "quote": [
+            "唐．李白〈古風〉詩五九首之二五：「世道日交喪，澆風散淳源。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jiāo"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "水",
+  "stroke_count": 15,
+  "title": "澆"
+}

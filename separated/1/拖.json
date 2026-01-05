@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄛ",
+      "definitions": [
+        {
+          "def": "牽拉。",
+          "example": [
+            "如：「拖拽」、「拖人下水」、「火車頭後面拖著十節車箱。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "垂著、搭著。",
+          "example": [
+            "如：「拖著兩條大辮子。」"
+          ],
+          "quote": [
+            "唐．溫庭筠〈張靜婉採蓮歌〉：「蘭膏墜髮紅玉春，燕釵拖頸拋盤雲。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "延宕。",
+          "example": [
+            "如：「拖延」、「拖時間」、「拖拖拉拉」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tuō"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "手",
+  "stroke_count": 8,
+  "title": "拖"
+}

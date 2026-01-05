@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄡˋ",
+      "definitions": [
+        {
+          "def": "介於五與七之間的自然數。大寫作「陸」，阿拉伯數字作「6」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "liù"
+    },
+    {
+      "bopomofo": "ㄌㄨˋ",
+      "definitions": [
+        {
+          "def": "國名。周代時位於今大陸地區安徽省六安縣北，一說在今大陸地區安徽舒城縣東南六十里處。",
+          "type": "名"
+        },
+        {
+          "def": "姓。皋陶之後，以國為氏。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "lù"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "八",
+  "stroke_count": 4,
+  "title": "六"
+}

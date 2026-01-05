@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄡˋ　ㄕˋ",
+      "definitions": [
+        {
+          "antonyms": "新型,新式",
+          "def": "舊有的形式或樣式。",
+          "example": [
+            "如：「她偏好穿舊式的衣服。」"
+          ],
+          "synonyms": "老式"
+        },
+        {
+          "def": "傳統。",
+          "example": [
+            "如：「她是個舊式婦人，對丈夫仍言聽計從，不敢反抗。」"
+          ]
+        }
+      ],
+      "pinyin": "jiù shì"
+    }
+  ],
+  "title": "舊式"
+}

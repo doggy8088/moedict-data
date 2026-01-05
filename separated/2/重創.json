@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥˋ　ㄔㄨㄤ",
+      "definitions": [
+        {
+          "antonyms": "輕傷",
+          "def": "嚴重的傷害。",
+          "quote": [
+            "《魏書．卷四四．宇文福傳》：「屬大乘妖黨突入州城，延率奴客戰，死者數人，身被重創。」"
+          ]
+        }
+      ],
+      "pinyin": "zhòng chuāng"
+    },
+    {
+      "bopomofo": "ㄔㄨㄥˊ　ㄔㄨㄤ",
+      "definitions": [
+        {
+          "def": "傷害已負傷的人。",
+          "quote": [
+            "《穀梁傳．文公十一年》：「古者不重創，不禽二毛。」"
+          ]
+        }
+      ],
+      "pinyin": "chóng chuāng"
+    }
+  ],
+  "title": "重創"
+}

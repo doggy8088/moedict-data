@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄡˋ",
+      "definitions": [
+        {
+          "def": "中間下凹的舂米器具。",
+          "example": [
+            "如：「石臼」、「磨臼」。"
+          ],
+          "quote": [
+            "漢．王充《論衡．量知》：「穀之始熟曰粟，舂之於臼，簸其粃糠。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        },
+        {
+          "def": "形狀像臼的。",
+          "example": [
+            "如：「臼齒」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jiù"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "臼",
+  "stroke_count": 6,
+  "title": "臼"
+}

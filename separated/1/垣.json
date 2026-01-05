@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄢˊ",
+      "definitions": [
+        {
+          "def": "矮牆。",
+          "example": [
+            "如：「牆垣」、「斷壁殘垣」。"
+          ],
+          "quote": [
+            "《文選．潘岳．西征賦》：「臨揜坎而累抃，步 毀垣以延佇。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "官舍。",
+          "quote": [
+            "唐．皮日休〈白太傅〉詩：「清望逸內署，直聲驚諫垣。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "城市。",
+          "example": [
+            "如：「省垣」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有垣恭。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yuán"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "土",
+  "stroke_count": 9,
+  "title": "垣"
+}

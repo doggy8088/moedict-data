@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄨ",
+      "definitions": [
+        {
+          "def": "超遠、遙遠。",
+          "quote": [
+            "《說文解字．麤部》：「麤，行超遠也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "同「粗」。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "cū"
+    }
+  ],
+  "non_radical_stroke_count": 22,
+  "radical": "鹿",
+  "stroke_count": 33,
+  "title": "麤"
+}

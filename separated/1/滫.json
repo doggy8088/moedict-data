@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄡˇ",
+      "definitions": [
+        {
+          "def": "酸臭的淘米水。",
+          "quote": [
+            "《說文解字．水部》：「滫，久泔也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛指骯髒、惡臭的水。",
+          "quote": [
+            "《荀子．勸學》：「蘭槐之根是為芷，其漸之滫，君子不近，庶人不服。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiǔ"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "水",
+  "stroke_count": 14,
+  "title": "滫"
+}

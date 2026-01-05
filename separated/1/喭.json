@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "慰問喪家。",
+          "link": [
+            "通「唁」。"
+          ],
+          "quote": [
+            "晉．何劭〈荀粲傳〉：「婦病亡，未殯，傅嘏往喭粲，粲不哭而神傷。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "粗魯、率直。",
+          "quote": [
+            "《論語．先進》：「師也辟，由也喭。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yàn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "口",
+  "stroke_count": 12,
+  "title": "喭"
+}

@@ -1,0 +1,51 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄢ",
+      "definitions": [
+        {
+          "def": "把東西填入空隙。",
+          "example": [
+            "如：「鑲嵌」、「嵌石」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "險峻。",
+          "quote": [
+            "南朝梁．沈約〈江南曲〉：「但令舟楫渡，寧計路嶄嵌。」",
+            "唐．盧照鄰〈五悲文．悲昔遊〉：「因嵌巖以為室，就芬芳以列筵。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "qiān"
+    },
+    {
+      "bopomofo": "ㄎㄢˇ",
+      "definitions": [
+        {
+          "def": "參見「赤嵌樓」條。"
+        }
+      ],
+      "pinyin": "kǎn"
+    },
+    {
+      "bopomofo": "ㄑㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "山林深邃的樣子。",
+          "example": [
+            "如：「嵌巉」、「嵌巖」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "qiàn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "山",
+  "stroke_count": 12,
+  "title": "嵌"
+}

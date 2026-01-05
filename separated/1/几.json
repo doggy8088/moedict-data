@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「幾」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "（讀音）ㄐㄧˇ",
+      "definitions": [
+        {
+          "def": "小桌子。如：「茶几」、「几案」、「憑几」、「窗明几淨」。{[97d2]}「幾」的異體字（05411）",
+          "type": "名"
+        }
+      ],
+      "pinyin": "（讀音）jǐ"
+    },
+    {
+      "bopomofo": "（語音）ㄐㄧ",
+      "definitions": [
+        {
+          "def": "二一四部首之一。{[97d2]}「幾」的異體字（05320）",
+          "type": "名"
+        }
+      ],
+      "pinyin": "（語音）jī"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "几",
+  "stroke_count": 2,
+  "title": "几"
+}

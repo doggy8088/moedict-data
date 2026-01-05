@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄢˊ",
+      "definitions": [
+        {
+          "def": "繞。",
+          "link": [
+            "同「纏」。"
+          ],
+          "quote": [
+            "《史記．卷一○五．扁鵲倉公傳》：「夫以陽入陰中，動胃繵緣，中經維絡，別下於三焦、膀胱。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chán"
+    },
+    {
+      "bopomofo": "ㄉㄢˋ",
+      "definitions": [
+        {
+          "def": "束腰的大帶。",
+          "quote": [
+            "《廣韻．上聲．旱韻》：「繵，束腰大帶。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dàn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "糸",
+  "stroke_count": 19,
+  "title": "繵"
+}

@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄢˇ",
+      "definitions": [
+        {
+          "def": "形狀似餅的金、銀塊。",
+          "example": [
+            "如：「金鈑」、「銀鈑」。"
+          ],
+          "quote": [
+            "《爾雅．釋器》：「鉼金謂之鈑。」",
+            "明．宋應星《天工開物．卷下．五金》：「（銀）當其合瑣碎而成鈑錠，去庛偽而造精純。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "板狀的金屬塊。",
+          "example": [
+            "如：「鋼鈑」、「鋁鈑」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bǎn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "金",
+  "stroke_count": 12,
+  "title": "鈑"
+}

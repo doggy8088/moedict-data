@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧˊ",
+      "definitions": [
+        {
+          "def": "安泰無憂。常用於書信結尾時的祝頌語。",
+          "example": [
+            "如：「即頌暑祺」、「順候近祺」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "吉祥。",
+          "quote": [
+            "《詩經．大雅．行葦》：「壽考維祺，以介景福。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "qí"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "示",
+  "stroke_count": 13,
+  "title": "祺"
+}

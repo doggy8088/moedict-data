@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨㄣˋ",
+      "definitions": [
+        {
+          "def": "將口中含的液體噴出。",
+          "quote": [
+            "《後漢書．卷八二．方術傳上．郭憲傳》：「憲在位，忽回向東北，含酒三潠。」",
+            "唐．李賀〈畫角東城〉詩：「淡菜生寒日，鮞魚潠白濤。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sùn"
+    },
+    {
+      "bopomofo": "（又音）ㄒㄩㄣˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）xùn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "水",
+  "stroke_count": 15,
+  "title": "潠"
+}

@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄢ",
+      "definitions": [
+        {
+          "def": "敬讓而不自大。",
+          "example": [
+            "如：「謙虛」、「謙卑」、「謙和」。"
+          ],
+          "quote": [
+            "《書經．大禹謨》：「滿招損，謙受益。」",
+            "唐．魏徵〈論時政疏〉：「念高危，則思謙沖以自牧。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "《易經》卦名。六十四卦之一。艮（☶）下坤（☷）上。象內止外順而終有成之義。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiān"
+    },
+    {
+      "bopomofo": "ㄑㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "滿足。",
+          "link": [
+            "通「愜」。"
+          ],
+          "quote": [
+            "《禮記．大學》：「此之謂自謙。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "qiàn"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "言",
+  "stroke_count": 17,
+  "title": "謙"
+}

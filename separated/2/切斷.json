@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄝ　ㄉㄨㄢˋ",
+      "definitions": [
+        {
+          "def": "把東西切開。"
+        },
+        {
+          "antonyms": "接通",
+          "def": "截斷。",
+          "example": [
+            "如：「切斷電源」、「切斷補給線」。"
+          ],
+          "synonyms": "堵截"
+        }
+      ],
+      "pinyin": "qiē duàn"
+    }
+  ],
+  "title": "切斷"
+}

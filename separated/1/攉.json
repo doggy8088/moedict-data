@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "泛指揮手、搖手。",
+          "quote": [
+            "唐．牟融〈謝惠劍〉詩：「感君三尺鐵，揮攉鬼神驚。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "將成堆的東西鏟到另一處或容器中。",
+          "example": [
+            "如：「攉土」、「攉煤」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "huò"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "手",
+  "stroke_count": 19,
+  "title": "攉"
+}

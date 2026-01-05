@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "參見「喋囁」、「喋喋不休」等條。"
+        },
+        {
+          "def": "踐踏。",
+          "link": [
+            "通「蹀」。"
+          ],
+          "quote": [
+            "《漢書．卷四．文帝紀》：「新喋血京師。」",
+            "唐．顏師古．注：「喋，本字當作蹀。蹀，謂履涉之耳。」"
+          ]
+        }
+      ],
+      "pinyin": "dié"
+    },
+    {
+      "bopomofo": "ㄓㄚˊ",
+      "definitions": [
+        {
+          "def": "參見「唼喋」、「啑喋」等條。"
+        }
+      ],
+      "pinyin": "zhá"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "口",
+  "stroke_count": 12,
+  "title": "喋"
+}

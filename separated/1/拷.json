@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄠˇ",
+      "definitions": [
+        {
+          "def": "刑訊、用刑具逼打。",
+          "example": [
+            "如：「拷問」、「嚴刑拷打」。"
+          ],
+          "quote": [
+            "《魏書．卷一一一．刑罰志》：「枷本掌囚，非拷訊所用。」",
+            "《警世通言．卷一五．金令史美婢酬秀童》：「原來大明律一款，捕盜不許私刑吊拷。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kǎo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "手",
+  "stroke_count": 9,
+  "title": "拷"
+}

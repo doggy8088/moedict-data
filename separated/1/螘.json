@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˇ",
+      "definitions": [
+        {
+          "def": "小蟲。",
+          "link": [
+            "同「蟻」。"
+          ],
+          "quote": [
+            "《集韻．上聲．尾韻》：「螘，蟲名，蚍蜉也。或作『蟻』。」",
+            "《楚辭．宋玉．招魂》：「赤螘若象，玄蜂若壺些。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yǐ"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "虫",
+  "stroke_count": 16,
+  "title": "螘"
+}

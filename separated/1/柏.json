@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "柏科植物的總稱。常綠喬木。性耐寒，葉小、鱗形，紋理細密，是上好材質。有扁柏、側柏、檜柏、羅漢柏等數種。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如周代有柏景。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "（讀音）bó"
+    },
+    {
+      "bopomofo": "（語音）ㄅㄞˇ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）bǎi"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "木",
+  "stroke_count": 9,
+  "title": "柏"
+}

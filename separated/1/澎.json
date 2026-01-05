@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄥ",
+      "definitions": [
+        {
+          "def": "參見「澎湃」、「澎濞」等條。"
+        }
+      ],
+      "pinyin": "pēng"
+    },
+    {
+      "bopomofo": "ㄆㄥˊ",
+      "definitions": [
+        {
+          "def": "參見「澎湖縣」、「澎浪磯」、「澎湖群島」等條。"
+        }
+      ],
+      "pinyin": "péng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "水",
+  "stroke_count": 15,
+  "title": "澎"
+}

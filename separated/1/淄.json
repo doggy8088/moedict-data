@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗ",
+      "definitions": [
+        {
+          "def": "參見「淄水」條。",
+          "type": "名"
+        },
+        {
+          "def": "染黑、玷汙。",
+          "quote": [
+            "《史記．卷四七．孔子世家》：「不曰堅乎，磨而不磷；不曰白乎，涅而不淄。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zī"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "水",
+  "stroke_count": 11,
+  "title": "淄"
+}

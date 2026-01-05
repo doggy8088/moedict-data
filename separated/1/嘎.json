@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄚ",
+      "definitions": [
+        {
+          "def": "形容短促而響亮的聲音。",
+          "example": [
+            "如：「電風扇嘎的一聲停住了。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "gā"
+    },
+    {
+      "bopomofo": "ㄍㄚˊ",
+      "definitions": [
+        {
+          "def": "參見「嘎調」、「嘎嘎兒」等條。"
+        }
+      ],
+      "pinyin": "gá"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "口",
+  "stroke_count": 14,
+  "title": "嘎"
+}

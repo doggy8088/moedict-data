@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔ",
+      "definitions": [
+        {
+          "def": "眼睛的分泌物。",
+          "link": [
+            "俗稱為「眼屎」。"
+          ],
+          "quote": [
+            "《廣韻．平聲．支韻》：「眵，目汁凝也。」",
+            "元．康進之《李逵負荊．第三折》：「似這般煩惱的無顛無倒，越惹你揉眵抹淚哭嚎啕。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chī"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "目",
+  "stroke_count": 11,
+  "title": "眵"
+}

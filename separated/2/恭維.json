@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄥ　ㄨㄟˊ",
+      "definitions": [
+        {
+          "def": "恭敬思之。如：「恭維鞠養」。也作「恭惟」。"
+        }
+      ],
+      "pinyin": "gōng wéi"
+    },
+    {
+      "bopomofo": "ㄍㄨㄥ　˙ㄨㄟ",
+      "definitions": [
+        {
+          "antonyms": "諷刺,奚落,挖苦",
+          "def": "奉承、諛頌。《文明小史．第二回》：「當下又說了些客氣話，柳知府也著實拿他恭維，方才起身告別。」也作「恭惟」。",
+          "synonyms": "捧場"
+        }
+      ],
+      "pinyin": "gōng wei"
+    }
+  ],
+  "title": "恭維"
+}

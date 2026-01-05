@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "停留、不前進。",
+          "quote": [
+            "《漢書．卷九四．匈奴傳上》：「上以虎牙將軍不至期，詐增鹵獲，而祁連知虜在前，逗遛不進，皆下吏自殺。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "liú"
+    },
+    {
+      "bopomofo": "ㄌㄧㄡˋ",
+      "definitions": [
+        {
+          "def": "緩步而走、隨便走走。",
+          "example": [
+            "如：「閒時不妨到外面遛一會兒。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "牽著或帶著寵物慢慢走。",
+          "example": [
+            "如：「遛馬」、「遛鳥」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "liù"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "辵",
+  "stroke_count": 14,
+  "title": "遛"
+}

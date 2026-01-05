@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˊ",
+      "definitions": [
+        {
+          "def": "鯽魚。",
+          "quote": [
+            "《玉篇．魚部》：「鰿，同鯽。」",
+            "《南史．卷五一．梁宗室傳上．臨川靖惠王宏傳》：「好食鰿魚頭，常日進三百。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "小貝。",
+          "quote": [
+            "《爾雅．釋魚》：「貝，小者鰿。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jí"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "魚",
+  "stroke_count": 22,
+  "title": "鰿"
+}

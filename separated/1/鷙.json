@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˋ",
+      "definitions": [
+        {
+          "def": "性情凶猛的鳥。",
+          "quote": [
+            "《玉篇．鳥部》：「鷙，猛鳥也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "凶狠勇猛。",
+          "quote": [
+            "《商君書．畫策》：「虎豹熊羆，鷙而無敵。」",
+            "《漢書．卷九四．匈奴傳下》：「外國天性忿鷙，形容魁健。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhì"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "鳥",
+  "stroke_count": 22,
+  "title": "鷙"
+}

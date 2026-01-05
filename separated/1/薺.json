@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˋ",
+      "definitions": [
+        {
+          "def": "植物名。十字花科薺屬，一年或越年生草本。葉叢生，羽狀分裂，有缺刻。花四瓣，色白。嫩葉可食，全草可為止血劑。",
+          "link": [
+            "也稱為「薺菜」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jì"
+    },
+    {
+      "bopomofo": "ㄑㄧˊ",
+      "definitions": [
+        {
+          "def": "參見「荸薺」條。"
+        }
+      ],
+      "pinyin": "qí"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "艸",
+  "stroke_count": 18,
+  "title": "薺"
+}

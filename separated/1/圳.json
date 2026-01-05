@@ -1,0 +1,43 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄨㄣˋ",
+      "definitions": [
+        {
+          "def": "閩粵方言。指灌溉用的水渠。",
+          "example": [
+            "如：「八堡圳」、「嘉南大圳」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zùn"
+    },
+    {
+      "bopomofo": "ㄓㄣˋ",
+      "definitions": [
+        {
+          "def": "廣東方言。指田野間的水溝。",
+          "example": [
+            "如：「深圳」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhèn"
+    },
+    {
+      "bopomofo": "（又音）ㄔㄡˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）chóu"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "土",
+  "stroke_count": 6,
+  "title": "圳"
+}

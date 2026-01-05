@@ -1,0 +1,51 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄚ",
+      "definitions": [
+        {
+          "def": "物質除去水分後所剩的部分。",
+          "example": [
+            "如：「豆渣」、「甘蔗渣」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "碎塊、碎屑。",
+          "example": [
+            "如：「餅乾渣兒」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "沉澱物。",
+          "example": [
+            "如：「沉渣」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhā"
+    },
+    {
+      "bopomofo": "ㄓㄚˇ",
+      "definitions": [
+        {
+          "def": "塊狀物。",
+          "example": [
+            "如：「煤渣子」、「爐灰渣兒」。"
+          ],
+          "link": [
+            "通「砟」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhǎ"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "水",
+  "stroke_count": 12,
+  "title": "渣"
+}

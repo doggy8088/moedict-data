@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄥˊ　ㄌㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "平行排列。",
+          "example": [
+            "如：「一本本的書橫列在架上，顯得十分整齊。」"
+          ]
+        },
+        {
+          "antonyms": "直排",
+          "def": "與直排相對。",
+          "example": [
+            "如：「樂隊成三橫列吹奏出場。」"
+          ]
+        }
+      ],
+      "pinyin": "héng liè"
+    }
+  ],
+  "title": "橫列"
+}

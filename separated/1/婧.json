@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "竦立。",
+          "quote": [
+            "《說文解字．女部》：「婧，竦立也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "纖弱的樣子。",
+          "quote": [
+            "明．張自烈《正字通．女部》：「婧，纖弱貌。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jìng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "女",
+  "stroke_count": 11,
+  "title": "婧"
+}

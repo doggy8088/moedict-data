@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄣˋ",
+      "definitions": [
+        {
+          "def": "渾厚。",
+          "quote": [
+            "《說文解字．心部》：「惲，重厚也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "籌劃。",
+          "quote": [
+            "《玉篇．心部》：「惲，謀也，議也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "姓。如清代有惲敬。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yùn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "心",
+  "stroke_count": 12,
+  "title": "惲"
+}

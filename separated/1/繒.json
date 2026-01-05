@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄥ",
+      "definitions": [
+        {
+          "def": "絲織品的總稱。",
+          "example": [
+            "如：「文繒」、「細繒」。"
+          ],
+          "quote": [
+            "《說文解字．糸部》：「繒，帛也。」",
+            "《史記．卷九五．灌嬰傳》：「灌嬰者，睢陽販繒者也。」",
+            "唐．顏師古．注：「繒者，帛之總名。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有繒賀。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zēng"
+    },
+    {
+      "bopomofo": "ㄗㄥˋ",
+      "definitions": [
+        {
+          "def": "參見「繒繃」條。"
+        }
+      ],
+      "pinyin": "zèng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "糸",
+  "stroke_count": 18,
+  "title": "繒"
+}

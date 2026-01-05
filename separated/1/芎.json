@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄑㄩㄥ",
+      "definitions": [
+        {
+          "def": "參見「芎藭」條。"
+        }
+      ],
+      "pinyin": "（讀音）qiōng"
+    },
+    {
+      "bopomofo": "（語音）ㄒㄩㄥ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）xiōng"
+    },
+    {
+      "bopomofo": "（又音）ㄑㄩㄥˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）qióng"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "艸",
+  "stroke_count": 7,
+  "title": "芎"
+}

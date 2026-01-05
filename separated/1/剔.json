@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧ",
+      "definitions": [
+        {
+          "def": "將骨頭上的肉刮除下來。",
+          "example": [
+            "如：「請把骨肉剔淨好熬湯。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "從縫隙中往外挑。",
+          "example": [
+            "如：「剔牙」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "挑出不合標準的。",
+          "example": [
+            "如：「剔除惡習」、「先把筆試成績較差的人剔出來。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tī"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "刀",
+  "stroke_count": 10,
+  "title": "剔"
+}

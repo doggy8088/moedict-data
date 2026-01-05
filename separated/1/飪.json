@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄣˋ",
+      "definitions": [
+        {
+          "def": "煮熟。",
+          "example": [
+            "如：「烹飪」。"
+          ],
+          "quote": [
+            "《廣韻．上聲．寑韻》：「飪，熟食。」",
+            "《論語．鄉黨》：「失飪，不食。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "rèn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "食",
+  "stroke_count": 12,
+  "title": "飪"
+}

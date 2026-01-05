@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "平廣的地方。也當為具有此種環境的地名。",
+          "example": [
+            "如：「草坪」、「七里坪」、「阿姆坪」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。日本計算土地面積的單位。一坪合三點三零五七九平方公尺，二九三四坪為一甲。臺灣目前民間仍沿用之。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "píng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "土",
+  "stroke_count": 8,
+  "title": "坪"
+}

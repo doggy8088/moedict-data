@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄢ",
+      "definitions": [
+        {
+          "def": "化學上稱能與水化合成酸或鹼的氧化物為「酐」。",
+          "example": [
+            "如：「酸酐」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gān"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "酉",
+  "stroke_count": 10,
+  "title": "酐"
+}

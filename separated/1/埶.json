@@ -1,0 +1,49 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˋ",
+      "definitions": [
+        {
+          "def": "種植。",
+          "link": [
+            "同「藝」。"
+          ],
+          "quote": [
+            "《說文解字．{[f719f]}部》：「埶，種也。……《詩》曰我埶黍稷。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "技能。",
+          "link": [
+            "同「藝」。"
+          ],
+          "quote": [
+            "《集韻．去聲．祭韻》：「埶，一曰技能也。或作藝。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yì"
+    },
+    {
+      "bopomofo": "ㄕˋ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「勢」。"
+          ],
+          "quote": [
+            "《說文解字．{[f719f]}部》「埶」字．清．段玉裁．注：「《說文》無勢字，蓋古用埶為之。」"
+          ]
+        }
+      ],
+      "pinyin": "shì"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "土",
+  "stroke_count": 11,
+  "title": "埶"
+}

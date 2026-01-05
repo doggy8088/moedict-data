@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "文體名。刻在器物或石碑上，警惕自己或讚頌他人的文字。",
+          "example": [
+            "如：「座右銘」、「墓誌銘」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "刻鏤。",
+          "example": [
+            "如：「永銘心版」。"
+          ],
+          "quote": [
+            "唐．柳宗元〈謝除柳州刺史表〉：「銘心鏤骨，無報上天。」",
+            "《三國演義．第六○回》：「金石之言，當銘肺腑。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "míng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "金",
+  "stroke_count": 14,
+  "title": "銘"
+}

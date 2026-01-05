@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄛˋ　ㄔㄨ　ㄑㄩˋ",
+      "definitions": [
+        {
+          "def": "為達目的，不顧一切的去做。",
+          "example": [
+            "如：「為了國家前途，我豁出去了。」"
+          ]
+        }
+      ],
+      "pinyin": "huò chū qù"
+    },
+    {
+      "bopomofo": "ㄏㄨㄛ　˙ㄔㄨ　˙ㄑㄩ",
+      "definitions": [
+        {
+          "def": "不顧成敗或不惜付出任何代價。",
+          "example": [
+            "如：「如今事已至此，我也豁出去了！」"
+          ]
+        }
+      ],
+      "pinyin": "huō chu qu"
+    }
+  ],
+  "title": "豁出去"
+}

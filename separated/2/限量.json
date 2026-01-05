@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄢˋ　ㄌㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "限定止境。",
+          "quote": [
+            "《文明小史．第一回》：「這是現在第一件經世有用之學，將來未可限量，可喜可敬。」"
+          ]
+        }
+      ],
+      "pinyin": "xiàn liáng"
+    },
+    {
+      "bopomofo": "ㄒㄧㄢˋ　ㄌㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "限定數量。",
+          "example": [
+            "如：「限量供給」。"
+          ]
+        }
+      ],
+      "pinyin": "xiàn liàng"
+    }
+  ],
+  "title": "限量"
+}

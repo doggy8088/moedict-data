@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄢˊ",
+      "definitions": [
+        {
+          "def": "繩索結成的環套。",
+          "example": [
+            "如：「投繯自盡」。"
+          ],
+          "quote": [
+            "《資治通鑑．卷二五二．唐紀六十八．懿宗咸通十一年》：「城上以鉤繯挽之使近，投火沃油焚之，攻者皆死。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "huán"
+    },
+    {
+      "bopomofo": "（又音）ㄏㄨㄢˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）huàn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "糸",
+  "stroke_count": 19,
+  "title": "繯"
+}

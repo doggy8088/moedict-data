@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "一種金屬製的中空器具。內置鐵舌或鐵丸，搖動時因相互撞擊而發出清脆的響聲。",
+          "example": [
+            "如：「鈴鐺」、「手搖鈴」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "叫喚人的音響器具。",
+          "example": [
+            "如：「電鈴」、「門鈴」、「鬧鈴」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "líng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "金",
+  "stroke_count": 13,
+  "title": "鈴"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧˊ",
+      "definitions": [
+        {
+          "def": "肚臍。人和其他哺乳動物的腹面中央，由臍帶脫落後所形成的凹陷處。",
+          "type": "名"
+        },
+        {
+          "def": "螃蟹腹下的硬殼。雄的尖形，稱為「尖臍」；雌的圓形，稱為「團臍」。",
+          "type": "名"
+        },
+        {
+          "def": "物體中央凹凸處。",
+          "example": [
+            "如：「瓜臍」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qí"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "肉",
+  "stroke_count": 18,
+  "title": "臍"
+}

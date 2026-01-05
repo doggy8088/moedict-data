@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨˊ",
+      "definitions": [
+        {
+          "def": "天竺的簡稱。今印度的舊名。",
+          "quote": [
+            "唐．李賀〈馬〉詩二三首之一九：「蕭寺馱經馬，元從竺國來。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有竺曾。",
+          "type": "名"
+        },
+        {
+          "def": "厚。",
+          "link": [
+            "通「篤」。"
+          ],
+          "quote": [
+            "《楚辭．屈原．天問》：「稷維元子，帝何竺之？」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhú"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "竹",
+  "stroke_count": 8,
+  "title": "竺"
+}

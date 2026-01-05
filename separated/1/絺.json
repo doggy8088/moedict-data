@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔ",
+      "definitions": [
+        {
+          "def": "夏季服裝用的細布。",
+          "quote": [
+            "《說文解字．糸部》：「絺，細葛也。」",
+            "《詩經．周南．葛覃》：「為絺為綌，服之無斁。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有絺宗周。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "chī"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "糸",
+  "stroke_count": 13,
+  "title": "絺"
+}

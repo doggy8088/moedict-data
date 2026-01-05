@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "吞食。",
+          "example": [
+            "如：「狼吞虎嚥」、「細嚼慢嚥」。"
+          ],
+          "quote": [
+            "唐．李白〈早望海霞邊〉詩：「一餐嚥瓊液，五內發金沙。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yàn"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "口",
+  "stroke_count": 19,
+  "title": "嚥"
+}

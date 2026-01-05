@@ -1,0 +1,14 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄢˋ　ㄗˇ　ㄧㄡˊ　ㄐㄧㄢˋ　ㄉㄧˋ　ㄓˇ",
+      "definitions": [
+        {
+          "def": "使用者在電腦網路上收發信件的信箱所在。其格式如：diction@ms5.hinet.net，\"diction\"為使用者網路的帳號， \"@\"讀成 \"at\"，表示所在，\"ms5.hinet.net\"表示「郵件服務站」的主機和領域。"
+        }
+      ],
+      "pinyin": "diàn zǐ yóu jiàn dì zhǐ"
+    }
+  ],
+  "title": "電子郵件地址"
+}

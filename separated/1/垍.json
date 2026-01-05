@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˋ",
+      "definitions": [
+        {
+          "def": "硬土。",
+          "quote": [
+            "《說文解字．土部》：「垍，堅土也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "土質堅硬。",
+          "quote": [
+            "唐．柳宗元〈井銘．序〉：「其土堅垍，其利悠久。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "土",
+  "stroke_count": 9,
+  "title": "垍"
+}

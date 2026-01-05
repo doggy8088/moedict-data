@@ -1,0 +1,46 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˋ",
+      "definitions": [
+        {
+          "def": "瘋狗。",
+          "quote": [
+            "《集韻．去聲．祭韻》：「瘈，狂犬也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "瘋狂的。",
+          "quote": [
+            "《左傳．襄公十七年》：「國人逐瘈狗。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jì"
+    },
+    {
+      "bopomofo": "ㄑㄧˋ",
+      "definitions": [
+        {
+          "def": "參見「瘈瘲」條。"
+        }
+      ],
+      "pinyin": "qì"
+    },
+    {
+      "bopomofo": "（又音）ㄓˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）zhì"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "疒",
+  "stroke_count": 14,
+  "title": "瘈"
+}

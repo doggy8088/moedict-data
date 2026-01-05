@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄤˇ",
+      "definitions": [
+        {
+          "def": "古代串錢的繩索，泛指錢幣。",
+          "link": [
+            "同「繈」。"
+          ],
+          "quote": [
+            "《文選．左思．蜀都賦》：「藏鏹巨萬。」",
+            "唐．白居易〈贖雞〉詩：「與爾鏹三百，小惠何足論。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "金銀。",
+          "example": [
+            "如：「白鏹」。"
+          ],
+          "quote": [
+            "《南史．卷七○．循吏傳．郭祖琛傳》：「累金積鏹，侍列如仙，不田不商，何故而爾？」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiǎng"
+    },
+    {
+      "bopomofo": "ㄑㄧㄤ",
+      "definitions": [
+        {
+          "def": "參見「鏹水」條。"
+        }
+      ],
+      "pinyin": "qiāng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "金",
+  "stroke_count": 19,
+  "title": "鏹"
+}

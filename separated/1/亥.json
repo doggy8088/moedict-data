@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄞˋ",
+      "definitions": [
+        {
+          "def": "地支的第十二位。",
+          "type": "名"
+        },
+        {
+          "def": "時辰名。約當晚上九點至十一點。",
+          "type": "名"
+        },
+        {
+          "def": "排列次序用字，表示第十二。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如戰國時晉國有亥唐。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "hài"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "亠",
+  "stroke_count": 6,
+  "title": "亥"
+}

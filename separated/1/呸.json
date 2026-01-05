@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄟ",
+      "definitions": [
+        {
+          "def": "表示憤怒或鄙斥的感嘆詞。",
+          "example": [
+            "如：「呸！一派胡言。」"
+          ],
+          "quote": [
+            "《水滸傳．第三回》：「魯達聽了，道：『呸！俺只道那鄭大官人，卻原來是殺豬的鄭屠！』」"
+          ],
+          "type": "歎"
+        }
+      ],
+      "pinyin": "pēi"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "口",
+  "stroke_count": 8,
+  "title": "呸"
+}

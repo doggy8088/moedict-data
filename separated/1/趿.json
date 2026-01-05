@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄚˋ",
+      "definitions": [
+        {
+          "def": "以腳撥取東西。",
+          "quote": [
+            "唐．杜甫〈短歌行贈王郎司直〉：「西得諸侯棹錦水，欲向何門趿珠履。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sà"
+    },
+    {
+      "bopomofo": "ㄊㄚ",
+      "definitions": [
+        {
+          "def": "參見「趿拉」條。"
+        }
+      ],
+      "pinyin": "tā"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "足",
+  "stroke_count": 11,
+  "title": "趿"
+}

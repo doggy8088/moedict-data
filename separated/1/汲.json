@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˊ",
+      "definitions": [
+        {
+          "def": "自井中取水。",
+          "example": [
+            "如：「汲水」、「汲引」。"
+          ],
+          "quote": [
+            "唐．柳宗元〈晨詣超師院讀禪經〉詩：「汲井漱寒齒，清心拂塵服。」",
+            "元．盧摯〈蟾宮曲．奴耕婢織生涯〉曲：「有客來，汲清泉，自煮茶芽。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "姓。如漢代有汲黯。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jí"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "水",
+  "stroke_count": 7,
+  "title": "汲"
+}

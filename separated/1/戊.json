@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨˋ",
+      "definitions": [
+        {
+          "def": "天干的第五位。",
+          "type": "名"
+        },
+        {
+          "def": "等級、次第的第五位。",
+          "example": [
+            "如：「三年戊班」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "wù"
+    }
+  ],
+  "non_radical_stroke_count": 1,
+  "radical": "戈",
+  "stroke_count": 5,
+  "title": "戊"
+}

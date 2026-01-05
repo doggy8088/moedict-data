@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄟ",
+      "definitions": [
+        {
+          "def": "燃火煮食物。",
+          "example": [
+            "如：「炊飯」、「野炊」。"
+          ],
+          "quote": [
+            "漢．王充《論衡．知實》：「顏淵炊飯，塵落甑中。」",
+            "宋．蘇軾〈和子由送將官梁左藏仲通〉詩：「城西忽報故人來，急掃風軒炊麥飯。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "烹煮食物的。",
+          "example": [
+            "如：「炊具」、「炊煙裊裊」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "chuī"
+    },
+    {
+      "bopomofo": "ㄔㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "參見「炊累」條。"
+        }
+      ],
+      "pinyin": "chuì"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "火",
+  "stroke_count": 8,
+  "title": "炊"
+}

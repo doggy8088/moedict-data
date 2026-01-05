@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄞˇ",
+      "definitions": [
+        {
+          "def": "乳房的俗稱。",
+          "type": "名"
+        },
+        {
+          "def": "乳汁。",
+          "example": [
+            "如：「牛奶」、「餵奶」、「吃母奶的孩子免疫力較強。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "哺乳，引申為撫養。",
+          "quote": [
+            "《紅樓夢．第二○回》：「把你奶了這麼大，到如今吃不著奶了，把我丟在一旁。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "嬰兒階段的。",
+          "example": [
+            "如：「奶名」、「奶娃兒」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "nǎi"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "女",
+  "stroke_count": 5,
+  "title": "奶"
+}

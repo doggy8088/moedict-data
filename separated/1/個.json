@@ -1,0 +1,67 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄜˋ",
+      "definitions": [
+        {
+          "def": "量詞。計算單獨的人或物的單位。",
+          "example": [
+            "如：「二個饅頭」、「一個理想」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「個子」、「個兒」等條。",
+          "type": "名"
+        },
+        {
+          "def": "單獨的。",
+          "example": [
+            "如：「個人」、「個性」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "此、這。",
+          "example": [
+            "如：「個中滋味」、「個中好手」。"
+          ],
+          "type": "代"
+        },
+        {
+          "def": "用於動詞與補語之間，以加強語氣，無義。",
+          "example": [
+            "如：「見個面」、「哭個不停」。"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "gè"
+    },
+    {
+      "bopomofo": "ㄍㄜˇ",
+      "definitions": [
+        {
+          "def": "參見「自個兒」條。"
+        }
+      ],
+      "pinyin": "gě"
+    },
+    {
+      "bopomofo": "˙ㄍㄜ",
+      "definitions": [
+        {
+          "def": "這個、那個、一個、添個、來個等語詞中的音讀。",
+          "example": [
+            "如：「這個人」、「那個地方」、「一個小孩」。"
+          ]
+        }
+      ],
+      "pinyin": "ge"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "個"
+}

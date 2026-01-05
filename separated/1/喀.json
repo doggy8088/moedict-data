@@ -1,0 +1,43 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄚˋ",
+      "definitions": [
+        {
+          "def": "譯音用字。常用於地名、山名等的翻譯。",
+          "example": [
+            "如：「喀麥隆」、「巴顏喀喇山」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kà"
+    },
+    {
+      "bopomofo": "ㄎㄜˋ",
+      "definitions": [
+        {
+          "def": "參見「喀喀」條。"
+        }
+      ],
+      "pinyin": "kè"
+    },
+    {
+      "bopomofo": "ㄎㄚ",
+      "definitions": [
+        {
+          "def": "形容咳嗽、嘔吐的聲音。",
+          "quote": [
+            "《列子．說符》：「兩手據地而歐之，不出，喀喀然遂伏而死。　」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "kā"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "口",
+  "stroke_count": 12,
+  "title": "喀"
+}

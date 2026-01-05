@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄥ　ㄧㄡˇ",
+      "definitions": [
+        {
+          "antonyms": "獨占,私有",
+          "def": "整個物品屬於二人以上所共有。",
+          "example": [
+            "如：「那輛車是他們兄弟倆所公有。」"
+          ]
+        },
+        {
+          "def": "公家所有。",
+          "example": [
+            "如：「公有停車場」。"
+          ]
+        }
+      ],
+      "pinyin": "gōng yǒu"
+    }
+  ],
+  "title": "公有"
+}

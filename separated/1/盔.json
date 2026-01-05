@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄟ",
+      "definitions": [
+        {
+          "def": "用來保護頭部，使免於受傷的帽子。通常用金屬或塑膠製成。",
+          "example": [
+            "如：「頭盔」。"
+          ],
+          "quote": [
+            "《三國演義．第三○回》：「三通鼓罷，袁紹金盔金甲，錦袍玉帶，立馬陣前。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "缽、盆子一類的器皿。",
+          "example": [
+            "如：「瓦盔」、「陶盔」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kuī"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "皿",
+  "stroke_count": 11,
+  "title": "盔"
+}

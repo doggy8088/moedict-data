@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄚˋ",
+      "definitions": [
+        {
+          "def": "樓上的單扇門。",
+          "quote": [
+            "《說文解字．門部》：「闒，樓上戶也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "門樓上的屋子。",
+          "quote": [
+            "《廣韻．入聲．盍韻》：「闒，門樓上屋。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tà"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "門",
+  "stroke_count": 18,
+  "title": "闒"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄚˋ",
+      "definitions": [
+        {
+          "def": "河川名。古時黃河的一支流。其故道自今大陸地區河南省涉縣分出，行今黃河之北，經河北省而入山東省，於今黃河之南，東流入海。因河道屢有變遷，文獻上記載時有不同，舊跡今已不存。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "tà"
+    },
+    {
+      "bopomofo": "ㄌㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "漯河：城市名。位於大陸地區河南省。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "luò"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "水",
+  "stroke_count": 14,
+  "title": "漯"
+}

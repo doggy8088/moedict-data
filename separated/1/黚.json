@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "淺黃黑色。",
+          "quote": [
+            "《說文解字．黑部》：「黚，淺黃黑也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "河流名。在今大陸地區四川省。",
+          "quote": [
+            "《漢書．卷二八．地理志上》：「溫水南至鄨入黚水，黚水亦南至鄨入江。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qián"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "黑",
+  "stroke_count": 17,
+  "title": "黚"
+}

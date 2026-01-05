@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˋ",
+      "definitions": [
+        {
+          "def": "書的封套。",
+          "quote": [
+            "《後漢書．卷三○上．楊厚傳》：「吾綈袠中，有先祖所傳祕記，為漢家用，爾其修之。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "十年。",
+          "link": [
+            "通「秩」。"
+          ],
+          "quote": [
+            "宋．王楙《野客叢書．卷一二．開八袠》：「以十年為一袠，其說見白樂天集中。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhì"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "衣",
+  "stroke_count": 11,
+  "title": "袠"
+}

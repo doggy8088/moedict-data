@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧˊ",
+      "definitions": [
+        {
+          "def": "狻麑：即獅子。也作「狻猊」。",
+          "type": "名"
+        },
+        {
+          "def": "小鹿。",
+          "link": [
+            "通「麛」。"
+          ],
+          "quote": [
+            "唐．柳宗元〈三戒．臨江之麑〉：「麋麑稍大，忘己之麋也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "ní"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "鹿",
+  "stroke_count": 19,
+  "title": "麑"
+}

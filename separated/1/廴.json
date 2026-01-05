@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄣˇ",
+      "definitions": [
+        {
+          "def": "長行，連步行走。",
+          "quote": [
+            "《說文解字．廴部》：「廴，長行也。」",
+            "清．徐灝．箋：「長行者，連步行也。」",
+            "《玉篇．廴部》：「廴，長行也。今作引。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yǐn"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "廴",
+  "stroke_count": 3,
+  "title": "廴"
+}

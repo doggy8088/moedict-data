@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄢˋ",
+      "definitions": [
+        {
+          "def": "因勞累而生的疾病。",
+          "quote": [
+            "《詩經．大雅．板》：「上帝板板，下民卒癉。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "憎恨。",
+          "quote": [
+            "《書經．畢命》：「彰善癉惡，樹之風聲。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dàn"
+    },
+    {
+      "bopomofo": "ㄉㄢ",
+      "definitions": [
+        {
+          "def": "參見「火癉」條。"
+        }
+      ],
+      "pinyin": "dān"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "疒",
+  "stroke_count": 17,
+  "title": "癉"
+}

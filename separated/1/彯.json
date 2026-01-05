@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄠ",
+      "definitions": [
+        {
+          "def": "帶子。",
+          "quote": [
+            "唐．張濛〈鎮國軍節度使李公功德頌．序〉：「乃剔鑊鼓為兵，撤氈彯為甲。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "飄。",
+          "quote": [
+            "《文選．木華．海賦》：「彯沙礐石。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "棄。",
+          "quote": [
+            "《文選．袁淑．效曹子建樂府白馬篇》：「彯節去函谷，投珮出甘泉。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "piāo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "彡",
+  "stroke_count": 14,
+  "title": "彯"
+}

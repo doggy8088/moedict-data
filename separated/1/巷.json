@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "大街旁的小通道。",
+          "example": [
+            "如：「大街小巷」、「街頭巷尾」。"
+          ],
+          "link": [
+            "也稱為「巷子」、「巷兒」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "街巷之間的。",
+          "example": [
+            "如：「巷戰」、「街談巷議」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "xiàng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "己",
+  "stroke_count": 9,
+  "title": "巷"
+}

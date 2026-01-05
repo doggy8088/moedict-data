@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "細竹。",
+          "link": [
+            "同「筱」。"
+          ],
+          "quote": [
+            "南朝梁．沈約〈休沐寄懷〉詩：「紫籜開綠篠，白鳥映青疇。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "竹器。",
+          "quote": [
+            "《論語．微子》：「遇丈人以杖荷篠。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiǎo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "竹",
+  "stroke_count": 17,
+  "title": "篠"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˊ",
+      "definitions": [
+        {
+          "def": "以竹或樹枝編成的柵欄。",
+          "example": [
+            "如：「竹籬」。"
+          ],
+          "quote": [
+            "晉．陶淵明〈飲酒詩〉：「採菊東籬下，悠然見南山。」",
+            "南朝宋．沈約〈宿東園詩〉：「槿籬疏復密，荊扉新且故。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lí"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "竹",
+  "stroke_count": 25,
+  "title": "籬"
+}

@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "外城。",
+          "link": [
+            "同「郛」。"
+          ],
+          "quote": [
+            "《玉篇．土部》：「垺，郭也。正作郛。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "盛大。",
+          "quote": [
+            "《莊子．秋水》：「夫精，小之微也；垺，大之殷也。」",
+            "唐．陸德明《經典釋文．卷二七．莊子音義中》：「徐（邈）音孚，謂盛也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "fú"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "土",
+  "stroke_count": 10,
+  "title": "垺"
+}

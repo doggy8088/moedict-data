@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄜˊ",
+      "definitions": [
+        {
+          "def": "體腔中，分隔胸腔與腹腔的膜狀肌肉。",
+          "link": [
+            "也稱為「膈膜」、「橫膈膜」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gé"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "肉",
+  "stroke_count": 14,
+  "title": "膈"
+}

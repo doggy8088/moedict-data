@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄠ",
+      "definitions": [
+        {
+          "def": "樹梢。",
+          "link": [
+            "同「梢」。"
+          ],
+          "quote": [
+            "《楚辭．宋玉．九辯》：「萷櫹槮之可哀兮，形銷鑠而瘀傷。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shāo"
+    },
+    {
+      "bopomofo": "ㄕㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "萷藋：一種藥草。",
+          "quote": [
+            "《集韻．入聲．覺韻》：「萷，萷藋，藥草。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shuò"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "艸",
+  "stroke_count": 13,
+  "title": "萷"
+}

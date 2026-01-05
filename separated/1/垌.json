@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄥˋ",
+      "definitions": [
+        {
+          "def": "地名用字。",
+          "example": [
+            "如：「堠垌」、「大龍垌」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dòng"
+    },
+    {
+      "bopomofo": "ㄊㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "垌冢：地名。位於大陸地區湖北省。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "tóng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "土",
+  "stroke_count": 9,
+  "title": "垌"
+}

@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄣ",
+      "definitions": [
+        {
+          "def": "燈心草莖中可用來點燈的莖髓。",
+          "quote": [
+            "元．戴侗《六書故．卷一三．人》：「凡函畜于中者，皆謂之心，草木華葉之心，是也，（別作芯）。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xīn"
+    },
+    {
+      "bopomofo": "ㄒㄧㄣˋ",
+      "definitions": [
+        {
+          "def": "物體的中心部分。",
+          "example": [
+            "如：「蠟芯兒」、「芯子」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xìn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "艸",
+  "stroke_count": 8,
+  "title": "芯"
+}

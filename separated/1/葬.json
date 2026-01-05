@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄤˋ",
+      "definitions": [
+        {
+          "def": "掩埋。",
+          "example": [
+            "如：「埋葬」、「葬身」。"
+          ],
+          "quote": [
+            "《紅樓夢．第二七回》：「儂今葬花人笑痴，他年葬儂知是誰。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "屍體掩埋、處理的方式。",
+          "example": [
+            "如：「土葬」、「海葬」、「火葬」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zàng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "艸",
+  "stroke_count": 13,
+  "title": "葬"
+}

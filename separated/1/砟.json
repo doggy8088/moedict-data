@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄚˋ",
+      "definitions": [
+        {
+          "def": "碑石。",
+          "quote": [
+            "《玉篇．石部》：「砟，碑石也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhà"
+    },
+    {
+      "bopomofo": "ㄓㄚˇ",
+      "definitions": [
+        {
+          "def": "塊狀物。",
+          "example": [
+            "如：「煤砟子」、「爐灰砟兒」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhǎ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "石",
+  "stroke_count": 10,
+  "title": "砟"
+}

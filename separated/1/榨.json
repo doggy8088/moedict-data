@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄚˋ",
+      "definitions": [
+        {
+          "def": "擠壓出汁液。",
+          "example": [
+            "如：「榨油」、「榨橘子汁」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "壓迫、逼迫。",
+          "example": [
+            "如：「壓榨」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "擠壓物體汁液的器具。",
+          "quote": [
+            "宋．穆脩〈和秀才江墅幽居好〉詩一○首之五：「酒醲新出榨，魚活旋離鉤。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhà"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "木",
+  "stroke_count": 14,
+  "title": "榨"
+}

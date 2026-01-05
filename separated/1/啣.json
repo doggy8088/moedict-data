@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "用嘴巴含著。",
+          "example": [
+            "如：「馬啣草」、「燕子啣泥」。"
+          ],
+          "link": [
+            "通「銜」。"
+          ],
+          "quote": [
+            "《兒女英雄傳．第七回》：「我張金鳳生必啣環，死當結草。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "懷藏在心中。",
+          "example": [
+            "如：「啣恨」。"
+          ],
+          "link": [
+            "通「銜」。"
+          ],
+          "quote": [
+            "《西遊記．第六二回》：「國王疑僧盜寶，啣冤取罪，上下難明。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xián"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "口",
+  "stroke_count": 11,
+  "title": "啣"
+}

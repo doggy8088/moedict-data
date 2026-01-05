@@ -1,0 +1,47 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘˇ",
+      "definitions": [
+        {
+          "def": "踩踏。",
+          "quote": [
+            "《文選．左思．吳都賦》：「雖有雄虺之九首，將抗足而跐之。」",
+            "《紅樓夢．第三六回》：「鳳姐把袖子挽了幾挽，跐著那角門的門檻子。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "cǐ"
+    },
+    {
+      "bopomofo": "ㄘ",
+      "definitions": [
+        {
+          "def": "腳下滑動而使身體傾跌。",
+          "quote": [
+            "《七俠五義．第五一回》：「腳下一跐，也就溜下去了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "cī"
+    },
+    {
+      "bopomofo": "ㄘㄞˇ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「跴」。"
+          ]
+        }
+      ],
+      "pinyin": "cǎi"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "足",
+  "stroke_count": 13,
+  "title": "跐"
+}

@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄢ",
+      "definitions": [
+        {
+          "def": "細長而一端尖銳的棒形器物。俗稱為「扦子」，用來插物。",
+          "example": [
+            "如：「牙扦」、「鐵扦」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "插、刺。",
+          "example": [
+            "如：「魚刺扦進牙縫裡。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "栽植法中的插枝法。",
+          "example": [
+            "如：「扦插」。"
+          ],
+          "quote": [
+            "明．徐光啟《農政全書．卷三七．種植．種法》：「於正二月上旬，取樹木嫩枝扦插，勝於種核。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiān"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "手",
+  "stroke_count": 6,
+  "title": "扦"
+}

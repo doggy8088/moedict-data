@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "附在耳邊小聲說話。",
+          "quote": [
+            "《說文解字．耳部》：「聶，駙耳私小語也。」",
+            "《莊子．大宗師》：「瞻明聞之聶許。」",
+            "唐．成玄英．疏：「聶，附耳私語也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "姓。如戰國時代韓國有聶政。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "niè"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "耳",
+  "stroke_count": 18,
+  "title": "聶"
+}

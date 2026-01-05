@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨ",
+      "definitions": [
+        {
+          "def": "鳥類伏卵生雛，蟲魚由產卵到出生幼兒，或指以人工方法使卵內胚胎發育成雛的過程，統稱為「孵」。",
+          "example": [
+            "如：「孵化」、「孵育」、「孵卵」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "fū"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "子",
+  "stroke_count": 14,
+  "title": "孵"
+}

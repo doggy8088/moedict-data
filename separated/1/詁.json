@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨˇ",
+      "definitions": [
+        {
+          "def": "用現代的語言解釋古語或方言。",
+          "quote": [
+            "《說文解字．言部》：「詁，訓故言也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "字詞的解釋。",
+          "quote": [
+            "宋．陸游〈萬卷樓記〉：「同字而異詁，同辭而異義。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǔ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "言",
+  "stroke_count": 12,
+  "title": "詁"
+}

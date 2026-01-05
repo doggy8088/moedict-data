@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩㄢˊ",
+      "definitions": [
+        {
+          "def": "一種含羰基的有機化合物。係一級醇氧化之初產物。由羰基和一個羥基、一個氫原子結合而成。",
+          "example": [
+            "如：「甲醛」、「乙醛」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "quán"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "酉",
+  "stroke_count": 17,
+  "title": "醛"
+}

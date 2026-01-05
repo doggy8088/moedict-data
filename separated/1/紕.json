@@ -1,0 +1,48 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧ",
+      "definitions": [
+        {
+          "def": "織布時，經緯線沒織好的地方。引申為錯誤。",
+          "example": [
+            "如：「紕繆」、「紕漏」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "布帛等織品線或接縫處脫散。",
+          "example": [
+            "如：「線紕了」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pī"
+    },
+    {
+      "bopomofo": "ㄆㄧˊ",
+      "definitions": [
+        {
+          "def": "衣冠的緣飾。",
+          "quote": [
+            "《禮記．玉藻》：「縞冠素紕，既祥之冠也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "在衣冠或旗幟邊緣繡上花邊。",
+          "quote": [
+            "《詩經．鄘風．干旄》：「素絲紕之，良馬四之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pí"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "糸",
+  "stroke_count": 10,
+  "title": "紕"
+}

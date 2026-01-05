@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨˊ",
+      "definitions": [
+        {
+          "def": "大門兩側的廳堂。",
+          "quote": [
+            "《爾雅．釋宮》：「門側之堂謂之塾。」",
+            "《儀禮．士冠禮》：「筮與席，所卦者，具饌于西塾。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "舊時私人設立的教學場所。",
+          "example": [
+            "如：「私塾」、「家塾」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shú"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "土",
+  "stroke_count": 14,
+  "title": "塾"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨˋ",
+      "definitions": [
+        {
+          "def": "竹子編成的箱子。",
+          "example": [
+            "如：「字紙簏」、「書簏」。"
+          ],
+          "quote": [
+            "《楚辭．劉向．九歎．愍命》：「莞芎棄於澤洲兮，瓟瓥蠹於筐簏。」",
+            "漢．王逸．注：「方為筐，圓為簏。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lù"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "竹",
+  "stroke_count": 17,
+  "title": "簏"
+}

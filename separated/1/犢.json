@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨˊ",
+      "definitions": [
+        {
+          "def": "小牛。",
+          "example": [
+            "如：「初生之犢不畏虎。」"
+          ],
+          "quote": [
+            "宋．陸游〈春晚即事〉詩四首之四：「老農愛犢行泥緩，幼婦憂蠶采葉忙。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如戰國時齊國有犢牧。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "dú"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "牛",
+  "stroke_count": 19,
+  "title": "犢"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄡ",
+      "definitions": [
+        {
+          "def": "商量、諮詢。",
+          "quote": [
+            "《國語．晉語四》：「諏於蔡原而訪於辛尹。」",
+            "《文選．諸葛亮．出師表》：「陛下亦宜自課，以諮諏善道，察納雅言。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "選擇。",
+          "quote": [
+            "《儀禮．特牲饋食禮》：「特牲饋食之禮，不諏日。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zōu"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "言",
+  "stroke_count": 15,
+  "title": "諏"
+}

@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄜˊ",
+      "definitions": [
+        {
+          "def": "鳥類羽毛中的硬梗。",
+          "quote": [
+            "《說文解字．羽部》：「翮，羽莖也。」",
+            "《周禮．地官．羽人》：「掌以時徵羽翮之政。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "翅膀。",
+          "example": [
+            "如：「奮翮高飛」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。古時用於羽毛。",
+          "quote": [
+            "《戰國策．楚策四》：「奮其六翮而凌清風，飄搖乎高翔。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "hé"
+    },
+    {
+      "bopomofo": "（又音）ㄍㄜˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）gé"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "羽",
+  "stroke_count": 16,
+  "title": "翮"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩㄣˊ",
+      "definitions": [
+        {
+          "def": "古時下裳的通稱，今指裙子。",
+          "example": [
+            "如：「窄裙」、「百褶裙」。"
+          ],
+          "quote": [
+            "漢．劉熙《釋名．釋衣服》：「裙，下群也。連接裾幅 也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "鱉甲的邊緣。",
+          "quote": [
+            "明．張自烈《正字通．衣部》：「裙，鱉甲邊曰裙。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qún"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "衣",
+  "stroke_count": 13,
+  "title": "裙"
+}

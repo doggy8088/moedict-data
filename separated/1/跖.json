@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˊ",
+      "definitions": [
+        {
+          "def": "腳掌。",
+          "quote": [
+            "《說文解字．足部》：「跖，足下也。」",
+            "清．段玉裁．注：「今所謂腳掌也。」",
+            "唐．韓愈〈祭河南張員外文〉：「夜息南山，同臥一席；守隸防夫，觝頂交跖。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "人名用字。春秋時大盜，當時人稱為「盜跖」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhí"
+    },
+    {
+      "bopomofo": "（又音）ㄓㄜˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）zhè"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "足",
+  "stroke_count": 12,
+  "title": "跖"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨ",
+      "definitions": [
+        {
+          "def": "小麥磨成麵粉後所留下的皮殼、碎屑。",
+          "link": [
+            "也稱為「麩皮」、「麩子」。"
+          ],
+          "quote": [
+            "《說文解字．麥部》：「麩，小麥屑皮也。」",
+            "《太平御覽．卷八五三．飲食部．麩》：「五月五日至後，可糴麩，至冬以養馬。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fū"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "麥",
+  "stroke_count": 15,
+  "title": "麩"
+}

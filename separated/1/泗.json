@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙˋ",
+      "definitions": [
+        {
+          "def": "參見「泗水」條。",
+          "type": "名"
+        },
+        {
+          "def": "鼻涕。",
+          "quote": [
+            "《詩經．陳風．澤陂》：「寤寐無為，涕泗滂沱。」",
+            "唐．李朝威〈柳毅傳〉：「悲泗淋漓，誠怛人心。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "sì"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "水",
+  "stroke_count": 8,
+  "title": "泗"
+}

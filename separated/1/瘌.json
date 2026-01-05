@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄚˋ",
+      "definitions": [
+        {
+          "def": "參見「瘌痢」條。"
+        }
+      ],
+      "pinyin": "là"
+    },
+    {
+      "bopomofo": "˙ㄌㄚ",
+      "definitions": [
+        {
+          "def": "疤瘌：疤、瘡痕。",
+          "example": [
+            "如：「那道舊疤瘌，依稀可見。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "la"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "疒",
+  "stroke_count": 14,
+  "title": "瘌"
+}

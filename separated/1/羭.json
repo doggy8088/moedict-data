@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˊ",
+      "definitions": [
+        {
+          "def": "母羊。",
+          "quote": [
+            "《列子．天瑞》：「老韭之為莧也，老羭之為猿也。」",
+            "晉．張湛．注：「羭，牝羊也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "美德。",
+          "quote": [
+            "《左傳．僖公四年》：「專之渝，攘公之羭。」",
+            "晉．杜預．注：「羭，美也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yú"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "羊",
+  "stroke_count": 15,
+  "title": "羭"
+}

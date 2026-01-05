@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄢˊ",
+      "definitions": [
+        {
+          "def": "沒有邊飾的衣服。",
+          "quote": [
+            "《說文解字．衣部》：「襤，無緣衣也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "破舊不堪的。參見「襤褸」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "lán"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "衣",
+  "stroke_count": 20,
+  "title": "襤"
+}

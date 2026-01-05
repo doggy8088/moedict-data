@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄢˊ",
+      "definitions": [
+        {
+          "def": "點燃、焚燒。",
+          "example": [
+            "如：「燃燈」、「燃香」、「燃燒」、「燃眉之急」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "可以燃燒的。",
+          "example": [
+            "如：「燃料」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "rán"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "火",
+  "stroke_count": 16,
+  "title": "燃"
+}

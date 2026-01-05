@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "竹皮。",
+          "link": [
+            "俗稱為「筍殼」。"
+          ],
+          "quote": [
+            "《說文解字．竹部》：「篛，楚謂竹皮曰篛。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「篛竹」條。",
+          "type": "名"
+        },
+        {
+          "def": "篛竹的葉子。",
+          "quote": [
+            "唐．柳宗元〈柳州峒氓〉詩：「青篛裹鹽歸峒客，綠荷包飯趁虛人。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "ruò"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "竹",
+  "stroke_count": 16,
+  "title": "篛"
+}

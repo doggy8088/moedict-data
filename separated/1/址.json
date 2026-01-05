@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˇ",
+      "definitions": [
+        {
+          "def": "地基、基礎。",
+          "quote": [
+            "唐．劉兼〈長春節〉詩：「太平基址千年永，混一車書萬古存。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "地點、處所。",
+          "example": [
+            "如：「住址」、「遺址」、「校址」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhǐ"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "土",
+  "stroke_count": 7,
+  "title": "址"
+}

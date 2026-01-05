@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄡˋ",
+      "definitions": [
+        {
+          "def": "總稱有四足而全身有毛的脊椎動物。",
+          "example": [
+            "如：「野獸」、「禽獸」、「走獸」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "野蠻、不合禮法的。",
+          "example": [
+            "如：「獸心」、「獸性」、「獸行」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "shòu"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "犬",
+  "stroke_count": 19,
+  "title": "獸"
+}

@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄢˊ",
+      "definitions": [
+        {
+          "def": "水流旋轉所形成中心較低的地方。",
+          "example": [
+            "如：「漩渦」。"
+          ],
+          "quote": [
+            "唐．杜甫〈最能行〉：「欹帆側柂入波濤，撇漩捎濆無險阻。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "流水旋轉。",
+          "quote": [
+            "唐．元稹〈遭風二十韻〉：「龍歸窟穴深潭漩，蜃作波濤古岸頹。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xuán"
+    },
+    {
+      "bopomofo": "（又音）ㄒㄩㄢˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）xuàn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "水",
+  "stroke_count": 14,
+  "title": "漩"
+}

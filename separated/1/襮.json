@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "衣領。",
+          "quote": [
+            "《詩經．唐風．揚之水》：「素衣朱襮，從子于沃。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "表明、暴露的意思。參見「表襮」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "bó"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "衣",
+  "stroke_count": 20,
+  "title": "襮"
+}

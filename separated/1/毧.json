@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "細毛。",
+          "example": [
+            "如：「羊毧」、「鴨毧」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "毛織品。",
+          "example": [
+            "如：「呢毧」、「駱駝毧」、「長毛毧」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "róng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "毛",
+  "stroke_count": 10,
+  "title": "毧"
+}

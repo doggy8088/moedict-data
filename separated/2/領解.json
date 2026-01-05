@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄥˇ　ㄐㄧㄝˇ",
+      "definitions": [
+        {
+          "def": "了解、領悟。",
+          "example": [
+            "如：「他諱莫如深的行徑，使大家都難以領解他的想法。」"
+          ]
+        }
+      ],
+      "pinyin": "lǐng jiě"
+    },
+    {
+      "bopomofo": "ㄌㄧㄥˇ　ㄐㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "科舉時代稱考中鄉試的為「領解」。"
+        }
+      ],
+      "pinyin": "lǐng jiè"
+    }
+  ],
+  "title": "領解"
+}

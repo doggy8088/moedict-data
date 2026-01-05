@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩˊ",
+      "definitions": [
+        {
+          "def": "把麥子或白米蒸過，使它發酵後再晒乾，稱為「麴」。可用來釀酒。",
+          "link": [
+            "也稱為「酒母」、「酒麴」。"
+          ],
+          "quote": [
+            "宋．蘇軾〈少年遊．銀塘朱檻麴塵波〉詞：「銀塘朱檻麴塵波，圓綠卷新荷。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如晉代有麴崇裕。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qú"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "麥",
+  "stroke_count": 19,
+  "title": "麴"
+}

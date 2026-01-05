@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "參見「佻佻」條。"
+        }
+      ],
+      "pinyin": "tiáo"
+    },
+    {
+      "bopomofo": "ㄊㄧㄠ",
+      "definitions": [
+        {
+          "def": "輕薄、不莊重。",
+          "example": [
+            "如：「佻㒓」、「輕佻」。"
+          ],
+          "quote": [
+            "《資治通鑑．卷五九．漢紀五十一．靈帝中平六年》：「帝以辯輕佻無威儀，欲立協。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "竊取。",
+          "quote": [
+            "《國語．周語中》：「而卻至佻天之功以為己力，不亦難乎？」",
+            "《抱朴子．外篇．刺驕》：「或佻竊虛名，而躬自為之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tiāo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "佻"
+}

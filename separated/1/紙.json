@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˇ",
+      "definitions": [
+        {
+          "def": "日常用品之一。主要原料為植物纖維，可供於書畫、印刷、包裹等用途。",
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算文件書信的張數的單位。",
+          "example": [
+            "如：「一紙公文」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhǐ"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "糸",
+  "stroke_count": 10,
+  "title": "紙"
+}

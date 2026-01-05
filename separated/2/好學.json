@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄠˇ　ㄒㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "容易學習。",
+          "example": [
+            "如：「這門科目蠻好學的！」"
+          ]
+        }
+      ],
+      "pinyin": "hǎo xué"
+    },
+    {
+      "bopomofo": "ㄏㄠˋ　ㄒㄩㄝˊ",
+      "definitions": [
+        {
+          "antonyms": "懶惰",
+          "def": "喜歡學習。",
+          "quote": [
+            "《論語．公冶長》：「敏而好學，不恥下問，是以謂之文也。」",
+            "宋．歐陽修《歸田錄．卷二》：「皇親有好學者，宛轉致之。」"
+          ],
+          "synonyms": "勤學"
+        }
+      ],
+      "pinyin": "hào xué"
+    }
+  ],
+  "title": "好學"
+}

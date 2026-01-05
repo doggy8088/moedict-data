@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄡˋ",
+      "definitions": [
+        {
+          "def": "狗尾草的別名。參見「狗尾草」條。",
+          "type": "名"
+        },
+        {
+          "def": "不好的人或事物。",
+          "example": [
+            "如：「良莠不齊」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "壞的、惡的。參見「莠言」、「莠民」等條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "yòu"
+    },
+    {
+      "bopomofo": "（又音）ㄧㄡˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yǒu"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "艸",
+  "stroke_count": 11,
+  "title": "莠"
+}

@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "鼓槌。",
+          "quote": [
+            "《左傳．成公二年》：「左并轡，右援枹而鼓，馬逸不能止，師從止。」",
+            "《楚辭．屈原．九歌．東皇太一》：「揚枹兮拊鼓，疏緩節兮安歌。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fú"
+    },
+    {
+      "bopomofo": "ㄅㄠ",
+      "definitions": [
+        {
+          "def": "參見「枹木」條。"
+        }
+      ],
+      "pinyin": "bāo"
+    },
+    {
+      "bopomofo": "（又音）ㄈㄨ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）fū"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "木",
+  "stroke_count": 9,
+  "title": "枹"
+}

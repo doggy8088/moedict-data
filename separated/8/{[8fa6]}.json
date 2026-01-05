@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄞˇ",
+      "definitions": [
+        {
+          "def": "嘆息。",
+          "quote": [
+            "《說文解字．口部》：「{[8fa6]}，嘆也。」",
+            "《詩經．王風．中谷有蓷》：「有女仳離，{[8fa6]}其嘆矣。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "kǎi"
+    },
+    {
+      "bopomofo": "（又音）ㄎㄞˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）kài"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "口",
+  "stroke_count": 12,
+  "title": "{[8fa6]}"
+}

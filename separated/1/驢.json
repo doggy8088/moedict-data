@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄩˊ",
+      "definitions": [
+        {
+          "def": "動物名。哺乳綱奇蹄目馬科。似馬而小，耳頰較馬長，短鬣，毛多為灰褐色，尾部像牛尾。性溫馴，能負物及供坐騎。",
+          "link": [
+            "俗稱為「驢子」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "笨拙、土氣、愚蠢。",
+          "example": [
+            "如：「瞧他那副驢樣子，真好笑！」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "lǘ"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "馬",
+  "stroke_count": 26,
+  "title": "驢"
+}

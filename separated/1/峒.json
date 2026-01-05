@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "參見「崆峒山」條。"
+        }
+      ],
+      "pinyin": "tóng"
+    },
+    {
+      "bopomofo": "ㄉㄨㄥˋ",
+      "definitions": [
+        {
+          "def": "早期大陸地區海南島黎族政治組織的名稱。各峒以山嶺、河流為界，有固定的地域。",
+          "example": [
+            "如：「峒長」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "地名用字：(1) 苗、傜、僮、侗等民族的聚居區域。分布在大陸地區廣西、貴州等部分山區。如「苗峒」、「黃峒」。(2) 山洞。",
+          "example": [
+            "如：「峒中」、「吉峒坪」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dòng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "山",
+  "stroke_count": 9,
+  "title": "峒"
+}

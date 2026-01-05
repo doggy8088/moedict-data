@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄡˋ",
+      "definitions": [
+        {
+          "def": "孔穴、縫隙。",
+          "quote": [
+            "南朝宋．劉義慶《世說新語．排調》：「君口中何為開狗竇？」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "人體內某些器官或組織內部的凹陷處。",
+          "example": [
+            "如：「鼻竇」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有竇嬰、竇憲。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "dòu"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "穴",
+  "stroke_count": 20,
+  "title": "竇"
+}

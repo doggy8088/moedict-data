@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "有花紋的絲織品。",
+          "quote": [
+            "唐．薛濤〈海棠溪〉詩：「人世不思靈卉異，競將紅纈染輕紗。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "眼花時所見的星點。",
+          "quote": [
+            "宋．蘇舜欽〈奉酬公素學士見招之作〉詩：「神迷耳熱眼生纈，嚼盡寶壓狂醒消。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xié"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "糸",
+  "stroke_count": 21,
+  "title": "纈"
+}

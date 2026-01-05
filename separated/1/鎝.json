@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄚˋ",
+      "definitions": [
+        {
+          "def": "刻鏤。",
+          "quote": [
+            "《集韻．入聲．合韻》：「鎝，鏤也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sà"
+    },
+    {
+      "bopomofo": "ㄊㄚˇ",
+      "definitions": [
+        {
+          "def": "（technetium，Tc）化學元素。原子序43。是人工合成的放射性金屬元素。地殼中含有從鈾自發裂變產生的極少量的鎝，由於壽命較短，故不可能存有原生鎝。鎝化合物和合金具有很好的防腐蝕性能。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "tǎ"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "金",
+  "stroke_count": 18,
+  "title": "鎝"
+}

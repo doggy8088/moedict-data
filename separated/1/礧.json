@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「礌」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄌㄟˇ",
+      "definitions": [
+        {
+          "def": "大石。",
+          "quote": [
+            "《文選．王延壽．魯靈光殿賦》：「蔥翠紫蔚，礧碨瑰瑋。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lěi"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "石",
+  "stroke_count": 20,
+  "title": "礧"
+}

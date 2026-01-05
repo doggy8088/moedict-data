@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "兩面刀刃相對、交叉以截斷東西的用具。",
+          "example": [
+            "如：「剪刀」、「剪子」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用剪刀裁截。",
+          "example": [
+            "如：「剪草」、「剪髮」、「剪紙」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jiǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "刀",
+  "stroke_count": 11,
+  "title": "剪"
+}

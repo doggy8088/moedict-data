@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄚ",
+      "definitions": [
+        {
+          "def": "譯音用字。為藏經譯音所常用。",
+          "example": [
+            "如：「迦葉」、「迦蘭陀」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiā"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "辵",
+  "stroke_count": 9,
+  "title": "迦"
+}

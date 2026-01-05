@@ -1,0 +1,48 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄥ",
+      "definitions": [
+        {
+          "def": "通達、順利。",
+          "example": [
+            "如：「萬事亨通」。"
+          ],
+          "quote": [
+            "《易經．坤卦．彖曰》：「含弘光大，品物咸亨。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "hēng"
+    },
+    {
+      "bopomofo": "ㄆㄥ",
+      "definitions": [
+        {
+          "def": "煮。為「烹」的本字。",
+          "quote": [
+            "《廣韻．平聲．庚韻》：「亨，煮也。俗作『烹』。」",
+            "《周禮．天官．內饔》：「割亨煎和之事。」",
+            "漢．鄭玄．注：「亨，煮也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pēng"
+    },
+    {
+      "bopomofo": "（又音）ㄏㄥˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）héng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "亠",
+  "stroke_count": 7,
+  "title": "亨"
+}

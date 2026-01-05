@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥ",
+      "definitions": [
+        {
+          "def": "盡心誠意待人處事的美德。",
+          "example": [
+            "如：「盡忠職守」、「效忠」。"
+          ],
+          "quote": [
+            "《左傳．僖公九年》：「公家之利，知無不為，忠也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有忠譚。",
+          "type": "名"
+        },
+        {
+          "def": "盡心做事。",
+          "example": [
+            "如：「忠君愛國」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhōng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "心",
+  "stroke_count": 8,
+  "title": "忠"
+}

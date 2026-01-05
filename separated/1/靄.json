@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄞˇ",
+      "definitions": [
+        {
+          "def": "參見「靄靄」條。",
+          "type": "形"
+        },
+        {
+          "def": "煙霧、雲氣。",
+          "quote": [
+            "唐．王維〈終南山〉詩：「白雲迴望合，青靄入看無。」",
+            "宋．柳永〈雨霖鈴．寒蟬淒切〉詞：「念去去、千里煙波，暮靄沉沉楚天闊。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "ǎi"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "雨",
+  "stroke_count": 24,
+  "title": "靄"
+}

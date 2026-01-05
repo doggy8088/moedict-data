@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄛˇ",
+      "definitions": [
+        {
+          "def": "赤露身體。",
+          "example": [
+            "如：「全裸」、「裸露」。"
+          ],
+          "quote": [
+            "《漢書．卷八十六．王嘉傳》：「大臣括髮關械，裸躬就笞，非所以重國褒宗廟也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "袒露的。",
+          "example": [
+            "如：「裸照」、「裸體」、「赤裸裸」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "luǒ"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "衣",
+  "stroke_count": 14,
+  "title": "裸"
+}

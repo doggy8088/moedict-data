@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄤ",
+      "definitions": [
+        {
+          "def": "雲氣興起的樣子。",
+          "quote": [
+            "《文選．潘岳．射雉賦》：「天泱泱以垂雲，泉涓涓而吐溜。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "宏大深廣的樣子。參見「泱泱」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "yāng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "水",
+  "stroke_count": 8,
+  "title": "泱"
+}

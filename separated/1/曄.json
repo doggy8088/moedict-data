@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "光明的樣子。",
+          "quote": [
+            "《說文解字．日部》：「曄，光也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "繁盛的樣子。",
+          "quote": [
+            "《文選．宋玉．神女賦．序》：「美貌橫生，曄兮如華，溫乎如瑩，溫乎如瑩。」",
+            "唐．李善．注：「曄，盛貌。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yè"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "日",
+  "stroke_count": 16,
+  "title": "曄"
+}

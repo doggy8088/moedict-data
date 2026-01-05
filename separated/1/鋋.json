@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄢˊ",
+      "definitions": [
+        {
+          "def": "小的矛。",
+          "quote": [
+            "《說文解字．金部》：「鋋，小矛也。」",
+            "《史記．卷一一○．匈奴傳》：「其長兵則弓矢，短兵則刀鋋。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "刺殺。",
+          "quote": [
+            "《文選．司馬相如．上林賦》：「格蝦蛤，鋋猛氏。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chán"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "金",
+  "stroke_count": 16,
+  "title": "鋋"
+}

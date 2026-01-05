@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄣˇ",
+      "definitions": [
+        {
+          "def": "扭轉。",
+          "quote": [
+            "《說文解字．糸部》：「紾，轉也。」",
+            "《孟子．告子下》：「紾兄之臂而奪之食。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "糾纏、糾結。",
+          "quote": [
+            "《淮南子．本經》：「菱杼紾抱。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhěn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "糸",
+  "stroke_count": 11,
+  "title": "紾"
+}

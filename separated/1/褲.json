@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨˋ",
+      "definitions": [
+        {
+          "def": "穿在下身的服裝。",
+          "example": [
+            "如：「長褲」、「西裝褲」、「開襠褲」。"
+          ],
+          "link": [
+            "也稱為「褲子」。"
+          ],
+          "quote": [
+            "唐．薛逢〈宮詞〉：「遙窺正殿簾開處，袍褲宮人掃御床。」",
+            "《紅樓夢．第六五回》：「底上綠褲紅鞋，一對金蓮或敲或並，沒半刻斯文。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kù"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "衣",
+  "stroke_count": 16,
+  "title": "褲"
+}

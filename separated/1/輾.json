@@ -1,0 +1,43 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢˇ",
+      "definitions": [
+        {
+          "def": "參見「輾轉」條。"
+        }
+      ],
+      "pinyin": "zhǎn"
+    },
+    {
+      "bopomofo": "ㄋㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "以旋轉輪子軋碎、壓平。",
+          "example": [
+            "如：「輾穀」。"
+          ],
+          "link": [
+            "通「碾」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "專指車輪的軋壓。",
+          "example": [
+            "如：「輾斃」、「輾傷」。"
+          ],
+          "quote": [
+            "唐．趙嘏〈哭李進士〉詩：「牽馬街中哭送君，靈車輾雪隔城聞。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "niǎn"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "車",
+  "stroke_count": 17,
+  "title": "輾"
+}

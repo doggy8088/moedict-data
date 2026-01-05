@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄣˇ",
+      "definitions": [
+        {
+          "def": "用草繩或竹片編成的盛土器具。",
+          "example": [
+            "如：「畚箕」、「畚斗」。"
+          ],
+          "quote": [
+            "《公羊傳．宣公六年》：「趙盾已朝而出，與諸大夫立於朝，有人荷畚。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用畚箕撮取東西。",
+          "example": [
+            "如：「畚土」、「畚草」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "běn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "田",
+  "stroke_count": 10,
+  "title": "畚"
+}

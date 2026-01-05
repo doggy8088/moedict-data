@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄤˇ　ㄑㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "賞給錢財。",
+          "quote": [
+            "《南史．卷四○．宗越傳》：「每一捷，郡將輒賞錢五千。」"
+          ]
+        }
+      ],
+      "pinyin": "shǎng qián"
+    },
+    {
+      "bopomofo": "ㄕㄤˇ　˙ㄑㄧㄢ",
+      "definitions": [
+        {
+          "def": "賞給人的錢。",
+          "example": [
+            "如：「只要太太打牌贏了錢，我們底下的就可以得到許多賞錢。」"
+          ]
+        }
+      ],
+      "pinyin": "shǎng qian"
+    }
+  ],
+  "title": "賞錢"
+}

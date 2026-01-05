@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨˋ",
+      "definitions": [
+        {
+          "def": "熾熱。",
+          "quote": [
+            "《文選．左思．魏都賦》：「宅土熇暑，封疆障癘。」",
+            "唐．柳宗元〈解祟賦〉：「胡赫炎薰熇之烈火兮，而生夫人之齒牙。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "hù"
+    },
+    {
+      "bopomofo": "ㄏㄜˋ",
+      "definitions": [
+        {
+          "def": "參見「熇熇」條。"
+        }
+      ],
+      "pinyin": "hè"
+    },
+    {
+      "bopomofo": "ㄎㄠˇ",
+      "definitions": [
+        {
+          "def": "烘烤、燒炙。烤的本字。",
+          "quote": [
+            "宋．張君房《雲笈七籤．卷八六．洞生太帝君鎮生五藏訣》：「當以直理之木，熇燥好薪，不用蠹蟲及木皮之不淨薪。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kǎo"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "火",
+  "stroke_count": 14,
+  "title": "熇"
+}

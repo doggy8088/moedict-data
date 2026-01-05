@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "皮衣。",
+          "example": [
+            "如：「輕裘」、「貂裘」、「皮裘」。"
+          ],
+          "quote": [
+            "唐．李白〈將進酒〉：「五花馬，千金裘，呼兒將出換美酒，與爾同銷萬古愁。」",
+            "宋．劉克莊〈苦寒行〉：「十月邊頭風色惡，官軍身上衣裘薄。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有裘萬頃。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiú"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "衣",
+  "stroke_count": 13,
+  "title": "裘"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄥˇ",
+      "definitions": [
+        {
+          "def": "援救、救助。",
+          "quote": [
+            "《孟子．梁惠王下》：「民以為將拯己於水火之中也。」",
+            "漢．王充《論衡．感虛》：「井出水以救渴，田出穀以拯饑。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "舉起。",
+          "quote": [
+            "《易經．艮卦．六二》：「艮其腓，不拯其隨，其心不快。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhěng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "手",
+  "stroke_count": 9,
+  "title": "拯"
+}

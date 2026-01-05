@@ -1,0 +1,51 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄟ",
+      "definitions": [
+        {
+          "def": "草木枯黃。",
+          "example": [
+            "如：「枯萎」。"
+          ],
+          "quote": [
+            "《詩經．小雅．谷風》：「無草不死，無木不萎。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "衰病。",
+          "quote": [
+            "《禮記．檀弓上》：「泰山其頹乎？梁木其壞乎？哲人其萎乎？」",
+            "漢．鄭玄．注：「萎，病也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "衰頹、不振奮。",
+          "example": [
+            "如：「萎靡不振」。"
+          ],
+          "quote": [
+            "《魏書．卷六一．薛安都傳》：「民人萎餧，無以濟之。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "wēi"
+    },
+    {
+      "bopomofo": "ㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "參見「萎蕤」條。"
+        }
+      ],
+      "pinyin": "wěi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "艸",
+  "stroke_count": 12,
+  "title": "萎"
+}

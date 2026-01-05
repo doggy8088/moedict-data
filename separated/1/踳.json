@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄣˇ",
+      "definitions": [
+        {
+          "def": "乖舛、相背。",
+          "quote": [
+            "漢．賈誼《新書．卷四．匈奴》：「使上下踳逆，天下窾貧。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chǔn"
+    },
+    {
+      "bopomofo": "（又音）ㄔㄨㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）chuǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "足",
+  "stroke_count": 16,
+  "title": "踳"
+}

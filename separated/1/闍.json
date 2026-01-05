@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨ",
+      "definitions": [
+        {
+          "def": "城門上的平臺。",
+          "quote": [
+            "《詩經．鄭風．出其東門》：「出其闉闍，有女如荼。」",
+            "漢．毛亨．傳：「闍，城臺也。」",
+            "唐．孔穎達．正義：「闍，是城上之臺，謂當門臺也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dū"
+    },
+    {
+      "bopomofo": "ㄕㄜˊ",
+      "definitions": [
+        {
+          "def": "參見「阿闍梨」條。"
+        }
+      ],
+      "pinyin": "shé"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "門",
+  "stroke_count": 16,
+  "title": "闍"
+}

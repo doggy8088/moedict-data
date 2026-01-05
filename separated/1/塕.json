@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "塵土。",
+          "quote": [
+            "《玉篇．土部》：「塕，塵也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "風起塵土飛揚的樣子。",
+          "quote": [
+            "《文選．宋玉．風賦》：「夫庶人之風，塕然起於窮巷之閒。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "wěng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "土",
+  "stroke_count": 13,
+  "title": "塕"
+}

@@ -1,0 +1,58 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄤˇ",
+      "definitions": [
+        {
+          "def": "明亮。",
+          "example": [
+            "如：「明晃晃」。"
+          ],
+          "quote": [
+            "《抱朴子．外篇．喻蔽》：「守燈燭之宵曜，不識三光之晃朗。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "強光閃耀、照耀。",
+          "example": [
+            "如：「燈光太亮，晃得人眼睛都睜不開。」"
+          ],
+          "quote": [
+            "北周．庾信〈鏡賦〉：「朝光晃眼，早風吹面。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "很快閃過。",
+          "example": [
+            "如：「一晃而過」、「從眼前晃過」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "姓。如漢代有晃葉。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "huǎng"
+    },
+    {
+      "bopomofo": "ㄏㄨㄤˋ",
+      "definitions": [
+        {
+          "def": "搖擺、搖動。",
+          "example": [
+            "如：「搖晃」、「搖頭晃腦」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "huàng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "日",
+  "stroke_count": 10,
+  "title": "晃"
+}

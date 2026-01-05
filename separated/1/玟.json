@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄣˊ",
+      "definitions": [
+        {
+          "def": "玉的紋理。",
+          "quote": [
+            "《集韻．平聲．文韻》：「玟，玉文。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "wén"
+    },
+    {
+      "bopomofo": "ㄇㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "美石。",
+          "link": [
+            "同「珉」。"
+          ],
+          "quote": [
+            "《禮記．玉藻》：「士佩瓀玟，而縕組綬。」",
+            "唐．孔穎達．正義：「瓀玟，石次玉者。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mín"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "玉",
+  "stroke_count": 8,
+  "title": "玟"
+}

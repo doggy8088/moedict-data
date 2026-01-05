@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄣˊ",
+      "definitions": [
+        {
+          "def": "水邊。",
+          "quote": [
+            "《淮南子．原道》：「游於江潯海裔，馳要褭，建翠蓋。」",
+            "唐．杜甫〈風疾舟中伏枕書懷三十六韻奉呈湖南親友〉詩：「城府開青旭，松筠起碧潯。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "大陸地區江西省九江縣的別稱。",
+          "example": [
+            "如：「南潯鐵路」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xún"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "水",
+  "stroke_count": 15,
+  "title": "潯"
+}

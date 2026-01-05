@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄣˇ",
+      "definitions": [
+        {
+          "def": "美麗的頭髮。",
+          "quote": [
+            "《玉篇．黑部》：「黰，美髮也。」",
+            "《左傳．昭公二十八年》：「昔有仍氏生女，黰黑而甚美，光可以鑑。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "黑。",
+          "quote": [
+            "《廣韻．上聲．軫韻》：「黰，黑貌。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhěn"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "黑",
+  "stroke_count": 22,
+  "title": "黰"
+}

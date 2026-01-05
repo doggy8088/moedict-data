@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨˋ",
+      "definitions": [
+        {
+          "def": "潛藏。",
+          "quote": [
+            "《集韻．入聲．質韻》：「沕，潛藏也。」",
+            "《文選．賈誼．弔屈原文》：「襲九淵之神龍兮，沕深潛以自珍。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "精氣喪失。",
+          "quote": [
+            "《文選．劉安．招隱士》：「罔兮沕，憭兮慄。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "wù"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "水",
+  "stroke_count": 7,
+  "title": "沕"
+}

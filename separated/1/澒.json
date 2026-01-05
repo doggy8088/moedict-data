@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄥˋ",
+      "definitions": [
+        {
+          "def": "水銀。",
+          "link": [
+            "同「汞」。"
+          ],
+          "quote": [
+            "《淮南子．墬形》：「黃埃五百歲生黃澒，黃澒五百歲生黃金。」",
+            "漢．高誘．注：「澒，水銀也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "水深廣的樣子。",
+          "quote": [
+            "《文選．左思．吳都賦》：「澒溶沆瀁，莫測其深。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "hòng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "水",
+  "stroke_count": 15,
+  "title": "澒"
+}

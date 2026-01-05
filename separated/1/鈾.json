@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄡˋ",
+      "definitions": [
+        {
+          "def": "（uranium，U）化學元素。原子序92。金屬元素之一。呈銀白色，質硬，易溶於酸。放射性，其化合物有毒。在工業上可作原子能、催化劑、釉藥等原料。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yòu"
+    },
+    {
+      "bopomofo": "（又音）ㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yóu"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "金",
+  "stroke_count": 13,
+  "title": "鈾"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄢ",
+      "definitions": [
+        {
+          "def": "在文書上題字、題名，以示負責或作為紀念。",
+          "example": [
+            "如：「簽名」、「簽字」、「簽押」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "作為標示之用的小紙條。",
+          "example": [
+            "如：「標簽」、「浮簽」、「簽條」。"
+          ],
+          "link": [
+            "通「籤」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiān"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "竹",
+  "stroke_count": 19,
+  "title": "簽"
+}

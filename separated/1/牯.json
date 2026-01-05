@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨˇ",
+      "definitions": [
+        {
+          "def": "母牛。",
+          "quote": [
+            "《玉篇．牛部》：「牯，牝牛。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "割去生殖器的公牛。",
+          "quote": [
+            "明．張自烈《正字通．牛部》：「牯，俗呼牡牛曰牯。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǔ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "牛",
+  "stroke_count": 9,
+  "title": "牯"
+}

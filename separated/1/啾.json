@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄡ",
+      "definitions": [
+        {
+          "def": "形容幼兒所發出的聲音。",
+          "quote": [
+            "《說文解字．口部》：「啾，小兒聲。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "形容蟲鳥或鈴鐸等細碎嘈雜的聲音。",
+          "example": [
+            "如：「啁啾」。"
+          ],
+          "quote": [
+            "《楚辭．屈原．離騷》：「揚雲霓之晻藹兮，鳴玉鸞之啾啾。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "jiū"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "口",
+  "stroke_count": 12,
+  "title": "啾"
+}

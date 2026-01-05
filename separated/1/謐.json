@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧˋ",
+      "definitions": [
+        {
+          "def": "安寧、寧靜。",
+          "example": [
+            "如：「安謐」、「靜謐」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "靜止。",
+          "quote": [
+            "唐．王勃〈拜南郊頌〉：「王良縱策，雲藏星謐。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mì"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "言",
+  "stroke_count": 17,
+  "title": "謐"
+}

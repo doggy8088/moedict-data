@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄇㄣˊ",
+      "definitions": [
+        {
+          "def": "常附於名詞或人稱代名詞下，為表示多數的詞綴。",
+          "example": [
+            "如：「我們」、「朋友們」、「孩子們」。"
+          ],
+          "type": "綴"
+        },
+        {
+          "def": "參見「圖們江」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "（讀音）mén"
+    },
+    {
+      "bopomofo": "（語音）˙ㄇㄣ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）men"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "們"
+}

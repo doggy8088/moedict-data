@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄠˋ",
+      "definitions": [
+        {
+          "def": "老人。",
+          "quote": [
+            "《漢書．卷六．武帝紀》：「哀夫老眊孤寡鰥獨或匱於衣食，甚憐愍焉。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "眼睛看不清楚的樣子。",
+          "quote": [
+            "《孟子．離婁上》：「胸中不正，則眸子眊焉。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "mào"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "目",
+  "stroke_count": 9,
+  "title": "眊"
+}

@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "明白、清楚。",
+          "example": [
+            "如：「明瞭」、「瞭解」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "眼睛明亮。",
+          "quote": [
+            "《孟子．離婁上》：「胸中正，則眸子瞭焉。」",
+            "漢．趙岐．注：「瞭，明也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "liǎo"
+    },
+    {
+      "bopomofo": "ㄌㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "遠看。",
+          "example": [
+            "如：「瞭望」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "liào"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "目",
+  "stroke_count": 17,
+  "title": "瞭"
+}

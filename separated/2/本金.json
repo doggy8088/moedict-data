@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄣˇ　ㄐㄧㄣ",
+      "definitions": [
+        {
+          "antonyms": "利息",
+          "def": "借給他人以收取利息的母金。"
+        },
+        {
+          "def": "經營事業所投下的資本。",
+          "link": [
+            "也稱為「本銀」。"
+          ]
+        }
+      ],
+      "pinyin": "běn jīn"
+    }
+  ],
+  "title": "本金"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄞˊ　ㄍㄠ",
+      "definitions": [
+        {
+          "def": "把某物舉高。",
+          "example": [
+            "如：「請把桌子抬高一點。」"
+          ],
+          "synonyms": "舉高"
+        },
+        {
+          "antonyms": "貶低,降低",
+          "def": "提高。",
+          "example": [
+            "如：「抬高物價」。"
+          ]
+        }
+      ],
+      "pinyin": "tái gāo"
+    }
+  ],
+  "title": "抬高"
+}

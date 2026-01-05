@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄡ　ㄗㄜˊ",
+      "definitions": [
+        {
+          "def": "對人引罪自責。",
+          "quote": [
+            "《後漢書．卷一三．隗囂傳》：「范蠡收責句踐，乘扁舟於五湖。」"
+          ]
+        }
+      ],
+      "pinyin": "shōu zé"
+    },
+    {
+      "bopomofo": "ㄕㄡ　ㄓㄞˋ",
+      "definitions": [
+        {
+          "def": "索還欠債。",
+          "quote": [
+            "《戰國策．齊策四》：「能為文收責於薛者乎？」"
+          ]
+        }
+      ],
+      "pinyin": "shōu zhài"
+    }
+  ],
+  "title": "收責"
+}

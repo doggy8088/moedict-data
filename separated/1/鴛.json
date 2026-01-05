@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄢ",
+      "definitions": [
+        {
+          "def": "參見「鴛鴦」條。",
+          "type": "名"
+        },
+        {
+          "def": "一種鳳鳥。",
+          "link": [
+            "通「鵷」。"
+          ],
+          "quote": [
+            "《洛陽伽藍記．卷四．追先寺》：「鴛鸞接翼，杞梓成陰。」",
+            "南北朝．范祥雍．注：「鴛與鵷通，鴛鸞皆鳳族。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yuān"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "鳥",
+  "stroke_count": 16,
+  "title": "鴛"
+}

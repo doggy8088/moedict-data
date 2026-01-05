@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "同「巖」。",
+          "example": [
+            "如：「岩石」、「岩洞」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "構成地殼的石質，多為礦物的集合體。",
+          "example": [
+            "如：「火成岩」、「沉積岩」、「花岡岩」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yán"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "山",
+  "stroke_count": 8,
+  "title": "岩"
+}

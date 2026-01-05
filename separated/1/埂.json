@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄥˇ",
+      "definitions": [
+        {
+          "def": "小坑。",
+          "quote": [
+            "《玉篇．土部》：「埂，小坑也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "田地裡可供行走及區劃田界的小土堤或小路。",
+          "example": [
+            "如：「田埂」、「土埂」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gěng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "土",
+  "stroke_count": 10,
+  "title": "埂"
+}

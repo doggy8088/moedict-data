@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄡ",
+      "definitions": [
+        {
+          "def": "刻鏤。",
+          "quote": [
+            "《文選．左思．魏都賦》：「木無雕鎪，土無綈錦。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "侵、蝕。",
+          "quote": [
+            "宋．陸游〈醉中步月湖上〉詩：「霜風鎪病骨，林月寫孤影。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sōu"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "金",
+  "stroke_count": 18,
+  "title": "鎪"
+}

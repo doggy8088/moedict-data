@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢˇ",
+      "definitions": [
+        {
+          "def": "束縛。",
+          "quote": [
+            "《集韻．上聲．獮韻》：「搌，縛束也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "輕輕擦抹或按壓。",
+          "example": [
+            "如：「紙上落了一滴墨，快拿吸墨紙搌一搌吧！」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhǎn"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "手",
+  "stroke_count": 13,
+  "title": "搌"
+}

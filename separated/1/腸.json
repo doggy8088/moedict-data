@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄤˊ",
+      "definitions": [
+        {
+          "def": "腹腔消化器官之一。有消化及吸收的功能。",
+          "type": "名"
+        },
+        {
+          "def": "心思。",
+          "example": [
+            "如：「古道熱腸」、「牽腸掛肚」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "cháng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "肉",
+  "stroke_count": 13,
+  "title": "腸"
+}

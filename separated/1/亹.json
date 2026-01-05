@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "參見「亹亹」條。"
+        }
+      ],
+      "pinyin": "wěi"
+    },
+    {
+      "bopomofo": "ㄇㄣˊ",
+      "definitions": [
+        {
+          "def": "地名用字。如大陸地區青海省的亹源縣。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "mén"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "亠",
+  "stroke_count": 21,
+  "title": "亹"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧ",
+      "definitions": [
+        {
+          "def": "黑石。可用來染繒，產於琅琊山。",
+          "quote": [
+            "《集韻．平聲．齊韻》：「磾，黑石，可染繒。出琅琊。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "人名用字。如漢代有金日磾。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "dī"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "石",
+  "stroke_count": 17,
+  "title": "磾"
+}

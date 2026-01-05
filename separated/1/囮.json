@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄜˊ",
+      "definitions": [
+        {
+          "def": "鳥媒。即用以誘捕同類鳥的鳥。",
+          "quote": [
+            "《廣韻．平聲．戈韻》：「囮，網鳥者媒。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "以威嚇的手段詐取財物。",
+          "link": [
+            "通「訛」。"
+          ],
+          "quote": [
+            "《儒林外史．第四二回》：「被幾個喇子囮著，把衣服都剝掉了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "é"
+    },
+    {
+      "bopomofo": "ㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "之語音。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yóu"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "囗",
+  "stroke_count": 7,
+  "title": "囮"
+}

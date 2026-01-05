@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄜˋ",
+      "definitions": [
+        {
+          "def": "中暑。",
+          "quote": [
+            "《說文解字．日部》：「暍，傷暑也。」",
+            "《漢書．卷六．武帝紀》：「夏，大旱，民多暍死。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hè"
+    },
+    {
+      "bopomofo": "（又音）ㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yè"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "日",
+  "stroke_count": 13,
+  "title": "暍"
+}

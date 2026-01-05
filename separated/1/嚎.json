@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄠˊ",
+      "definitions": [
+        {
+          "def": "鳴叫。",
+          "quote": [
+            "宋．梅堯臣〈九月五日夢歐陽永叔〉詩：「雞嚎天欲白，向者猶疑真。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "有聲無淚的哭號。",
+          "example": [
+            "如：「嚎啕」、「鬼哭神嚎」。"
+          ],
+          "quote": [
+            "《西遊記．第三九回》：「哭有幾樣，若乾著口喊，謂之嚎。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "háo"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "口",
+  "stroke_count": 17,
+  "title": "嚎"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄚ",
+      "definitions": [
+        {
+          "def": "無袖的衣服。如背心稱為「背褡」。",
+          "type": "名"
+        },
+        {
+          "def": "盛物的囊袋。",
+          "example": [
+            "如：「錢褡」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dā"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "衣",
+  "stroke_count": 16,
+  "title": "褡"
+}

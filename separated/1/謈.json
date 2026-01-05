@@ -1,0 +1,47 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄛˋ",
+      "definitions": [
+        {
+          "def": "大呼自己冤枉。",
+          "quote": [
+            "《說文解字．言部》：「謈，大嘑自冤也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "呼喊冤屈的聲音。",
+          "quote": [
+            "《漢書．卷六五．東方朔傳》：「上令倡監榜舍人。舍人不勝痛，呼　謈。」",
+            "唐．顏師古．注：「謂痛切而叫呼也。……謈，自冤痛之聲也。舍人榜痛，乃呼云  謈。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pò"
+    },
+    {
+      "bopomofo": "（又音）ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）bó"
+    },
+    {
+      "bopomofo": "（又音）ㄅㄠˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）bào"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "言",
+  "stroke_count": 17,
+  "title": "謈"
+}

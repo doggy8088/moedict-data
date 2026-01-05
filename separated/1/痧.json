@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄚ",
+      "definitions": [
+        {
+          "def": "中醫上指中暑、霍亂、麻疹等疾病。如霍亂稱為「絞腸痧」、「弔腳痧」；麻疹稱為「痧子」。",
+          "quote": [
+            "《文明小史．第四回》：「他兩個又在路上中了暑，發了痧，不能趕路。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shā"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "疒",
+  "stroke_count": 12,
+  "title": "痧"
+}

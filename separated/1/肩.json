@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢ",
+      "definitions": [
+        {
+          "def": "頸部下兩臂與身體連接的部分。",
+          "example": [
+            "如：「兩肩」、「肩並肩」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有肩固。",
+          "type": "名"
+        },
+        {
+          "def": "擔負。",
+          "example": [
+            "如：「身肩重任」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jiān"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "肉",
+  "stroke_count": 8,
+  "title": "肩"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨˋ",
+      "definitions": [
+        {
+          "def": "織布機上的簆。形狀像梳子，用於確定經線的密度，保持經線的位置，並把緯線推向織口。",
+          "type": "名"
+        },
+        {
+          "def": "織布機上用來持理緯線的梭子。參見「曾母投杼」條。",
+          "quote": [
+            "《戰國策．秦策二》：「其母懼，投杼踰牆而走。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhù"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "木",
+  "stroke_count": 8,
+  "title": "杼"
+}

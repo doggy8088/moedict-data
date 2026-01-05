@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄣ",
+      "definitions": [
+        {
+          "def": "有香味的樹木。",
+          "quote": [
+            "《集韻．平聲．文韻》：「梤，《說文》：『香木也。亦作棻。』」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "茂盛。",
+          "quote": [
+            "《文選．班固．西都賦》：「五穀垂穎，桑麻鋪棻。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "fēn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "木",
+  "stroke_count": 12,
+  "title": "棻"
+}

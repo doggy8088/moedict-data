@@ -1,0 +1,48 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨˊ",
+      "definitions": [
+        {
+          "def": "照著文字唸。",
+          "example": [
+            "如：「誦讀」、「朗讀」、「宣讀」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "閱讀、看書。",
+          "example": [
+            "如：「閱讀」。"
+          ],
+          "quote": [
+            "《史記．卷四七．孔子世家．太史公曰》：「余讀孔氏書，想見其為人。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "研究、專攻。",
+          "example": [
+            "如：「他讀理科，並不是自己的意願。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dú"
+    },
+    {
+      "bopomofo": "ㄉㄡˋ",
+      "definitions": [
+        {
+          "def": "句中語意未完，讀時須停頓的地方。如：「句讀」。也作「逗」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "dòu"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "言",
+  "stroke_count": 22,
+  "title": "讀"
+}

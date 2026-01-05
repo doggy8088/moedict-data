@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄣˋ",
+      "definitions": [
+        {
+          "def": "睡。",
+          "example": [
+            "如：「睏覺」、「睏一會兒」。"
+          ],
+          "quote": [
+            "《老殘遊記．第五回》：「我睏在大門旁邊南屋裡，你老有事，來招呼我罷！」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "倦而欲睡。",
+          "example": [
+            "如：「我太累了，睏得睜不開眼來。」、「你若睏了，就先上床睡吧！」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kùn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "目",
+  "stroke_count": 12,
+  "title": "睏"
+}

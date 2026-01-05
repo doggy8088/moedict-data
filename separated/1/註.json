@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨˋ",
+      "definitions": [
+        {
+          "def": "用來解釋或說明的文字。",
+          "example": [
+            "如：「註解」、「註疏」。"
+          ],
+          "link": [
+            "同「注」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "記載、登記。",
+          "example": [
+            "如：「註冊」、「註銷」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "用文字解釋文義。",
+          "example": [
+            "如：「批註」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhù"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "言",
+  "stroke_count": 12,
+  "title": "註"
+}

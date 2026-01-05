@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˋ",
+      "definitions": [
+        {
+          "def": "充滿。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷一下．釋詁》：「褔，盈也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "量詞。用於計算衣物的單位詞。",
+          "quote": [
+            "唐．顏師古《匡謬正俗．卷六．副》：「今俗呼一襲為一褔衣，蓋取其充備之意，非以覆蔽形體為名也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fù"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "衣",
+  "stroke_count": 15,
+  "title": "褔"
+}

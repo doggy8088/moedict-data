@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄟˊ",
+      "definitions": [
+        {
+          "def": "研磨。",
+          "example": [
+            "如：「擂沙」、「擂藥」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "搥打、敲擊。",
+          "example": [
+            "如：「擂鼓」、「擂胸」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "léi"
+    },
+    {
+      "bopomofo": "ㄌㄟˋ",
+      "definitions": [
+        {
+          "def": "參見「擂臺」條。"
+        }
+      ],
+      "pinyin": "lèi"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "手",
+  "stroke_count": 16,
+  "title": "擂"
+}

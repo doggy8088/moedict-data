@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄢˊ",
+      "definitions": [
+        {
+          "def": "喘氣。",
+          "link": [
+            "同「喘」。"
+          ],
+          "quote": [
+            "《說文解字．欠部》：「歂，口气引也。」",
+            "《南齊書．卷四一．周顒傳》：「歂彼弱麑，顧步宜愍。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "姓。如《史記》記載有歂師。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "chuán"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "欠",
+  "stroke_count": 13,
+  "title": "歂"
+}

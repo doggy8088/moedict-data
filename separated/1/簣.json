@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "盛土的竹器。似畚箕之類。",
+          "quote": [
+            "《書經．旅獒》：「為山九仞，功虧一簣。」",
+            "《論語．子罕》：「譬如為山，未成一簣，止吾止也。」",
+            "何晏集解引包咸曰：「簣，土籠也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kuì"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "竹",
+  "stroke_count": 18,
+  "title": "簣"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔˋ",
+      "definitions": [
+        {
+          "def": "渡過、超越。",
+          "quote": [
+            "《玉篇．足部》：「跇，超踰也。」",
+            "《史記．卷二四．樂書》：「聘容與兮跇萬里，今安匹兮龍為友。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chì"
+    },
+    {
+      "bopomofo": "（又音）ㄧˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yì"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "足",
+  "stroke_count": 12,
+  "title": "跇"
+}

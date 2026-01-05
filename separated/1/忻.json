@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄣ",
+      "definitions": [
+        {
+          "def": "喜悅。",
+          "link": [
+            "通「欣」。"
+          ],
+          "quote": [
+            "《玉篇．欣部》：「忻，喜也。」",
+            "《董西廂．卷六》：「適鶯聞人語親，忻喜之容見於面。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xīn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "心",
+  "stroke_count": 7,
+  "title": "忻"
+}

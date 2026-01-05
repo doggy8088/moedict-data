@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˇ",
+      "definitions": [
+        {
+          "def": "人或動物背部的骨柱。參見「脊梁」、「脊椎」等條。",
+          "type": "名"
+        },
+        {
+          "def": "泛指物體直立成條的背部。",
+          "example": [
+            "如：「刀脊」、「書脊」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "物體中央高起而兩邊下斜的部分。",
+          "example": [
+            "如：「屋脊」、「山脊」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jǐ"
+    },
+    {
+      "bopomofo": "（又音）ㄐㄧˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）jí"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "肉",
+  "stroke_count": 10,
+  "title": "脊"
+}

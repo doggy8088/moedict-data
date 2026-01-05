@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˇ",
+      "definitions": [
+        {
+          "def": "雄鹿。",
+          "quote": [
+            "《廣韻．上聲．虞韻》：「麌，牡鹿。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "群聚的樣子。",
+          "quote": [
+            "唐．杜甫〈朝享太廟賦〉：「熙事莽而充塞，群心麌以振蕩。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yǔ"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "鹿",
+  "stroke_count": 18,
+  "title": "麌"
+}

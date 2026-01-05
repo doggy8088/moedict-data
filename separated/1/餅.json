@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄥˇ",
+      "definitions": [
+        {
+          "def": "用米粉或麵粉做成扁圓形的食品。",
+          "example": [
+            "如：「月餅」、「燒餅」、「蔥油餅」。"
+          ],
+          "quote": [
+            "《漢書．卷八．宣帝紀》：「每買餅，所從買家輒大讎，亦以是自怪。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "扁圓形如餅的東西。",
+          "example": [
+            "如：「柿餅」、「鐵餅」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bǐng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "食",
+  "stroke_count": 14,
+  "title": "餅"
+}

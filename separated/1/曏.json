@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "從前、往昔。",
+          "link": [
+            "通「向」。"
+          ],
+          "quote": [
+            "《儀禮．士相見禮》：「曏者，吾子辱使某見，請還摯於將命者。」",
+            "漢．鄭玄．注：「曏，曩也。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "明、表明。",
+          "quote": [
+            "《莊子．秋水》：「證曏今故，故遙而不悶，掇而不跂，知時無止。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xiàng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "日",
+  "stroke_count": 16,
+  "title": "曏"
+}

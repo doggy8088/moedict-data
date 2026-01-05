@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄡˇ",
+      "definitions": [
+        {
+          "def": "窗戶。",
+          "quote": [
+            "《書經．顧命》：「牖間南嚮，數重篾席。」",
+            "唐．李公佐《南柯太守傳》：「吾與諸女坐北牖石榻上，時君少年，亦解騎來看。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "誘導。參見「牖民」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "yǒu"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "片",
+  "stroke_count": 15,
+  "title": "牖"
+}

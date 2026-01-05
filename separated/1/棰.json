@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄟˊ",
+      "definitions": [
+        {
+          "def": "短的木杖、棍棒。",
+          "quote": [
+            "《莊子．天下》：「一尺之棰，日取其半，萬世不竭。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用木杖捶打。《周禮．天官．腊人》「腊人，掌乾肉，凡田獸之脯腊膴胖之事」句下漢．鄭玄．注：「棰之而施薑桂。」",
+          "type": "動"
+        }
+      ],
+      "pinyin": "chuí"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "木",
+  "stroke_count": 13,
+  "title": "棰"
+}

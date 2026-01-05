@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄡˇ",
+      "definitions": [
+        {
+          "def": "食肉犬科動物的通稱。種類很多，嗅覺和聽覺都很靈敏，可訓練來追蹤、守衛、導盲、救生或飼為寵物，且性忠誠，為人類之友。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有狗未央。",
+          "type": "名"
+        },
+        {
+          "def": "諂媚奉承。",
+          "example": [
+            "如：「底下的人專會狗著他。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gǒu"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "犬",
+  "stroke_count": 8,
+  "title": "狗"
+}

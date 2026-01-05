@@ -1,0 +1,51 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄠ",
+      "definitions": [
+        {
+          "def": "低於周圍或縮進去的。",
+          "example": [
+            "如：「凹地」、「凹凸不平」。"
+          ],
+          "quote": [
+            "南朝梁．江淹〈青苔賦〉：「悲凹嶮兮，唯流水而馳騖。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "āo"
+    },
+    {
+      "bopomofo": "ㄨㄚ",
+      "definitions": [
+        {
+          "def": "參見「山凹」條。"
+        }
+      ],
+      "pinyin": "wā"
+    },
+    {
+      "bopomofo": "（又音）ㄧㄠ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yāo"
+    },
+    {
+      "bopomofo": "ㄨㄚˋ",
+      "definitions": [
+        {
+          "def": "凹心臉兒、凹窯兒的凹的語音。"
+        }
+      ],
+      "pinyin": "wà"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "凵",
+  "stroke_count": 5,
+  "title": "凹"
+}

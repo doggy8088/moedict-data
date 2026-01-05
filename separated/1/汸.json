@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄤ",
+      "definitions": [
+        {
+          "def": "古代的河流。",
+          "quote": [
+            "《山海經．南山經》：「箕尾之山，其尾踆于東海，多沙石。汸水出焉，而　南流注于淯。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "水勢盛大。參見「汸汸」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "pāng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "水",
+  "stroke_count": 7,
+  "title": "汸"
+}

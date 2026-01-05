@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "同「鶪」。",
+          "quote": [
+            "清．朱駿聲《說文通訓定聲．泰部》：「鴃，假借為鶪。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "鸋鴃：動物名。體似黃雀而小，喙尖如錐。全身灰色，有黑褐色斑紋。取茅莠為窠，以麻纏之，懸於樹枝。",
+          "link": [
+            "也稱為「巧婦」、「鷦鷯」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jué"
+    },
+    {
+      "bopomofo": "（又音）ㄐㄩˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）jú"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "鳥",
+  "stroke_count": 15,
+  "title": "鴃"
+}

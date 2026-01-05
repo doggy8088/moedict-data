@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄣˇ",
+      "definitions": [
+        {
+          "def": "大魚。",
+          "quote": [
+            "《玉篇．魚部》：「鯀，大魚也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "人名。夏禹的父親，堯封於崇伯，因治水無功，被舜殺於羽山。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǔn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "魚",
+  "stroke_count": 18,
+  "title": "鯀"
+}

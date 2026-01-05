@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨˋ",
+      "definitions": [
+        {
+          "def": "出錢請人做事。",
+          "example": [
+            "如：「僱工人」、「僱佣人」、「他僱人整修房子。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "租。",
+          "example": [
+            "如：「僱車」、「僱船」。"
+          ],
+          "quote": [
+            "《紅樓夢．第一九回》：「又命他哥哥去，或僱一乘小轎，或僱一輛小車，送寶玉回去。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gù"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "人",
+  "stroke_count": 14,
+  "title": "僱"
+}

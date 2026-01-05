@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "頭髮斑白。",
+          "quote": [
+            "《廣韻．上聲．小韻》：「顠，髮白。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "頭髮雜亂。",
+          "quote": [
+            "《楚辭．王逸．九思．憫上》：「鬚髮薴悴兮顠鬢白，思靈澤兮一膏沐。」",
+            "宋．洪興祖．補注：「顠，髮亂貌。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "piǎo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "頁",
+  "stroke_count": 20,
+  "title": "顠"
+}

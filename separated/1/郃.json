@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄜˊ",
+      "definitions": [
+        {
+          "def": "人名用字。如三國時魏有張郃。",
+          "type": "名"
+        },
+        {
+          "def": "(二)之又音。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "hé"
+    },
+    {
+      "bopomofo": "ㄍㄜˊ",
+      "definitions": [
+        {
+          "def": "參見「郃陽縣」條。"
+        }
+      ],
+      "pinyin": "gé"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "邑",
+  "stroke_count": 9,
+  "title": "郃"
+}

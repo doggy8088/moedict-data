@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˇ",
+      "definitions": [
+        {
+          "def": "莊重、謹慎的樣子。",
+          "quote": [
+            "《說文解字．頁部》：「顗，謹莊貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "安靜。",
+          "quote": [
+            "《爾雅．釋詁上》：「顗，靜也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yǐ"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "頁",
+  "stroke_count": 19,
+  "title": "顗"
+}

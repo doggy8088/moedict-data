@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄢ",
+      "definitions": [
+        {
+          "def": "（plumpum，Pb)化學元素。原子序82。金屬元素之一。色青質軟有延展性，置於空氣中則氧化迅速。為電的不良導體，抗腐蝕性強。可與其他金屬化合而製成蓄電池、電 纜外皮、防ｘ射線的材料等，用途甚廣。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiān"
+    },
+    {
+      "bopomofo": "ㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。",
+          "type": "名"
+        },
+        {
+          "def": "循。",
+          "link": [
+            "通「沿」。"
+          ],
+          "quote": [
+            "《荀子．禮論》：「越月踰時，則必反鉛過故鄉。」",
+            "唐．楊倞．注：「鉛與沿同循也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yán"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "金",
+  "stroke_count": 13,
+  "title": "鉛"
+}

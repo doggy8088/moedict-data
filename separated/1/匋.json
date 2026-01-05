@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄠˊ",
+      "definitions": [
+        {
+          "def": "瓦器。",
+          "link": [
+            "同「陶」。"
+          ],
+          "quote": [
+            "《說文解字．缶部》：「古者昆吾作匋。」",
+            "清．段玉裁．注：「今字作陶，陶行而匋廢矣。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "táo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "勹",
+  "stroke_count": 8,
+  "title": "匋"
+}

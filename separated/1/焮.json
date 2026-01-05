@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄣˋ",
+      "definitions": [
+        {
+          "def": "火氣。",
+          "quote": [
+            "《廣韻．去聲．焮韻》：「焮，火氣。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "炙、燒。",
+          "quote": [
+            "唐．杜甫〈火〉詩：「勢欲焚崑崙，火彌焮洲渚。」",
+            "宋．范成大〈大熱泊樂溫有懷商卿德稱〉詩：「瘴風如火焮，嵐月似煙昏。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xìn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "火",
+  "stroke_count": 12,
+  "title": "焮"
+}

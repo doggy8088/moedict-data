@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄡˇ",
+      "definitions": [
+        {
+          "def": "參見「抖擻」、「擻抖抖」等條。"
+        }
+      ],
+      "pinyin": "sǒu"
+    },
+    {
+      "bopomofo": "ㄙㄡˋ",
+      "definitions": [
+        {
+          "def": "用火條或火筷子插到火爐裡，把灰搖掉或撥除。",
+          "example": [
+            "如：「把爐子擻一擻。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sòu"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "手",
+  "stroke_count": 18,
+  "title": "擻"
+}

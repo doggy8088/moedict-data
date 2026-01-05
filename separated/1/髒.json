@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄤ",
+      "definitions": [
+        {
+          "def": "汙穢不清潔。",
+          "example": [
+            "如：「髒亂」、「又髒又破的衣服。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "粗魯不文雅。",
+          "example": [
+            "如：「髒話」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "弄汙。",
+          "quote": [
+            "《兒女英雄傳．第三回》：「咱一來是為行好，二來也怕髒了我的店。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zāng"
+    },
+    {
+      "bopomofo": "ㄗㄤˇ",
+      "definitions": [
+        {
+          "def": "參見「骯髒」(一)條。"
+        }
+      ],
+      "pinyin": "zǎng"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "骨",
+  "stroke_count": 23,
+  "title": "髒"
+}

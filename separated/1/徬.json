@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄤˊ",
+      "definitions": [
+        {
+          "def": "參見「徬徨」條。"
+        }
+      ],
+      "pinyin": "páng"
+    },
+    {
+      "bopomofo": "ㄅㄤˋ",
+      "definitions": [
+        {
+          "def": "在旁隨行。",
+          "quote": [
+            "《周禮．地官．牛》：「凡會同軍旅行役，共其兵車之牛，與其牽徬以載公任器。」",
+            "漢．鄭玄．注：「居其前曰牽，居其旁曰徬。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bàng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "彳",
+  "stroke_count": 13,
+  "title": "徬"
+}

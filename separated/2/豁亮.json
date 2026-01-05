@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄜˋ　˙ㄌㄧㄤ",
+      "definitions": [
+        {
+          "def": "寬敞明亮。",
+          "example": [
+            "如：「這間上房收拾得很乾淨，又涼快，又豁亮。」"
+          ]
+        }
+      ],
+      "pinyin": "hè liang"
+    },
+    {
+      "bopomofo": "ㄏㄨㄛˋ　ㄌㄧㄤˋ",
+      "definitions": [
+        {
+          "antonyms": "昏暗",
+          "def": "寬敞明亮。",
+          "example": [
+            "如：「這間房子經過專家設計後，顯得格外豁亮。」"
+          ]
+        }
+      ],
+      "pinyin": "huò liàng"
+    }
+  ],
+  "title": "豁亮"
+}

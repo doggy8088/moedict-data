@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄜˊ",
+      "definitions": [
+        {
+          "def": "物體堅硬的外皮。",
+          "example": [
+            "如：「地殼」、「蛋殼」、「瓜子殼」、「龍眼殼」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "ké"
+    },
+    {
+      "bopomofo": "（又音）ㄑㄩㄝˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）què"
+    },
+    {
+      "bopomofo": "（又音）ㄑㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）qiào"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "殳",
+  "stroke_count": 12,
+  "title": "殼"
+}

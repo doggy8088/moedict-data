@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄤ",
+      "definitions": [
+        {
+          "def": "草色、深青色。",
+          "quote": [
+            "《黃帝內經素問．卷二．陰陽應象大論》：「在色為蒼，在音為角。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有蒼英。",
+          "type": "名"
+        },
+        {
+          "def": "頭髮斑白的。",
+          "example": [
+            "如：「白髮蒼蒼」。"
+          ],
+          "quote": [
+            "唐．杜甫〈贈衛八處士〉詩：「少壯能幾時，鬢髮各已蒼。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "青色的。",
+          "example": [
+            "如：「蒼天」、「蒼苔」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "cāng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "艸",
+  "stroke_count": 14,
+  "title": "蒼"
+}

@@ -1,0 +1,43 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩ",
+      "definitions": [
+        {
+          "def": "姓。如元代有瞿信。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qū"
+    },
+    {
+      "bopomofo": "ㄐㄩˋ",
+      "definitions": [
+        {
+          "def": "驚懼、害怕。",
+          "link": [
+            "通「懼」。"
+          ],
+          "quote": [
+            "《禮記．雜記》：「見似目瞿，聞名心瞿。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jù"
+    },
+    {
+      "bopomofo": "（又音）ㄑㄩˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）qú"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "目",
+  "stroke_count": 18,
+  "title": "瞿"
+}

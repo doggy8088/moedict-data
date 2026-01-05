@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄣ",
+      "definitions": [
+        {
+          "def": "昏亂、糊塗不明。",
+          "quote": [
+            "《說文解字．心部》：「惛，不憭也。」",
+            "清．段玉裁．注：「憭，慧也。」",
+            "唐．皮日休〈移元徵君書〉：「苟或退者，是時弊不可正，主惛不可曉。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "hūn"
+    },
+    {
+      "bopomofo": "ㄇㄣˋ",
+      "definitions": [
+        {
+          "def": "憂悶的樣子。",
+          "quote": [
+            "《晏子春秋．內篇．問上》：「吳越受令，荊楚惛憂。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "mèn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "心",
+  "stroke_count": 11,
+  "title": "惛"
+}

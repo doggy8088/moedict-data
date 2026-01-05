@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧˋ",
+      "definitions": [
+        {
+          "def": "平而有孔隙的竹器，墊在鍋底，以便蒸食物之用。",
+          "link": [
+            "俗稱為「箅子」。"
+          ],
+          "quote": [
+            "《說文解字．竹部》：「箅，所以蔽甑底。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bì"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "竹",
+  "stroke_count": 14,
+  "title": "箅"
+}

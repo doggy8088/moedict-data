@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˋ",
+      "definitions": [
+        {
+          "def": "動、跳躍。",
+          "quote": [
+            "《玉篇．足部》：「躒，動也。」",
+            "唐．劉禹錫〈答柳子厚書〉：「氣為幹，文為支。跨躒古今，鼓行乘空。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lì"
+    },
+    {
+      "bopomofo": "ㄌㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "超絕、優越。",
+          "quote": [
+            "《文選．孔融．荐禰衡表》：「淑質貞亮，英才卓躒。」",
+            "唐．李善．注：「卓躒，絕異也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "luò"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "足",
+  "stroke_count": 22,
+  "title": "躒"
+}

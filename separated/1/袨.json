@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄢˋ",
+      "definitions": [
+        {
+          "def": "黑色的衣服。",
+          "quote": [
+            "《玉篇．衣部》：「袨，黑衣也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "華麗隆盛的。",
+          "quote": [
+            "《文選．左思．蜀都賦》：「都人士女，袨服靚妝。」",
+            "李善注引蘇林曰：「袨服，謂盛服也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xuàn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "衣",
+  "stroke_count": 11,
+  "title": "袨"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄢˇ",
+      "definitions": [
+        {
+          "def": "用撢子或其他東西輕拍，拂去塵土。",
+          "example": [
+            "如：「撢一撢灰塵。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dǎn"
+    },
+    {
+      "bopomofo": "ㄊㄢˋ",
+      "definitions": [
+        {
+          "def": "探索。通「探」。《說文解字．手部》：「撢，探也。」《周禮．夏官．撢人》「掌誦王志道，國之政事」句下唐．賈公彥．疏：「撢取王之此志，又道國之政事。」",
+          "type": "動"
+        }
+      ],
+      "pinyin": "tàn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "手",
+  "stroke_count": 15,
+  "title": "撢"
+}

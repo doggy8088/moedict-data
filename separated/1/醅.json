@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄟ",
+      "definitions": [
+        {
+          "def": "沒過濾的酒。",
+          "quote": [
+            "《廣韻．平聲．灰韻》：「醅，酒未漉也。」",
+            "唐．杜甫〈客至〉詩：「盤餐市遠無兼味，樽酒家貧只舊醅。」",
+            "唐．白居易〈問劉十九〉詩：「綠螘新醅酒，紅泥小火爐。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pēi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "酉",
+  "stroke_count": 15,
+  "title": "醅"
+}

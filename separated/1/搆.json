@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄡˋ",
+      "definitions": [
+        {
+          "def": "引起、造成。",
+          "example": [
+            "如：「搆疾」、「搆怨」。"
+          ],
+          "link": [
+            "同「構」。"
+          ],
+          "quote": [
+            "《孟子．告子下》：「吾聞秦楚搆兵，我將見楚王說而罷之。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "搭建。",
+          "example": [
+            "如：「搆木為巢」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "觸及。",
+          "example": [
+            "如：「藥品應放在小孩搆不著的地方才安全。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gòu"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "手",
+  "stroke_count": 13,
+  "title": "搆"
+}

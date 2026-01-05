@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄞˋ",
+      "definitions": [
+        {
+          "def": "恨、怒。",
+          "example": [
+            "如：「同仇敵愾」。"
+          ],
+          "quote": [
+            "《左傳．文公四年》：「諸侯敵王所愾。」",
+            "元．王惲〈東征詩〉：「臣牢最愾敵，奮擊不留行。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kài"
+    },
+    {
+      "bopomofo": "ㄒㄧˋ",
+      "definitions": [
+        {
+          "def": "長聲嘆息。",
+          "quote": [
+            "《詩經．曹風．下泉》：「愾我寤歎，念彼周京。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xì"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "心",
+  "stroke_count": 13,
+  "title": "愾"
+}

@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄢˋ",
+      "definitions": [
+        {
+          "def": "動物名。即鰈。一種底棲魚類。體扁而闊，兩眼位於體同側，常橫臥海底。",
+          "link": [
+            "也稱為「比目魚」。"
+          ],
+          "quote": [
+            "明．張自烈《正字通．魚部》：「魬，比目魚，名版魚，俗改作魬。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bàn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "魚",
+  "stroke_count": 15,
+  "title": "魬"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄨˇ",
+      "definitions": [
+        {
+          "def": "廣大而周遍。",
+          "example": [
+            "如：「普通」、「普遍」、「普級」。"
+          ],
+          "quote": [
+            "《孟子．萬章上》：「普天之下，莫非王土。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "普魯士的簡稱。",
+          "example": [
+            "如：「普法戰爭」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如元代有普恩，明代有普泰。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "pǔ"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "日",
+  "stroke_count": 12,
+  "title": "普"
+}

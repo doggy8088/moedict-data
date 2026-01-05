@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "去除疾病災禍的祭祀。",
+          "quote": [
+            "《周禮．天官．女祝》：「掌以時招梗禬之事，以除疾殃。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "古代諸侯聚合財貨以相救濟之禮。",
+          "quote": [
+            "《周禮．秋官．大行人》：「賀慶以贊諸侯之喜，致禬以補諸侯之災。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "guì"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "示",
+  "stroke_count": 18,
+  "title": "禬"
+}

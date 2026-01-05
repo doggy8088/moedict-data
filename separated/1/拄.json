@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨˇ",
+      "definitions": [
+        {
+          "def": "支撐。",
+          "example": [
+            "如：「拄著枴杖」。"
+          ],
+          "quote": [
+            "《戰國策．齊策六》：「大冠若箕，脩劍拄頤。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "譏刺。",
+          "quote": [
+            "《漢書．卷六七．朱雲傳》：「既論難，連拄五鹿君。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhǔ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "手",
+  "stroke_count": 8,
+  "title": "拄"
+}

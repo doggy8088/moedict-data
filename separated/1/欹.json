@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧ",
+      "definitions": [
+        {
+          "def": "傾斜不正。",
+          "quote": [
+            "《荀子．宥坐》：「吾聞宥坐之器者，虛則欹，中則正，滿則覆。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "表示贊嘆。",
+          "link": [
+            "通「猗」。"
+          ],
+          "type": "歎"
+        }
+      ],
+      "pinyin": "yī"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "欠",
+  "stroke_count": 12,
+  "title": "欹"
+}

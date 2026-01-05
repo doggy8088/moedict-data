@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧˊ",
+      "definitions": [
+        {
+          "def": "初生的小鹿。",
+          "quote": [
+            "《禮記．內則》：「秋宜犢麛膳膏腥，冬宜鮮羽膳膏羶。」",
+            "唐．元稹〈青雲驛〉詩：「山鹿藏窟穴，虎豹吞其麛。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "通稱幼小的野獸。",
+          "quote": [
+            "三國魏．劉劭〈七華〉：「煮丹穴之卵……，臠麒麟之麛。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mí"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "鹿",
+  "stroke_count": 20,
+  "title": "麛"
+}

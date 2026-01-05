@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨˇ",
+      "definitions": [
+        {
+          "def": "膨脹。",
+          "example": [
+            "如：「臌脹」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "一種腸內發酵、蓄積氣體使腹部脹起如鼓的病。有氣臌、水臌兩種。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǔ"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "肉",
+  "stroke_count": 17,
+  "title": "臌"
+}

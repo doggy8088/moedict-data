@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "夜晚在野地裡常見的忽隱忽現的青色火光，是燐化氫遇到空氣燃燒所產生。",
+          "link": [
+            "俗稱為「鬼火」。"
+          ],
+          "quote": [
+            "《封神演義．第五六回》：「孰知天意歸周主，十萬貔貅化鬼燐。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "化學元素。",
+          "link": [
+            "同「磷」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lín"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "火",
+  "stroke_count": 16,
+  "title": "燐"
+}

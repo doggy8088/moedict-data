@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˋ",
+      "definitions": [
+        {
+          "def": "因害怕而心跳加快。",
+          "example": [
+            "如：「驚悸」、「惶悸」、「心悸」。"
+          ],
+          "quote": [
+            "唐．李白〈夢遊天姥吟留別〉詩：「忽魂悸以魄動，恍驚起而長嗟。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jì"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "心",
+  "stroke_count": 11,
+  "title": "悸"
+}

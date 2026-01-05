@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "山間的流水。",
+          "example": [
+            "如：「溪澗」。"
+          ],
+          "quote": [
+            "唐．韋應物〈滁州西澗〉詩：「獨憐幽草澗邊生，上有黃鸝深樹鳴。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiàn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "水",
+  "stroke_count": 15,
+  "title": "澗"
+}

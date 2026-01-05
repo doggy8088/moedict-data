@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄟˊ",
+      "definitions": [
+        {
+          "def": "四通八達的道路。",
+          "link": [
+            "同「逵」。"
+          ],
+          "quote": [
+            "《說文解字．九部》：「馗，九達道也。」",
+            "《文選．鮑照．蕪城賦》：「崩榛塞路，崢嶸古馗。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "人名用字。如唐玄宗時有鍾馗。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "kuí"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "首",
+  "stroke_count": 11,
+  "title": "馗"
+}

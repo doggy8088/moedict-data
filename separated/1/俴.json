@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "淺、薄。",
+          "quote": [
+            "《爾雅．釋言》：「俴，淺也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "未著鎧甲的。",
+          "quote": [
+            "《管子．參患》：「兵不完利，與無操者同實；甲不堅密，與俴者同實。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jiàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "俴"
+}

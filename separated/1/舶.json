@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "大船。",
+          "example": [
+            "如：「船舶」。"
+          ],
+          "quote": [
+            "《廣韻．入聲．陌韻》：「舶，海中大船。」",
+            "北魏．酈道元《水經注．江水注》：「昔孫權裝大船，名之曰『長安』，亦曰『大舶』，載坐直之士三千人。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bó"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "舟",
+  "stroke_count": 11,
+  "title": "舶"
+}

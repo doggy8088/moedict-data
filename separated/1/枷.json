@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄚ",
+      "definitions": [
+        {
+          "def": "古時套在犯人脖子上的刑具。用木板製成。",
+          "example": [
+            "如：「枷鎖」、「披枷帶鎖」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "擱置衣物的器具。",
+          "link": [
+            "通「架」。"
+          ],
+          "quote": [
+            "《禮記．曲禮上》：「男女不雜坐，不同椸枷。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiā"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "木",
+  "stroke_count": 9,
+  "title": "枷"
+}

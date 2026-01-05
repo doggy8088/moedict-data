@@ -1,0 +1,57 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄚ",
+      "definitions": [
+        {
+          "def": "蛇。",
+          "quote": [
+            "《玉篇．它部》：「它，蛇也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "無生物的第三身指稱詞。專指人以外的無生物。",
+          "example": [
+            "如：「這是塊石頭，你踢了它，對你有何好處？」"
+          ],
+          "type": "代"
+        },
+        {
+          "def": "異、別的。",
+          "example": [
+            "如：「它山之石」、「敢有它志」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "tā"
+    },
+    {
+      "bopomofo": "ㄊㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "橐它：駱駝。",
+          "quote": [
+            "《漢書．卷九六．西域傳上．鄯善國傳》：「民隨畜牧逐水草，有驢馬，多橐它。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tuó"
+    },
+    {
+      "bopomofo": "（又音）ㄊㄨㄛ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）tuō"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "宀",
+  "stroke_count": 5,
+  "title": "它"
+}

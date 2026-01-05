@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨˊ",
+      "definitions": [
+        {
+          "def": "蝳蜍：蜘蛛的別稱。",
+          "quote": [
+            "漢．揚雄《方言．卷一一》：「鼅鼄，……，北燕、朝鮮、洌水之間謂之蝳蜍。」",
+            "《玉篇．蟲部》：「蝳，蝳蜍，肥大蜘蛛。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dú"
+    },
+    {
+      "bopomofo": "ㄉㄞˋ",
+      "definitions": [
+        {
+          "def": "參見「蝳蝐」條。"
+        }
+      ],
+      "pinyin": "dài"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "虫",
+  "stroke_count": 14,
+  "title": "蝳"
+}

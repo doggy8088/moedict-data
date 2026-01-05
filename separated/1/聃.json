@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄢ",
+      "definitions": [
+        {
+          "def": "沉迷。",
+          "link": [
+            "通「耽」。"
+          ],
+          "quote": [
+            "《列子．楊朱》：「方其聃于色也，屏親昵，絕交遊。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "耳朵大且長。",
+          "quote": [
+            "宋．蘇軾〈補禪月羅漢贊〉九首之二：「聃耳屬肩，綺眉覆顴。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "中國古代哲學家老子李耳的字。",
+          "link": [
+            "也稱為「老聃」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dān"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "耳",
+  "stroke_count": 11,
+  "title": "聃"
+}

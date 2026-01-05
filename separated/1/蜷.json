@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩㄢˊ",
+      "definitions": [
+        {
+          "def": "爬蟲身體扭曲的樣子。",
+          "quote": [
+            "《廣韻．平聲．先韻》：「蜷，蟲形詰屈。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "縮伏、屈曲。",
+          "example": [
+            "如：「小貓吃飽後，蜷在沙發上睡著了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "quán"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "虫",
+  "stroke_count": 14,
+  "title": "蜷"
+}

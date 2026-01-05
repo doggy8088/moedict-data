@@ -1,0 +1,76 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄚˋ",
+      "definitions": [
+        {
+          "def": "碾壓。",
+          "quote": [
+            "《說文解字．車部》：「軋，輾也。」",
+            "唐．李賀〈夢天〉詩：「玉輪軋露濕團光，鸞珮相逢桂香陌。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "排擠。",
+          "example": [
+            "如：「傾軋」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yà"
+    },
+    {
+      "bopomofo": "ㄓㄚˊ",
+      "definitions": [
+        {
+          "def": "壓。",
+          "example": [
+            "如：「軋鋼」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhá"
+    },
+    {
+      "bopomofo": "ㄍㄚˊ",
+      "definitions": [
+        {
+          "def": "擁、擠。",
+          "example": [
+            "如：「不要一堆人軋在門口。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "結交。",
+          "example": [
+            "如：「軋朋友」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "男女不正當的同居。",
+          "example": [
+            "如：「軋姘頭」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "形容機器發動時所發出的聲音。",
+          "example": [
+            "如：「車聲軋軋」。"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "gá"
+    }
+  ],
+  "non_radical_stroke_count": 1,
+  "radical": "車",
+  "stroke_count": 8,
+  "title": "軋"
+}

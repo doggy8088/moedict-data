@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄟˊ",
+      "definitions": [
+        {
+          "def": "由活細胞產生的有機物質。具有催化力，生命現象中的各種複雜化學反應，均賴其助　而得以進行。",
+          "link": [
+            "也稱為「酵素」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "méi"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "酉",
+  "stroke_count": 14,
+  "title": "酶"
+}

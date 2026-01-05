@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄥ",
+      "definitions": [
+        {
+          "def": "精神失常的、不正常的。",
+          "example": [
+            "如：「瘋子 」、「瘋言瘋語」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "癲狂、神經錯亂。",
+          "quote": [
+            "《紅樓夢．第四二回》：「你瞧瞧這寶丫頭瘋了，審問我什麼？」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "fēng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "疒",
+  "stroke_count": 14,
+  "title": "瘋"
+}

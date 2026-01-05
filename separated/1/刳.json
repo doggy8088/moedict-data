@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨ",
+      "definitions": [
+        {
+          "def": "剖開。",
+          "quote": [
+            "《莊子．山木》：「吾願君刳形去皮，灑心去欲，而遊於無人之野。」",
+            "《後漢書．卷八二．方術傳下．華佗傳》：「因刳破腹背，抽割積聚。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "挖空。",
+          "quote": [
+            "《易經．繫辭下》：「刳木為舟，剡木為楫。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kū"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "刀",
+  "stroke_count": 8,
+  "title": "刳"
+}

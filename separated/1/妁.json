@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "女方家的媒人。",
+          "quote": [
+            "《孟子．滕文公下》：「父母之命，媒妁之言。」",
+            "《兒女英雄傳．第二六回》：「我知道男家的媒人叫作媒，女家的媒人叫作妁。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shuò"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "女",
+  "stroke_count": 6,
+  "title": "妁"
+}

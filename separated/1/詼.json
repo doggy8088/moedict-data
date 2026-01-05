@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄟ",
+      "definitions": [
+        {
+          "def": "言語有趣的。",
+          "example": [
+            "如：「詼諧」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "戲謔、嘲笑。",
+          "quote": [
+            "宋．梅堯臣〈依韻和永叔澄心堂紙答劉原甫〉詩：「怪其有紙不寄我，如此出語亦善詼。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "huī"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "言",
+  "stroke_count": 13,
+  "title": "詼"
+}

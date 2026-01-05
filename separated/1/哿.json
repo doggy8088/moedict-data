@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄜˇ",
+      "definitions": [
+        {
+          "def": "讚許、嘉許。",
+          "quote": [
+            "《說文解字．可部》：「哿，可也。」",
+            "《左傳．昭公八年》：「哿矣能言，巧言如流。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kě"
+    },
+    {
+      "bopomofo": "（又音）ㄍㄜˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）gě"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "口",
+  "stroke_count": 10,
+  "title": "哿"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩ",
+      "definitions": [
+        {
+          "def": "吹氣。",
+          "quote": [
+            "《說文解字．欠部》：「欨，吹也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "欣喜。",
+          "quote": [
+            "《文選．嵇康．琴賦》：「其康樂者聞之，則欨愉懽釋，抃舞踊溢。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xū"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "欠",
+  "stroke_count": 9,
+  "title": "欨"
+}

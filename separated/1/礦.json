@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄤˋ",
+      "definitions": [
+        {
+          "def": "蘊藏於地層中供開採利用的自然物質。",
+          "example": [
+            "如：「煤礦」、「鐵礦」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kuàng"
+    },
+    {
+      "bopomofo": "（又音）ㄍㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）gǒng"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "石",
+  "stroke_count": 20,
+  "title": "礦"
+}

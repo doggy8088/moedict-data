@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "古代的學校名稱。",
+          "example": [
+            "如：「郡庠」、「邑庠」。"
+          ],
+          "quote": [
+            "《孟子．滕文公上》：「夏曰校，殷曰序，周曰庠，學則三代共之，皆所以明人倫也。」",
+            "《荀子．大略》：「立大學，設庠序，脩六禮，明十教，所以道之也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiáng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "广",
+  "stroke_count": 9,
+  "title": "庠"
+}

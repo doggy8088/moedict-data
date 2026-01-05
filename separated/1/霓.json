@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧˊ",
+      "definitions": [
+        {
+          "def": "與虹同時出現的彩色圓弧外圈。",
+          "link": [
+            "也稱為「副虹」。"
+          ],
+          "quote": [
+            "《楚辭．王襃．九懷．蓄英》：「修余兮袿衣，騎霓兮南上。」",
+            "唐．杜甫〈泛溪〉詩：「練練峰上雪，纖纖雲表霓。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有霓濟。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "ní"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "雨",
+  "stroke_count": 16,
+  "title": "霓"
+}

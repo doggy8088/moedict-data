@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˋ",
+      "definitions": [
+        {
+          "def": "告誡。",
+          "quote": [
+            "《說文解字．言部》：「誋，誡也。」",
+            "《淮南子．繆稱》：「目之精者，可以消澤而不可以昭誋。」",
+            "漢．高誘．注：「誋，誡也，不可以教導戒人。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "禁忌。",
+          "quote": [
+            "《玉篇．言部》：「誋，禁也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jì"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "言",
+  "stroke_count": 14,
+  "title": "誋"
+}

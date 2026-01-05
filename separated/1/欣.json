@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄣ",
+      "definitions": [
+        {
+          "def": "悅服、愛戴。",
+          "quote": [
+            "《國語．晉語二》：「庶幾曰諸侯義而撫之，百姓欣而奉之，國可以固。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "喜樂。",
+          "example": [
+            "如：「欣慰」、「欣然忘憂」。"
+          ],
+          "quote": [
+            "《莊子．秋水》：「於是焉，河伯欣然自喜，以天下之美為盡在己。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "姓。如五代時有欣彪。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "xīn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "欠",
+  "stroke_count": 8,
+  "title": "欣"
+}

@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄚˋ",
+      "definitions": [
+        {
+          "def": "水鳥聚在一起吃東西的聲音。",
+          "link": [
+            "同「唼」。"
+          ],
+          "quote": [
+            "《玉篇．口部》：「啑，啑喋，鴨食也。亦作唼。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shà"
+    },
+    {
+      "bopomofo": "ㄐㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "參見「啑血」條。"
+        }
+      ],
+      "pinyin": "jié"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "口",
+  "stroke_count": 11,
+  "title": "啑"
+}

@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄠˊ",
+      "definitions": [
+        {
+          "def": "普照天下。",
+          "quote": [
+            "《說文解字．火部》：「燾，溥覆照也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "覆蓋。",
+          "link": [
+            "同「幬」。"
+          ],
+          "quote": [
+            "《史記．卷三一．吳太伯世家》：「德至矣哉！大矣，如天之無不燾也，如地之無不載也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "táo"
+    },
+    {
+      "bopomofo": "（又音）ㄉㄠˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）dào"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "火",
+  "stroke_count": 18,
+  "title": "燾"
+}

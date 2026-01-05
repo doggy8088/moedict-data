@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄡˇ",
+      "definitions": [
+        {
+          "def": "參見「枸杞」、「枸骨」等條。"
+        }
+      ],
+      "pinyin": "gǒu"
+    },
+    {
+      "bopomofo": "ㄍㄡ",
+      "definitions": [
+        {
+          "def": "彎曲的。",
+          "quote": [
+            "《荀子．性惡》：「故枸木必將待檃栝烝矯然後直。」",
+            "唐．楊倞．注：「枸，讀為鉤，曲也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "gōu"
+    },
+    {
+      "bopomofo": "ㄐㄩˇ",
+      "definitions": [
+        {
+          "def": "參見「枸櫞」條。"
+        }
+      ],
+      "pinyin": "jǔ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "木",
+  "stroke_count": 9,
+  "title": "枸"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄚˇ　ㄅㄢ",
+      "definitions": [
+        {
+          "def": "何故。",
+          "example": [
+            "如：「到底是為那般？」"
+          ]
+        }
+      ],
+      "pinyin": "nǎ bān"
+    },
+    {
+      "bopomofo": "ㄋㄚˋ　ㄅㄢ",
+      "definitions": [
+        {
+          "def": "那樣。",
+          "example": [
+            "如：「這裡當然不如鄉下老家那般寧靜。」"
+          ]
+        }
+      ],
+      "pinyin": "nà bān"
+    }
+  ],
+  "title": "那般"
+}

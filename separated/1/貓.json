@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄠ",
+      "definitions": [
+        {
+          "def": "動物名。哺乳綱食肉目。面圓齒銳，耳殼短小，眼大，瞳孔會因光線強弱而變大小，聽視覺都很敏銳，四肢較短，腳有銳爪，掌有肉墊，行動敏捷，善捕鼠。",
+          "type": "名"
+        },
+        {
+          "def": "北平方言。指躲藏。",
+          "example": [
+            "如：「他貓起來了，害大夥兒找不著。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "māo"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "豸",
+  "stroke_count": 16,
+  "title": "貓"
+}

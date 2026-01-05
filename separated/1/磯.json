@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧ",
+      "definitions": [
+        {
+          "def": "水邊突出的巖石或石灘地。",
+          "example": [
+            "如：「采石磯」、「燕子磯」。"
+          ],
+          "quote": [
+            "唐．張旭〈桃花谿〉詩：「隱隱飛橋隔野煙，石磯西畔問漁船。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "以石激水，引申為激動。",
+          "quote": [
+            "《孟子．告子下》：「親之過小而怨，是不可磯也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jī"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "石",
+  "stroke_count": 17,
+  "title": "磯"
+}

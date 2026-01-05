@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄣˊ",
+      "definitions": [
+        {
+          "def": "水邊、岸邊。",
+          "quote": [
+            "《詩經．大雅．常武》：「鋪敦淮濆，仍執醜虜。」",
+            "漢．毛亨．傳：「濆，涯 。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "河川名。在大陸地區河南省郾城縣，是汝水的支流。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "fén"
+    },
+    {
+      "bopomofo": "ㄆㄣ",
+      "definitions": [
+        {
+          "def": "噴水。",
+          "example": [
+            "如：「濆灑」。"
+          ],
+          "link": [
+            "通「噴」。"
+          ],
+          "quote": [
+            "明．袁宏道〈場屋後記〉：「竹之內為池，珠泉濆出，蘆花如雪浪。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pēn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "水",
+  "stroke_count": 15,
+  "title": "濆"
+}

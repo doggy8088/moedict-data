@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄤ",
+      "definitions": [
+        {
+          "def": "一種骨骼彎曲的疾病。",
+          "quote": [
+            "《呂氏春秋．季春紀．盡數》：「辛水所多疽與痤人，苦水所多尪與傴人。」",
+            "漢．高誘．注：「尪，突胸仰向疾也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "瘦弱。",
+          "quote": [
+            "宋．蘇軾〈上神宗皇帝書〉：「世有尪羸而壽考，亦有盛壯而暴亡。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "wāng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "尢",
+  "stroke_count": 7,
+  "title": "尪"
+}

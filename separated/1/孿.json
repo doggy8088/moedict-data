@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄢˊ",
+      "definitions": [
+        {
+          "def": "雙胞胎。",
+          "quote": [
+            "《說文解字．子部》：「孿，一乳兩子也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "雙生的。",
+          "quote": [
+            "《戰國策．韓策三》：「夫孿子之相似者，唯其母知之而已。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "luán"
+    },
+    {
+      "bopomofo": "（又音）ㄌㄩㄢˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）lüán"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "子",
+  "stroke_count": 22,
+  "title": "孿"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄨˇ　˙ㄓㄜ",
+      "definitions": [
+        {
+          "def": "翹起。",
+          "example": [
+            "如：「他努著嘴，挺生氣的把房門用力一關。」"
+          ]
+        },
+        {
+          "def": "勉強用力。",
+          "example": [
+            "如：「他努著勁兒，終於把鐵門撬開。」"
+          ]
+        }
+      ],
+      "pinyin": "nǔ zhe"
+    },
+    {
+      "bopomofo": "ㄋㄨˇ　˙ㄓㄨㄛ",
+      "definitions": [
+        {
+          "def": "因用力過度，導致內部受傷。",
+          "example": [
+            "如：「他搬石塊努著了，直吐血。」"
+          ]
+        }
+      ],
+      "pinyin": "nǔ zhuo"
+    }
+  ],
+  "title": "努著"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄠˊ",
+      "definitions": [
+        {
+          "def": "相傳為古代虞舜時的樂曲名稱。",
+          "quote": [
+            "《說文解字．音部》：「韶，虞舜樂也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如晉代有韶石。",
+          "type": "名"
+        },
+        {
+          "def": "美好的。",
+          "example": [
+            "如：「韶光易逝」。"
+          ],
+          "quote": [
+            "南朝宋．鮑照〈發後渚〉詩：「華志分馳年，韶顏慘驚節。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "sháo"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "音",
+  "stroke_count": 14,
+  "title": "韶"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄚˋ",
+      "definitions": [
+        {
+          "def": "用棍、鞭等拍打。",
+          "example": [
+            "如：「鞭撻」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "勇武。",
+          "quote": [
+            "《詩經．商頌．殷武》：「撻彼殷武，奮伐荊楚。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "tà"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "手",
+  "stroke_count": 16,
+  "title": "撻"
+}

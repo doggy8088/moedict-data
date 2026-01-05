@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄤ",
+      "definitions": [
+        {
+          "def": "在有水草或泥巴的地面行走。",
+          "example": [
+            "如：「蹚渾水」、「你最好繞道而行，別蹚著水過來！」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "踐踏。",
+          "example": [
+            "如：「這些高麗草坪全給牛蹚壞了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tāng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "足",
+  "stroke_count": 18,
+  "title": "蹚"
+}

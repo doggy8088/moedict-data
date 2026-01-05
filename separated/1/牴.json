@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧˇ",
+      "definitions": [
+        {
+          "def": "牛、羊等有角的獸類用角碰撞。",
+          "quote": [
+            "《廣韻．上聲．薺韻》：「牴，角觸。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "引申為觸犯、衝突。",
+          "example": [
+            "如：「牴觸」、「牴牾」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dǐ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "牛",
+  "stroke_count": 9,
+  "title": "牴"
+}

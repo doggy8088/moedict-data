@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄢˋ",
+      "definitions": [
+        {
+          "def": "分開、分離。",
+          "link": [
+            "同「判」。"
+          ],
+          "quote": [
+            "《楚辭．屈原．九章．惜誦》：「背膺牉以交痛兮，心鬱結而紆軫。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "一半。多被借來指夫婦中的任何一方。參見「牉合」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "pàn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "片",
+  "stroke_count": 9,
+  "title": "牉"
+}

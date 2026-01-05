@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄢˊ",
+      "definitions": [
+        {
+          "def": "削刻、鏤刻。",
+          "quote": [
+            "《楚辭．屈原．九章．懷沙》：「刓方以為圜兮，常度未替。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "壞損的。",
+          "quote": [
+            "唐．韓愈〈請上尊號表〉：「堯誅九嬰以定下土，血兵刓刃，僅就厥功。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "wán"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "刀",
+  "stroke_count": 6,
+  "title": "刓"
+}

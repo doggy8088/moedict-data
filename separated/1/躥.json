@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄨㄢ",
+      "definitions": [
+        {
+          "def": "向上或向前跳。",
+          "example": [
+            "如：「躥越」、「縱身一躥」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "湧冒、噴射。",
+          "example": [
+            "如：「瀑布從山頂上飛躥下來。」、「才喝了一口，就覺得喉嚨直躥火。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "生氣、發怒。",
+          "example": [
+            "如：「他聽了這話就躥了起來。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "cuān"
+    }
+  ],
+  "non_radical_stroke_count": 18,
+  "radical": "足",
+  "stroke_count": 25,
+  "title": "躥"
+}

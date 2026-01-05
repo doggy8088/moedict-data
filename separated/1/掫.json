@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄡ",
+      "definitions": [
+        {
+          "def": "巡夜打更。",
+          "quote": [
+            "《說文解字．手部》：「掫，夜戒守有所擊。」",
+            "《左傳．昭公二十年》：「賓將掫，主人辭。」",
+            "晉．杜預．注：「掫，行夜。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zōu"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "手",
+  "stroke_count": 11,
+  "title": "掫"
+}

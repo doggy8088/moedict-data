@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄠˋ",
+      "definitions": [
+        {
+          "def": "去汙垢的鹼性用品。",
+          "example": [
+            "如：「肥皂」、「香皂」、「藥皂」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "黑色。",
+          "example": [
+            "如：「不分青紅皂白」。"
+          ],
+          "link": [
+            "同「皁」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "黑色的。",
+          "link": [
+            "同「皁」。"
+          ],
+          "quote": [
+            "清．孔尚任《桃花扇．第二四齣》：「簇新新帽烏襯袍紅，搔皂  皮靴綠縫，皂皮靴綠縫。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zào"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "白",
+  "stroke_count": 7,
+  "title": "皂"
+}

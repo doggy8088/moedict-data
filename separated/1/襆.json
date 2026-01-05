@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄨˊ",
+      "definitions": [
+        {
+          "def": "巾帕。",
+          "link": [
+            "同「幞」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "行李、包袱。",
+          "quote": [
+            "《聊齋志異．卷一．畫皮》：「太原王生，早行，遇一女郎，抱襆獨奔，甚艱於步。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pú"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "衣",
+  "stroke_count": 18,
+  "title": "襆"
+}

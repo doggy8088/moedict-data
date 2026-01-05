@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄥˊ",
+      "definitions": [
+        {
+          "def": "物體的緣角。",
+          "example": [
+            "如：「楞角」、「三楞鏡」。"
+          ],
+          "link": [
+            "同「稜」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "佛經翻譯用字。如：《楞伽經》、《楞嚴經》。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "léng"
+    },
+    {
+      "bopomofo": "ㄌㄥˋ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「愣」。"
+          ]
+        }
+      ],
+      "pinyin": "lèng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "木",
+  "stroke_count": 13,
+  "title": "楞"
+}

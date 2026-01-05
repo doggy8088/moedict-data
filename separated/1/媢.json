@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄠˋ",
+      "definitions": [
+        {
+          "def": "憎恨、嫉妒。",
+          "quote": [
+            "《新唐書．卷一四五．竇參傳》：「通玄等特以東宮恩舊進，昵而不禮，見贄驟擢，頗媢恨。」",
+            "宋．無名氏《梅妃傳》：「或非命，均其媢忌自取。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "善妒的。",
+          "example": [
+            "如：「媢婦」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "mào"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "女",
+  "stroke_count": 12,
+  "title": "媢"
+}

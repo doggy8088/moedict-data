@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄥˊ",
+      "definitions": [
+        {
+          "def": "參見「螣蛇」條。"
+        }
+      ],
+      "pinyin": "téng"
+    },
+    {
+      "bopomofo": "ㄊㄜˋ",
+      "definitions": [
+        {
+          "def": "一種專食苗葉的小青蟲。",
+          "quote": [
+            "元．元好問〈雁門道中書所見〉詩：「食禾有百螣，擇肉非一虎。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tè"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "虫",
+  "stroke_count": 16,
+  "title": "螣"
+}

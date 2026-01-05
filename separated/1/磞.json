@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄥ",
+      "definitions": [
+        {
+          "def": "擊石。",
+          "quote": [
+            "《玉篇．石部》：「磞，擊石也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "受到刺激而倒地。",
+          "quote": [
+            "清．孔尚任《桃花扇．第二七齣》：「香君懼怕，磞死在地。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "形容斷弦的聲音。",
+          "quote": [
+            "《紅樓夢．第八七回》：「正議論時，聽得君弦磞的一聲斷了。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "pēng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "石",
+  "stroke_count": 16,
+  "title": "磞"
+}

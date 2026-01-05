@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄤˋ",
+      "definitions": [
+        {
+          "def": "健壯的狗。",
+          "quote": [
+            "《說文解字．犬部》：「犺，健犬也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "刺蝟。",
+          "quote": [
+            "《玉篇．犬部》：「犺，蝟也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "動物名。產於暹羅，短小精悍，形如猿猱，可供役使。見明．張自烈《正字通．犬部》。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "kàng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "犬",
+  "stroke_count": 7,
+  "title": "犺"
+}

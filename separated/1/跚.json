@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄢ",
+      "definitions": [
+        {
+          "def": "參見「蹣跚」條。",
+          "type": "形"
+        },
+        {
+          "def": "踩、踏。",
+          "quote": [
+            "元．無名氏《小尉遲．第三折》：「劉無敵跚馬兒領番卒上。」",
+            "元．關漢卿《五侯宴．第三折》：「引著沙三去跚橇，伴著王留學調鬼。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shān"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "足",
+  "stroke_count": 12,
+  "title": "跚"
+}

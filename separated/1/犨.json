@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄡ",
+      "definitions": [
+        {
+          "def": "形容牛的喘息聲。",
+          "quote": [
+            "《說文解字．牛部》：「犨，牛息聲。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "突出。",
+          "quote": [
+            "《呂氏春秋．恃君覽．召類》：「南家之牆，犨於前而不直。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chōu"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "牛",
+  "stroke_count": 20,
+  "title": "犨"
+}

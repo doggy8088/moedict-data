@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄤˇ",
+      "definitions": [
+        {
+          "def": "失意或失志的樣子。",
+          "example": [
+            "如：「悵惘」。"
+          ],
+          "quote": [
+            "南朝宋．劉義慶《世說新語．言語》：「袁彥伯為謝安南司馬，都下諸人送至瀨鄉。將別，既自悽惘。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "困惑、迷惑。",
+          "example": [
+            "如：「迷惘」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "wǎng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "心",
+  "stroke_count": 11,
+  "title": "惘"
+}

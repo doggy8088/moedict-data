@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄣˋ",
+      "definitions": [
+        {
+          "def": "充滿的樣子。",
+          "quote": [
+            "《詩經．大雅．靈臺》：「王在靈沼，於牣魚躍。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "柔軟而結實。",
+          "link": [
+            "通「韌」。"
+          ],
+          "quote": [
+            "《呂氏春秋．似順論．別類》：「白所以為堅也，黃所以為牣也。黃白雜，則堅且牣，良劍也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "rèn"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "牛",
+  "stroke_count": 7,
+  "title": "牣"
+}

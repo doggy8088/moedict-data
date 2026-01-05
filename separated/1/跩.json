@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄞˇ",
+      "definitions": [
+        {
+          "def": "搖晃不穩、一搖一擺的走路。",
+          "example": [
+            "如：「鴨跩鵝行」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "得意忘形的樣子。",
+          "example": [
+            "如：「他一有了錢，就好跩喲！」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhuǎi"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "足",
+  "stroke_count": 13,
+  "title": "跩"
+}

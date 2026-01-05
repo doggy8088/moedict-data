@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄢˋ",
+      "definitions": [
+        {
+          "def": "舒展、舒發。",
+          "quote": [
+            "《集韻．去聲．豔韻》：「掞，舒也。」",
+            "《三國志．卷四五．蜀書．鄧芝傳》：「丁厷掞張，陰化不盡；和合二國，唯有鄧芝。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shàn"
+    },
+    {
+      "bopomofo": "ㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "照耀。",
+          "quote": [
+            "《文選．左思．蜀都賦》：「幽思絢道德，摛藻掞天庭。」",
+            "南朝梁．庾肩吾〈侍宴宣猷堂應令詩〉：「副君德將聖，陳王才掞天。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "手",
+  "stroke_count": 11,
+  "title": "掞"
+}

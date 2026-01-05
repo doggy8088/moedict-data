@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄠ",
+      "definitions": [
+        {
+          "def": "包裹。「包」的本字。",
+          "quote": [
+            "《說文解字．勹部》：「勹，裹也，象人曲行，有所包裹。」",
+            "清．段玉裁．注：「今字『包』行，而『勹』廢矣。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "bāo"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "勹",
+  "stroke_count": 2,
+  "title": "勹"
+}

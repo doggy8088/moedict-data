@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄚˋ",
+      "definitions": [
+        {
+          "def": "佛寺、寺廟。",
+          "example": [
+            "如：「古剎」、「名剎」。"
+          ],
+          "quote": [
+            "《水滸傳．第四回》：「看那文殊寺，果然是好座大剎。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chà"
+    },
+    {
+      "bopomofo": "ㄕㄚ",
+      "definitions": [
+        {
+          "def": "止住。",
+          "example": [
+            "如：「剎車」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shā"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "刀",
+  "stroke_count": 9,
+  "title": "剎"
+}

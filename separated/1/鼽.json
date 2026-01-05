@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "因傷風感冒而鼻塞。",
+          "quote": [
+            "《說文解字．鼻部》：「鼽，病寒鼻窒也。」",
+            "《淮南子．時則》：「冬藏殃敗，民多鼽窒。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiú"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "鼻",
+  "stroke_count": 16,
+  "title": "鼽"
+}

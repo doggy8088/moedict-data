@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨˋ",
+      "definitions": [
+        {
+          "def": "彼此、相互。",
+          "example": [
+            "如：「互敬互愛」、「互助合作」、「互通有無」、「互不退讓」。"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "交錯的。",
+          "quote": [
+            "《文選．嵇康．琴賦》：「互嶺巉巖，岝崿嶇崟。」",
+            "唐．杜甫〈宿花石戍〉詩：「四序本平分，氣候何迴互。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "hù"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "二",
+  "stroke_count": 4,
+  "title": "互"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧˊ",
+      "definitions": [
+        {
+          "def": "安。",
+          "quote": [
+            "《說文解字．示部》：「禔，安也。」",
+            "漢．揚雄《法言．修身》：「或問士何如斯可以禔身？」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "福。",
+          "quote": [
+            "《漢書．卷五七．司馬相如傳下》：「遐邇一體，中外禔福，不亦康乎？」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tí"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "示",
+  "stroke_count": 14,
+  "title": "禔"
+}

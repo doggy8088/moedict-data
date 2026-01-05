@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄚˇ",
+      "definitions": [
+        {
+          "def": "大陸北方地區稱外地人語音不正為「咵」，特指口音與本地人語音不同而言。",
+          "example": [
+            "如：「他人長得倒體面，可惜話說得有些咵。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "比喻說話粗俗。",
+          "example": [
+            "如：「俺是大老粗，您別笑我咵。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "kuǎ"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "口",
+  "stroke_count": 9,
+  "title": "咵"
+}

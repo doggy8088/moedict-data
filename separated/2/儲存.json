@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨˊ　ㄘㄨㄣˊ",
+      "definitions": [
+        {
+          "antonyms": "花費",
+          "def": "積聚存放。",
+          "example": [
+            "如：「每月儲存餘錢，可應急用。」"
+          ]
+        },
+        {
+          "def": "電腦將資料儲存於記憶或記錄器的動作。"
+        }
+      ],
+      "pinyin": "chú cún"
+    }
+  ],
+  "title": "儲存"
+}

@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "一種蔓生草類。",
+          "quote": [
+            "《說文解字．艸部》：「芩，艸也。」",
+            "《詩經．小雅．鹿鳴》：「呦呦鹿鳴，食野之芩。」",
+            "孔穎達正義引陸機曰：「莖如釵股，葉如竹，蔓生。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "一種藥草。參見「黃芩」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qín"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "艸",
+  "stroke_count": 8,
+  "title": "芩"
+}

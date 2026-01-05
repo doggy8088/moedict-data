@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄤ",
+      "definitions": [
+        {
+          "def": "巡更或號召群眾時，用來敲擊的器具。以竹、木製成。",
+          "example": [
+            "如：「木梆」、「竹梆」。"
+          ],
+          "link": [
+            "也稱為「梆子」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「梆子」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "bāng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "木",
+  "stroke_count": 11,
+  "title": "梆"
+}

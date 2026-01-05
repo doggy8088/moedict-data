@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓ",
+      "definitions": [
+        {
+          "def": "恭敬的。",
+          "example": [
+            "如：「祗頌學祺」、「祗請尊安」。"
+          ],
+          "quote": [
+            "《南史．卷四○．黃回傳》：「回既貴，祗事戴明寶甚謹。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "適、僅、只。",
+          "quote": [
+            "唐．張若虛〈春江花月夜〉詩：「人生代代無窮已，江月年年祗相似。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "zhī"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "示",
+  "stroke_count": 10,
+  "title": "祗"
+}

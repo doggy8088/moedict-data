@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄢ　ㄘㄜˋ",
+      "definitions": [
+        {
+          "antonyms": "推想",
+          "def": "觀察推測。",
+          "example": [
+            "如：「觀測敵情」。"
+          ],
+          "synonyms": "觀察"
+        },
+        {
+          "def": "對事物的觀察與測量。",
+          "example": [
+            "如：「天文觀測」、「深海觀測」。"
+          ]
+        }
+      ],
+      "pinyin": "guān cè"
+    }
+  ],
+  "title": "觀測"
+}

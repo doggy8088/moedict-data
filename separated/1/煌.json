@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄤˊ",
+      "definitions": [
+        {
+          "def": "光亮、明亮。",
+          "example": [
+            "如：「燈火輝煌」。"
+          ],
+          "quote": [
+            "《文選．司馬相如．封禪文》：「采色炫燿，煥炳煇煌。」",
+            "《文選．張衡．東京賦》：「煌火馳而星流，逐赤疫於四裔。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "huáng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "火",
+  "stroke_count": 13,
+  "title": "煌"
+}

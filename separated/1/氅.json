@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄤˇ",
+      "definitions": [
+        {
+          "def": "用鳥毛編成的外套、大衣。",
+          "example": [
+            "如：「大氅」、「羽氅」。"
+          ],
+          "quote": [
+            "《紅樓夢．第五二回》：「把昨兒那一件烏雲豹的氅衣給他罷。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用鳥毛編成的旌旗。",
+          "quote": [
+            "《新唐書．卷二三．儀衛志上》：「第一行，長戟，六色氅，領軍衛赤氅，威衛青氅、黑氅。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chǎng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "毛",
+  "stroke_count": 16,
+  "title": "氅"
+}

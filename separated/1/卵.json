@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄢˇ",
+      "definitions": [
+        {
+          "def": "卵生動物的蛋。",
+          "example": [
+            "如：「魚卵」、「蟻卵」、「殺雞取卵」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "雌性的生殖細胞。",
+          "example": [
+            "如：「卵子」、「排卵」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "睪丸的俗稱。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "luǎn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "卩",
+  "stroke_count": 7,
+  "title": "卵"
+}

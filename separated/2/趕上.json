@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄢˇ　ㄕㄤˋ",
+      "definitions": [
+        {
+          "def": "追到。",
+          "quote": [
+            "《三國演義．第二回》：「堅趕上，殺一賊。」"
+          ]
+        },
+        {
+          "antonyms": "落後",
+          "def": "比得上。",
+          "example": [
+            "如：「勤勉加上努力的人，成就常可以趕上天才。」"
+          ]
+        }
+      ],
+      "pinyin": "gǎn shàng"
+    },
+    {
+      "bopomofo": "ㄍㄢˇ　˙ㄕㄤ",
+      "definitions": [
+        {
+          "def": "碰巧遇上。",
+          "example": [
+            "如：「出門時正趕上小王，便搭了便車。」"
+          ],
+          "synonyms": "遇上"
+        }
+      ],
+      "pinyin": "gǎn shang"
+    }
+  ],
+  "title": "趕上"
+}

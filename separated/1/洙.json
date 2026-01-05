@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨ",
+      "definitions": [
+        {
+          "def": "河川名。泗水的支流，一源出大陸地區山東省費縣北，西流入泗水；一源出曲阜縣北，南流合沂水注入泗水。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhū"
+    },
+    {
+      "bopomofo": "（又音）ㄕㄨ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）shū"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洙"
+}

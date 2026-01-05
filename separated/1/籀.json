@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄡˋ",
+      "definitions": [
+        {
+          "def": "參見「籀文」條。",
+          "type": "名"
+        },
+        {
+          "def": "誦讀。",
+          "quote": [
+            "漢．許慎〈說文解字序〉：「學僮十七已上始試，諷籀書九千字乃得為吏。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhòu"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "竹",
+  "stroke_count": 19,
+  "title": "籀"
+}

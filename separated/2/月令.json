@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄝˋ　ㄌㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "《禮記》篇名。記農曆十二個月的時令、行政及相關事物。"
+        }
+      ],
+      "pinyin": "yuè lìng"
+    },
+    {
+      "bopomofo": "ㄩㄝˋ　˙ㄌㄧㄥ",
+      "definitions": [
+        {
+          "def": "星相家稱每個月的吉凶休咎。",
+          "example": [
+            "如：「月令高低」。"
+          ]
+        }
+      ],
+      "pinyin": "yuè ling"
+    }
+  ],
+  "title": "月令"
+}

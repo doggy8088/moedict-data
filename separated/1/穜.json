@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "先種後熟的農作物。",
+          "quote": [
+            "《周禮．天官．內宰》：「上春，詔王后帥六宮之人而生穜稑之種，而獻之于王。」",
+            "鄭玄注引鄭司農云：「先種後孰謂之穜，後種先孰謂之稑。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tóng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "禾",
+  "stroke_count": 17,
+  "title": "穜"
+}

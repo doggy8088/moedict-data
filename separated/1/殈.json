@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩˋ",
+      "definitions": [
+        {
+          "def": "鳥卵尚未孵化就破裂。",
+          "quote": [
+            "《廣韻．平聲．錫韻》：「殈，鳥卵破也。」",
+            "《禮記．樂記》：「胎生者不殰，而卵生者不殈，則樂之道歸焉耳。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xù"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "歹",
+  "stroke_count": 10,
+  "title": "殈"
+}

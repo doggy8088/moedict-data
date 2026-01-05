@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄝˊ　ㄒㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "不正當的行為。",
+          "quote": [
+            "《管子．權修》：「凡牧民者，使士無邪行，女無淫事。」"
+          ]
+        }
+      ],
+      "pinyin": "xié xìng"
+    },
+    {
+      "bopomofo": "ㄒㄧㄝˊ　˙ㄒㄧㄥ",
+      "definitions": [
+        {
+          "def": "古怪。",
+          "example": [
+            "如：「他這話問得有點兒邪行。」"
+          ]
+        }
+      ],
+      "pinyin": "xié xing"
+    }
+  ],
+  "title": "邪行"
+}

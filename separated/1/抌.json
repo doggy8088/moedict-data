@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄢˇ",
+      "definitions": [
+        {
+          "def": "擊。",
+          "quote": [
+            "《說文解字．手部》：「抌，深擊也。」",
+            "清．段玉裁．注：「刺客列傳：『左手把其袖，右手揕其匈。』揕即抌字。徐廣曰：『一作抗。』按：抗乃抌之訛耳。」",
+            "《列子．黃帝》：「攩㧙挨抌，亡所不為。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dǎn"
+    },
+    {
+      "bopomofo": "（又音）ㄓㄣˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）zhěn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "手",
+  "stroke_count": 7,
+  "title": "抌"
+}

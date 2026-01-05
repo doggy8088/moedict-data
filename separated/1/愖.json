@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄣˊ",
+      "definitions": [
+        {
+          "def": "參見「斟愖」條。"
+        }
+      ],
+      "pinyin": "chén"
+    },
+    {
+      "bopomofo": "ㄉㄢ",
+      "definitions": [
+        {
+          "def": "逸樂。",
+          "quote": [
+            "《大戴禮記．卷一一．少閒》：「優以繼愖，政出自家門，此之謂失政也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "dān"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "心",
+  "stroke_count": 12,
+  "title": "愖"
+}

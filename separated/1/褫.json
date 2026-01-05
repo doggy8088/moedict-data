@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔˇ",
+      "definitions": [
+        {
+          "def": "脫掉、卸下。",
+          "quote": [
+            "宋．岳飛〈良馬對〉：「褫鞍甲而不息不汗。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "剝奪、革除。",
+          "example": [
+            "如：「褫奪公權」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chǐ"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "衣",
+  "stroke_count": 16,
+  "title": "褫"
+}

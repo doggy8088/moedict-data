@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄞˊ",
+      "definitions": [
+        {
+          "def": "植物名。隱花植物，扁平微細，根、莖、葉區別不明顯，綠色。常延貼於潮溼地面或石頭上。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "tái"
+    },
+    {
+      "bopomofo": "ㄊㄞ",
+      "definitions": [
+        {
+          "def": "參見「舌苔」條。"
+        }
+      ],
+      "pinyin": "tāi"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "艸",
+  "stroke_count": 9,
+  "title": "苔"
+}

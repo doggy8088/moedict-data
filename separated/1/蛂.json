@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "動物名。一種害蟲。屬甲蟲類，體呈綠色。",
+          "quote": [
+            "《爾雅．釋蟲》：「蛂，蟥蛢。」",
+            "晉．郭璞．注：「甲蟲也。大如虎豆，綠色。今江東呼黃蛢。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bié"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "虫",
+  "stroke_count": 11,
+  "title": "蛂"
+}

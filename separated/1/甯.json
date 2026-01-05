@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "姓。如周代有甯越。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "nìng"
+    },
+    {
+      "bopomofo": "ㄋㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "願、盼望。",
+          "example": [
+            "如：「甯可」、「甯願」。"
+          ],
+          "link": [
+            "通「寧」。"
+          ],
+          "quote": [
+            "《說文解字．用部》：「甯，所願也。」",
+            "《漢書．卷二二．禮樂志》：「穰穰復正直往甯。」",
+            "唐．顏師古．注：「甯，願也。言獲福既多，歸於正道，克當往日所願也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "níng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "用",
+  "stroke_count": 12,
+  "title": "甯"
+}

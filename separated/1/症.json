@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄥˋ",
+      "definitions": [
+        {
+          "def": "疾病的徵象。",
+          "example": [
+            "如：「急症」、「絕症」、「不治之症」、「對症下藥」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhèng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "疒",
+  "stroke_count": 10,
+  "title": "症"
+}

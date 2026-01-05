@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "跌倒。",
+          "example": [
+            "如：「踣地不起」。"
+          ],
+          "quote": [
+            "《聊齋志異．卷一．勞山道士》：「頭觸硬壁，驀然而踣。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "倒斃。",
+          "quote": [
+            "《國語．魯語上》：「紂踣于京。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "暴屍。",
+          "quote": [
+            "《周禮．秋官．掌戮》：「凡殺人者踣諸市，肆之三日。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bó"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "足",
+  "stroke_count": 15,
+  "title": "踣"
+}

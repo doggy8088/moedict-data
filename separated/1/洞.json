@@ -1,0 +1,58 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄥˋ",
+      "definitions": [
+        {
+          "def": "深穴。",
+          "example": [
+            "如：「壁洞」、「山洞」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "穿破的孔。",
+          "example": [
+            "如：「衣服破了一個洞。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "口語中用來代替數目字的「零」。",
+          "example": [
+            "如：「洞洞拐」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "深察。",
+          "quote": [
+            "南朝梁．劉勰《文心雕龍．宗經》：「洞性靈之奧區，極文章之骨髓者也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "透澈、明白。",
+          "example": [
+            "如：「洞悉」、「洞察」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "dòng"
+    },
+    {
+      "bopomofo": "ㄊㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "參見「澒洞」、「洪洞縣」等條。"
+        }
+      ],
+      "pinyin": "tóng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洞"
+}

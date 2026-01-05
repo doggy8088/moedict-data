@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˋ",
+      "definitions": [
+        {
+          "def": "古代的一種刑具，即腳鐐。參見「桎梏」條。",
+          "type": "名"
+        },
+        {
+          "def": "窒礙、阻礙。",
+          "quote": [
+            "《莊子．達生》：「其靈臺一而不桎。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "束縛、監禁。",
+          "quote": [
+            "唐．沈佺期〈被彈〉詩：「昆弟兩三人，相次俱囚桎。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "木",
+  "stroke_count": 10,
+  "title": "桎"
+}

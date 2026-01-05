@@ -1,0 +1,47 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（語音）ㄘㄠ",
+      "definitions": [
+        {
+          "def": "參見「糙米」條。",
+          "type": "名"
+        },
+        {
+          "def": "不細緻。",
+          "example": [
+            "如：「粗糙」。"
+          ],
+          "quote": [
+            "清．洪昇《長生殿．第二一齣》：「春纖十個擂槌，玉體渾身糙漆。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "草率、鹵莽。",
+          "example": [
+            "如：「毛糙」。"
+          ],
+          "quote": [
+            "《兒女英雄傳．第三九回》：「老弟，你瞧愚兄是個糙人，也不懂得如今那些拜老師收門生的規矩。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "（語音）cāo"
+    },
+    {
+      "bopomofo": "（讀音）ㄘㄠˋ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。"
+        }
+      ],
+      "pinyin": "（讀音）cào"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "米",
+  "stroke_count": 17,
+  "title": "糙"
+}

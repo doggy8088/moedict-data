@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄢˇ　ㄊㄞˊ",
+      "definitions": [
+        {
+          "def": "轉換電視頻道。",
+          "example": [
+            "如：「我不想看這個節目，轉臺好不好？」"
+          ]
+        }
+      ],
+      "pinyin": "zhuǎn tái"
+    },
+    {
+      "bopomofo": "ㄓㄨㄢˋ　ㄊㄞˊ",
+      "definitions": [
+        {
+          "def": "中心部分可旋轉的舞臺。利用此種舞臺，可縮短換布景的時間。"
+        }
+      ],
+      "pinyin": "zhuàn tái"
+    }
+  ],
+  "title": "轉臺"
+}

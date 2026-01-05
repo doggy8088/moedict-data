@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄤˊ",
+      "definitions": [
+        {
+          "def": "一種野蠶。蛾類的幼蟲，食蕭葉為生。",
+          "quote": [
+            "《爾雅．釋蟲》：「蚢，蕭繭。」",
+            "宋．邢昺．疏：「食蕭葉作繭者名蚢。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "大貝。",
+          "quote": [
+            "《文選．郭璞．江賦》：「紫蚢如渠，洪蚶專車。」",
+            "李善注引《爾雅》曰：「大貝曰蚢。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "háng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "虫",
+  "stroke_count": 10,
+  "title": "蚢"
+}

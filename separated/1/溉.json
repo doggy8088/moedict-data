@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄞˋ",
+      "definitions": [
+        {
+          "def": "灌注。",
+          "example": [
+            "如：「灌溉」。"
+          ],
+          "quote": [
+            "《說文解字．水部》：「溉，灌注也。」",
+            "《史記．卷二十九．河渠書》：「其後漕稍多，而渠下之民頗得以溉田矣。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "洗滌。",
+          "quote": [
+            "漢．王充《論衡．幸偶》：「皆之水也，或溉鼎釜，或澡腐臭。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gài"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "水",
+  "stroke_count": 12,
+  "title": "溉"
+}

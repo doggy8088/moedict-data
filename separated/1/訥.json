@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄜˋ",
+      "definitions": [
+        {
+          "def": "言語遲鈍。",
+          "example": [
+            "如：「木訥」。"
+          ],
+          "quote": [
+            "《晉書．卷九二．文苑傳．左思傳》：「貌寢，口訥，而辭藻壯麗。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "nè"
+    },
+    {
+      "bopomofo": "（又音）ㄋㄚˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）nà"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "言",
+  "stroke_count": 11,
+  "title": "訥"
+}

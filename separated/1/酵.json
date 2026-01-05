@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "參見「發酵」、「酵母」、「酵素」等條。"
+        }
+      ],
+      "pinyin": "xiào"
+    },
+    {
+      "bopomofo": "（又音）ㄐㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）jiào"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "酉",
+  "stroke_count": 14,
+  "title": "酵"
+}

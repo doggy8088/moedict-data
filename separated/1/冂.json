@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄥ",
+      "definitions": [
+        {
+          "def": "離城市很遠的地方。",
+          "quote": [
+            "《說文解字．冂部》：「冂，邑外謂之郊，郊外謂之野，野外謂之林，林外謂之冂，象遠介也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiōng"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "冂",
+  "stroke_count": 2,
+  "title": "冂"
+}

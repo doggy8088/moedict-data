@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄠˇ　ㄘㄞˋ",
+      "definitions": [
+        {
+          "def": "烹製食物。",
+          "example": [
+            "如：「他親自下廚炒菜。」"
+          ]
+        }
+      ],
+      "pinyin": "chǎo cài"
+    },
+    {
+      "bopomofo": "ㄔㄠˇ　˙ㄘㄞ",
+      "definitions": [
+        {
+          "def": "用油加佐料炒製的菜餚，湯汁較少，有別於熬菜。"
+        }
+      ],
+      "pinyin": "chǎo cai"
+    }
+  ],
+  "title": "炒菜"
+}

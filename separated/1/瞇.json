@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧ",
+      "definitions": [
+        {
+          "def": "眼瞼上下微閉。",
+          "example": [
+            "如：「他瞇著眼一直望向走廊前端。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mī"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "目",
+  "stroke_count": 15,
+  "title": "瞇"
+}

@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄤˋ",
+      "definitions": [
+        {
+          "def": "胸、腹腔內各器官的總稱。",
+          "example": [
+            "如：「心臟」、「腎臟」、「脾臟」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zàng"
+    }
+  ],
+  "non_radical_stroke_count": 18,
+  "radical": "肉",
+  "stroke_count": 22,
+  "title": "臟"
+}

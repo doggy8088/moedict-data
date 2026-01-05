@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "長槍。",
+          "quote": [
+            "《說文解字．戈部》：「戭，長槍也。」",
+            "《集韻．去聲．稕韻》：「戭，矛屬。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yǎn"
+    },
+    {
+      "bopomofo": "ㄧㄣˇ",
+      "definitions": [
+        {
+          "def": "長戈。",
+          "quote": [
+            "《集韻．上聲．準韻》：「戭，長戈。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yǐn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "戈",
+  "stroke_count": 15,
+  "title": "戭"
+}

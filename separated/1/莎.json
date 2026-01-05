@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨㄛ",
+      "definitions": [
+        {
+          "def": "參見「莎草」條。",
+          "type": "名"
+        },
+        {
+          "def": "生有莎草的。",
+          "example": [
+            "如：「莎州」、「莎岸」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "suō"
+    },
+    {
+      "bopomofo": "ㄕㄚ",
+      "definitions": [
+        {
+          "def": "動物名。指莎雞。一種似蚱蜢的昆蟲，色黑，有數重翅膀。常在夏季的夜晚振翅作聲，鳴聲急促似紡絲。",
+          "link": [
+            "也稱為「絡緯」。"
+          ]
+        }
+      ],
+      "pinyin": "shā"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "艸",
+  "stroke_count": 11,
+  "title": "莎"
+}

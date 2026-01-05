@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄢ",
+      "definitions": [
+        {
+          "def": "以黏土燒製而成的長方形建築材料。",
+          "example": [
+            "如：「紅磚」、「瓷磚」、「水泥磚」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "磚形的物體。",
+          "example": [
+            "如：「茶磚」、「冰磚」、「金磚」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhuān"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "石",
+  "stroke_count": 16,
+  "title": "磚"
+}

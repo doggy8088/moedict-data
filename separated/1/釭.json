@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄤ",
+      "definitions": [
+        {
+          "def": "車轂口穿軸用的金屬圈。",
+          "quote": [
+            "《說文解字．金部》：「釭，車轂中鐵也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "燈。",
+          "quote": [
+            "《文選．江淹．別賦》：「夏簟清兮晝不暮，冬釭凝兮夜何長。」",
+            "元．王實甫《西廂記．第三本．第二折》：「絳臺高，金荷小，銀釭猶燦。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gāng"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "金",
+  "stroke_count": 11,
+  "title": "釭"
+}

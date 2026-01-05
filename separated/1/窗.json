@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄤ",
+      "definitions": [
+        {
+          "def": "房屋中用來透光通氣的洞孔。",
+          "example": [
+            "如：「窗戶」、「天窗」、「玻璃窗」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chuāng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "穴",
+  "stroke_count": 12,
+  "title": "窗"
+}

@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄚˋ",
+      "definitions": [
+        {
+          "def": "衣裙兩旁開叉的地方。",
+          "link": [
+            "也稱為「衩口」。"
+          ],
+          "quote": [
+            "唐．李商隱〈無題〉詩二首之一：「十歲去踏青，芙蓉作裙衩。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chà"
+    },
+    {
+      "bopomofo": "ㄔㄚˇ",
+      "definitions": [
+        {
+          "def": "貼身短褲。",
+          "example": [
+            "如：「三角褲衩」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chǎ"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "衣",
+  "stroke_count": 9,
+  "title": "衩"
+}

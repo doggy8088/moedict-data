@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "大水。",
+          "example": [
+            "如：「防洪」、「洩洪」、「山洪暴發」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如清代有洪秀全。",
+          "type": "名"
+        },
+        {
+          "def": "大的。",
+          "example": [
+            "如：「洪恩」、「洪水」、「聲如洪鐘」、「洪福齊天 」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "hóng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洪"
+}

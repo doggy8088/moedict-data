@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄞ",
+      "definitions": [
+        {
+          "def": "魚類的呼吸器官。位在頭部的兩頰，用來吸取溶解在水裡的氧氣。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "sāi"
+    },
+    {
+      "bopomofo": "ㄒㄧˇ",
+      "definitions": [
+        {
+          "def": "參見「鰓鰓」條。"
+        }
+      ],
+      "pinyin": "xǐ"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "魚",
+  "stroke_count": 20,
+  "title": "鰓"
+}

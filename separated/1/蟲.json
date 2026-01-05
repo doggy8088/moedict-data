@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "昆蟲的總稱。",
+          "type": "名"
+        },
+        {
+          "def": "古代對動物的通稱。如老虎稱為「大蟲」，蛇稱為「長蟲」。",
+          "type": "名"
+        },
+        {
+          "def": "輕蔑他人的言語。",
+          "example": [
+            "如：「懶蟲」、「可憐蟲」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有蟲達。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "chóng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "虫",
+  "stroke_count": 18,
+  "title": "蟲"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗ",
+      "definitions": [
+        {
+          "def": "嘴脣上邊的短鬚。",
+          "example": [
+            "如：「髭鬚」、「鬍髭」。"
+          ],
+          "quote": [
+            "《玉篇．髟部》：「髭，口上須。」",
+            "五代十國南唐．李煜〈病中感懷〉詩：「夜鼎唯煎藥，朝髭半染霜。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "毛髮直豎張散的樣子。參見「髭髭著」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "zī"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "髟",
+  "stroke_count": 16,
+  "title": "髭"
+}

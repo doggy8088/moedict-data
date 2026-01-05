@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "味道濃厚。",
+          "quote": [
+            "宋．蘇軾〈正月二十日與潘郭二生出郊尋春忽記去年是日同至女王城作詩乃和前韻〉：「江城白酒三杯釅，野老蒼顏一笑溫。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "顏色深。",
+          "quote": [
+            "唐．戴叔倫〈贈慧上人〉詩：「雲霞色釅禪房衲，星月光涵古殿燈。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yàn"
+    }
+  ],
+  "non_radical_stroke_count": 20,
+  "radical": "酉",
+  "stroke_count": 27,
+  "title": "釅"
+}

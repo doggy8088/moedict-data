@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "哺乳綱牛科部分動物的泛稱。皮、毛、角、骨可供使用，肉、乳可食用。有綿羊、山羊、羚羊等。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有羊續。",
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yáng"
+    },
+    {
+      "bopomofo": "ㄒㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "吉利、吉祥。",
+          "example": [
+            "如：「吉羊如意」。"
+          ],
+          "link": [
+            "通「祥」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiáng"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "羊",
+  "stroke_count": 6,
+  "title": "羊"
+}

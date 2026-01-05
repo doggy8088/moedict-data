@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄢ",
+      "definitions": [
+        {
+          "def": "肉腐變臭。",
+          "quote": [
+            "《廣韻．入聲．曷韻》：「胺，肉敗臭。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "有機化學上假借以表氨之烴基衍生物，即氨中之氫為烴基所取代而成的化合物，總稱為「胺」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "ān"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "肉",
+  "stroke_count": 10,
+  "title": "胺"
+}

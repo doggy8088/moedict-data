@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄥˇ",
+      "definitions": [
+        {
+          "def": "水深廣。",
+          "quote": [
+            "《文選．郭璞．江賦》：「鼓帆迅越，䞟漲截泂。」",
+            "唐．李善．注：「漲、泂皆深廣之貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "遠。",
+          "link": [
+            "通「迥」。"
+          ],
+          "quote": [
+            "《詩經．大雅．泂酌》：「泂酌彼行潦，挹彼注茲。」",
+            "漢．毛亨．傳：「泂，遠也。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "jiǒng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "水",
+  "stroke_count": 8,
+  "title": "泂"
+}

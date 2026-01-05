@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄝ　ㄎㄡˇ",
+      "definitions": [
+        {
+          "def": "書頁經過裁切，而可翻動的一邊。"
+        }
+      ],
+      "pinyin": "qiē kǒu"
+    },
+    {
+      "bopomofo": "ㄑㄧㄝˋ　ㄎㄡˇ",
+      "definitions": [
+        {
+          "def": "祕密幫會或各行業中特用的隱語。",
+          "example": [
+            "如：「他們哥倆以切口問答，避免外人得悉談話內容。」"
+          ],
+          "synonyms": "暗語,隱語"
+        }
+      ],
+      "pinyin": "qiè kǒu"
+    }
+  ],
+  "title": "切口"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄞˋ",
+      "definitions": [
+        {
+          "def": "積欠他人的錢財。",
+          "example": [
+            "如：「還債」、「欠債」、「公債」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛指有所虧欠而待償還的恩惠、仇恨等。",
+          "example": [
+            "如：「人情債」、「感情債」、「血債」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhài"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "人",
+  "stroke_count": 13,
+  "title": "債"
+}

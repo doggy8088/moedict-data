@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄤ",
+      "definitions": [
+        {
+          "def": "武器名。古代一種類似劍的兵器。",
+          "quote": [
+            "漢．劉熙《釋名．釋兵》：「鉤鑲，兩頭曰鉤，中央曰鑲，或推鑲，或鉤引，用之之宜也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "把東西嵌入、配製在另一物體的中間或邊緣。",
+          "example": [
+            "如：「鑲邊」、「鑲牙齒」、「鑲寶石的戒指。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xiāng"
+    },
+    {
+      "bopomofo": "ㄖㄤˊ",
+      "definitions": [
+        {
+          "def": "鑄造銅、鐵器的模型的中心部分。",
+          "quote": [
+            "《說文解字．金部》：「鑲，作型中腸也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "ráng"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "金",
+  "stroke_count": 25,
+  "title": "鑲"
+}

@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄥˇ",
+      "definitions": [
+        {
+          "def": "戒備。",
+          "example": [
+            "如：「儆備」。"
+          ],
+          "link": [
+            "通「警」。"
+          ],
+          "quote": [
+            "唐．劉禹錫〈儆舟〉：「困而後儆，斯弗及已。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "警告、懲戒。",
+          "example": [
+            "如：「殺一儆百」、「殺雞儆猴」。"
+          ],
+          "link": [
+            "通「警」。"
+          ],
+          "quote": [
+            "《孔子家語．卷一．五儀解》：「故天災地妖所以儆人主也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jǐng"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "人",
+  "stroke_count": 15,
+  "title": "儆"
+}

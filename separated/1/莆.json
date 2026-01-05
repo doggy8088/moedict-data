@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˇ",
+      "definitions": [
+        {
+          "def": "參見「萐莆」條。"
+        }
+      ],
+      "pinyin": "fǔ"
+    },
+    {
+      "bopomofo": "ㄆㄨˊ",
+      "definitions": [
+        {
+          "def": "古書上的一種水草。",
+          "quote": [
+            "《楚辭．屈原．天問》：「咸播秬黍，莆雚是營。」",
+            "漢．王逸．注：「言禹平治水土，萬民皆得耕種黑黍於雚蒲之地，盡為良田也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「莆田縣」條。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有莆森。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "pú"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "艸",
+  "stroke_count": 11,
+  "title": "莆"
+}

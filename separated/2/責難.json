@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄜˊ　ㄋㄢˊ",
+      "definitions": [
+        {
+          "def": "要求別人完成艱難的事。",
+          "quote": [
+            "《孟子．離婁上》：「責難於君謂之恭，陳善閉邪謂之敬，吾君不能謂之賊。」"
+          ]
+        }
+      ],
+      "pinyin": "zé nán"
+    },
+    {
+      "bopomofo": "ㄗㄜˊ　ㄋㄢˋ",
+      "definitions": [
+        {
+          "def": "非難、詰難。",
+          "example": [
+            "如：「他受人責難。」"
+          ],
+          "synonyms": "非難,責備"
+        }
+      ],
+      "pinyin": "zé nàn"
+    }
+  ],
+  "title": "責難"
+}

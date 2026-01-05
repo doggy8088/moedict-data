@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄠ",
+      "definitions": [
+        {
+          "def": "參見「翛翛」條。"
+        }
+      ],
+      "pinyin": "xiāo"
+    },
+    {
+      "bopomofo": "ㄕㄨˋ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "通「倏」。"
+          ]
+        }
+      ],
+      "pinyin": "shù"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "羽",
+  "stroke_count": 13,
+  "title": "翛"
+}

@@ -1,0 +1,58 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄤˋ",
+      "definitions": [
+        {
+          "def": "量詞。英美計算重量的單位。為英語 pound的音譯。常衡一磅等於零點四五三六公斤；金屬衡一磅合零點三七三二公斤。",
+          "link": [
+            "也稱為「英磅」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "秤。",
+          "example": [
+            "如：「磅秤」、「地磅」、「過磅」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用磅秤稱重量。",
+          "example": [
+            "如：「磅體重」、「磅一磅」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bàng"
+    },
+    {
+      "bopomofo": "ㄆㄤ",
+      "definitions": [
+        {
+          "def": "廣大無邊際。參見「磅礴」條。",
+          "type": "形"
+        },
+        {
+          "def": "形容碰撞的聲音。參見「磅硠」條。",
+          "type": "狀"
+        }
+      ],
+      "pinyin": "pāng"
+    },
+    {
+      "bopomofo": "ㄅㄥˋ",
+      "definitions": [
+        {
+          "def": "「過磅」的「磅」的又音。"
+        }
+      ],
+      "pinyin": "bèng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "石",
+  "stroke_count": 15,
+  "title": "磅"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄥ",
+      "definitions": [
+        {
+          "def": "參見「乒乓」條。",
+          "type": "名"
+        },
+        {
+          "def": "形容東西碰撞的聲音。",
+          "example": [
+            "如：「乒乒乓乓」。"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "pīng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "丿",
+  "stroke_count": 6,
+  "title": "乒"
+}

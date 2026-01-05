@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄠˋ　ㄔㄜ",
+      "definitions": [
+        {
+          "def": "使車輛向後退。",
+          "example": [
+            "如：「倒車時一定要注意車後有沒有行人」。"
+          ]
+        }
+      ],
+      "pinyin": "dào chē"
+    },
+    {
+      "bopomofo": "ㄉㄠˇ　ㄔㄜ",
+      "definitions": [
+        {
+          "def": "中途換車。",
+          "example": [
+            "如：「這輛是直達車，你不用倒車。」"
+          ]
+        }
+      ],
+      "pinyin": "dǎo chē"
+    }
+  ],
+  "title": "倒車"
+}

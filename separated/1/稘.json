@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧ",
+      "definitions": [
+        {
+          "def": "一個周期的時間。",
+          "link": [
+            "同「期」。"
+          ],
+          "quote": [
+            "《說文解字．禾部》：「稘，復其時也。……《唐書》曰：『稘三百有六旬。』」",
+            "清．段玉裁．注：「今皆假期為之，期行而稘廢矣。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jī"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "禾",
+  "stroke_count": 13,
+  "title": "稘"
+}

@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄛˋ",
+      "definitions": [
+        {
+          "def": "參見「嚜嚜」條。"
+        }
+      ],
+      "pinyin": "mò"
+    },
+    {
+      "bopomofo": "˙ㄇㄜ",
+      "definitions": [
+        {
+          "def": "表示有所決定的語助詞。",
+          "example": [
+            "如：「他既然來了嚜，當然要請他做下去。」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "me"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "口",
+  "stroke_count": 18,
+  "title": "嚜"
+}

@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄠ",
+      "definitions": [
+        {
+          "def": "火焰。",
+          "quote": [
+            "《史記．卷九二．淮陰侯傳》：「天下之士雲合霧集，魚鱗雜遝，熛至風起。」",
+            "《唐書．卷二二○．東夷傳．高麗傳》：「士縱火焚西南，熛延城中，屋幾盡。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "迅速、疾速。",
+          "example": [
+            "如：「熛風」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "突然、驟然。",
+          "example": [
+            "如：「熛起」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "biāo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "火",
+  "stroke_count": 15,
+  "title": "熛"
+}

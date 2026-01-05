@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩˋ",
+      "definitions": [
+        {
+          "def": "參見「芧栗」條。"
+        }
+      ],
+      "pinyin": "xù"
+    },
+    {
+      "bopomofo": "ㄓㄨˋ",
+      "definitions": [
+        {
+          "def": "一種苧麻。",
+          "link": [
+            "同「苧」。"
+          ],
+          "quote": [
+            "《說文解字．艸部》：「芧，艸也。可以為繩。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhù"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "艸",
+  "stroke_count": 8,
+  "title": "芧"
+}

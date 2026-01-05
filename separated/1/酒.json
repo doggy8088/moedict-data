@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄡˇ",
+      "definitions": [
+        {
+          "def": "用米、麥或水果等發酵釀製而成，內含酒精的刺激性飲料。",
+          "example": [
+            "如：「米酒」、「葡萄酒」。"
+          ],
+          "quote": [
+            "宋．陸游〈假中閉戶終日偶得絕句〉三首之三：「官身常欠讀書債，祿米不供沽酒資。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiǔ"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "酉",
+  "stroke_count": 10,
+  "title": "酒"
+}

@@ -1,0 +1,14 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄤˇ　ㄢˋ　ㄔㄨㄢˊ　ㄕㄨ　ㄒㄧㄝˊ　ㄉㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "兩臺電腦彼此檔案之間傳輸的共同協定。英文為File Transfer Protocol，縮稱為FTP。任何電腦只要遵循此協定，即可和其他不同的同腦系統互相傳遞檔案。一般使用者比較常見的匿名FTP（Anonymous FTP），為一種開放式帳號，提供給網路上任何一個使用者使用，使用者可利用遠端登入協定（Telnet protocol ）連線，當登入後，以〞anonymous ”當作登錄帳號及自己的電子郵件位址當作通行密碼，即可自該節點上下載檔案至自己的電腦。"
+        }
+      ],
+      "pinyin": "dǎng àn chuán shū xié dìng"
+    }
+  ],
+  "title": "檔案傳輸協定"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧˊ",
+      "definitions": [
+        {
+          "def": "肵俎：古時祭祀時盛舌心的俎版。",
+          "quote": [
+            "《儀禮．特牲饋食禮》：「佐食升肵俎，鼏之，設于阼階西。」",
+            "漢．鄭玄．注：「肵，謂心舌之俎也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qí"
+    },
+    {
+      "bopomofo": "（又音）ㄐㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）jìng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "肉",
+  "stroke_count": 8,
+  "title": "肵"
+}

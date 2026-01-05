@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩˋ",
+      "definitions": [
+        {
+          "def": "貒獸所生的幼獸為貗。",
+          "quote": [
+            "《爾雅．釋獸》：「貒子貗。」",
+            "晉．郭璞．注：「貒，豚也。一名獾。」",
+            "邢昺疏引《字林》云：「貒獸似豕而肥，其子名貗。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jù"
+    },
+    {
+      "bopomofo": "（又音）ㄌㄩˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）lǘ"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "豸",
+  "stroke_count": 18,
+  "title": "貗"
+}

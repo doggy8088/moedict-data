@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄠˇ",
+      "definitions": [
+        {
+          "def": "白色的絲織品。",
+          "quote": [
+            "漢．鼂錯〈論貴粟疏〉：「乘堅策肥，屐絲曳縞。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "白色的。",
+          "example": [
+            "如：「縞素」。"
+          ],
+          "quote": [
+            "《詩經．鄭風．出其東門》：「縞衣綦巾，聊樂我員。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "gǎo"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "糸",
+  "stroke_count": 16,
+  "title": "縞"
+}

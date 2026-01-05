@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄢ",
+      "definitions": [
+        {
+          "def": "愛財，不擇手段的求取財物。",
+          "example": [
+            "如：「貪贓枉法」、「貪貨棄命」、「貪汙」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "對各種事物不知滿足的追求。",
+          "example": [
+            "如：「貪玩」、「貪於飲食」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "片面的追求。",
+          "example": [
+            "如：「貪圖」、「貪便宜」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "占取不正當利益的。",
+          "example": [
+            "如：「貪官汙吏」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "tān"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "貝",
+  "stroke_count": 11,
+  "title": "貪"
+}

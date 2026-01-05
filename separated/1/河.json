@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄜˊ",
+      "definitions": [
+        {
+          "def": "水道的通稱。",
+          "example": [
+            "如：「河流」、「運河」。"
+          ],
+          "quote": [
+            "唐．杜甫〈春望〉詩：「國破山河在，城春草木深。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "黃河的簡稱。",
+          "example": [
+            "如：「河套」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "成河川狀的群體。",
+          "example": [
+            "如：「星河」、「銀河」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如南北朝時有河禎。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "hé"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "水",
+  "stroke_count": 8,
+  "title": "河"
+}

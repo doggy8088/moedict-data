@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄚˊ",
+      "definitions": [
+        {
+          "def": "參見「痲瘋」條。",
+          "type": "名"
+        },
+        {
+          "def": "因出天花所留下瘢痕的。",
+          "example": [
+            "如：「痲子」。"
+          ],
+          "link": [
+            "通「麻」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "知覺喪失或變得遲鈍。",
+          "example": [
+            "如：「痲木」、「痲醉」。"
+          ],
+          "link": [
+            "通「麻」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "má"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "疒",
+  "stroke_count": 13,
+  "title": "痲"
+}

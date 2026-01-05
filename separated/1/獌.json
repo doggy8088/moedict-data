@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄢˋ",
+      "definitions": [
+        {
+          "def": "古代的一種猛獸。",
+          "quote": [
+            "《爾雅．釋獸》：「貙獌似貍。」",
+            "唐．柳宗元〈酬韶州裴曹長使君寄道州呂八大使因以見示二十韻〉：「泥沙潛虺蜮，榛莽鬥豺獌。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "màn"
+    },
+    {
+      "bopomofo": "（又音）ㄨㄢˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）wàn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "犬",
+  "stroke_count": 14,
+  "title": "獌"
+}

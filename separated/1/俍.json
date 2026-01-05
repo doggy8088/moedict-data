@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "良工。",
+          "quote": [
+            "《集韻．平聲．陽韻》：「俍，良工也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "好、善。",
+          "quote": [
+            "《莊子．庚桑楚》：「夫工乎天而俍乎人者，唯全人能之。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "liáng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "人",
+  "stroke_count": 9,
+  "title": "俍"
+}

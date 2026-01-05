@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "思念、掛念。",
+          "example": [
+            "如：「惦記」。"
+          ],
+          "quote": [
+            "《紅樓夢．第一一回》：「你別在這裡只管這們著，倒招的媳婦也心裡不好。太太那裡又惦著你。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "diàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "心",
+  "stroke_count": 11,
+  "title": "惦"
+}

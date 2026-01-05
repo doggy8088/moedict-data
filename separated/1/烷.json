@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄢˊ",
+      "definitions": [
+        {
+          "def": "火。",
+          "quote": [
+            "《集韻．平聲．桓韻》：「烷，火也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "有機化學中，代表飽和的碳化氫，表示其分子結構中碳原子化合價完足的意思。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "wán"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "火",
+  "stroke_count": 11,
+  "title": "烷"
+}

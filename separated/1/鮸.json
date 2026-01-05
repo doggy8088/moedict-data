@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "動物名。魚綱石首魚科。體延長，灰褐色。頭尖長，口大，牙尖銳。尾矛狀。為中、下層近海魚類，以小魚、蝦類為食。主要供鮮食。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "miǎn"
+    },
+    {
+      "bopomofo": "（又音）ㄨㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）wǎn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "魚",
+  "stroke_count": 18,
+  "title": "鮸"
+}

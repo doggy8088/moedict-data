@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "船、飛機的兩側邊緣。",
+          "example": [
+            "如：「左舷」、「右舷」。"
+          ],
+          "quote": [
+            "唐．杜甫〈破船〉詩：「船舷不重扣，埋沒已經秋。」",
+            "宋．蘇軾〈赤壁賦〉：「於是飲酒樂甚，扣舷而歌之。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xián"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "舟",
+  "stroke_count": 11,
+  "title": "舷"
+}

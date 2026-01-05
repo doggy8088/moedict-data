@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "隱而不相見。",
+          "quote": [
+            "《說文解字．見部》：「覕，蔽不相見也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "miè"
+    },
+    {
+      "bopomofo": "ㄆㄧㄝ",
+      "definitions": [
+        {
+          "def": "迅速的看一眼。",
+          "link": [
+            "通「瞥」。"
+          ],
+          "quote": [
+            "《莊子．徐无鬼》：「是以一人之斷制利天下，譬之猶一覕也  。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "piē"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "見",
+  "stroke_count": 12,
+  "title": "覕"
+}

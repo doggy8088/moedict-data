@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄞ",
+      "definitions": [
+        {
+          "def": "灰塵、塵土。",
+          "example": [
+            "如：「塵埃」。"
+          ],
+          "quote": [
+            "《文選．潘安．藉田賦》：「微風生於輕幰，纖埃起於朱輪。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。物理學上計算微小長度的單位。為英語angstrom的音譯。一埃等於一公尺的百億分之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "āi"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "土",
+  "stroke_count": 10,
+  "title": "埃"
+}

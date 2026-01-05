@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄞˋ",
+      "definitions": [
+        {
+          "def": "病名。即麻瘋。參見「麻瘋」條。",
+          "type": "名"
+        },
+        {
+          "def": "生癬或疥瘡而使毛髮脫落的狀況。",
+          "example": [
+            "如：「他因常年頭上長癬，頭髮有一撮沒一撮的，所以村子裡都叫他『王癩子』。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "不好。",
+          "example": [
+            "如：「東西有好有癩。」"
+          ],
+          "link": [
+            "通「賴」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "lài"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "疒",
+  "stroke_count": 21,
+  "title": "癩"
+}

@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄚˇ",
+      "definitions": [
+        {
+          "def": "中醫上指一種腹中結有硬塊的病症。",
+          "example": [
+            "如：「癥瘕積聚」、「瘕聚」、「血瘕」、「石瘕」、「伏瘕」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiǎ"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "疒",
+  "stroke_count": 14,
+  "title": "瘕"
+}

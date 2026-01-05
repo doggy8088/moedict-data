@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "勞役。",
+          "example": [
+            "如：「徭役」。"
+          ],
+          "quote": [
+            "唐．杜荀鶴〈山中寡婦〉詩：「任是深山更深處，也應無計避征徭。」",
+            "《元史．卷一二四．塔本傳》：「興學養士，輕刑薄徭，雖同僚不敢私役一民。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yáo"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "彳",
+  "stroke_count": 13,
+  "title": "徭"
+}

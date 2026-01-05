@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄢˇ",
+      "definitions": [
+        {
+          "def": "毀滅、削平、刪除。",
+          "example": [
+            "如：「剗平」、「剗除」。"
+          ],
+          "quote": [
+            "《文選．揚雄．劇秦美新》：「剗滅古文，刮語燒書。」",
+            "《後漢書．卷四四．胡廣傳》：「今以一臣之言，剗戾舊章，便利未明，眾心不猒。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chǎn"
+    },
+    {
+      "bopomofo": "ㄔㄢˋ",
+      "definitions": [
+        {
+          "def": "參見「一剗」條。"
+        }
+      ],
+      "pinyin": "chàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "刀",
+  "stroke_count": 10,
+  "title": "剗"
+}

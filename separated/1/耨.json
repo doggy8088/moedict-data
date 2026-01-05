@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄡˋ",
+      "definitions": [
+        {
+          "def": "除草的農具。",
+          "quote": [
+            "《漢書．卷九九．王莽傳》：「予之南巡，必躬載耨，每縣則媷，以勸南偽。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "除草。",
+          "example": [
+            "如：「深耕易耨」。"
+          ],
+          "quote": [
+            "《孟子．梁惠王上》：「彼奪其民時，使不得耕耨，以養其父母。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "nòu"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "耒",
+  "stroke_count": 16,
+  "title": "耨"
+}

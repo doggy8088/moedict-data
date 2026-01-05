@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "古代傳說中的大怪魚。背腹有刺，其大可吞舟。",
+          "quote": [
+            "《楚辭．屈原．天問》：「鯪魚何所？」",
+            "宋．洪興祖．補注：「鯪，音陵。《山海經》：『西海中近列姑射山有陵魚，人面人手，魚身，見則風濤起。』」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "líng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "魚",
+  "stroke_count": 19,
+  "title": "鯪"
+}

@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓ",
+      "definitions": [
+        {
+          "def": "手、腳掌因磨擦所產生的厚皮。",
+          "example": [
+            "如：「胼胝」。"
+          ],
+          "quote": [
+            "《文選．任昉．百辟勸進今上牋》：「雖累繭救宋，重胝存楚，居今觀古，曾何足云。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhī"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "肉",
+  "stroke_count": 9,
+  "title": "胝"
+}

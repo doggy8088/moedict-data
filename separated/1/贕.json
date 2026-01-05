@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨˊ",
+      "definitions": [
+        {
+          "def": "鳥獸未出生時，在胎中死去。",
+          "quote": [
+            "《玉篇．卵部》：「卵內敗也。」",
+            "《淮南子．原道》：「獸胎不贕，鳥卵不毈。」",
+            "漢．高誘．注：「胎不成獸曰贕。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dú"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "貝",
+  "stroke_count": 22,
+  "title": "贕"
+}

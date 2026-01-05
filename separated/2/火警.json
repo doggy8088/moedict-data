@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄛˇ　ㄐㄧㄥˇ",
+      "definitions": [
+        {
+          "def": "發生火災的警訊。",
+          "example": [
+            "如：「每棟大樓應有火警裝置。」"
+          ]
+        },
+        {
+          "def": "火災。",
+          "example": [
+            "如：「火警現場，濃煙彌漫。」"
+          ],
+          "synonyms": "火災,失火"
+        }
+      ],
+      "pinyin": "huǒ jǐng"
+    }
+  ],
+  "title": "火警"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "刻。",
+          "quote": [
+            "《荀子．勸學》：「鍥而不舍，金石可鏤。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "砍斷。",
+          "quote": [
+            "《戰國策．宋策》：「鍥朝涉之脛而國人大駭。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiè"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "金",
+  "stroke_count": 17,
+  "title": "鍥"
+}

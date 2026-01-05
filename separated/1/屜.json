@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧˋ",
+      "definitions": [
+        {
+          "def": "桌櫃中可以隨意抽動、存放物品的隔層。",
+          "example": [
+            "如：「抽屜」。"
+          ],
+          "quote": [
+            "北周．庾信〈鏡賦〉：「暫設妝奩，還抽鏡屜。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "蒸籠的簡稱。如蒸籠的隔層稱為「籠屜」，蓋子稱為「屜帽」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "tì"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "尸",
+  "stroke_count": 11,
+  "title": "屜"
+}

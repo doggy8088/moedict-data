@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢ",
+      "definitions": [
+        {
+          "def": "向上或向前看。",
+          "quote": [
+            "《詩經．邶風．雄雉》：「瞻彼日月，悠悠我思。」",
+            "《楚辭．屈原．離騷》：「瞻前而顧後兮，相觀民之計極。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "仰望。",
+          "example": [
+            "如：「瞻仰」。"
+          ],
+          "quote": [
+            "《詩經．大雅．桑柔》：「維此惠君，民人所瞻。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhān"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "目",
+  "stroke_count": 18,
+  "title": "瞻"
+}

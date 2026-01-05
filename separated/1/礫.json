@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˋ",
+      "definitions": [
+        {
+          "def": "小石頭。",
+          "example": [
+            "如：「沙礫」、「瓦礫」。"
+          ],
+          "quote": [
+            "《說文解字．石部》：「礫，小石也。」",
+            "唐．柳宗元〈袁家渴記〉：「其旁多巖洞，其下多白礫。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lì"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "石",
+  "stroke_count": 20,
+  "title": "礫"
+}

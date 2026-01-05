@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄣ",
+      "definitions": [
+        {
+          "def": "嗓啞不能出聲。",
+          "example": [
+            "如：「瘖啞」。"
+          ],
+          "quote": [
+            "《玉篇．疒部》：「瘖，啞不能言。」",
+            "《淮南子．泰族》：「既瘖且聾，人道不通。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yīn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "疒",
+  "stroke_count": 14,
+  "title": "瘖"
+}

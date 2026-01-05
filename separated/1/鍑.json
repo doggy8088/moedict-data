@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˋ",
+      "definitions": [
+        {
+          "def": "古代一種炊具，似釜而大口。",
+          "quote": [
+            "《說文解字．金部》：「鍑，釜大口者。」",
+            "《漢書．卷九四．匈奴傳下》：「胡地秋冬莖寒，春夏甚風，多齎鬴鍑薪炭，重不可勝。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fù"
+    },
+    {
+      "bopomofo": "（又音）ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）fú"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "金",
+  "stroke_count": 17,
+  "title": "鍑"
+}

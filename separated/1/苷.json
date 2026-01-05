@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄢ",
+      "definitions": [
+        {
+          "def": "甘草。",
+          "quote": [
+            "《說文解字．艸部》：「苷，甘草也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「糖苷類」、「核苷」、「核苷酸」等條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gān"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "艸",
+  "stroke_count": 9,
+  "title": "苷"
+}

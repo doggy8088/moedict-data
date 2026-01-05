@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄢˋ",
+      "definitions": [
+        {
+          "def": "白色的內衣。",
+          "quote": [
+            "《詩經．鄘風．君子偕老》：「蒙彼縐絺，是紲袢也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "炎熱。",
+          "quote": [
+            "宋．范成大〈夔門即事〉詩：「峽行風物不堪論，袢暑驕陽雜瘴氛。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pàn"
+    },
+    {
+      "bopomofo": "（又音）ㄈㄢˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）fán"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "衣",
+  "stroke_count": 11,
+  "title": "袢"
+}

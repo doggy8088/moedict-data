@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄢˋ　ㄇㄢˋ",
+      "definitions": [
+        {
+          "antonyms": "嚴密,嚴整",
+          "def": "分布紛亂。",
+          "quote": [
+            "《文選．謝惠連．雪賦》：「其為狀也，散漫交錯。」"
+          ],
+          "synonyms": "分散,渙散"
+        }
+      ],
+      "pinyin": "sàn màn"
+    },
+    {
+      "bopomofo": "ㄙㄢˇ　ㄇㄢˋ",
+      "definitions": [
+        {
+          "def": "隨便、不受拘束。",
+          "quote": [
+            "唐．李白〈懷仙歌〉：「一鶴東飛過滄海，放心散漫知何在。」"
+          ]
+        }
+      ],
+      "pinyin": "sǎn màn"
+    }
+  ],
+  "title": "散漫"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧˋ",
+      "definitions": [
+        {
+          "def": "敬重兄長。",
+          "quote": [
+            "《孟子．滕文公下》：「入則孝，出則悌。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "友愛兄弟。",
+          "example": [
+            "如：「友悌」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tì"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "悌"
+}

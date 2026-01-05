@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄢˊ",
+      "definitions": [
+        {
+          "def": "羞愧。",
+          "example": [
+            "如：「大言不慚」。"
+          ],
+          "quote": [
+            "《書經．仲虺之誥》：「成湯放桀于南巢，惟有慚德。」",
+            "《聊齋志異．卷三．連瑣》：「與楊略話，見女慚懼可憐，乃出，分手去。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "cán"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "心",
+  "stroke_count": 14,
+  "title": "慚"
+}

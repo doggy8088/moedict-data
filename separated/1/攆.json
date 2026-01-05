@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "驅逐、趕走。",
+          "example": [
+            "如：「把這隻狗攆走。」"
+          ],
+          "quote": [
+            "《紅樓夢．第五八回》：「我們攆他，他不出去。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "追趕。",
+          "example": [
+            "如：「攆得上」、「攆不上」、「他攆上前，幫她提東西。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "niǎn"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "手",
+  "stroke_count": 18,
+  "title": "攆"
+}

@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄢ",
+      "definitions": [
+        {
+          "def": "可容一石的瓦器。",
+          "quote": [
+            "《史記．卷一二九．貨殖傳》：「漿千甔、屠牛羊彘千皮。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dān"
+    },
+    {
+      "bopomofo": "（又音）ㄉㄢˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）dàn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "瓦",
+  "stroke_count": 18,
+  "title": "甔"
+}

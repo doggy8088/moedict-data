@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧˇ",
+      "definitions": [
+        {
+          "def": "第二人稱，亦指對方。",
+          "example": [
+            "如：「你好嗎」、「你死我活」。"
+          ],
+          "quote": [
+            "《周書．卷五○．異域傳下．突厥傳》：「你能作幾年可汗？」",
+            "《老殘遊記．第一三回》：「你瞧！這孩子傻不傻？」"
+          ],
+          "type": "代"
+        }
+      ],
+      "pinyin": "nǐ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "人",
+  "stroke_count": 7,
+  "title": "你"
+}

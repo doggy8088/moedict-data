@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "參見「傀儡」條。"
+        }
+      ],
+      "pinyin": "kuǐ"
+    },
+    {
+      "bopomofo": "ㄍㄨㄟ",
+      "definitions": [
+        {
+          "def": "高大。",
+          "quote": [
+            "《說文解字．人部》：「傀，偉也。」",
+            "《聊齋志異．卷八．司文郎》：「有少年遊寺中，白服裙帽，望之傀然。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "怪異。",
+          "quote": [
+            "《廣韻．平聲．灰韻》：「傀，怪異。」",
+            "《文選．郭璞．江賦》：「珍怪之所化產，傀奇之所窟宅。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "guī"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "人",
+  "stroke_count": 12,
+  "title": "傀"
+}

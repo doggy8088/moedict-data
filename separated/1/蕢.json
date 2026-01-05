@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "用草繩或竹片編成的盛土器具。似今日的簸箕。",
+          "quote": [
+            "《說文解字．艸部》：「蕢，艸器也。」",
+            "《論語．憲問》：「有荷蕢而過孔氏之門者。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如春秋時魯國有蕢尚。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "kuì"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "艸",
+  "stroke_count": 16,
+  "title": "蕢"
+}

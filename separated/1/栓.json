@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨㄢ",
+      "definitions": [
+        {
+          "def": "木釘。",
+          "quote": [
+            "《玉篇．木部》：「栓，木丁也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "器物上可以開關的活門。",
+          "example": [
+            "如：「門栓」、「消防栓」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "瓶塞。",
+          "example": [
+            "如：「瓶栓」、「木栓」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shuān"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "木",
+  "stroke_count": 10,
+  "title": "栓"
+}

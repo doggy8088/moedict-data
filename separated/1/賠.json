@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄟˊ",
+      "definitions": [
+        {
+          "def": "補償損失。",
+          "quote": [
+            "《紅樓夢．第八一回》：「沒什麼說的，你好好兒的賠我們的魚罷！」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "虧損、損失。",
+          "example": [
+            "如：「賠本生意」、「賠錢」。"
+          ],
+          "quote": [
+            "《紅樓夢．第八回》：「何苦我白賠在裡面。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "道歉。",
+          "example": [
+            "如：「賠不是」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "péi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "貝",
+  "stroke_count": 15,
+  "title": "賠"
+}

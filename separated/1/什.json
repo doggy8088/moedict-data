@@ -1,0 +1,60 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕˊ",
+      "definitions": [
+        {
+          "def": "數目字。",
+          "example": [
+            "如：「什佰」、「什家」。"
+          ],
+          "link": [
+            "同「十」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "《詩經》中的雅、頌以十篇為一卷，故稱詩篇為「篇什」，簡稱為「什」。",
+          "example": [
+            "如：「佳什」、「篇什」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如後魏有什翼犍。",
+          "type": "名"
+        },
+        {
+          "def": "數多品雜。",
+          "quote": [
+            "《後漢書．卷二七．宣秉傳》：「即賜布帛帳帷什物。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "shí"
+    },
+    {
+      "bopomofo": "（又音）ㄕㄜˊ",
+      "definitions": [
+        {
+          "def": "(二)之又音。"
+        }
+      ],
+      "pinyin": "（又音）shé"
+    },
+    {
+      "bopomofo": "ㄕㄣˊ",
+      "definitions": [
+        {
+          "def": "參見「什麼」條。"
+        }
+      ],
+      "pinyin": "shén"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "人",
+  "stroke_count": 4,
+  "title": "什"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄣ",
+      "definitions": [
+        {
+          "def": "衣服前面有鈕扣開合的部分。如：「對衿」。也作「襟」。",
+          "type": "名"
+        },
+        {
+          "def": "衣領。",
+          "quote": [
+            "《詩經．鄭風．子衿》：「青青子衿，悠悠我心。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jīn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "衣",
+  "stroke_count": 10,
+  "title": "衿"
+}

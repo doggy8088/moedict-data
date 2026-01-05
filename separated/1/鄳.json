@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄥˊ",
+      "definitions": [
+        {
+          "def": "縣名。西漢置，治所約在今大陸地區河南省羅山縣西南。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "méng"
+    },
+    {
+      "bopomofo": "（又音）ㄇㄧㄥˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）mǐng"
+    },
+    {
+      "bopomofo": "（又音）ㄇㄥˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）měng"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "邑",
+  "stroke_count": 16,
+  "title": "鄳"
+}

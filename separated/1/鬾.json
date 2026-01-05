@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˋ",
+      "definitions": [
+        {
+          "def": "鬼服。",
+          "quote": [
+            "《說文解字．鬼部》：「鬾，鬼服也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "小孩子鬼。",
+          "quote": [
+            "《說文解字．鬼部》：「鬾，一曰小兒鬼。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jì"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "鬼",
+  "stroke_count": 14,
+  "title": "鬾"
+}

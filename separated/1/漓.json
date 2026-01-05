@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˊ",
+      "definitions": [
+        {
+          "def": "溼透的樣子。",
+          "example": [
+            "如：「汗水淋漓」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "淺薄、刻薄。",
+          "quote": [
+            "《北史．卷八六．循吏傳．序》：「後之為吏，與世沉浮，叔季澆漓，姦巧多緒。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lí"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "水",
+  "stroke_count": 14,
+  "title": "漓"
+}

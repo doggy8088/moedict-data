@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄢˇ",
+      "definitions": [
+        {
+          "def": "牛肚子上或肋骨附近柔軟的嫩肉。",
+          "example": [
+            "如：「牛腩」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "以調味品浸漬的肉。",
+          "quote": [
+            "《齊民要術．卷九．炙法》：「腩炙：羊、牛、獐、鹿肉皆得，方 寸臠切，蔥白研令碎，和鹽豉汁，僅令相淹，少時便炙。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "nǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "肉",
+  "stroke_count": 13,
+  "title": "腩"
+}

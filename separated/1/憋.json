@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄝ",
+      "definitions": [
+        {
+          "def": "壓抑、強忍著。",
+          "example": [
+            "如：「憋氣」、「憋尿」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "悶在心中。",
+          "example": [
+            "如：「心裡憋得慌。」、「有困難便說，不要憋在心裡。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "心中暗自盤算。多含有負面的意義。",
+          "example": [
+            "如：「我怎知他心中憋什麼鬼胎？」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "biē"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "心",
+  "stroke_count": 15,
+  "title": "憋"
+}

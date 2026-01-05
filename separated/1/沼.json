@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄠˇ",
+      "definitions": [
+        {
+          "def": "水池。",
+          "example": [
+            "如：「池沼」、「沼澤」。"
+          ],
+          "quote": [
+            "《左傳．隱公三年》：「澗溪沼沚之毛，蘋蘩薀藻之菜。」",
+            "唐．元結〈石魚湖上醉歌〉：「山為樽，水為沼，酒徒歷歷坐洲島。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhǎo"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "水",
+  "stroke_count": 8,
+  "title": "沼"
+}

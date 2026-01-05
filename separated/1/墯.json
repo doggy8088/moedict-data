@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "墜落、掉落。",
+          "quote": [
+            "《後漢書．卷二四．馬援傳》：「仰視飛鳶跕跕墯水中。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "懈怠、懶散。",
+          "quote": [
+            "《新唐書．卷一六九．韋貫之傳》：「有司弛墯不力，正可黜慢官，懲不恪，擇可任者繕完之。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "duò"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "土",
+  "stroke_count": 15,
+  "title": "墯"
+}

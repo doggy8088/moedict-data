@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄤˇ",
+      "definitions": [
+        {
+          "def": "明亮。",
+          "example": [
+            "如：「明朗」、「晴朗」。"
+          ],
+          "quote": [
+            "晉．王羲之〈三月三日蘭亭詩序〉：「天朗氣清，惠風和暢。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "響亮。",
+          "example": [
+            "如：「朗誦」、「朗讀」。"
+          ],
+          "quote": [
+            "《文選．孫綽．遊天台山賦》：「凝思幽巖，朗詠長川。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "lǎng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "月",
+  "stroke_count": 10,
+  "title": "朗"
+}

@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˋ",
+      "definitions": [
+        {
+          "def": "責罵。",
+          "quote": [
+            "《說文解字．网部》：「詈，罵也。」",
+            "《書經．無逸》：「或告之曰，小人怨汝詈汝。」",
+            "《楚辭．屈原．離騷》：「女嬃之嬋媛兮，申申其詈予。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lì"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "言",
+  "stroke_count": 12,
+  "title": "詈"
+}

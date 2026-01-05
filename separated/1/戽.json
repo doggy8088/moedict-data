@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨˋ",
+      "definitions": [
+        {
+          "def": "參見「戽斗」條。",
+          "type": "名"
+        },
+        {
+          "def": "汲水。",
+          "example": [
+            "如：「戽水灌溉」。"
+          ],
+          "quote": [
+            "唐．貫休〈宿深村〉詩：「黃昏見客合家喜，月下取魚戽塘水。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hù"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "戶",
+  "stroke_count": 8,
+  "title": "戽"
+}

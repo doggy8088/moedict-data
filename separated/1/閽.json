@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄣ",
+      "definitions": [
+        {
+          "def": "守門人。",
+          "quote": [
+            "《左傳．襄公二十九年》：「吳人伐楚，獲俘焉，以為閽。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "宮門。",
+          "quote": [
+            "唐．李商隱〈哭劉蕡〉詩：「上帝深宮閉九閽，巫咸不下問銜冤。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "hūn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "門",
+  "stroke_count": 16,
+  "title": "閽"
+}

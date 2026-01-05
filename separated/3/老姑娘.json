@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄠˇ　ㄍㄨ　˙ㄋㄧㄤ",
+      "definitions": [
+        {
+          "def": "年老未嫁的女子。",
+          "example": [
+            "如：「她遲遲未嫁，轉眼間已成為一個老姑娘。」"
+          ]
+        }
+      ],
+      "pinyin": "lǎo gū niang"
+    },
+    {
+      "bopomofo": "ㄌㄠˇ　˙ㄍㄨ　˙ㄋㄧㄤ",
+      "definitions": [
+        {
+          "def": "排行最末的女兒。"
+        }
+      ],
+      "pinyin": "lǎo gu niang"
+    }
+  ],
+  "title": "老姑娘"
+}

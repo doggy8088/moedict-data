@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄣˋ",
+      "definitions": [
+        {
+          "def": "織布帛的絲縷。",
+          "quote": [
+            "《漢書．卷六四上．嚴助傳》：「婦人不得紡績織紝。」",
+            "清．蔣士銓〈鳴機夜課圖記〉：「明年娶婦張氏，母女視之，訓以紡績織紝事，一如教兒時。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用線穿針孔。",
+          "quote": [
+            "《董西廂．卷六》：「行待紝針關，卻便紝針尖。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "rèn"
+    },
+    {
+      "bopomofo": "（又音）ㄖㄣˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）rén"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "糸",
+  "stroke_count": 10,
+  "title": "紝"
+}

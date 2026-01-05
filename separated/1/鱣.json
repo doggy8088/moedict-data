@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢ",
+      "definitions": [
+        {
+          "def": "一種無鱗的大魚。",
+          "quote": [
+            "《爾雅．釋魚》「鱣」句下晉．郭璞．注：「鱣，大魚。似鱘而短鼻，口在頷下，體有邪行甲，無鱗，肉黃，大者長二、三丈，今江東呼為黃魚。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhān"
+    },
+    {
+      "bopomofo": "ㄕㄢˋ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「鱔」。"
+          ]
+        }
+      ],
+      "pinyin": "shàn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "魚",
+  "stroke_count": 24,
+  "title": "鱣"
+}

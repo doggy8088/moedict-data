@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄤˇ",
+      "definitions": [
+        {
+          "def": "太陽剛出來。",
+          "quote": [
+            "明．張自烈《正字通．日部》：「昉，日初明也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "始。",
+          "quote": [
+            "《列子．黃帝》：「既出，果得珠焉。眾昉同疑。」",
+            "晉．張湛．注：「昉，始也。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "fǎng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "日",
+  "stroke_count": 8,
+  "title": "昉"
+}

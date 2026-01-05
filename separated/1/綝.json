@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄣ",
+      "definitions": [
+        {
+          "def": "止住。",
+          "quote": [
+            "《說文解字．糸部》：「綝，止也。」",
+            "清．朱駿聲《說文通訓定聲．臨部》：「按謂係而止之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chēn"
+    },
+    {
+      "bopomofo": "ㄌㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "參見「綝纚」條。"
+        }
+      ],
+      "pinyin": "lín"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "糸",
+  "stroke_count": 14,
+  "title": "綝"
+}

@@ -1,0 +1,49 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "遙遠。",
+          "quote": [
+            "《集韻．去聲．漾韻》：「倞，遠也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "明亮。",
+          "quote": [
+            "清．朱駿聲《說文通訓定聲．壯部》：「倞，明也。字亦作亮。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "索求。",
+          "quote": [
+            "《禮記．郊特牲》：「祊之為言倞也。」",
+            "漢．鄭玄．注：「倞，猶索也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "liàng"
+    },
+    {
+      "bopomofo": "ㄐㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "強勁。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷一下．釋詁》：「倞，強也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jìng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "倞"
+}

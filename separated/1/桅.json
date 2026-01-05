@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄟˊ",
+      "definitions": [
+        {
+          "def": "船上用來懸掛帆篷的竿子。",
+          "example": [
+            "如：「船桅」。"
+          ],
+          "quote": [
+            "《廣韻．平聲．灰韻》：「桅，小船上檣竿也。」",
+            "唐．韓愈〈憶昨行和張十一〉詩：「念昔從君渡湘水，大帆夜劃窮高桅。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "wéi"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "木",
+  "stroke_count": 10,
+  "title": "桅"
+}

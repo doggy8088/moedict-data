@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄞˋ",
+      "definitions": [
+        {
+          "def": "植物名。田間雜草，外形如水稻，常與水稻長在一起，而影響水稻的生長發育。",
+          "type": "名"
+        },
+        {
+          "def": "卑賤、微小。",
+          "example": [
+            "如：「稗說」、「稗官野史」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "bài"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "禾",
+  "stroke_count": 13,
+  "title": "稗"
+}

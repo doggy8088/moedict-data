@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧˊ",
+      "definitions": [
+        {
+          "def": "僧尼所穿的衣服，如袈裟之類。",
+          "quote": [
+            "《廣韻．平聲．支韻》：「衹，衹衼，尼法衣。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qí"
+    },
+    {
+      "bopomofo": "ㄓ",
+      "definitions": [
+        {
+          "def": "但、正好。",
+          "link": [
+            "同「祇」。"
+          ],
+          "quote": [
+            "《左傳．僖公十五年》：「晉未可滅，而殺其君，衹以成惡。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "zhī"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "衣",
+  "stroke_count": 10,
+  "title": "衹"
+}

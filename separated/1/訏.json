@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩ",
+      "definitions": [
+        {
+          "def": "詭詐。",
+          "quote": [
+            "《說文解字．言部》：「訏，詭訛也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "大。",
+          "quote": [
+            "《廣韻．平聲．虞韻》：「訏，大也。」",
+            "《詩經．鄭風．溱洧》：「洧之外，洵訏且樂。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "誇大的言論。",
+          "quote": [
+            "明．張自烈《正字通．言部》：「訏，大言也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xū"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "言",
+  "stroke_count": 10,
+  "title": "訏"
+}

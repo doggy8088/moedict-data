@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "山崛起的樣子。",
+          "quote": [
+            "《字彙．山部》：「嶡，山嶡起貌。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "guì"
+    },
+    {
+      "bopomofo": "ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "祭祀時用來陳列祭品的器具。有四足，且有橫距。",
+          "quote": [
+            "《集韻．入聲．月韻》：「嶡，俎名，足有橫。」",
+            "《禮記．明堂位》：「俎，有虞氏以梡，夏后氏以嶡，殷以椇，周以房俎。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jué"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "山",
+  "stroke_count": 15,
+  "title": "嶡"
+}

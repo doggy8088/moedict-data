@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "有窗牖的小船。",
+          "quote": [
+            "《楚辭．屈原．九章．涉江》：「乘舲船余上沅兮，齊吳榜以擊汰。」",
+            "漢．王逸．注：「舲船，船有窗牖者。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "líng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "舟",
+  "stroke_count": 11,
+  "title": "舲"
+}

@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧˇ",
+      "definitions": [
+        {
+          "def": "東西進入眼中，使眼睛一時睜不開。",
+          "quote": [
+            "《莊子．天運》：「老聃曰：『夫播穅眯目，則天地四方易位矣。』」",
+            "明．李時珍《本草綱目．卷三六．木部．桑》：「雜物眯眼，新桑根皮洗淨搥爛，入眼撥之自出。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mǐ"
+    },
+    {
+      "bopomofo": "ㄇㄧ",
+      "definitions": [
+        {
+          "def": "眼皮微合。",
+          "link": [
+            "同「瞇」。"
+          ],
+          "quote": [
+            "明．張自烈《正字通．目部》：「眯，俗作瞇。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mī"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "目",
+  "stroke_count": 11,
+  "title": "眯"
+}

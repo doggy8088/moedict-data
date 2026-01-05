@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄥˊ　ㄓㄨㄥˇ",
+      "definitions": [
+        {
+          "antonyms": "異種",
+          "def": "同一種族。",
+          "example": [
+            "如：「同文同種」。"
+          ]
+        },
+        {
+          "def": "同一品種。"
+        }
+      ],
+      "pinyin": "tóng zhǒng"
+    }
+  ],
+  "title": "同種"
+}

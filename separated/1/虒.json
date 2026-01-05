@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙ",
+      "definitions": [
+        {
+          "def": "傳說中的水中怪獸。",
+          "quote": [
+            "《廣韻．平聲．支韻》：「虒，似虎有角，能行水中。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "虒祁：古代宮室名稱。位於今大陸地區山西省曲沃縣西南，北臨汾水。",
+          "quote": [
+            "《左傳．昭公八年》：「於是晉侯方築虒祁之宮。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "sī"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "虍",
+  "stroke_count": 10,
+  "title": "虒"
+}

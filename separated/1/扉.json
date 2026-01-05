@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄟ",
+      "definitions": [
+        {
+          "def": "門扇。",
+          "quote": [
+            "《文選．古詩十九首．凜凜歲云暮》：「徙倚懷感傷，垂涕沾雙扉。」",
+            "唐．王維〈山居即事〉詩：「寂寞掩柴扉，蒼茫對落暉。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "比喻像門的東西。",
+          "example": [
+            "如：「心扉」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "置於最前面的。",
+          "example": [
+            "如：「扉頁」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fēi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "戶",
+  "stroke_count": 12,
+  "title": "扉"
+}

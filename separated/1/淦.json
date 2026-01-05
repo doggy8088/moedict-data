@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄢˋ",
+      "definitions": [
+        {
+          "def": "水滲入船中。",
+          "quote": [
+            "《說文解字．水部》：「淦，水入船中也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "河川名。發源於大陸地區江西省清江縣東南離嶺，北流經紫淦山入贛江。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有淦君鼎。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "水",
+  "stroke_count": 11,
+  "title": "淦"
+}

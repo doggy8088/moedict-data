@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨˇ",
+      "definitions": [
+        {
+          "def": "參見「鈷鉧」條。"
+        }
+      ],
+      "pinyin": "gǔ"
+    },
+    {
+      "bopomofo": "ㄍㄨ",
+      "definitions": [
+        {
+          "def": "（coblt，Co)化學元素。原子序27。過渡金屬元素之一。堅如鎳，色白而微紅，有延　展性。可用來製造特種鋼和超耐熱合金，也可做玻璃和瓷器的藍顏料。放射性鈷能代　替鐳治療惡性腫瘤。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gū"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "金",
+  "stroke_count": 13,
+  "title": "鈷"
+}

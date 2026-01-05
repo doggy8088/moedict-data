@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄛˋ　ㄕㄥˋ",
+      "definitions": [
+        {
+          "antonyms": "不足",
+          "def": "供過於求而有剩餘。",
+          "example": [
+            "如：「生產過剩」。"
+          ]
+        },
+        {
+          "def": "數量超過限度。",
+          "example": [
+            "如：「人口過剩」。"
+          ]
+        }
+      ],
+      "pinyin": "guò shèng"
+    }
+  ],
+  "title": "過剩"
+}

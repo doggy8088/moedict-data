@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄤˇ",
+      "definitions": [
+        {
+          "def": "或然、如果。",
+          "example": [
+            "如：「倘然」、「倘若」。"
+          ],
+          "quote": [
+            "《儒林外史．第三回》：「何不把范進的卷子再看一遍？倘有一線之明，也可憐他苦志。」"
+          ],
+          "type": "連"
+        }
+      ],
+      "pinyin": "tǎng"
+    },
+    {
+      "bopomofo": "ㄔㄤˊ",
+      "definitions": [
+        {
+          "def": "參見「倘佯」條。"
+        }
+      ],
+      "pinyin": "cháng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "倘"
+}

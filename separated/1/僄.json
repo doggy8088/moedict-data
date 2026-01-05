@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "輕捷。",
+          "example": [
+            "如：「僄狡」。"
+          ],
+          "quote": [
+            "《荀子．議兵》：「輕利僄遫，卒如飄風。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "輕薄。",
+          "quote": [
+            "《荀子．修身》：「怠慢僄棄，則炤之以禍災。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "piào"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄧㄠ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）piāo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "人",
+  "stroke_count": 13,
+  "title": "僄"
+}

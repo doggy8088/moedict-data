@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄢˇ",
+      "definitions": [
+        {
+          "def": "參見「冉冉」條。",
+          "type": "副"
+        },
+        {
+          "def": "龜甲的邊緣。",
+          "quote": [
+            "《漢書．卷二四．食貨志下》：「元龜岠冉長尺二寸。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如春秋時魯國有冉求。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "rǎn"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "冂",
+  "stroke_count": 5,
+  "title": "冉"
+}

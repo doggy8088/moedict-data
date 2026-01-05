@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄣˇ",
+      "definitions": [
+        {
+          "def": "察看、徵驗。",
+          "example": [
+            "如：「診病」、「診驗」。"
+          ],
+          "quote": [
+            "唐．司空圖〈與臺丞書〉：「鬻植之道，雖本於天時，亦且診於人情耳。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhěn"
+    },
+    {
+      "bopomofo": "（又音）ㄓㄣ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）zhēn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "言",
+  "stroke_count": 12,
+  "title": "診"
+}

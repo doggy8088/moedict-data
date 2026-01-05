@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "美好。",
+          "link": [
+            "通「姣」。"
+          ],
+          "quote": [
+            "《詩經．陳風．月出》：「佼人僚兮，舒窈糾兮。」",
+            "漢．王充《論衡．骨相》：「陳平貧而飲食不足，貌體佼好。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "姓。如漢代有佼疆。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiǎo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "佼"
+}

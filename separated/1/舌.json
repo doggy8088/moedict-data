@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄜˊ",
+      "definitions": [
+        {
+          "def": "動物口腔中專司辨別味道，幫助咀嚼與發音的味覺器官。",
+          "link": [
+            "也稱為「舌頭」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "物體像舌頭的部分。",
+          "example": [
+            "如：「火舌」、「帽舌」、「筆舌」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shé"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "舌",
+  "stroke_count": 6,
+  "title": "舌"
+}

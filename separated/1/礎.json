@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨˇ",
+      "definitions": [
+        {
+          "def": "墊在柱下的石頭。",
+          "example": [
+            "如：「礎石」。"
+          ],
+          "quote": [
+            "《淮南子．說林》：「山雲蒸，柱礎潤。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "事情的初步成就或根本。",
+          "example": [
+            "如：「基礎」、「立礎」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chǔ"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "石",
+  "stroke_count": 18,
+  "title": "礎"
+}

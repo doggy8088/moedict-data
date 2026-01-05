@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄤˇ",
+      "definitions": [
+        {
+          "def": "皮膚受到刺激而產生需要抓搔的感覺。",
+          "example": [
+            "如：「隔靴搔癢」。"
+          ],
+          "quote": [
+            "《禮記．內則》：「寒不敢襲，癢不敢搔。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yǎng"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "疒",
+  "stroke_count": 20,
+  "title": "癢"
+}

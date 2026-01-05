@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "光亮的樣子。",
+          "quote": [
+            "《說文解字．火部》：「煒，盛明貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "深紅。",
+          "quote": [
+            "《詩經．邶風．靜女》：「彤管有煒，說懌女美。」",
+            "漢．毛亨．傳：「煒，赤貌。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "wěi"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "火",
+  "stroke_count": 13,
+  "title": "煒"
+}

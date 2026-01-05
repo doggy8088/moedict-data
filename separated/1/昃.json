@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄜˋ",
+      "definitions": [
+        {
+          "def": "太陽向西傾斜。",
+          "quote": [
+            "《易經．豐卦．彖曰》：「日中則昃，月盈則食。」",
+            "《漢書．卷五六．董仲舒傳》：「周文王至於日昃不暇食，而宇內亦治。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zè"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "日",
+  "stroke_count": 8,
+  "title": "昃"
+}

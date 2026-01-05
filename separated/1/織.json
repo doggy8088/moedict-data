@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓ",
+      "definitions": [
+        {
+          "def": "用絲、麻、棉、毛等物編製物品。",
+          "example": [
+            "如：「編織」、「紡織」、「織布」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "結合、組成。",
+          "example": [
+            "如：「組織」、「愛恨交織」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhī"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "糸",
+  "stroke_count": 18,
+  "title": "織"
+}

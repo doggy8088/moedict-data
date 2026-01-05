@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄥ",
+      "definitions": [
+        {
+          "def": "鳥綱雀形目的通稱。體型較麻雀為小，羽色多為褐色或暗綠色，嘴短而尖，叫聲清脆。主食昆蟲，是農、林業的益鳥。我國種類甚多，分布亦廣。",
+          "type": "名"
+        },
+        {
+          "def": "鳥羽光華有文采的樣子。",
+          "quote": [
+            "《詩經．小雅．桑扈》：「交交桑扈，有鶯其羽。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yīng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "鳥",
+  "stroke_count": 21,
+  "title": "鶯"
+}

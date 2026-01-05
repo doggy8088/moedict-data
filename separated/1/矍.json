@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "驚視的樣子。",
+          "quote": [
+            "《文選．班固．東都賦》：「主人之辭未終，西都賓矍然失容。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "姓。如唐代有矍璋。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jué"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "目",
+  "stroke_count": 20,
+  "title": "矍"
+}

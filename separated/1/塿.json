@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄡˇ",
+      "definitions": [
+        {
+          "def": "塵土。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷九下．釋地》：「塿，土也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "小土丘。",
+          "quote": [
+            "漢．揚雄《方言．卷一三》：「冢，……自關而東謂之丘，小者謂之塿。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lǒu"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "土",
+  "stroke_count": 14,
+  "title": "塿"
+}

@@ -1,0 +1,17 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢˋ　ㄓˇ",
+      "definitions": [
+        {
+          "def": "網路中每部電腦所在的位置代稱。如IP Address。單獨電腦上網，必須透過IP Address才可以在不同的網路上傳送資料。",
+          "link": [
+            "也稱為「位址」。"
+          ]
+        }
+      ],
+      "pinyin": "zhàn zhǐ"
+    }
+  ],
+  "title": "站址"
+}

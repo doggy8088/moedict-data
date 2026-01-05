@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄚˋ",
+      "definitions": [
+        {
+          "def": "圍欄。",
+          "example": [
+            "如：「木柵」、「籬柵」。"
+          ],
+          "quote": [
+            "《後漢書．卷六五．段熲傳》：「乃遣千人於西縣結木為柵，廣二十步，長四十里，遮之。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhà"
+    },
+    {
+      "bopomofo": "（又音）ㄕㄢˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）shàn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "木",
+  "stroke_count": 9,
+  "title": "柵"
+}

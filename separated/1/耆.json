@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧˊ",
+      "definitions": [
+        {
+          "def": "本指六十歲的老人，後為對老人的通稱。",
+          "quote": [
+            "《孟子．梁惠王下》：「乃屬其耆老而告之。」",
+            "《禮記．曲禮上》：「六十曰耆。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "強橫。",
+          "quote": [
+            "《左傳．昭公二十三年》：「不僭不貪，不懦不耆；完其守備，以帶不虞。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "qí"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "老",
+  "stroke_count": 10,
+  "title": "耆"
+}

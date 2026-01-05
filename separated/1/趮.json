@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄠˋ",
+      "definitions": [
+        {
+          "def": "急切、急躁。",
+          "quote": [
+            "《管子．心術上》：「搖者不定，趮者不靜。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "快速掉落。",
+          "quote": [
+            "《周禮．冬官考工記．矢人》：「羽豐則遲，羽殺則趮。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zào"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "走",
+  "stroke_count": 20,
+  "title": "趮"
+}

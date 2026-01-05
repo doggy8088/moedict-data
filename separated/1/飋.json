@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄜˋ",
+      "definitions": [
+        {
+          "def": "秋風。",
+          "quote": [
+            "《玉篇．風部》：「飋，秋風。」",
+            "《文選．王延壽．魯靈光殿賦》：「鴻爌炾以爣閬，飋蕭條而清冷。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "形容風吹的聲音。",
+          "quote": [
+            "唐．王周〈西山晚景〉詩：「半引彎彎月，微生飋飋風。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "sè"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "風",
+  "stroke_count": 22,
+  "title": "飋"
+}

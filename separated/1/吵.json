@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄠˇ",
+      "definitions": [
+        {
+          "def": "攪擾。",
+          "example": [
+            "如：「別把孩子吵醒了！」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "爭鬧。",
+          "example": [
+            "如：「爭吵」、「吵架」。"
+          ],
+          "quote": [
+            "《儒林外史．第一八回》：「三公子只給他兩個錢一個，就同那饅頭店裡吵起來。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "聲音雜亂。",
+          "example": [
+            "如：「聲音吵雜」、「車聲太吵」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "chǎo"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "口",
+  "stroke_count": 7,
+  "title": "吵"
+}

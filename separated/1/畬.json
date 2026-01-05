@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˊ",
+      "definitions": [
+        {
+          "def": "開墾過二年的田地。",
+          "quote": [
+            "《說文解字．田部》：「畬，二歲治田也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yú"
+    },
+    {
+      "bopomofo": "ㄕㄜ",
+      "definitions": [
+        {
+          "def": "用火燎原而後種植的耕作方式。",
+          "quote": [
+            "晉．陶淵明〈和劉柴桑詩〉：「茅茨已就治，新疇復應畬。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "待火耕的荒田。",
+          "quote": [
+            "唐．劉禹錫〈竹枝詞〉九首之九：「銀釧金釵來負水，長刀短笠去燒畬。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有畬恭。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shē"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "田",
+  "stroke_count": 12,
+  "title": "畬"
+}

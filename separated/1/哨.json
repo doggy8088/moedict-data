@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄠˋ",
+      "definitions": [
+        {
+          "def": "駐兵擔任巡邏警戒的人或崗位。",
+          "example": [
+            "如：「放哨」、「崗哨」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用來示警的吹器。",
+          "example": [
+            "如：「哨子」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "將手指放在嘴裡，或將嘴脣撮成圓形，用力向外吹氣所發出的尖銳聲音。",
+          "example": [
+            "如：「他 的口哨吹得挺好。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shào"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "口",
+  "stroke_count": 10,
+  "title": "哨"
+}

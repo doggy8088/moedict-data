@@ -1,0 +1,59 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨˊ",
+      "definitions": [
+        {
+          "def": "高出的、突出的。「凹」的相反。",
+          "example": [
+            "如：「凸眼」、「凸透鏡」。"
+          ],
+          "quote": [
+            "唐．陸龜蒙〈奉酬襲美先輩吳中苦雨一百韻〉：「先夸屋舍好，又恃頭角凸。」",
+            "《浮生六記．卷二．閒情記趣》：「以土礫凸者為邱，凹者為壑。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "tú"
+    },
+    {
+      "bopomofo": "（又音）ㄊㄨ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）tū"
+    },
+    {
+      "bopomofo": "（又音）ㄉㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）dié"
+    },
+    {
+      "bopomofo": "ㄍㄨˇ",
+      "definitions": [
+        {
+          "def": "突出、鼓起。",
+          "example": [
+            "如：「凸著肚子」。"
+          ],
+          "link": [
+            "通「鼓」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gǔ"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "凵",
+  "stroke_count": 5,
+  "title": "凸"
+}

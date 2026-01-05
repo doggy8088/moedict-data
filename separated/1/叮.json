@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄥ",
+      "definitions": [
+        {
+          "def": "蚊、蟻或蜜蜂等昆蟲螫咬人畜。",
+          "example": [
+            "如：「被蚊子叮了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "再三吩咐。",
+          "example": [
+            "如：「叮嚀」、「叮囑」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「叮噹」、「叮叮噹噹」、「叮叮咚咚」等條。",
+          "type": "狀"
+        }
+      ],
+      "pinyin": "dīng"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "口",
+  "stroke_count": 5,
+  "title": "叮"
+}

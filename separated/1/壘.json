@@ -1,0 +1,54 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄟˇ",
+      "definitions": [
+        {
+          "def": "軍營中防守的掩蔽體或城堡。",
+          "example": [
+            "如：「壁壘」、「堡壘」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "棒、壘球比賽中，提示選手跑步得分的標示物。",
+          "example": [
+            "如：「一、二壘有人。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如晉代有壘錫。",
+          "type": "名"
+        },
+        {
+          "def": "用土、石或磚等堆砌起來。",
+          "example": [
+            "如：「壘牆」。"
+          ],
+          "link": [
+            "通「累」。"
+          ],
+          "quote": [
+            "唐．姚合〈武功縣中作〉詩三○首之二八：「壘階溪石淨，燒竹灶煙輕。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lěi"
+    },
+    {
+      "bopomofo": "ㄌㄩˋ",
+      "definitions": [
+        {
+          "def": "參見「鬱壘」條。"
+        }
+      ],
+      "pinyin": "lǜ"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "土",
+  "stroke_count": 18,
+  "title": "壘"
+}

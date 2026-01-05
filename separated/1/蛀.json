@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨˋ",
+      "definitions": [
+        {
+          "def": "一種咬食木材、書籍、稻米等的蟲。",
+          "quote": [
+            "《廣韻．去聲．遇韻》：「蛀，蛀蟲。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "東西被咬壞或腐蝕。",
+          "example": [
+            "如：「木板被蟲蛀了一個大洞。」、「小弟弟的牙齒蛀了好幾顆。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "被腐蝕的。",
+          "example": [
+            "如：「滿口蛀牙」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhù"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "虫",
+  "stroke_count": 11,
+  "title": "蛀"
+}

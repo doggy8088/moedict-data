@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄠ",
+      "definitions": [
+        {
+          "def": "形容毛髮垂披。",
+          "quote": [
+            "《文選．潘岳．秋興賦》：「斑鬢髟以承弁兮，素髮颯以垂領。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "biāo"
+    },
+    {
+      "bopomofo": "ㄕㄢ",
+      "definitions": [
+        {
+          "def": "屋簷的角端。",
+          "quote": [
+            "《廣韻．平聲．銜韻》：「髟，屋翼也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shān"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "髟",
+  "stroke_count": 10,
+  "title": "髟"
+}

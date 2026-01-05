@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "牙齦、牙根肉。",
+          "link": [
+            "同「齦」。"
+          ],
+          "quote": [
+            "《玉篇．齒部》：「齗，齒根肉也。」",
+            "三國魏．劉楨〈魯都賦〉：「頒首莘尾，豐顱重齗。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「齗齗」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "yín"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "齒",
+  "stroke_count": 19,
+  "title": "齗"
+}

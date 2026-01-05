@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄠˊ",
+      "definitions": [
+        {
+          "def": "加水攪動，以淨除顆粒狀東西中的髒物或雜質。",
+          "example": [
+            "如：「淘米」、「淘金」、「浪淘沙」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "舀出髒物，藉以挖深或疏通。",
+          "example": [
+            "如：「淘井」、「淘水溝」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "損耗。",
+          "example": [
+            "如：「淘神」、「把身子淘空了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "頑皮。",
+          "example": [
+            "如：「淘氣」、「這孩子淘得很！」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "táo"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "水",
+  "stroke_count": 11,
+  "title": "淘"
+}

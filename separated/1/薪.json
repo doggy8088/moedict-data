@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄣ",
+      "definitions": [
+        {
+          "def": "柴草、柴火。",
+          "example": [
+            "如：「杯水車薪」、「臥薪嘗膽」、「釜底抽薪。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "工作的酬金。",
+          "example": [
+            "如：「月薪」、「年薪」、「底薪」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xīn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "艸",
+  "stroke_count": 17,
+  "title": "薪"
+}

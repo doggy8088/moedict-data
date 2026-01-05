@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄞˋ",
+      "definitions": [
+        {
+          "def": "物體曝露在陽光下，吸收光和熱，使其乾燥。",
+          "example": [
+            "如：「晒衣服」、「晒書」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "將浸過藥水的底片取出，使其乾燥。",
+          "example": [
+            "如：「晒底片」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shài"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "日",
+  "stroke_count": 10,
+  "title": "晒"
+}

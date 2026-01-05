@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩˊ",
+      "definitions": [
+        {
+          "def": "捧、握。",
+          "example": [
+            "如：「手匊而飲」。"
+          ],
+          "link": [
+            "同「掬」。"
+          ],
+          "quote": [
+            "《詩經．小雅．采綠》：「終朝采綠，不盈一匊。 」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jú"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "勹",
+  "stroke_count": 8,
+  "title": "匊"
+}

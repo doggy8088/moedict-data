@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄚ",
+      "definitions": [
+        {
+          "def": "身體向下倒伏。",
+          "example": [
+            "如：「趴在地上。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "身體向前彎曲靠在物體上。",
+          "example": [
+            "如：「午休時間，大夥都趴在桌上小憩片刻。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pā"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "足",
+  "stroke_count": 9,
+  "title": "趴"
+}

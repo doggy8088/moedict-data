@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "泛指交通工具上控制方向的設備。",
+          "example": [
+            "如：「升降舵」、「方向舵」。"
+          ],
+          "quote": [
+            "《老殘遊記．第一回》：「樓下四人專管轉舵的事。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "比喻奮鬥的方針或憑藉。",
+          "example": [
+            "如：「把握住你人生之舵。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "duò"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "舟",
+  "stroke_count": 11,
+  "title": "舵"
+}

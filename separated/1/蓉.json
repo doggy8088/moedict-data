@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "參見「芙蓉」條。",
+          "type": "名"
+        },
+        {
+          "def": "蓉城的簡稱。今大陸地區四川省城的別名。參見「蓉城」條。",
+          "type": "名"
+        },
+        {
+          "def": "瓜果、豆類磨粉後製成的糕餅餡。",
+          "example": [
+            "如：「豆沙蓮蓉」、「椰蓉」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "róng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "艸",
+  "stroke_count": 14,
+  "title": "蓉"
+}

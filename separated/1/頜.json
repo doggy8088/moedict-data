@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄜˊ",
+      "definitions": [
+        {
+          "def": "構成口腔上下部位的骨骼、肌肉組織稱為「頜」，分為上頜、下頜。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gé"
+    },
+    {
+      "bopomofo": "（又音）ㄏㄢˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）hàn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "頁",
+  "stroke_count": 15,
+  "title": "頜"
+}

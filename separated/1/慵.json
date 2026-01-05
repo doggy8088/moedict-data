@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄥ",
+      "definitions": [
+        {
+          "def": "懶。",
+          "quote": [
+            "唐．白居易〈贈友〉詩五首之二：「畬田既慵斫，稻田亦懶耘。」",
+            "元．武漢臣《生金閣．第一折》：「每日慵將書去習，逐朝常把藥的那來扶。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "yōng"
+    },
+    {
+      "bopomofo": "（又音）ㄩㄥˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yúng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "心",
+  "stroke_count": 14,
+  "title": "慵"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄚ",
+      "definitions": [
+        {
+          "def": "細碎的石粒。",
+          "example": [
+            "如：「飛砂走石」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "細碎呈顆粒狀的物質。",
+          "example": [
+            "如：「礦砂」、「鐵砂」。"
+          ],
+          "link": [
+            "同「沙」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「朱砂」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shā"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "石",
+  "stroke_count": 9,
+  "title": "砂"
+}

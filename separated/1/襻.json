@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄢˋ",
+      "definitions": [
+        {
+          "def": "衣服上用布做成的鈕扣圈套。",
+          "link": [
+            "也稱為「紐襻兒」、「扣襻」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "與鈕襻形狀、作用相似的東西。如用人力拉車，套在肩上的布帶或皮帶。",
+          "link": [
+            "也稱為「襻帶」、「襻兒」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "縫、縫綴。",
+          "example": [
+            "如：「這被套裂了，麻煩襻上幾針。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pàn"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "衣",
+  "stroke_count": 25,
+  "title": "襻"
+}

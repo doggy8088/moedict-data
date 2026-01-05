@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "樹枝末端。",
+          "example": [
+            "如：「木杪」、「樹杪」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "末端、末尾。",
+          "example": [
+            "如：「歲杪」、「月杪」。"
+          ],
+          "quote": [
+            "南朝梁．吳均〈征客〉詩：「鞚中懸明月，劍杪照蓮花。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "細微。",
+          "link": [
+            "通「渺」。"
+          ],
+          "quote": [
+            "《後漢書．卷二八下．馮衍傳》：「闊略杪小之禮，蕩佚人閒之事。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "miǎo"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "木",
+  "stroke_count": 8,
+  "title": "杪"
+}

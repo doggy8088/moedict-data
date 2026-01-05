@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄚˋ",
+      "definitions": [
+        {
+          "def": "漢代刑罰之一。",
+          "quote": [
+            "《漢書．卷四八．賈誼傳》：「今自王侯三公之貴，……而令與眾庶同　黥、劓、髡、刖、笞、傌、棄市之法。」",
+            "三國魏．蘇林．注：「傌，音罵。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mà"
+    },
+    {
+      "bopomofo": "ㄇㄚˇ",
+      "definitions": [
+        {
+          "def": "象棋遊戲中，紅色棋子「馬」作「傌」，以示區別於黑子的「馬」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "mǎ"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "人",
+  "stroke_count": 12,
+  "title": "傌"
+}

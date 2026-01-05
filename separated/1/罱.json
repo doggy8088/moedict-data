@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄢˇ",
+      "definitions": [
+        {
+          "def": "一種捕魚的網狀器具。",
+          "quote": [
+            "《玉篇．网部》：「罱，夾魚具。」",
+            "《集韻．上聲．感韻》：「罱，取魚具。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "撈取。",
+          "example": [
+            "如：「農夫罱河泥來肥田。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "网",
+  "stroke_count": 14,
+  "title": "罱"
+}

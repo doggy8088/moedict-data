@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄢˊ",
+      "definitions": [
+        {
+          "def": "從呼吸道、口腔或喉嚨表面排出的黏液。含有唾液、膿、微生物、血液或吸入的微粒等。平常分泌量少，肺部或氣管生病時，量則增加。",
+          "example": [
+            "如：「吐痰」、「濃痰」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tán"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "疒",
+  "stroke_count": 13,
+  "title": "痰"
+}

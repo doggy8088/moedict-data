@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄡˋ",
+      "definitions": [
+        {
+          "def": "扶助、保護。",
+          "example": [
+            "如：「保佑」、「神佑」。"
+          ],
+          "quote": [
+            "《漢書．卷三九．蕭何傳》：「高祖為亭長，常佑之。」",
+            "唐．白居易〈除裴垍中書侍郎同平章事制〉：「咸克佑我烈祖，格于皇天。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yòu"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "人",
+  "stroke_count": 7,
+  "title": "佑"
+}

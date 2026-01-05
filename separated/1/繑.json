@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄠ",
+      "definitions": [
+        {
+          "def": "褲紐，褲子上的帶子。",
+          "quote": [
+            "《說文解字．糸部》：「繑，褲紐也。」",
+            "《管子．輕重戊》：「絏繑而踵相隨。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "一種縫紉方法。將布邊向內捲起密縫，使針腳不外現，看起來很整齊。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiāo"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "糸",
+  "stroke_count": 18,
+  "title": "繑"
+}

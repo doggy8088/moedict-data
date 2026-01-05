@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "細布。",
+          "quote": [
+            "《玉篇．糸部》：「絨，細布也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "表面有柔細短毛的絲織品。",
+          "example": [
+            "如：「絲絨」、「呢絨」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "刺繡用的絲線。",
+          "quote": [
+            "明．楊基〈美人刺繡〉詩：「閒情正在停針處，笑嚼殘絨唾碧窗。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "róng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "糸",
+  "stroke_count": 12,
+  "title": "絨"
+}

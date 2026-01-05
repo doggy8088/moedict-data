@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩˋ",
+      "definitions": [
+        {
+          "def": "鳥獸驚恐飛散的樣子。",
+          "quote": [
+            "《集韻．入聲．質韻》：「矞，驚遽貌，或作獝。」",
+            "《禮記．禮運 》：「鳳以為畜，故鳥不獝。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "狂放。",
+          "example": [
+            "如：「狂獝」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xù"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "犬",
+  "stroke_count": 15,
+  "title": "獝"
+}

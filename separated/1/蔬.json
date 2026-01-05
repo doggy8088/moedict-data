@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨ",
+      "definitions": [
+        {
+          "def": "食用草本植物的通稱。",
+          "quote": [
+            "《爾雅．釋天》：「蔬不熟為饉。」",
+            "晉．郭璞．注：「凡草菜可食者通名為蔬。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "粗劣的。",
+          "example": [
+            "如：「蔬飧」、「蔬膳」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "shū"
+    },
+    {
+      "bopomofo": "（又音）ㄙㄨ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）sū"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "艸",
+  "stroke_count": 15,
+  "title": "蔬"
+}

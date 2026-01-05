@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄚˊ",
+      "definitions": [
+        {
+          "def": "古代在太廟中合祭遠近祖先的祭祀，每三年舉行一次。",
+          "quote": [
+            "《說文解字．示部》：「祫，大合祭先祖親疏遠近也。《周禮》曰：『三歲一祫。』」",
+            "《公羊傳．文公二年》：「大祫者何？合祭也。 」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiá"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "示",
+  "stroke_count": 11,
+  "title": "祫"
+}

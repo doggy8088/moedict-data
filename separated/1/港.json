@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄤˇ",
+      "definitions": [
+        {
+          "def": "河流或海灣深曲處，可以停泊船隻的口岸。",
+          "example": [
+            "如：「海港」、「商港」、「軍港」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "大陸地區香港的簡稱。",
+          "example": [
+            "如：「港九」、「港澳」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǎng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "水",
+  "stroke_count": 12,
+  "title": "港"
+}

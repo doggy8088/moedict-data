@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「袒」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄓㄢˋ",
+      "definitions": [
+        {
+          "def": "素雅、無文彩。",
+          "example": [
+            "如：「襢衣」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhàn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "衣",
+  "stroke_count": 19,
+  "title": "襢"
+}

@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄜˊ",
+      "definitions": [
+        {
+          "def": "粗劣下等的絲。",
+          "quote": [
+            "《說文解字．糸部》：「紇，絲下也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "人名。孔子的父親。",
+          "quote": [
+            "《左傳．襄公十年》：「郰人紇抉之以出門者。」",
+            "晉．杜預．注：「紇郰邑大夫，仲尼父，叔梁紇也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「回紇」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "hé"
+    },
+    {
+      "bopomofo": "ㄍㄜ",
+      "definitions": [
+        {
+          "def": "參見「紇繨」、「紇剌星」等條。"
+        }
+      ],
+      "pinyin": "gē"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "糸",
+  "stroke_count": 9,
+  "title": "紇"
+}

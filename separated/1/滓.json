@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗˇ",
+      "definitions": [
+        {
+          "def": "物品提出水分或精華後剩下的東西。",
+          "example": [
+            "如：「渣滓」。"
+          ],
+          "quote": [
+            "《文選．馬融．長笛賦》：「溉盥汙穢，澡雪垢滓矣。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "汙穢。",
+          "quote": [
+            "《聊齋志異．卷七．仙人島》：「驅馬至西村，見父衣服滓敝，衰老堪憐。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zǐ"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "水",
+  "stroke_count": 13,
+  "title": "滓"
+}

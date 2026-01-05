@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "合、閉。",
+          "quote": [
+            "《莊子．天運》：「予口張而不能嗋，予又何規老聃哉。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "呼吸。",
+          "example": [
+            "如：「嗋呷」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xié"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "口",
+  "stroke_count": 13,
+  "title": "嗋"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄤˇ",
+      "definitions": [
+        {
+          "def": "柔軟細密的絲織品。",
+          "example": [
+            "如：「杭紡」。"
+          ],
+          "quote": [
+            "《儀禮．聘禮》：「賓裼，迎大夫賄，用束紡。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "將絲、麻、棉等抽成線紗。",
+          "quote": [
+            "《晉書．卷九○．良吏傳．吳隱之傳》：「裁留身糧，其餘悉分振親族，家人績紡以供朝夕。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "fǎng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "糸",
+  "stroke_count": 10,
+  "title": "紡"
+}

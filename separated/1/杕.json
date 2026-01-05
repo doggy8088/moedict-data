@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧˋ",
+      "definitions": [
+        {
+          "def": "樹木孤高獨立的樣子。",
+          "quote": [
+            "《詩經．唐風．有杕之杜》：「有杕之杜，生于道左。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "dì"
+    },
+    {
+      "bopomofo": "ㄉㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "控制行船方向的設備，多裝置在船尾。",
+          "link": [
+            "同「舵」。"
+          ],
+          "quote": [
+            "《淮南子．說林》：「心所說，毀舟為杕；心所欲，毀鐘為鐸。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "duò"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "木",
+  "stroke_count": 7,
+  "title": "杕"
+}

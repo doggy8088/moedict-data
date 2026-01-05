@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧˋ",
+      "definitions": [
+        {
+          "def": "使乾涸。",
+          "quote": [
+            "《抱朴子．外篇．詰鮑》：「其不汔淵剖珠，傾巖刊玉。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "幾乎、將近。",
+          "quote": [
+            "《詩經．大雅．民勞》：「民亦勞止，汔可小康。」",
+            "漢．鄭玄．箋：「汔，幾也。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "qì"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "水",
+  "stroke_count": 6,
+  "title": "汔"
+}

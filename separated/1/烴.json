@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄥ",
+      "definitions": [
+        {
+          "def": "由碳、氫兩種元素組成的有機化合物。主要從石油、天然氣、植物中分離，或由天然存在的烴類合成。為石化工業中製造塑膠、橡膠與合成纖維等的重要原料。",
+          "link": [
+            "也稱為「碳氫化合物」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qīng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "火",
+  "stroke_count": 11,
+  "title": "烴"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "山腰上的路。",
+          "quote": [
+            "《說文解字．山部》：「岪，山脅道也。」",
+            "清．段玉裁．注：「脅者，兩膀也。山如人體，其兩旁曰脅。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "山勢曲折的樣子。",
+          "quote": [
+            "《楚辭．淮南小山．招隱士》：「坱兮軋，山曲岪。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fú"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "山",
+  "stroke_count": 8,
+  "title": "岪"
+}

@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄢ",
+      "definitions": [
+        {
+          "def": "眼睛直視的樣子。",
+          "quote": [
+            "《字彙．目部》：「矎，直視貌。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xuān"
+    },
+    {
+      "bopomofo": "ㄒㄩㄢˋ",
+      "definitions": [
+        {
+          "def": "參見「矎矎」條。"
+        }
+      ],
+      "pinyin": "xuàn"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "目",
+  "stroke_count": 20,
+  "title": "矎"
+}

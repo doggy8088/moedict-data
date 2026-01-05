@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄣ",
+      "definitions": [
+        {
+          "def": "參見「絪縕」條。",
+          "type": "名"
+        },
+        {
+          "def": "坐墊。",
+          "link": [
+            "通「茵」。"
+          ],
+          "quote": [
+            "《敦煌變文集新書．卷二．妙法蓮華經講經文》：「白角箄中安錦褥，象牙床上布紅絪。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yīn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "糸",
+  "stroke_count": 12,
+  "title": "絪"
+}

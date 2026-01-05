@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄚ",
+      "definitions": [
+        {
+          "def": "黑嘴的黃馬。",
+          "quote": [
+            "《說文解字．馬部》：「騧，黃馬黑喙。」",
+            "《詩經．秦風．小戎》：「四牡孔阜，六轡在手，騏騮是中，騧驪是驂。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "guā"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "馬",
+  "stroke_count": 19,
+  "title": "騧"
+}

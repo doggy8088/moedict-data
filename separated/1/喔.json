@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "形容雞叫的聲音。",
+          "quote": [
+            "《說文解字．口部》：「喔，雞聲也。」",
+            "唐．許渾〈秋日行次關西〉詩：「早霜雞喔喔，殘月馬蕭蕭。」",
+            "《老殘遊記》第一一回：「聽窗外晨雞已經喔喔的啼了。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "wò"
+    },
+    {
+      "bopomofo": "ㄛ",
+      "definitions": [
+        {
+          "def": "表了解的語氣。",
+          "example": [
+            "如：「喔！原來是這麼回事。」"
+          ],
+          "type": "歎"
+        }
+      ],
+      "pinyin": "ō"
+    },
+    {
+      "bopomofo": "（又音）ㄨ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）wū"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "口",
+  "stroke_count": 12,
+  "title": "喔"
+}

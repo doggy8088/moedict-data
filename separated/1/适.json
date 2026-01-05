@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「適」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄍㄨㄚ",
+      "definitions": [
+        {
+          "def": "迅速。",
+          "quote": [
+            "《說文解字．辵部》：「适，疾也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "guā"
+    },
+    {
+      "bopomofo": "（又音）ㄎㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）kuò"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "辵",
+  "stroke_count": 10,
+  "title": "适"
+}

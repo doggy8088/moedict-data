@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄜˋ",
+      "definitions": [
+        {
+          "def": "驚駭的。",
+          "link": [
+            "通「噩」。"
+          ],
+          "quote": [
+            "《列子．周穆王》：「一曰正夢，二曰蘁夢。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "è"
+    },
+    {
+      "bopomofo": "ㄨˋ",
+      "definitions": [
+        {
+          "def": "違逆不從。",
+          "quote": [
+            "《莊子．寓言》：「使人乃以心服，而不敢蘁。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "wù"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "艸",
+  "stroke_count": 20,
+  "title": "蘁"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧˋ",
+      "definitions": [
+        {
+          "def": "蜜蜂採取花中甘液所釀成的甜汁。",
+          "example": [
+            "如：「蜂蜜」、「花蜜」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "甜美、動人的。",
+          "example": [
+            "如：「甜蜜」、「甜言蜜語」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "mì"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "虫",
+  "stroke_count": 14,
+  "title": "蜜"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "一種用來黏貼東西的稠狀物。參見「糨糊」條。",
+          "type": "名"
+        },
+        {
+          "def": "濃、稠。",
+          "example": [
+            "如：「這粥煮得太糨了，加些熱開水吧！」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jiàng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "米",
+  "stroke_count": 17,
+  "title": "糨"
+}

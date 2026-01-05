@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄨˇ",
+      "definitions": [
+        {
+          "def": "地名用字。如桃園市復興區有阿坶坪。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "mǔ"
+    },
+    {
+      "bopomofo": "ㄇㄨˋ",
+      "definitions": [
+        {
+          "def": "地名。周武王打敗商紂的地方，故址約在今大陸地區河南省淇縣南。",
+          "quote": [
+            "《說文解字．土部》：「坶，朝歌南七十里地，武王與紂戰于坶野。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mù"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "土",
+  "stroke_count": 8,
+  "title": "坶"
+}

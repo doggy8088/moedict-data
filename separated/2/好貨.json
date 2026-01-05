@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄠˇ　ㄏㄨㄛˋ",
+      "definitions": [
+        {
+          "antonyms": "劣貨",
+          "def": "好物品。",
+          "example": [
+            "如：「你真不識貨，這是上等的好貨，你居然輕易放過。」"
+          ]
+        }
+      ],
+      "pinyin": "hǎo huò"
+    },
+    {
+      "bopomofo": "ㄏㄠˋ　ㄏㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "貪愛財物。",
+          "quote": [
+            "《孟子．梁惠王下》：「寡人有疾，寡人好貨。」"
+          ]
+        }
+      ],
+      "pinyin": "hào huò"
+    }
+  ],
+  "title": "好貨"
+}

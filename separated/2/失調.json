@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕ　ㄉㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "聲調不和諧。",
+          "quote": [
+            "《南朝梁．沈約．答陸厥書》：「子野操曲，安得忽有闡緩失調之聲？」"
+          ]
+        }
+      ],
+      "pinyin": "shī diào"
+    },
+    {
+      "bopomofo": "ㄕ　ㄊㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "失去平衡。尤指身體不得適當調養。",
+          "example": [
+            "如：「病後失調，最易引起舊疾復發。」"
+          ]
+        }
+      ],
+      "pinyin": "shī tiáo"
+    }
+  ],
+  "title": "失調"
+}

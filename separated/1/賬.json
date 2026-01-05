@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄤˋ",
+      "definitions": [
+        {
+          "def": "記錄有關銀錢、財物出入的簿據。",
+          "example": [
+            "如：「查賬」、「記賬」。"
+          ],
+          "link": [
+            "同「帳」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "債務。",
+          "example": [
+            "如：「欠賬」。"
+          ],
+          "link": [
+            "同「帳」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhàng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "貝",
+  "stroke_count": 15,
+  "title": "賬"
+}

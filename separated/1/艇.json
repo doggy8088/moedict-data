@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄥˇ",
+      "definitions": [
+        {
+          "def": "輕便狹長的小船。",
+          "example": [
+            "如：「快艇」、「汽艇」、「救生艇」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "像艇的較大型船隻。",
+          "example": [
+            "如：「飛艇」、「砲艇」、「潛水艇」、「豪華遊艇」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tǐng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "舟",
+  "stroke_count": 13,
+  "title": "艇"
+}

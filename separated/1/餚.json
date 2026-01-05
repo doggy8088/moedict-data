@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "煮熟的肉類食物。",
+          "link": [
+            "同「肴」。"
+          ],
+          "quote": [
+            "《國語．周語中》：「親戚宴饗，則有餚烝。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yáo"
+    },
+    {
+      "bopomofo": "（又音）ㄒㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）xiáo"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "食",
+  "stroke_count": 16,
+  "title": "餚"
+}

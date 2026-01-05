@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄚˋ",
+      "definitions": [
+        {
+          "def": "小雨。",
+          "quote": [
+            "《廣韻．入聲．葉韻》：「霎，小雨。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "形容風雨聲。",
+          "quote": [
+            "唐．韓偓〈夏夜〉詩：「猛風飄電黑雲生，霎霎高林簇雨聲。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "短促的。",
+          "example": [
+            "如：「霎時間」。"
+          ],
+          "quote": [
+            "唐．孟郊〈春雨後〉詩：「昨夜一霎雨，天意蘇群物。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "shà"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "雨",
+  "stroke_count": 16,
+  "title": "霎"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄢ",
+      "definitions": [
+        {
+          "def": "病、使困苦。",
+          "quote": [
+            "《詩經．大雅．雲漢》：「胡寧瘨我以旱，憯不知其故。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "暈倒。",
+          "quote": [
+            "《戰國策．楚策一》：「（申包胥）七日不得告，水漿無入口，瘨而殫悶，旄不知人。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "diān"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "疒",
+  "stroke_count": 15,
+  "title": "瘨"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨㄛ",
+      "definitions": [
+        {
+          "def": "指使、慫恿。",
+          "example": [
+            "如：「教唆」。"
+          ],
+          "quote": [
+            "《三國演義．第二○回》：「量汝是個醫人，安敢下毒害我？必有人唆使你來！」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "說話煩多。",
+          "example": [
+            "如：「囉唆」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "suō"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "口",
+  "stroke_count": 10,
+  "title": "唆"
+}

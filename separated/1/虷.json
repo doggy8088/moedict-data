@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄢˊ",
+      "definitions": [
+        {
+          "def": "生長在井中的紅色小蟲。",
+          "quote": [
+            "《莊子．秋水》：「還虷蟹與科斗，莫吾能若也。」",
+            "唐．成玄英．疏：「虷，井中赤蟲也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "hán"
+    },
+    {
+      "bopomofo": "ㄍㄢ",
+      "definitions": [
+        {
+          "def": "侵犯。",
+          "quote": [
+            "《漢書．卷七二．鮑宣傳》：「白虹虷日，連陰不雨。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gān"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "虫",
+  "stroke_count": 9,
+  "title": "虷"
+}

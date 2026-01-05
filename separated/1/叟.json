@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄡˇ",
+      "definitions": [
+        {
+          "def": "老人。",
+          "example": [
+            "如：「童叟無欺」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "稱謂。對老年男子的尊稱。",
+          "example": [
+            "如：「老叟」。"
+          ],
+          "quote": [
+            "《孟子．梁惠王上》：「叟，不遠千里而來。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "sǒu"
+    },
+    {
+      "bopomofo": "ㄙㄡ",
+      "definitions": [
+        {
+          "def": "參見「叟兵」、「叟叟」等條。"
+        }
+      ],
+      "pinyin": "sōu"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "又",
+  "stroke_count": 10,
+  "title": "叟"
+}

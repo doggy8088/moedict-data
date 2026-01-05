@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄟ",
+      "definitions": [
+        {
+          "def": "用來鑽孔的尖銳器具。",
+          "example": [
+            "如：「鋼錐」、「利錐」。"
+          ],
+          "link": [
+            "也稱為「錐子」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "尖銳似錐形的東西。",
+          "example": [
+            "如：「冰錐」、「圓錐體」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用錐刺。",
+          "quote": [
+            "明．袁宏道〈徐文長傳〉：「或以利錐錐其兩耳，深入寸餘。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhuī"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "金",
+  "stroke_count": 16,
+  "title": "錐"
+}

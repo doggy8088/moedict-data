@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄡˋ",
+      "definitions": [
+        {
+          "def": "勒在馬臀上的皮帶。",
+          "quote": [
+            "《說文解字．糸部》：「紂，馬緧也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "人名。商朝最後一位君主，相傳是個暴君。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhòu"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "糸",
+  "stroke_count": 9,
+  "title": "紂"
+}

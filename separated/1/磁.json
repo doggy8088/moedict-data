@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘˊ",
+      "definitions": [
+        {
+          "def": "吸引鐵、鈷、鎳等金屬的性質。參見「磁鐵」條。",
+          "type": "名"
+        },
+        {
+          "def": "地名。參見「磁縣」條。",
+          "type": "名"
+        },
+        {
+          "def": "瓷質的。",
+          "example": [
+            "如：「磁器」。"
+          ],
+          "link": [
+            "通「瓷」。"
+          ],
+          "quote": [
+            "《紅樓夢．第四一回》：「這木頭的可比不得磁的，那都是一套，定要吃遍一套方使得！」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "cí"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "石",
+  "stroke_count": 14,
+  "title": "磁"
+}

@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄠˋ",
+      "definitions": [
+        {
+          "def": "古時舞者所持的羽扇。",
+          "quote": [
+            "《詩經．王風．君子揚揚》：「君子陶陶，左執翿，右招我由敖。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dào"
+    },
+    {
+      "bopomofo": "（又音）ㄊㄠˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）táo"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "羽",
+  "stroke_count": 20,
+  "title": "翿"
+}

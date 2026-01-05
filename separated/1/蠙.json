@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "蚌的別名。亦指蚌珠、珍珠。",
+          "quote": [
+            "《宋書．卷六七．謝靈運傳》：「聆泗川之浮磬，翫夷水  之蠙珠。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pín"
+    },
+    {
+      "bopomofo": "（又音）ㄅㄧㄣ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）bīn"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "虫",
+  "stroke_count": 20,
+  "title": "蠙"
+}

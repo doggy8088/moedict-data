@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄞˋ",
+      "definitions": [
+        {
+          "def": "田間的水道。",
+          "quote": [
+            "《說文解字．巛部》：「巜，水流澮澮也。方百里為巜，廣二尋深二仞。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "guài"
+    },
+    {
+      "bopomofo": "（又音）ㄎㄨㄞˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）kuài"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "巛",
+  "stroke_count": 2,
+  "title": "巜"
+}

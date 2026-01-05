@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨㄚˇ",
+      "definitions": [
+        {
+          "def": "遊戲、玩樂。",
+          "example": [
+            "如：「玩耍」、「戲耍」。"
+          ],
+          "quote": [
+            "《西遊記．第一回》：「一群猴子耍了一會，卻去那山澗中洗澡。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "玩弄、賣弄。",
+          "example": [
+            "如：「耍花樣」、「耍大刀」、「耍嘴皮」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "展現（含貶義）。",
+          "example": [
+            "如：「耍威風」、「耍大牌」、「耍脾氣」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shuǎ"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "而",
+  "stroke_count": 9,
+  "title": "耍"
+}

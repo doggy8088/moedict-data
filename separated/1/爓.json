@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "火花、火苗。",
+          "link": [
+            "同「焰」。"
+          ],
+          "quote": [
+            "《集韻．去聲．豔韻》：「爓，火光。或作焰。」",
+            "《文選．班固．西都賦》：「發五色之渥采，光爓朗以景彰。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yàn"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "火",
+  "stroke_count": 20,
+  "title": "爓"
+}

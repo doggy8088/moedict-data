@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄛ",
+      "definitions": [
+        {
+          "def": "地勢傾斜的地方。",
+          "example": [
+            "如：「山坡」、「斜坡」、「陡坡」、「緩坡」、「向陽坡」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "傾斜。",
+          "example": [
+            "如：「坡度」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pō"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "土",
+  "stroke_count": 8,
+  "title": "坡"
+}

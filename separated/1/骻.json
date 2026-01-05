@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄚˋ",
+      "definitions": [
+        {
+          "def": "腰骨。",
+          "quote": [
+            "《玉篇．骨部》：「骻，腰骻。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "兩腿之間。",
+          "link": [
+            "同「胯」。"
+          ],
+          "quote": [
+            "《集韻．去聲．禡韻》：「骻，股閒也。或作胯。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kuà"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "骨",
+  "stroke_count": 16,
+  "title": "骻"
+}

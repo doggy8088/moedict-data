@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄢˊ",
+      "definitions": [
+        {
+          "def": "參見「蟾蜍」條。",
+          "type": "名"
+        },
+        {
+          "def": "傳說月亮中有蟾蜍，故代稱月亮為「蟾」。",
+          "quote": [
+            "宋．陳師道〈夜句〉詩三首之二：「老樹仍孤秀，秋蟾只獨明。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chán"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "虫",
+  "stroke_count": 19,
+  "title": "蟾"
+}

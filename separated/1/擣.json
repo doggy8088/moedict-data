@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄠˇ",
+      "definitions": [
+        {
+          "def": "舂、撞擊。",
+          "example": [
+            "如：「擣米」、「擣藥」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "搥擊。",
+          "quote": [
+            "唐．韓愈〈春雪〉詩：「城險疑懸布，砧寒未擣綃。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "攻破。",
+          "quote": [
+            "《史記．卷六五．孫子吳起傳》：「批亢擣虛，形格勢禁，則自為解耳。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dǎo"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "手",
+  "stroke_count": 17,
+  "title": "擣"
+}

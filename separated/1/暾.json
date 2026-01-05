@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄣ",
+      "definitions": [
+        {
+          "def": "早晨初升的太陽。",
+          "quote": [
+            "《楚辭．屈原．九歌．東君》：「暾將出兮東方，照吾檻兮扶桑。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "暖、熱。",
+          "quote": [
+            "清．徐珂《清稗類鈔．諫諍類．某侍衛譎諫游畋》：「且戶灶銜接，炎暾之盛，十倍京師。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "tūn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "日",
+  "stroke_count": 16,
+  "title": "暾"
+}

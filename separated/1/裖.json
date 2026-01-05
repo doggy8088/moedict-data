@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄣˇ",
+      "definitions": [
+        {
+          "def": "禪衣，單層無內裡的衣服。",
+          "link": [
+            "同「袗」。"
+          ],
+          "quote": [
+            "《說文解字．衣部》：「袗，禪衣也。袗或從辰。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "重疊堆積的樣子。",
+          "quote": [
+            "《漢書．卷五七．司馬相如傳上》：「磐石裖崖，嶔巖倚傾。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhěn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "衣",
+  "stroke_count": 13,
+  "title": "裖"
+}

@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄣ",
+      "definitions": [
+        {
+          "def": "鳥類的胃。",
+          "example": [
+            "如：「雞胗」、「鴨胗」。"
+          ],
+          "link": [
+            "也稱為「胗兒」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhēn"
+    },
+    {
+      "bopomofo": "ㄓㄣˇ",
+      "definitions": [
+        {
+          "def": "皮膚上因病所引起的小紅點。",
+          "link": [
+            "同「疹」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhěn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "肉",
+  "stroke_count": 9,
+  "title": "胗"
+}

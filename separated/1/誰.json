@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（語音）ㄕㄟˊ",
+      "definitions": [
+        {
+          "def": "甚麼人。表疑問。",
+          "example": [
+            "如：「誰敲門哪？」"
+          ],
+          "type": "代"
+        },
+        {
+          "def": "任何人。表斷定的口氣。",
+          "example": [
+            "如：「這種小事誰都會作。」"
+          ],
+          "type": "代"
+        },
+        {
+          "def": "難道。",
+          "quote": [
+            "《漢書．卷四八．賈誼傳》：「壹動而五業附，陛下誰憚而久不為此？」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "（語音）shéi"
+    },
+    {
+      "bopomofo": "（讀音）ㄕㄨㄟˊ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。"
+        }
+      ],
+      "pinyin": "（讀音）shuí"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "言",
+  "stroke_count": 15,
+  "title": "誰"
+}

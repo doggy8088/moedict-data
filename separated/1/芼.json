@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄠˋ",
+      "definitions": [
+        {
+          "def": "雜在羹湯中的菜。",
+          "quote": [
+            "《文選．潘岳．西征賦》：「而菜蔬芼實，水物惟錯。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "摘取。",
+          "quote": [
+            "《詩經．周南．關雎》：「參差荇菜，左右芼之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mào"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "艸",
+  "stroke_count": 8,
+  "title": "芼"
+}

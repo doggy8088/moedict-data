@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄚ",
+      "definitions": [
+        {
+          "def": "刮掉爛肉膿血。",
+          "quote": [
+            "《說文解字．刀部》：「劀，刮去惡創肉也。」",
+            "《周禮．天官．瘍醫》：「瘍醫掌腫瘍、潰瘍、金瘍、折瘍之祝藥劀殺之齊。」",
+            "漢．鄭玄．注：「劀，刮去膿血。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "guā"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "刀",
+  "stroke_count": 14,
+  "title": "劀"
+}

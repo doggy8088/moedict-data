@@ -1,0 +1,18 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄥˋ　ㄐㄧˊ",
+      "definitions": [
+        {
+          "antonyms": "負極",
+          "def": "電池兩極中產生正電的一極。為進電路，電位較負極高。",
+          "link": [
+            "也稱為「陽極」。"
+          ]
+        }
+      ],
+      "pinyin": "zhèng jí"
+    }
+  ],
+  "title": "正極"
+}

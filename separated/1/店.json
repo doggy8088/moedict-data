@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "陳列貨物以出售的地方。",
+          "example": [
+            "如：「布店」、「商店」、「書店」、「連鎖店」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "旅館。",
+          "example": [
+            "如：「住店」。"
+          ],
+          "quote": [
+            "宋．蘇軾〈岐亭道上見梅花戲贈季常〉詩：「野店初嘗竹葉酒，江雲欲落豆秸灰。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "diàn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "广",
+  "stroke_count": 8,
+  "title": "店"
+}

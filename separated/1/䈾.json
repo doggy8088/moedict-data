@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄠ",
+      "definitions": [
+        {
+          "def": "船舵的尾端。",
+          "quote": [
+            "明．張自烈《正字通．竹部》：「䈾，俗呼船舵尾曰䈾。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "搖動。",
+          "quote": [
+            "《文選．馬融．長笛賦》：「故其應清風也，纖末奮䈾。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shāo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "竹",
+  "stroke_count": 17,
+  "title": "䈾"
+}

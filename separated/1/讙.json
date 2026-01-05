@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄢ",
+      "definitions": [
+        {
+          "def": "喧譁。",
+          "quote": [
+            "《說文解字．言部》：「讙，譁也。」",
+            "《史記．卷五六．陳丞相世家》：「是日乃拜平為都尉，使為參乘，典護軍，諸將盡讙。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "喜樂。",
+          "link": [
+            "通「歡」。"
+          ],
+          "quote": [
+            "唐．柳宗元〈天對〉：「丕徹以圖，民以讙以都。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "huān"
+    }
+  ],
+  "non_radical_stroke_count": 18,
+  "radical": "言",
+  "stroke_count": 25,
+  "title": "讙"
+}

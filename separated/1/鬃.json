@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄨㄥ",
+      "definitions": [
+        {
+          "def": "高髻。",
+          "quote": [
+            "《玉篇．髟部》：「鬃，高髻貌。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "獸類頸上的毛。",
+          "example": [
+            "如：「馬鬃」、「豬鬃」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zōng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "髟",
+  "stroke_count": 18,
+  "title": "鬃"
+}

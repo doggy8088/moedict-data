@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄣ",
+      "definitions": [
+        {
+          "def": "傷痛。",
+          "quote": [
+            "《說文解字．心部》：「慇，痛也。」",
+            "晉．江淹〈傷愛子賦〉：「屑丹泣於下壤，傃慇憂於上旻。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "情意周到。",
+          "quote": [
+            "《文選．司馬遷．報任少卿書》：「未嘗銜盃酒接慇懃之餘懽。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "yīn"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "心",
+  "stroke_count": 14,
+  "title": "慇"
+}

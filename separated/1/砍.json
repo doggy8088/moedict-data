@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄢˇ",
+      "definitions": [
+        {
+          "def": "用刀斧劈。",
+          "example": [
+            "如：「砍柴」、「砍頭」。"
+          ],
+          "quote": [
+            "《水滸傳．第五三回》：「李逵拔出大斧，先砍翻一堵壁。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "北方方言。指拋、擲。",
+          "example": [
+            "如：「拿磚頭砍瘋狗。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kǎn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "石",
+  "stroke_count": 9,
+  "title": "砍"
+}

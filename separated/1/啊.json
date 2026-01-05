@@ -1,0 +1,50 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄚ",
+      "definitions": [
+        {
+          "def": "表驚訝、痛苦、贊嘆的語氣。",
+          "example": [
+            "如：「啊！失火了！」、「啊！這片風景好美！」"
+          ],
+          "type": "歎"
+        },
+        {
+          "def": "表疑問或反問的語氣。",
+          "example": [
+            "如：「啊！你說什麼？」"
+          ],
+          "type": "歎"
+        }
+      ],
+      "pinyin": "ā"
+    },
+    {
+      "bopomofo": "˙ㄚ",
+      "definitions": [
+        {
+          "def": "語尾助詞，無義。",
+          "example": [
+            "如：「不錯啊！」、「好棒啊！」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "a"
+    },
+    {
+      "bopomofo": "（又音）ㄛ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）ō"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "口",
+  "stroke_count": 11,
+  "title": "啊"
+}

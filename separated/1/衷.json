@@ -1,0 +1,46 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥ",
+      "definitions": [
+        {
+          "def": "內衣，貼身衣物。",
+          "quote": [
+            "《說文解字．衣部》：「衷，裹褻衣。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "內心。",
+          "example": [
+            "如：「言不由衷」、「無動於衷」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "心意、心事。",
+          "example": [
+            "如：「苦衷」、「互訴情衷」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如五代時南唐有衷愉。",
+          "type": "名"
+        },
+        {
+          "def": "真誠的、內心的。",
+          "example": [
+            "如：「衷心」、「衷情」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhōng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "衣",
+  "stroke_count": 10,
+  "title": "衷"
+}

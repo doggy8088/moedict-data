@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄚ",
+      "definitions": [
+        {
+          "def": "長矛。",
+          "quote": [
+            "《文選．陸機．辯亡論》：「長棘勁鎩，望飆而奮。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "摧殘。",
+          "quote": [
+            "《文選．左思．蜀都賦》：「鳥鎩翮，獸廢足。」",
+            "南朝宋．鮑照〈拜侍郎上疏〉：「鎩羽暴鱗，復見翻躍。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shā"
+    },
+    {
+      "bopomofo": "（又音）ㄕㄞˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）shài"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "金",
+  "stroke_count": 19,
+  "title": "鎩"
+}

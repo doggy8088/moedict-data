@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄢˊ",
+      "definitions": [
+        {
+          "def": "盤伏、盤曲。",
+          "quote": [
+            "《文選．左思．蜀都賦》：「潛龍蟠於沮澤，應鳴鼓而興雨。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "彎曲的、扭曲的。",
+          "quote": [
+            "唐．李白〈詠山樽〉詩二首之一：「蟠木不彫飾，且將斤斧疏。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pán"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "虫",
+  "stroke_count": 18,
+  "title": "蟠"
+}

@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "表驚愕失聲的語氣。",
+          "quote": [
+            "《史記．卷四九．外戚世家》：「武帝下車泣曰：『嚄！大姊，何藏之深也！』」"
+          ],
+          "type": "歎"
+        },
+        {
+          "def": "表讚美的語氣。",
+          "example": [
+            "如：「嚄！瞧你多能幹。」"
+          ],
+          "type": "歎"
+        }
+      ],
+      "pinyin": "huò"
+    },
+    {
+      "bopomofo": "ㄛˇ",
+      "definitions": [
+        {
+          "def": "表疑惑、驚訝的語氣。",
+          "example": [
+            "如：「嚄！這道題怎麼還算不對？」"
+          ],
+          "type": "歎"
+        }
+      ],
+      "pinyin": "ǒ"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "口",
+  "stroke_count": 17,
+  "title": "嚄"
+}

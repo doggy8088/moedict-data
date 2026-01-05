@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄝ",
+      "definitions": [
+        {
+          "def": "瞇眼斜視。",
+          "quote": [
+            "元．關漢卿《望江亭．第三折》：「那廝也忒懵懂玉山低趄，著鬼祟醉眼乜斜。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "miē"
+    },
+    {
+      "bopomofo": "ㄋㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "姓。如明代有蒙古酋長乜先。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "niè"
+    }
+  ],
+  "non_radical_stroke_count": 1,
+  "radical": "乙",
+  "stroke_count": 2,
+  "title": "乜"
+}

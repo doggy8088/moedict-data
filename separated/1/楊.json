@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "楊柳科楊屬喬木的統稱。與柳相似，枝條上挺，種子有白絮。種類很多，有銀白楊、毛白楊等。",
+          "type": "名"
+        },
+        {
+          "def": "戰國時代楊朱及其學派的簡稱。",
+          "quote": [
+            "《孟子．滕文公下》：「天下之言，不歸楊則歸墨。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有楊震。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yáng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "木",
+  "stroke_count": 13,
+  "title": "楊"
+}

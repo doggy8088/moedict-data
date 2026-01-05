@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩ",
+      "definitions": [
+        {
+          "def": "參見「趑趄」條。"
+        }
+      ],
+      "pinyin": "jū"
+    },
+    {
+      "bopomofo": "ㄑㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "斜靠、斜倚。",
+          "quote": [
+            "元．王實甫《西廂記．第四本．第四折》：「欹珊枕把身軀兒趄。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "歪斜、不正。",
+          "quote": [
+            "《水滸傳．第二二回》：「宋江已有八分酒，腳步趄了，只顧踏去。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "qiè"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "走",
+  "stroke_count": 12,
+  "title": "趄"
+}

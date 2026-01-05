@@ -1,0 +1,75 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「灑」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄘㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "高峻。",
+          "quote": [
+            "《詩經．邶風．新臺》：「新臺有洒，河水浼浼。」",
+            "漢．毛亨．傳：「洒，高峻也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "cuǐ"
+    },
+    {
+      "bopomofo": "ㄒㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "深峻。",
+          "quote": [
+            "《爾雅．釋丘》：「望厓洒而高岸。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "肅敬。",
+          "quote": [
+            "《禮記．玉藻》：「君子之飲酒也，受一爵而色洒如也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiǎn"
+    },
+    {
+      "bopomofo": "ㄒㄧˇ",
+      "definitions": [
+        {
+          "def": "洗滌。",
+          "link": [
+            "同「洗」。"
+          ],
+          "quote": [
+            "《說文解字．水部》：「洒，滌也。」",
+            "《孟子．梁惠王上》：「南辱於楚，寡人恥 之，願比死者壹洒之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xǐ"
+    },
+    {
+      "bopomofo": "ㄙㄚˇ",
+      "definitions": [
+        {
+          "def": "參見「洒家」條。{[97d2]}「灑」的異體字（09985）"
+        }
+      ],
+      "pinyin": "sǎ"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洒"
+}

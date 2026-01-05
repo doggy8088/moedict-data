@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "植物名。浮生在水面的草。葉扁平而小，面背皆青，有鬚根下垂水中，會隨水流四處漂動。",
+          "link": [
+            "也稱為「浮萍」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "比喻行蹤不定，難以自主的。",
+          "example": [
+            "如：「萍蹤」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "píng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "艸",
+  "stroke_count": 12,
+  "title": "萍"
+}

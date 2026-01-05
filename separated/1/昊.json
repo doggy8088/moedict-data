@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄠˋ",
+      "definitions": [
+        {
+          "def": "廣大無邊際的天。",
+          "quote": [
+            "《梁書．卷一．武帝本紀上》：「上達蒼昊，下及川泉。」",
+            "宋．蘇軾〈再和潛師〉詩：「且撼長條餐落英，忍飢未擬窮呼昊。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有昊十九。",
+          "type": "名"
+        },
+        {
+          "def": "廣大。",
+          "example": [
+            "如：「昊天罔極」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "hào"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "日",
+  "stroke_count": 8,
+  "title": "昊"
+}

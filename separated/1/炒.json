@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄠˇ",
+      "definitions": [
+        {
+          "def": "一種烹飪方法。把食物置鍋內，以少量的油略為翻攪至熟者。",
+          "example": [
+            "如：「炒三鮮」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "爭鬧。",
+          "link": [
+            "通「吵」。"
+          ],
+          "quote": [
+            "元．喬吉《金錢記．第一折》：「鬧炒炒嫩綠草聒鳴蛙，輕絲絲淡黃柳帶栖鴉。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chǎo"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "火",
+  "stroke_count": 8,
+  "title": "炒"
+}

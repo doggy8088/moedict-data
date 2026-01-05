@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˋ",
+      "definitions": [
+        {
+          "def": "嫉妒。",
+          "quote": [
+            "《詩經．邶風．雄雉》：「不忮不求，何用不臧。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "違逆。",
+          "quote": [
+            "《莊子．天下》：「不累於俗，不飾於物，不苟於人，不忮於眾。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhì"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "心",
+  "stroke_count": 7,
+  "title": "忮"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕˋ",
+      "definitions": [
+        {
+          "def": "依死者生前的事跡所給予的稱號。",
+          "quote": [
+            "《說文解字．言部》：「諡，行之跡也。」",
+            "《禮記．樂記》：「故觀其舞，知其德，聞其諡，知其行也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "加諡號。",
+          "quote": [
+            "《左傳．宣公十年》：「改葬幽公，諡之曰靈。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shì"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "言",
+  "stroke_count": 16,
+  "title": "諡"
+}

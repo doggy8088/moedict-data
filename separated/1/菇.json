@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨ",
+      "definitions": [
+        {
+          "def": "菌類。",
+          "example": [
+            "如：「香菇」、「草菇」、「蘑菇」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gū"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "艸",
+  "stroke_count": 12,
+  "title": "菇"
+}

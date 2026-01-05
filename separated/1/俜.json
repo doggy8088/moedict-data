@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄥ",
+      "definitions": [
+        {
+          "def": "俠客。",
+          "link": [
+            "同「甹」。"
+          ],
+          "quote": [
+            "《說文解字．人部》：「俜，俠也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「伶俜」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "pīng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "人",
+  "stroke_count": 9,
+  "title": "俜"
+}

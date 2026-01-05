@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧˊ",
+      "definitions": [
+        {
+          "def": "火滅。",
+          "example": [
+            "如：「熄燈」、「熄火」、「把菸蒂熄滅」。"
+          ],
+          "quote": [
+            "《孟子．告子上》：「猶以一杯水救一車薪之火也，不熄，則謂水不勝火。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "消亡。",
+          "quote": [
+            "《孟子．離婁下》：「王者之跡熄而詩亡，詩亡然後春秋作。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xí"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "火",
+  "stroke_count": 14,
+  "title": "熄"
+}

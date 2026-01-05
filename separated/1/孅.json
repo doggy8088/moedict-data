@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄢ",
+      "definitions": [
+        {
+          "def": "細小、細微。",
+          "link": [
+            "通「纖」。"
+          ],
+          "quote": [
+            "《漢書．卷二四．食貨志》：「古之治天下，至孅至悉。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "柔細、纖巧。",
+          "quote": [
+            "《文選．司馬相如．上林賦》：「柔橈嫚嫚，嫵媚孅弱。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiān"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "女",
+  "stroke_count": 20,
+  "title": "孅"
+}

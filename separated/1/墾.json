@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄣˇ",
+      "definitions": [
+        {
+          "def": "翻土。",
+          "example": [
+            "如：「開墾」、「墾荒」、「墾地」。"
+          ],
+          "quote": [
+            "《管子．輕重甲》：「今君躬犁墾田，耕發草土，得其穀矣。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kěn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "土",
+  "stroke_count": 16,
+  "title": "墾"
+}

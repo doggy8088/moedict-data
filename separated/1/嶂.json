@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄤˋ",
+      "definitions": [
+        {
+          "def": "形如屏風的山。",
+          "example": [
+            "如：「重巒疊嶂」。"
+          ],
+          "quote": [
+            "宋．范仲淹〈漁家傲．塞下秋來風景異〉詞：「千嶂裡，長煙落日孤城閉。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhàng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "山",
+  "stroke_count": 14,
+  "title": "嶂"
+}

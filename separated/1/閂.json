@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨㄢ",
+      "definitions": [
+        {
+          "def": "栓門戶的橫木。",
+          "example": [
+            "如：「門閂」。"
+          ],
+          "quote": [
+            "《紅樓夢．第七一回》：「只見角門虛掩，猶未上閂。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "插上門閂，把門關緊。",
+          "quote": [
+            "《老殘遊記．第五回》：「此地有酒，你閂了大門，可以來喝一杯罷！」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shuān"
+    }
+  ],
+  "non_radical_stroke_count": 1,
+  "radical": "門",
+  "stroke_count": 9,
+  "title": "閂"
+}

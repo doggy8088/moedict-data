@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄜˇ　ㄎㄠˋ",
+      "definitions": [
+        {
+          "def": "可以信賴。",
+          "example": [
+            "如：「他為人忠厚可靠。」"
+          ],
+          "synonyms": "靠得住,信得過"
+        },
+        {
+          "antonyms": "冒險",
+          "def": "真實可信。",
+          "example": [
+            "如：「這條消息的來源，相當可靠。」"
+          ]
+        }
+      ],
+      "pinyin": "kě kào"
+    }
+  ],
+  "title": "可靠"
+}

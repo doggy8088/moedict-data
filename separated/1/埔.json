@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄨˇ",
+      "definitions": [
+        {
+          "def": "閩粵方言。泛指平坦的地方。",
+          "example": [
+            "如：「埔里」、「平埔」、「草埔」、「大埔」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pǔ"
+    },
+    {
+      "bopomofo": "（又音）ㄅㄨˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）bǔ"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "土",
+  "stroke_count": 10,
+  "title": "埔"
+}

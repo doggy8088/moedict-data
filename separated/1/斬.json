@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢˇ",
+      "definitions": [
+        {
+          "def": "砍、殺。",
+          "example": [
+            "如：「披荊斬棘」、「斬首示眾」、「斬草不除根，春風吹又生。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "斷絕。",
+          "quote": [
+            "《孟子．離婁下》：「君子之澤，五世而斬。」",
+            "《戰國策．秦策三》：「北斬太行之道，則上黨之兵不下。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhǎn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "斤",
+  "stroke_count": 11,
+  "title": "斬"
+}

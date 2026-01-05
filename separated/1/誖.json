@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄟˋ",
+      "definitions": [
+        {
+          "def": "違背。",
+          "quote": [
+            "《漢書．卷九七．外戚傳下．孝成趙皇后傳》：「殘滅繼嗣以危宗廟，誖天犯祖，無為天下母之義。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "迷惑。",
+          "quote": [
+            "《漢書．卷六二．司馬遷傳》：「愍學者不達其意而師誖，乃論六家之要。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bèi"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "言",
+  "stroke_count": 14,
+  "title": "誖"
+}

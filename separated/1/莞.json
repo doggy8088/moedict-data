@@ -1,0 +1,64 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄢˇ",
+      "definitions": [
+        {
+          "def": "參見「莞爾」條。"
+        }
+      ],
+      "pinyin": "wǎn"
+    },
+    {
+      "bopomofo": "ㄍㄨㄢ",
+      "definitions": [
+        {
+          "def": "植物名。莎草科莞屬，多年生草本。生於池沼、澤畔。莖高約二公尺，下部有褐色的鱗狀葉片。夏天開淡褐色小花。莖可用來編織器物。",
+          "link": [
+            "也稱為「水蔥」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用莞織成的蓆子。",
+          "quote": [
+            "《詩經．小雅．斯干》：「下莞上簟，乃安斯寢。」",
+            "漢．鄭玄．箋：「莞，小蒲之蓆也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如三國時吳國有莞恭。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "guān"
+    },
+    {
+      "bopomofo": "ㄍㄨㄢˇ",
+      "definitions": [
+        {
+          "def": "東莞：縣名。位於大陸地區廣東省廣州市東南，東江下游。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "guǎn"
+    },
+    {
+      "bopomofo": "ㄨㄢ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「豌」。"
+          ]
+        }
+      ],
+      "pinyin": "wān"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "艸",
+  "stroke_count": 11,
+  "title": "莞"
+}

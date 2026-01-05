@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥˋ　ㄈㄢˋ",
+      "definitions": [
+        {
+          "def": "犯重罪的人。",
+          "example": [
+            "如：「他是本案重犯。」"
+          ]
+        }
+      ],
+      "pinyin": "zhòng fàn"
+    },
+    {
+      "bopomofo": "ㄔㄨㄥˊ　ㄈㄢˋ",
+      "definitions": [
+        {
+          "def": "同一種錯誤，犯了又犯。"
+        }
+      ],
+      "pinyin": "chóng fàn"
+    }
+  ],
+  "title": "重犯"
+}

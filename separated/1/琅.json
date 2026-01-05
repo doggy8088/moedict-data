@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄤˊ",
+      "definitions": [
+        {
+          "def": "參見「琅玕」條。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如春秋時齊國有琅過。",
+          "type": "名"
+        },
+        {
+          "def": "潔白的。",
+          "quote": [
+            "唐．皮日休〈奉和魯望白菊〉詩：「已過重陽半月天，琅華千點照寒煙。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "láng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "玉",
+  "stroke_count": 11,
+  "title": "琅"
+}

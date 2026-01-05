@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄠ",
+      "definitions": [
+        {
+          "def": "不好、壞。",
+          "example": [
+            "如：「孬運」。"
+          ],
+          "quote": [
+            "《字彙．子部》：「孬，不好也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "懦弱、無膽識。",
+          "example": [
+            "如：「孬種」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "nāo"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "子",
+  "stroke_count": 10,
+  "title": "孬"
+}

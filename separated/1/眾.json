@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥˋ",
+      "definitions": [
+        {
+          "def": "許多的人。",
+          "example": [
+            "如：「群眾」、「觀眾」。"
+          ],
+          "quote": [
+            "《左傳．隱公四年》：「眾叛親離，難以濟矣。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "平凡的、普通的。",
+          "example": [
+            "如：「芸芸眾生」。"
+          ],
+          "quote": [
+            "《楚辭．屈原．漁父》：「眾人皆醉我獨醒。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "許多的。",
+          "example": [
+            "如：「眾多」。"
+          ],
+          "quote": [
+            "唐．杜甫〈望嶽〉詩：「會當凌絕頂，一覽眾山小。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhòng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "目",
+  "stroke_count": 11,
+  "title": "眾"
+}

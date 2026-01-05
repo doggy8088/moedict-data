@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄜˊ",
+      "definitions": [
+        {
+          "def": "譴責。",
+          "example": [
+            "如：「指謫」。"
+          ],
+          "quote": [
+            "《左傳．成公十七年》：「國子謫我。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "古代官吏降職調任。",
+          "example": [
+            "如：「謫仕」、「貶謫」。"
+          ],
+          "quote": [
+            "宋．范仲淹〈岳陽樓記〉：「滕子京謫守巴陵郡。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "罪過。",
+          "quote": [
+            "《老子．第二十三章》：「善行無轍跡，善言無瑕謫。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhé"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "言",
+  "stroke_count": 18,
+  "title": "謫"
+}

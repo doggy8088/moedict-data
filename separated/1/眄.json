@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "斜視。",
+          "quote": [
+            "《樂府詩集．卷三九．相和歌辭十四．古辭．豔歌行》：「語卿且勿眄，水清石自清。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "泛指望、看。",
+          "quote": [
+            "唐．李冶〈感興〉詩：「仰看明月翻含意，俯眄流波欲寄詞。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "miǎn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "目",
+  "stroke_count": 9,
+  "title": "眄"
+}

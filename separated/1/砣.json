@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "石製的碾輪。",
+          "example": [
+            "如：「碾砣」。"
+          ],
+          "quote": [
+            "《字彙．石部》：「砣，碾輪石也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "古代拋擲遊戲用的磚塊。",
+          "link": [
+            "同「堶」。"
+          ],
+          "quote": [
+            "《集韻．平聲．戈韻》：「堶，飛磚戲也。或作砣。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "秤錘。",
+          "example": [
+            "如：「秤砣」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tuó"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "石",
+  "stroke_count": 10,
+  "title": "砣"
+}

@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢˋ",
+      "definitions": [
+        {
+          "def": "深厚。",
+          "example": [
+            "如：「精湛」、「工夫湛深」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "清澈、清楚。",
+          "quote": [
+            "宋．蘇軾〈行香子．一葉舟輕〉詞：「一葉舟輕，雙槳鴻驚。水天清，影湛波平。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "姓。如晉代有湛方生。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhàn"
+    },
+    {
+      "bopomofo": "ㄉㄢ",
+      "definitions": [
+        {
+          "def": "快樂。",
+          "quote": [
+            "《詩經．小雅．鹿鳴》：「鼓瑟鼓琴，和樂且湛。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "dān"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "水",
+  "stroke_count": 12,
+  "title": "湛"
+}

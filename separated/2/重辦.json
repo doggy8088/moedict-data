@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥˋ　ㄅㄢˋ",
+      "definitions": [
+        {
+          "def": "嚴厲處分。",
+          "quote": [
+            "《文明小史．第四二回》：「凡是此等書一概不准販來銷售，倘有不遵，店則封禁，人則重辦。」"
+          ],
+          "synonyms": "嚴懲"
+        }
+      ],
+      "pinyin": "zhòng bàn"
+    },
+    {
+      "bopomofo": "ㄔㄨㄥˊ　ㄅㄢˋ",
+      "definitions": [
+        {
+          "def": "再度辦理、重新辦理。"
+        }
+      ],
+      "pinyin": "chóng bàn"
+    }
+  ],
+  "title": "重辦"
+}

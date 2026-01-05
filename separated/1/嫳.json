@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "性子急且易怒。",
+          "quote": [
+            "《說文解字．女部》：「嫳，易使怒也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "輕薄的樣子。",
+          "example": [
+            "如：「嫳屑」。"
+          ],
+          "quote": [
+            "《廣韻．入聲．屑韻》：「嫳，輕薄之貌。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "piè"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "女",
+  "stroke_count": 14,
+  "title": "嫳"
+}

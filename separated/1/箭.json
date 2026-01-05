@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "武器名。即矢。一種搭在弓上發射的武器。",
+          "example": [
+            "如：「鳴箭」、「一箭雙雕」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「箭竹」條。",
+          "type": "名"
+        },
+        {
+          "def": "量詞。古代計算距離的單位。",
+          "example": [
+            "如：「一箭之地」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "快速。",
+          "example": [
+            "如：「一個箭步追了上去！」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jiàn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "竹",
+  "stroke_count": 15,
+  "title": "箭"
+}

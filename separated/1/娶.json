@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（語音）ㄑㄩˇ",
+      "definitions": [
+        {
+          "def": "男子迎接女子過門成親。",
+          "example": [
+            "如：「嫁娶」、「娶老婆」、「娶妻娶德」。"
+          ],
+          "quote": [
+            "南朝宋．劉義慶《世說新語．文學》：「裴散騎娶王太尉女。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "（語音）qǔ"
+    },
+    {
+      "bopomofo": "（讀音）ㄑㄩˋ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。"
+        }
+      ],
+      "pinyin": "（讀音）qù"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "女",
+  "stroke_count": 11,
+  "title": "娶"
+}

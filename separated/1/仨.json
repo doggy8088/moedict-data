@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄚ",
+      "definitions": [
+        {
+          "def": "北方方言。指三個，使用時不必接量詞「個」。",
+          "example": [
+            "如：「哥兒仨」、「他們仨人買了仨大西瓜回來，累得滿頭大汗。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "sā"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "人",
+  "stroke_count": 5,
+  "title": "仨"
+}

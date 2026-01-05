@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄟˋ",
+      "definitions": [
+        {
+          "def": "參見「玳瑁」條。"
+        }
+      ],
+      "pinyin": "mèi"
+    },
+    {
+      "bopomofo": "ㄇㄠˋ",
+      "definitions": [
+        {
+          "def": "古代天子接見諸侯所執的玉。",
+          "quote": [
+            "明．張自烈《正字通．玉部》：「諸侯即位，天子賜以命圭，圭上邪銳，瑁方四寸，其下亦邪刻之，闊狹長短如圭頭，諸侯執圭來朝，天子以瑁之刻處，冒彼圭頭，以齊瑞信，猶今之合符然。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mào"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "玉",
+  "stroke_count": 13,
+  "title": "瑁"
+}

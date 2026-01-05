@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄠ",
+      "definitions": [
+        {
+          "def": "形容老虎的吼聲。",
+          "quote": [
+            "《玉篇．犬部》：「猇，虎欲齧人聲也。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "粗俗、粗野。",
+          "quote": [
+            "《紅樓夢．第八七回》：「兼之猇聲狺語，旦暮無休。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiāo"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "犬",
+  "stroke_count": 11,
+  "title": "猇"
+}

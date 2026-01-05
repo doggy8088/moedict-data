@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄢ",
+      "definitions": [
+        {
+          "def": "愚笨、痴傻。",
+          "example": [
+            "如：「憨痴」、「憨笑」。"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "天真、樸實。",
+          "example": [
+            "如：「憨直」、「憨厚」、「憨態」、「憨狀可掬」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "hān"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "心",
+  "stroke_count": 16,
+  "title": "憨"
+}

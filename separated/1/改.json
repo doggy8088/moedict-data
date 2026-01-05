@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄞˇ",
+      "definitions": [
+        {
+          "def": "修改、修正錯誤。",
+          "example": [
+            "如：「批改」、「改衣服」、「朝令夕改」、「知錯能改，善莫大　焉。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "姓。如秦代有改產。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǎi"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "攴",
+  "stroke_count": 7,
+  "title": "改"
+}

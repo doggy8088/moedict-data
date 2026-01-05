@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄣˋ",
+      "definitions": [
+        {
+          "def": "以手按壓。",
+          "example": [
+            "如：「摁電鈴」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "扣住、阻止。",
+          "example": [
+            "如：「這件事多虧你給摁住了，才沒有鬧得不可收拾。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "èn"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "手",
+  "stroke_count": 13,
+  "title": "摁"
+}

@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄟˋ",
+      "definitions": [
+        {
+          "def": "從眼睛流出來的液體。",
+          "example": [
+            "如：「流淚」、「落淚」。"
+          ],
+          "link": [
+            "俗稱為「眼淚」、「淚水」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lèi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "水",
+  "stroke_count": 11,
+  "title": "淚"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "戳穿、刺扎。",
+          "example": [
+            "如：「捅穿」、「捅破」、「他被捅了好幾下。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "說穿、揭露。",
+          "example": [
+            "如：「他將所有的事情都捅了出來。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "招惹。",
+          "example": [
+            "如：「捅漏子」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tǒng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "手",
+  "stroke_count": 10,
+  "title": "捅"
+}

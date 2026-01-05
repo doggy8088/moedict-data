@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄣ",
+      "definitions": [
+        {
+          "def": "將零星的事物綴合，使相連屬。",
+          "example": [
+            "如：「拼版」、「拼圖」、「東拼西湊」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "豁出去。",
+          "example": [
+            "如：「拼死」、「拼到底」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pīn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "手",
+  "stroke_count": 9,
+  "title": "拼"
+}

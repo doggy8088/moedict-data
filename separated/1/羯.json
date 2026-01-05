@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "被閹割過的羊。",
+          "quote": [
+            "漢．蔡琰〈胡笳十八拍〉：「羯羶為味兮，枉遏我情。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "中國古代西北的民族之一。為匈奴的別支。魏晉時約分布於今大陸地區山西潞城附近各縣。",
+          "link": [
+            "也稱為「羯胡」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jié"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "羊",
+  "stroke_count": 15,
+  "title": "羯"
+}

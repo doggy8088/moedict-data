@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "支撐。",
+          "example": [
+            "如：「這堵危牆，應該戧上兩根木頭。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「戧金」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiàng"
+    },
+    {
+      "bopomofo": "ㄑㄧㄤ",
+      "definitions": [
+        {
+          "def": "逆、不順。",
+          "example": [
+            "如：「戧風」、「戧口」、「戧轍兒走」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "意見牴觸、不合。",
+          "quote": [
+            "《儒林外史．第四三回》：「幾句就同雷太守說戧了。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "qiāng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "戈",
+  "stroke_count": 14,
+  "title": "戧"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄠ",
+      "definitions": [
+        {
+          "def": "惆悵失意。",
+          "quote": [
+            "《莊子．天地》：「怊乎若嬰兒之失其母。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "悲傷。",
+          "quote": [
+            "《楚辭．屈原．九章．哀郢》：「發郢都而去閭兮，怊荒忽其焉極。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chāo"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "心",
+  "stroke_count": 8,
+  "title": "怊"
+}

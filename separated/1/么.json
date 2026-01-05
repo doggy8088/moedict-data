@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄠ",
+      "definitions": [
+        {
+          "def": "細小。參見「么麼」條。",
+          "type": "形"
+        },
+        {
+          "def": "排行最小的。",
+          "example": [
+            "如：「么妹」、「么叔」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "一的別稱。",
+          "example": [
+            "如：「么二三……。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有么謙。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yāo"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "丿",
+  "stroke_count": 3,
+  "title": "么"
+}

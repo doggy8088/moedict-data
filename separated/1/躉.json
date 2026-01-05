@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄣˇ",
+      "definitions": [
+        {
+          "def": "整批的購入。",
+          "example": [
+            "如：「現躉現賣」。"
+          ],
+          "quote": [
+            "《里語徵實．卷上．一字徵實》引《人生要覽》：「貴時卸丟，賤時躉。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "成批的。",
+          "example": [
+            "如：「躉售」、「躉買」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "dǔn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "足",
+  "stroke_count": 20,
+  "title": "躉"
+}

@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨ　ㄇㄧㄢˋ",
+      "definitions": [
+        {
+          "antonyms": "口頭",
+          "def": "用文字表達。",
+          "example": [
+            "如：「書面意見」、「書面記錄」。"
+          ]
+        },
+        {
+          "def": "書的封面。",
+          "example": [
+            "如：「這本書的書面設計相當別出心裁。」"
+          ]
+        }
+      ],
+      "pinyin": "shū miàn"
+    }
+  ],
+  "title": "書面"
+}

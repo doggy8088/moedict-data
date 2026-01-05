@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧ",
+      "definitions": [
+        {
+          "def": "治療病痛的人。",
+          "link": [
+            "通「醫」。"
+          ],
+          "quote": [
+            "《漢書．卷五四．蘇建傳》：「衛律驚，自抱持武，馳召毉  。」",
+            "漢．桓寬《鹽鐵論．周秦》：「吏不以多斷為良，毉不以多刺為工。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yī"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "殳",
+  "stroke_count": 18,
+  "title": "毉"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄥ",
+      "definitions": [
+        {
+          "def": "形容心跳聲。",
+          "example": [
+            "如：「緊張得連怦怦的心跳聲都聽得見。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "忠誠的。",
+          "quote": [
+            "《楚辭．宋玉．九辯》：「私自憐兮何極，心怦怦兮諒直。」",
+            "宋．洪興祖．補注：「怦，一曰忠謹貌。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pēng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "心",
+  "stroke_count": 8,
+  "title": "怦"
+}

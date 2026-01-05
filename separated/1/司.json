@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙ",
+      "definitions": [
+        {
+          "def": "掌管。",
+          "example": [
+            "如：「職司」、「司儀」、「各司其事」。"
+          ],
+          "quote": [
+            "《文選．陸機．文賦》：「辭程才以效伎，意司契而為匠。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "中央機關各部以下的組織單位。",
+          "example": [
+            "如：「外交部禮賓司」、「教育部社會教育司」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有司超。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "sī"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "口",
+  "stroke_count": 5,
+  "title": "司"
+}

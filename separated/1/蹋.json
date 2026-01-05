@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄚˋ",
+      "definitions": [
+        {
+          "def": "腳著地或踩物。",
+          "link": [
+            "通「踏」。"
+          ],
+          "quote": [
+            "清．汪兆鏞〈憶舊游．隱林梢半角〉詞：「隱林梢半角，危榭荒臺，蹋碎涼煙。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「蹧蹋」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "tà"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "足",
+  "stroke_count": 17,
+  "title": "蹋"
+}

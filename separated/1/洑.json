@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "迴流、漩渦。",
+          "quote": [
+            "北魏．酈道元《水經注．沔水注》：「夏水急盛，川多湍洑。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "潛流在地下的。",
+          "example": [
+            "如：「洑流」。"
+          ],
+          "quote": [
+            "唐．李頎〈與諸公遊濟瀆泛舟〉詩：「洑泉數眼沸，平地流清通。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "游泳、泅水。",
+          "example": [
+            "如：「洑上水」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "fú"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洑"
+}

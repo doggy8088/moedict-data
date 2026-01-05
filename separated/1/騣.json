@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄨㄥ",
+      "definitions": [
+        {
+          "def": "馬冠。",
+          "quote": [
+            "《玉篇．馬部》：「騣，金騣，馬冠也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "馬頸上的長毛。",
+          "link": [
+            "同「鬃」。"
+          ],
+          "quote": [
+            "南朝梁．簡文帝〈豔歌行〉二首之一：「金鞍隨繫尾，銜巢映纏騣。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zōng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "馬",
+  "stroke_count": 19,
+  "title": "騣"
+}

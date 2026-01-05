@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄠˊ",
+      "definitions": [
+        {
+          "def": "空中水蒸氣遇冷凝結成的冰粒或冰塊。此種粒塊直徑達五公釐或以上，常伴夏季暴雨降下。",
+          "link": [
+            "也稱為「冰雹」、「雹子」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "投擲、拍打。",
+          "link": [
+            "通「撲」。"
+          ],
+          "quote": [
+            "《敦煌變文集新書．卷五．孟姜女變文》：「姜女自雹哭黃天，只恨賢夫亡太早。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "báo"
+    },
+    {
+      "bopomofo": "（又音）ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）bó"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "雨",
+  "stroke_count": 13,
+  "title": "雹"
+}

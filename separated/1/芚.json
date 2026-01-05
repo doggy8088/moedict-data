@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄣˊ",
+      "definitions": [
+        {
+          "def": "一種蔬菜，類似莧菜。",
+          "quote": [
+            "《玉篇．艸部》：「芚，菜。似莧，可食。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "草木初生的樣子。",
+          "quote": [
+            "《集韻．平聲．魂韻》：「芚，木始生貌。」",
+            "漢．揚雄《法言．寡見》：「春木之芚兮，援我手之鶉兮。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "tún"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "艸",
+  "stroke_count": 8,
+  "title": "芚"
+}

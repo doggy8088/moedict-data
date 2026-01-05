@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄢˊ",
+      "definitions": [
+        {
+          "def": "腹部為黃色的羊。",
+          "quote": [
+            "《說文解字．羊部》：「羳，黃腹羊也。」",
+            "明．李時珍《本草綱目．卷五○．獸部．黃羊》：「羳羊，《爾雅》謂之羳，出西番也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fán"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "羊",
+  "stroke_count": 18,
+  "title": "羳"
+}

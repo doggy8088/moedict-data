@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄤ",
+      "definitions": [
+        {
+          "def": "眼窩、眼睛的四周。",
+          "example": [
+            "如：「眼眶」、「熱淚盈眶」、「奪眶而出」。"
+          ],
+          "quote": [
+            "《列子．仲尼》：「矢注眸子而眶不睫。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kuāng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "目",
+  "stroke_count": 11,
+  "title": "眶"
+}

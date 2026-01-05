@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩˇ",
+      "definitions": [
+        {
+          "def": "呼氣、吹氣。見《玉篇．口部》。",
+          "quote": [
+            "《文選．王襃．聖主得賢臣頌》：「何必偃仰詘信若彭祖，呴噓呼吸如喬松。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "張口哈氣使對方溫潤。",
+          "quote": [
+            "《莊子．天運》：「相呴以溼，相濡以沫。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xǔ"
+    },
+    {
+      "bopomofo": "ㄏㄡ",
+      "definitions": [
+        {
+          "def": "喉中所發出的聲音。",
+          "quote": [
+            "《集韻．平聲．侯韻》：「呴，喉中聲也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "hōu"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "口",
+  "stroke_count": 8,
+  "title": "呴"
+}

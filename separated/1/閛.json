@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄥ",
+      "definitions": [
+        {
+          "def": "形容開、關門的聲音。",
+          "quote": [
+            "漢．揚雄《法言．問道》：「開之廓然見四海，閉之閛然不睹牆之裡。」",
+            "《聊齋志異．卷一一．陳雲棲》：「但見室門閛然而合。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "pēng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "門",
+  "stroke_count": 13,
+  "title": "閛"
+}

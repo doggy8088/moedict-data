@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄣˇ",
+      "definitions": [
+        {
+          "def": "織。",
+          "quote": [
+            "《集韻．上聲．混韻》：「綑，織也。」",
+            "《墨子．非樂上》：「多治麻絲葛緒綑布縿。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "用繩子拴綁。",
+          "quote": [
+            "《紅樓夢．第七一回》：「等過了這幾日，綑了送到那府裡憑大嫂子開發。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kǔn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "糸",
+  "stroke_count": 13,
+  "title": "綑"
+}

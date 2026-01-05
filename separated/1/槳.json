@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄤˇ",
+      "definitions": [
+        {
+          "def": "划船時，在船旁撥水前進的用具。粗長的稱為「櫓」，短小的稱為「槳」。",
+          "example": [
+            "如：「船槳」。"
+          ],
+          "quote": [
+            "宋．蘇軾〈赤壁賦〉：「桂棹兮蘭槳，擊空明兮泝流光。」",
+            "宋．張耒〈海州道中〉詩：「孤舟夜行秋水廣，秋風滿帆不搖槳。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiǎng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "木",
+  "stroke_count": 15,
+  "title": "槳"
+}

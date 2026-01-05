@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄨˇ",
+      "definitions": [
+        {
+          "def": "廣大的。",
+          "quote": [
+            "《詩經．大雅．公劉》：「瞻彼溥原，迺陟南岡。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "普遍。",
+          "link": [
+            "同「普」。"
+          ],
+          "quote": [
+            "《詩經．小雅．北山》：「溥天之下，莫非王土。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pǔ"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "水",
+  "stroke_count": 13,
+  "title": "溥"
+}

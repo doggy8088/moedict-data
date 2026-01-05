@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˊ",
+      "definitions": [
+        {
+          "def": "參見「蹢躅」條。"
+        }
+      ],
+      "pinyin": "zhí"
+    },
+    {
+      "bopomofo": "ㄉㄧˊ",
+      "definitions": [
+        {
+          "def": "獸蹄。",
+          "quote": [
+            "《詩經．小雅．漸漸之石》：「有豕白蹢，烝涉波矣。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dí"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "足",
+  "stroke_count": 18,
+  "title": "蹢"
+}

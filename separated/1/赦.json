@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄜˋ",
+      "definitions": [
+        {
+          "def": "寬免應得的刑罰。",
+          "example": [
+            "如：「大赦」、「特赦」、「十惡不赦」。"
+          ],
+          "quote": [
+            "《文選．丘遲．與陳伯之書》：「聖朝赦罪責功，棄瑕錄用，推赤心於天下，安反側於萬物。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "姓。如明代有赦敬。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shè"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "赤",
+  "stroke_count": 11,
+  "title": "赦"
+}

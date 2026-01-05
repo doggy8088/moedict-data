@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄚ",
+      "definitions": [
+        {
+          "def": "參見「髽髻」條。",
+          "type": "名"
+        },
+        {
+          "def": "古代婦女在守喪期間把麻布加在頭髮裡挽成髻。",
+          "quote": [
+            "《左傳．襄公四年》：「國人逆喪者皆髽  ，魯於是乎始髽。」",
+            "《儀禮．士喪禮》：「婦人髽于室。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhuā"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "髟",
+  "stroke_count": 17,
+  "title": "髽"
+}

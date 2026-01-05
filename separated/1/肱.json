@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄥ",
+      "definitions": [
+        {
+          "def": "胳膊。或單指肩臂相連處至腕的部分。",
+          "quote": [
+            "《左傳．定公十三年》：「三折肱知為良醫。」",
+            "《論語．述而》：「飯疏食飲水，曲肱而枕之，樂亦在其中矣！」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gōng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "肉",
+  "stroke_count": 8,
+  "title": "肱"
+}

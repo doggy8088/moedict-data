@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄡ",
+      "definitions": [
+        {
+          "def": "胡說。",
+          "example": [
+            "如：「瞎謅」、「滿口胡謅」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "編造。",
+          "quote": [
+            "《儒林外史．第一一回》：「閒暇也教他謅幾句詩，以為笑話。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zōu"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "言",
+  "stroke_count": 17,
+  "title": "謅"
+}

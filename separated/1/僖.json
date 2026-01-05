@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧ",
+      "definitions": [
+        {
+          "def": "喜樂。",
+          "quote": [
+            "《說文解字．人部》：「僖，樂也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "諡號。",
+          "example": [
+            "如：「魯僖公」、「晉僖公」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如春秋時曹國有僖負羈。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "xī"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "人",
+  "stroke_count": 14,
+  "title": "僖"
+}

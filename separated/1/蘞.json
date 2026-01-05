@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "參見「白蘞」條。"
+        }
+      ],
+      "pinyin": "liàn"
+    },
+    {
+      "bopomofo": "ㄌㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "一種枝葉繁盛細密的草。",
+          "quote": [
+            "《詩經．唐風．葛生》：「葛生蒙楚，蘞蔓于野。」",
+            "孔穎達正義引陸機曰：「蘞似栝樓，葉盛而細，其子正黑如燕薁，不可食也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lián"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "艸",
+  "stroke_count": 21,
+  "title": "蘞"
+}

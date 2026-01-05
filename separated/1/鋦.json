@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩˊ",
+      "definitions": [
+        {
+          "def": "鋦子，兩端彎曲的鐵釘，用來固定建材，或接補有裂縫的器具。",
+          "example": [
+            "如：「鐵鋦」。"
+          ],
+          "link": [
+            "也稱為「抓釘」、「鉤釘」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "（curium，Cm）化學元素。原子序96。金屬元素之一。銀白色，具放射性。化性活潑，正電性較鋁為強。為已知元素中最重的元素，可利用連環反應堆製而成。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jú"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "金",
+  "stroke_count": 15,
+  "title": "鋦"
+}

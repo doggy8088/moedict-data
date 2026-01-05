@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄥ",
+      "definitions": [
+        {
+          "def": "集中精神或目光，注意的看。",
+          "example": [
+            "如：「盯住他，別讓他跑了！」、「他盯著電視螢光幕看，一步也不肯離開，深怕錯過精彩的情節。」"
+          ],
+          "link": [
+            "通「釘」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dīng"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "目",
+  "stroke_count": 7,
+  "title": "盯"
+}

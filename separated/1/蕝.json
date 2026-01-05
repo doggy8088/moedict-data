@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "古代朝會時，紮束茅草，豎立以表示位次。",
+          "quote": [
+            "《說文解字．艸部》：「蕝，朝會束茅表位曰蕝。」",
+            "《國語．晉語八》：「置茅蕝，設望表。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jué"
+    },
+    {
+      "bopomofo": "（又音）ㄗㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）zuì"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "艸",
+  "stroke_count": 16,
+  "title": "蕝"
+}

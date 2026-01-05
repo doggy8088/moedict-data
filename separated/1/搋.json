@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄞ",
+      "definitions": [
+        {
+          "def": "藏。",
+          "example": [
+            "如：「把錢搋進褲袋裡。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "用力搓揉。",
+          "example": [
+            "如：「搋衣服。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chuāi"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "手",
+  "stroke_count": 13,
+  "title": "搋"
+}

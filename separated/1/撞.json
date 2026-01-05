@@ -1,0 +1,54 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（語音）ㄓㄨㄤˋ",
+      "definitions": [
+        {
+          "def": "敲打。",
+          "example": [
+            "如：「撞鐘」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "碰擊。",
+          "example": [
+            "如：「撞車」、「撞傷」、「相撞」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "爭執、起衝突。",
+          "example": [
+            "如：「那兩人一言不和，便衝撞起來了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "碰巧遇到。",
+          "example": [
+            "如：「撞見」、「擇期不如撞期」。"
+          ],
+          "quote": [
+            "元．喬吉《金錢記．第二折》：「我待要趕時，不想撞著哥哥賀知章。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "（語音）zhuàng"
+    },
+    {
+      "bopomofo": "（讀音）ㄔㄨㄤˊ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。"
+        }
+      ],
+      "pinyin": "（讀音）chuáng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "手",
+  "stroke_count": 15,
+  "title": "撞"
+}

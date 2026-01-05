@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "澆。",
+          "example": [
+            "如：「淋溼」、「淋雨」。"
+          ],
+          "quote": [
+            "唐．韓愈〈石鼓歌〉：「雨淋日炙野火燎，鬼物守護煩撝呵。」",
+            "《紅樓夢．第三○回》：「讓我隔著門縫兒瞧瞧，可開就開，要不可開，叫他淋著去。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lín"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "水",
+  "stroke_count": 11,
+  "title": "淋"
+}

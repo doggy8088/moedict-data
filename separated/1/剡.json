@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "削尖。",
+          "quote": [
+            "《易經．繫辭下》：「弦木為弧，剡木為矢。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "舉、抬。",
+          "quote": [
+            "《荀子．彊國》：「安欲剡其脛而以蹈秦之腹。」",
+            "《漢書．卷四八．賈誼傳》：「發忿快志，剡手以衝仇人之匈。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "尖銳、銳利。",
+          "example": [
+            "如：「剡鋒」、「剡利」、「剡耜」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yǎn"
+    },
+    {
+      "bopomofo": "ㄕㄢˋ",
+      "definitions": [
+        {
+          "def": "參見「剡溪」條。"
+        }
+      ],
+      "pinyin": "shàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "刀",
+  "stroke_count": 10,
+  "title": "剡"
+}

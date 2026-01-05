@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "武器名。兩面有刃，中間有脊，下有握柄。",
+          "example": [
+            "如：「利劍」。"
+          ],
+          "quote": [
+            "唐．李白〈古風〉詩五九首之一六：「寶劍雙蛟龍，雪花照芙蓉。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算揮劍次數的單位。",
+          "example": [
+            "如：「他身上共中了七劍。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiàn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "刀",
+  "stroke_count": 15,
+  "title": "劍"
+}

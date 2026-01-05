@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄥˊ",
+      "definitions": [
+        {
+          "def": "顯露。",
+          "example": [
+            "如：「呈現」、「面呈紅潤」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "奉上。",
+          "example": [
+            "如：「謹呈」、「呈獻」、「呈上」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "舊時凡下級對上級的呈請或報告均用呈。現行公文則是對總統有所呈請或報告時用之。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "chéng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "口",
+  "stroke_count": 7,
+  "title": "呈"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "獨木橋。",
+          "quote": [
+            "唐．李商隱〈和鄭愚贈汝陽王孫家箏妓二十韻〉：「長彴壓河心，白道連地尾。」",
+            "宋．蘇軾〈同王勝之遊蔣山〉詩：「略彴橫秋水，浮圖插暮煙。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhuó"
+    },
+    {
+      "bopomofo": "ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "參見「彴約」條。"
+        }
+      ],
+      "pinyin": "bó"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "彳",
+  "stroke_count": 6,
+  "title": "彴"
+}

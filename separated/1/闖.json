@@ -1,0 +1,71 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄣˋ",
+      "definitions": [
+        {
+          "def": "馬馳出門外的樣子。",
+          "quote": [
+            "《說文解字．門部》：「闖，馬出門貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "出頭的樣子。",
+          "quote": [
+            "《公羊傳．哀公六年》：「開之則闖然公子陽生也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "chèn"
+    },
+    {
+      "bopomofo": "ㄔㄨㄤˋ",
+      "definitions": [
+        {
+          "def": "撞。",
+          "example": [
+            "如：「他騎車把我闖倒了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chuàng"
+    },
+    {
+      "bopomofo": "ㄔㄨㄤˇ",
+      "definitions": [
+        {
+          "def": "猛衝。",
+          "example": [
+            "如：「往裡闖」、「橫衝直闖」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "歷練、奔走謀生。",
+          "example": [
+            "如：「闖江湖」。"
+          ],
+          "quote": [
+            "《儒林外史．第一回》：「見那闖學堂的書客，就買幾本舊書。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "突然發生、意外引起。",
+          "example": [
+            "如：「闖禍」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chuǎng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "門",
+  "stroke_count": 18,
+  "title": "闖"
+}

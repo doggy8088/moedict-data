@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧ",
+      "definitions": [
+        {
+          "def": "用熱水沖泡。",
+          "example": [
+            "如：「沏茶」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qī"
+    },
+    {
+      "bopomofo": "ㄑㄩ",
+      "definitions": [
+        {
+          "def": "一種烹飪方法。用熱油或羹湯澆淋在菜餚上。",
+          "example": [
+            "如：「沏油」、「沏鍋巴」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "用水撲滅。",
+          "example": [
+            "如：「把香火兒沏了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qū"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "水",
+  "stroke_count": 7,
+  "title": "沏"
+}

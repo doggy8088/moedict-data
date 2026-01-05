@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄢ",
+      "definitions": [
+        {
+          "def": "欺詐。",
+          "quote": [
+            "《公羊傳．襄公二十五年》：「曷為不言入于衛，諼君以弒也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "忘記。",
+          "quote": [
+            "《詩經．衛風．考槃》：「獨寐寤言，永矢弗諼。」",
+            "唐．白居易〈贈元稹〉詩：「之子異於是，久要誓不諼。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xuān"
+    },
+    {
+      "bopomofo": "ㄕㄨㄢˋ",
+      "definitions": [
+        {
+          "def": "戲弄、說謊開玩笑。",
+          "example": [
+            "如：「他出帖請客，主人卻爽約不到，把人給諼了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shuàn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "言",
+  "stroke_count": 16,
+  "title": "諼"
+}

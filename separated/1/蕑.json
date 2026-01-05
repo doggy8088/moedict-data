@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢ",
+      "definitions": [
+        {
+          "def": "蘭草。",
+          "quote": [
+            "《詩經．鄭風．溱洧》：「士與女，方秉蕑兮。」",
+            "漢．毛亨．傳：「蕑，蘭也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有蕑忌。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiān"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "艸",
+  "stroke_count": 16,
+  "title": "蕑"
+}

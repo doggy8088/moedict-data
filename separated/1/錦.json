@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄣˇ",
+      "definitions": [
+        {
+          "def": "一種色彩鮮豔、有各種花紋圖案的絲織品。",
+          "example": [
+            "如：「文錦」、「蜀錦」。"
+          ],
+          "quote": [
+            "《荀子．賦》：「雜布與錦，不知異也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有錦被。",
+          "type": "名"
+        },
+        {
+          "def": "美麗鮮明。",
+          "example": [
+            "如：「錦霞」、「錦雲」、「錦箋」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "比喻花樣繁多。",
+          "example": [
+            "如：「什錦」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jǐn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "金",
+  "stroke_count": 16,
+  "title": "錦"
+}

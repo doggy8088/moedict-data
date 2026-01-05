@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔ",
+      "definitions": [
+        {
+          "def": "用鞭或竹板打。",
+          "example": [
+            "如：「鞭笞」。"
+          ],
+          "quote": [
+            "《墨子．魯問》：「譬有人於此，其子強梁不材，故其父笞之。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "古代一種用竹板鞭打的刑罰。",
+          "quote": [
+            "《新唐書．卷五六．刑法志》：「其用刑有五：一曰笞。笞之為言恥也；凡過之小者，捶撻以恥之。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chī"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "竹",
+  "stroke_count": 11,
+  "title": "笞"
+}

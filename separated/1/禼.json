@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "一種昆蟲。",
+          "quote": [
+            "《說文解字．禸部》：「禼，蟲也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "人名。",
+          "link": [
+            "「契」的古字。"
+          ],
+          "quote": [
+            "《廣韻．入聲．薛韻》：「禼，殷祖也，或作偰，又作契。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiè"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "禸",
+  "stroke_count": 12,
+  "title": "禼"
+}

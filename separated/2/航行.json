@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄤˊ　ㄒㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "船在水上行走。",
+          "example": [
+            "如：「在航道上航行的船隻。」"
+          ]
+        },
+        {
+          "def": "飛機在空中飛行。",
+          "example": [
+            "如：「這架飛機已航行了一萬公里。」"
+          ],
+          "synonyms": "飛行"
+        }
+      ],
+      "pinyin": "háng xíng"
+    }
+  ],
+  "title": "航行"
+}

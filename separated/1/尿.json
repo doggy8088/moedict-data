@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "人或動物經腎臟析出，由尿道排泄的液體。即小便。",
+          "example": [
+            "如：「溺尿」、「撒尿」、「他們嚇得屁滾尿流，落荒而逃。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "排尿。",
+          "example": [
+            "如：「尿床」、「嬰兒沒生病卻哭鬧得厲害時，通常不是肚子餓，就是把尿布尿溼了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "niào"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "尸",
+  "stroke_count": 7,
+  "title": "尿"
+}

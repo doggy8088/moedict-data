@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "大聲的笑。",
+          "example": [
+            "如：「便發一噱」、「令人發噱」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "笑。",
+          "quote": [
+            "唐．皮日休〈吳中苦雨因書一百韻寄魯望〉詩：「入門且抵掌，大噱時碌碌。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jué"
+    },
+    {
+      "bopomofo": "ㄒㄩㄝ",
+      "definitions": [
+        {
+          "def": "令人發笑的。",
+          "example": [
+            "如：「噱頭」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xuē"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "口",
+  "stroke_count": 16,
+  "title": "噱"
+}

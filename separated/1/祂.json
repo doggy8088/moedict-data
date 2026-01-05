@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄚ",
+      "definitions": [
+        {
+          "def": "西方宗教在華傳教時，用作對上帝、耶穌等的第三人稱代名詞。",
+          "example": [
+            "如：「祂就是真理，信祂得永生。」"
+          ],
+          "type": "代"
+        },
+        {
+          "def": "泛指一般神明的第三人稱代名詞。",
+          "type": "代"
+        }
+      ],
+      "pinyin": "tā"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "示",
+  "stroke_count": 8,
+  "title": "祂"
+}

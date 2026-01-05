@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄢˇ",
+      "definitions": [
+        {
+          "def": "地名。即今大陸地區河南省陝縣，周初為周公、召公分治的界限。",
+          "type": "名"
+        },
+        {
+          "def": "大陸地區陝西省的簡稱。",
+          "example": [
+            "如：「陝北」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有陝通。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shǎn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "阜",
+  "stroke_count": 10,
+  "title": "陝"
+}

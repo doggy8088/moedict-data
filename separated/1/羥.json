@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄤˇ",
+      "definitions": [
+        {
+          "def": "一種由氫、氧原子組成的原子團。參見「羥基」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiǎng"
+    },
+    {
+      "bopomofo": "ㄎㄥ",
+      "definitions": [
+        {
+          "def": "一種羊。",
+          "quote": [
+            "《說文解字．羊部》：「羊名也，从羊巠聲。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kēng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "羊",
+  "stroke_count": 13,
+  "title": "羥"
+}

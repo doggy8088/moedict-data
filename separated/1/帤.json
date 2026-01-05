@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨˊ",
+      "definitions": [
+        {
+          "def": "大巾。",
+          "quote": [
+            "漢．揚雄《方言．卷四》：「大巾謂之帉。嵩嶽之南，陳、潁之間謂之帤，亦 謂之幪。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "破舊的布、巾。",
+          "link": [
+            "通「袽」。"
+          ],
+          "quote": [
+            "唐．白居易〈喜照密閑實四上人見過〉詩：「臭帤世界終須出，香火因緣久願同。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "rú"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "巾",
+  "stroke_count": 9,
+  "title": "帤"
+}

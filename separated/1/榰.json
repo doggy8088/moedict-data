@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓ",
+      "definitions": [
+        {
+          "def": "基石、柱腳。",
+          "quote": [
+            "《說文解字．木部》：「榰，柱氐也，古用木，今以石。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "支撐。",
+          "quote": [
+            "《爾雅．釋言》：「榰，柱也。」",
+            "唐．孟郊〈懷南岳隱士〉詩二首之二：「楓梩搘酒甕，鶴蝨落琴床。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhī"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "木",
+  "stroke_count": 14,
+  "title": "榰"
+}

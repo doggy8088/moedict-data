@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄠˋ",
+      "definitions": [
+        {
+          "def": "上位者告諭下位者。",
+          "quote": [
+            "《易經．姤卦．象曰》：「天下有風，姤，后以施命誥四方。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "文體名。古代用來告誡他人的文字，後成為君王諭令臣下的專用文體。如：「康誥」 、「洛誥」、「酒誥」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gào"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "言",
+  "stroke_count": 14,
+  "title": "誥"
+}

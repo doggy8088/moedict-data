@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "花言巧語的。",
+          "quote": [
+            "《書經．秦誓》：「惟截截善諞言，俾君子易辭。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "自誇、誇耀。",
+          "quote": [
+            "元．關漢卿《陳母教子．第二折》：「我勸這世上人休把這口忒諞過了。  」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pián"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）piǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "言",
+  "stroke_count": 16,
+  "title": "諞"
+}

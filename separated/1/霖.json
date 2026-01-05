@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "連續下三天以上的雨稱為「霖」。",
+          "example": [
+            "如：「久旱逢甘霖」。"
+          ],
+          "quote": [
+            "《說文解字．雨部》：「霖，凡雨，三日已往為霖。」",
+            "唐．元稹〈桐花〉詩：「商弦廉以臣，臣作旱天霖。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lín"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "雨",
+  "stroke_count": 16,
+  "title": "霖"
+}

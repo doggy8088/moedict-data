@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧ",
+      "definitions": [
+        {
+          "def": "參見「霹靂」條。",
+          "type": "名"
+        },
+        {
+          "def": "雷擊劈折。",
+          "example": [
+            "如：「電擊雷霹」。"
+          ],
+          "quote": [
+            "唐．杜甫〈敬寄族弟唐十八使君〉詩：「雷霆霹長松，骨大卻生筋。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pī"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "雨",
+  "stroke_count": 21,
+  "title": "霹"
+}

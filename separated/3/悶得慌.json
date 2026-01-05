@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄣˋ　˙ㄉㄜ　˙ㄏㄨㄤ",
+      "definitions": [
+        {
+          "def": "非常煩悶。",
+          "example": [
+            "如：「近日獨居斗室，心裡著實悶得慌。」"
+          ]
+        }
+      ],
+      "pinyin": "mèn de huang"
+    },
+    {
+      "bopomofo": "ㄇㄣ　˙ㄉㄜ　˙ㄏㄨㄤ",
+      "definitions": [
+        {
+          "def": "心情煩悶得無法忍受。",
+          "example": [
+            "如：「一連下了好多天雨，只能乖乖待在屋裡，什麼事也不能做，真悶得慌。」"
+          ]
+        }
+      ],
+      "pinyin": "mēn de huang"
+    }
+  ],
+  "title": "悶得慌"
+}

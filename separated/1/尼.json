@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧˊ",
+      "definitions": [
+        {
+          "def": "本是梵語陰性語尾。如比丘尼、沙彌尼。漢語用來泛稱出家女眾。",
+          "example": [
+            "如：「僧尼」、「削髮為尼」。"
+          ],
+          "quote": [
+            "《聊齋志異．卷五．武技》：「纔一交手，尼便呵止。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有尼養德。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "ní"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "尸",
+  "stroke_count": 5,
+  "title": "尼"
+}

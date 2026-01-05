@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄠ",
+      "definitions": [
+        {
+          "def": "弓鬆弛的樣子。",
+          "quote": [
+            "《詩經．小雅．彤弓》：「彤弓弨兮，受言藏之。」",
+            "漢．毛亨．傳：「弨，弛貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "弓。",
+          "quote": [
+            "唐．韓愈〈雪後寄崔二十六丞公〉詩：「腦脂遮眼臥壯士，大弨挂壁無由彎。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chāo"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "弓",
+  "stroke_count": 8,
+  "title": "弨"
+}

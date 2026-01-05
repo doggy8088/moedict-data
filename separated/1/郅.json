@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˋ",
+      "definitions": [
+        {
+          "def": "極、至、最。",
+          "quote": [
+            "《史記．卷一一七．司馬相如傳》：「文王改制，爰周郅隆。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "姓。如漢代有郅奇、郅惲。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "邑",
+  "stroke_count": 9,
+  "title": "郅"
+}

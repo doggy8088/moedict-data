@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄢ",
+      "definitions": [
+        {
+          "def": "細長形的棍狀物。",
+          "example": [
+            "如：「欄杆」、「旗杆」、「球杆」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算揮杆次數的單位。",
+          "example": [
+            "如：「共打了一百三十二杆。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gān"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "木",
+  "stroke_count": 7,
+  "title": "杆"
+}

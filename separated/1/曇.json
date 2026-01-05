@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄢˊ",
+      "definitions": [
+        {
+          "def": "雲氣布於天空。",
+          "quote": [
+            "《廣韻．平聲．覃韻》：「曇，雲布。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "雲氣。",
+          "quote": [
+            "元．曾瑞〈罵玉郎過感皇恩採茶歌．長天遠水秋光淡〉曲：「暮雲曇，曉山嵐 ，六合為我一茅庵。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "胡語音譯。與梵語dharma對等，為法的意思。",
+          "example": [
+            "如：「阿毗曇」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tán"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "日",
+  "stroke_count": 16,
+  "title": "曇"
+}

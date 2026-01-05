@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「蠍」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄏㄜˊ",
+      "definitions": [
+        {
+          "def": "蝕木的蛀蟲。",
+          "quote": [
+            "三國魏．嵇康〈答向子期難養生論〉：「故蝎盛則木朽，欲勝則身枯。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "hé"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "虫",
+  "stroke_count": 15,
+  "title": "蝎"
+}

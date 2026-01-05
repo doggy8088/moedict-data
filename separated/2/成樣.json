@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄥˊ　ㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "成體統。",
+          "example": [
+            "如：「這次事情辦得很成樣兒。」"
+          ]
+        }
+      ],
+      "pinyin": "chéng yàng"
+    },
+    {
+      "bopomofo": "ㄔㄥˊ　˙ㄧㄤ",
+      "definitions": [
+        {
+          "def": "製造品的零件皆已作成，最後加以組合裝配成成品，稱為「成樣」。",
+          "example": [
+            "如：「把這雙鞋成樣起來。」"
+          ]
+        }
+      ],
+      "pinyin": "chéng yang"
+    }
+  ],
+  "title": "成樣"
+}

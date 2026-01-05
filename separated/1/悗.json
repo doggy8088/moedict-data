@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄢˊ",
+      "definitions": [
+        {
+          "def": "困惑。《呂氏春秋．審分覽．審分》:「夫說以智通，而實以過悗。」",
+          "type": "形"
+        },
+        {
+          "def": "煩躁鬱悶。",
+          "quote": [
+            "《黃帝素問靈樞經．卷六．五亂》：「清濁相干，亂于胸中，是謂大悗。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "mán"
+    },
+    {
+      "bopomofo": "ㄇㄣˇ",
+      "definitions": [
+        {
+          "def": "忘情的樣子。",
+          "quote": [
+            "《莊子．大宗師》：「悗乎忘其言。」",
+            "《韓非子．忠孝》：「古者黔首悗密蠢愚。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "měn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "悗"
+}

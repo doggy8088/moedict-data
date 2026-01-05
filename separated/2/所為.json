@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨㄛˇ　ㄨㄟˊ",
+      "definitions": [
+        {
+          "def": "舉動、行為。",
+          "example": [
+            "如：「他在外所為與我無關。」"
+          ]
+        }
+      ],
+      "pinyin": "suǒ wéi"
+    },
+    {
+      "bopomofo": "ㄙㄨㄛˇ　ㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "原因。",
+          "example": [
+            "如：「所為何事？」"
+          ]
+        }
+      ],
+      "pinyin": "suǒ wèi"
+    }
+  ],
+  "title": "所為"
+}

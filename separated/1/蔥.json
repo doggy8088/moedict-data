@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄨㄥ",
+      "definitions": [
+        {
+          "def": "植物名。石蒜科蔥屬，多年生草本。葉呈管狀，中空，先端尖，有平行脈，下部白色  。頂端開白色小花，集成球狀。可作為蔬菜、香辛料用。",
+          "link": [
+            "也稱為「青蔥」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「蔥翠」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "cōng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "艸",
+  "stroke_count": 15,
+  "title": "蔥"
+}

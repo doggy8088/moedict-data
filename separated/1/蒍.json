@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "一種草。",
+          "quote": [
+            "《說文解字．艸部》：「蒍，艸也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "地名。春秋時楚國的邑城。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如春秋時楚有蒍賈。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "wěi"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "艸",
+  "stroke_count": 13,
+  "title": "蒍"
+}

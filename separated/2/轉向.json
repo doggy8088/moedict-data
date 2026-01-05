@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄢˇ　ㄒㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "改變方向。",
+          "example": [
+            "如：「颱風已經轉向，遠離本省了。」"
+          ]
+        }
+      ],
+      "pinyin": "zhuǎn xiàng"
+    },
+    {
+      "bopomofo": "ㄓㄨㄢˋ　ㄒㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "迷失方向。",
+          "example": [
+            "如：「暈頭轉向」。"
+          ]
+        }
+      ],
+      "pinyin": "zhuàn xiàng"
+    }
+  ],
+  "title": "轉向"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "一種毒蛇。",
+          "quote": [
+            "《爾雅．釋魚》：「蝮、虺、博三寸，首大如擘。」",
+            "宋．邢昺．疏：「案：舍人曰：『蝮，一名虺。江、淮以南曰蝮，江、淮以北曰虺。』孫炎曰：『江、淮以南謂虺為蝮，廣三寸，頭如拇指，有六鯦毒。』」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "huǐ"
+    },
+    {
+      "bopomofo": "ㄏㄨㄟ",
+      "definitions": [
+        {
+          "def": "參見「虺隤」條。"
+        }
+      ],
+      "pinyin": "huī"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "虫",
+  "stroke_count": 9,
+  "title": "虺"
+}

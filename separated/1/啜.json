@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "吃、喝。",
+          "example": [
+            "如：「啜飲」、「啜粥」。"
+          ],
+          "quote": [
+            "《說文解字．口部》：「啜，嘗也。」",
+            "宋．陸游〈睡鄉〉詩：「有酒君勿啜，入腸作戈矛。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "哭泣。",
+          "quote": [
+            "南朝梁．江淹〈齊太祖高皇帝誄〉：「睇千乘之共啜，盼萬騎之相泫。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chuò"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "口",
+  "stroke_count": 11,
+  "title": "啜"
+}

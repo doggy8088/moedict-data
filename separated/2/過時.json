@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄛˋ　ㄕˊ",
+      "definitions": [
+        {
+          "antonyms": "流行,合時,時髦,時興",
+          "def": "陳舊而不合時宜。",
+          "example": [
+            "如：「他穿了一套過時的西裝。」"
+          ]
+        },
+        {
+          "def": "過了時間。",
+          "example": [
+            "如：「速食店為確保品質，食物過時即丟棄。」"
+          ],
+          "synonyms": "過期"
+        }
+      ],
+      "pinyin": "guò shí"
+    }
+  ],
+  "title": "過時"
+}

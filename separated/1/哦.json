@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄜˊ",
+      "definitions": [
+        {
+          "def": "吟唱、吟詠。",
+          "quote": [
+            "唐．韓愈〈藍田縣丞廳壁記〉：「對樹二松，日哦其間。」",
+            "宋．楊萬里〈雨夜〉詩：「歲晚能無感，詩成只獨哦。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "é"
+    },
+    {
+      "bopomofo": "ㄛˊ",
+      "definitions": [
+        {
+          "def": "表驚悟或領會的語氣。",
+          "example": [
+            "如：「哦！您就是孫先生。」、「哦！我明白了。」"
+          ],
+          "type": "歎"
+        }
+      ],
+      "pinyin": "ó"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "口",
+  "stroke_count": 10,
+  "title": "哦"
+}

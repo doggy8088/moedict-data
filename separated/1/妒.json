@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨˋ",
+      "definitions": [
+        {
+          "def": "因別人勝過自己而內心忌恨。",
+          "example": [
+            "如：「妒忌」。"
+          ],
+          "quote": [
+            "《列子．說符》：「爵高者人妒之，官人者主惡之。」",
+            "《文選．鄒陽．獄中上書自明》：「故女無美惡，入宮見妒，士無賢不肖，入朝見嫉。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dù"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "女",
+  "stroke_count": 7,
+  "title": "妒"
+}

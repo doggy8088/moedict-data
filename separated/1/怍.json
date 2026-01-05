@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "慚愧。",
+          "example": [
+            "如：「愧怍」。"
+          ],
+          "quote": [
+            "《孟子．盡心上》：「仰不愧於天，俯不怍於人。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "面色改變。",
+          "quote": [
+            "《管子．弟子職》：「危坐鄉師，顏色毋怍。」",
+            "《宋書．卷六九．范曄傳》：「仍以手擊曄頸及頰，曄顏色不怍。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zuò"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "心",
+  "stroke_count": 8,
+  "title": "怍"
+}

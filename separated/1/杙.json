@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˋ",
+      "definitions": [
+        {
+          "def": "小木椿。",
+          "quote": [
+            "《左傳．襄公十七年》：「（臧堅）以杙抉其傷而死。」",
+            "《南史．卷六七．程靈洗傳》：「齊人並下大柱為杙，柵水中。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "栓、繫。",
+          "quote": [
+            "宋．姜夔〈昔遊〉詩：「杙船遂登岸，急買野家酒。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yì"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "木",
+  "stroke_count": 7,
+  "title": "杙"
+}

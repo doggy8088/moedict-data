@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "侍從。",
+          "quote": [
+            "《玉篇．人部》：「傔，侍從也。」",
+            "《新唐書．卷一三五．封常清傳》：「嘗出軍，奏傔從三十餘人。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "滿足。",
+          "quote": [
+            "《呂氏春秋．季秋紀．知士》：「揆吾家苟可以傔劑貌辨者，吾無辭為也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiàn"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "人",
+  "stroke_count": 12,
+  "title": "傔"
+}

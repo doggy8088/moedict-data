@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "雕刻用的刀。",
+          "quote": [
+            "《廣韻．入聲．月韻》：「劂，刻刀。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "雕刻。",
+          "quote": [
+            "唐．張皓〈藏冰賦〉：「不劘不劂，如磋如切。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jué"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "刀",
+  "stroke_count": 14,
+  "title": "劂"
+}

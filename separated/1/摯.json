@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˋ",
+      "definitions": [
+        {
+          "def": "誠懇。",
+          "example": [
+            "如：「誠摯」、「真摯」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "凶狠。",
+          "link": [
+            "通「鷙」。"
+          ],
+          "quote": [
+            "《禮記．曲禮上》：「前有摯獸，則載貔貅。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "古代初次見面時所送的禮物。",
+          "link": [
+            "通「贄」。"
+          ],
+          "quote": [
+            "《禮記．郊特牲》：「執摯以相見。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如晉代有摯虞。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhì"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "手",
+  "stroke_count": 15,
+  "title": "摯"
+}

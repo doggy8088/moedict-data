@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧˊ",
+      "definitions": [
+        {
+          "def": "爛。",
+          "link": [
+            "通「糜」。"
+          ],
+          "quote": [
+            "《說文解字．火部》：「爢，爛也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "碎末。",
+          "quote": [
+            "《楚辭．屈原．離騷》：「折瓊枝以為羞兮，精瓊爢以為粻。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mí"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "火",
+  "stroke_count": 23,
+  "title": "爢"
+}

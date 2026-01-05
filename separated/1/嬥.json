@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "身材修長而美好。",
+          "quote": [
+            "《說文解字．女部》：「嬥，直好貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "古代流行在巴蜀一帶的歌舞。",
+          "quote": [
+            "《集韻．上聲．筱韻》：「嬥，一曰巴歌。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "跳舞。",
+          "quote": [
+            "《文選．左思．魏都賦》：「或明發而嬥歌，或浮泳而卒歲。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tiǎo"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "女",
+  "stroke_count": 17,
+  "title": "嬥"
+}

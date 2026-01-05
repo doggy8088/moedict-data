@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "瞳仁黝黑的樣子。",
+          "quote": [
+            "《廣韻．平聲．仙韻》：「矊，瞳子黑。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "含情脈脈的樣子。",
+          "quote": [
+            "《楚辭．宋玉．招魂》：「靡顏膩理，遺視矊些。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "mián"
+    },
+    {
+      "bopomofo": "（又音）ㄇㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）miǎn"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "目",
+  "stroke_count": 19,
+  "title": "矊"
+}

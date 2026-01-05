@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨˋ",
+      "definitions": [
+        {
+          "def": "用泥土等做成人、物的形狀。",
+          "example": [
+            "如：「泥塑」、「雕塑」。"
+          ],
+          "quote": [
+            "《兒女英雄傳．第六回》：「那時一定重修廟宇，再塑金身。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "陶冶、培養。",
+          "example": [
+            "如：「塑造形象」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sù"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "土",
+  "stroke_count": 13,
+  "title": "塑"
+}

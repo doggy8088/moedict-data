@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨˋ",
+      "definitions": [
+        {
+          "def": "古代捕魚用的竹柵。",
+          "quote": [
+            "唐．戴叔倫〈留別道州李使君圻〉詩：「漁滬擁寒溜，畬田落遠燒。」",
+            "宋．陸游〈村舍〉詩：「潮生漁滬短，風起鴨船斜。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "大陸地區上海市的簡稱。",
+          "example": [
+            "如：「京滬鐵路」、「滬杭甬鐵路」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "hù"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "水",
+  "stroke_count": 14,
+  "title": "滬"
+}

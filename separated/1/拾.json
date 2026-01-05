@@ -1,0 +1,64 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕˊ",
+      "definitions": [
+        {
+          "def": "撿取、拿起。",
+          "example": [
+            "如：「拾穗」、「拾人牙慧」、「拾金不昧」。"
+          ],
+          "quote": [
+            "《史記．卷四七．孔子世家》：「塗不拾遺。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "收集、收斂、整理。",
+          "example": [
+            "如：「把房間收拾乾淨。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "射韝，古代射箭時所用的皮製護袖。",
+          "link": [
+            "也稱為「遂」。"
+          ],
+          "quote": [
+            "《詩經．小雅．車攻》：「決拾既佽，弓矢既調。」",
+            "漢．毛亨．傳：「決，鉤弦也。拾，遂也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "十的大寫。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shí"
+    },
+    {
+      "bopomofo": "ㄕ",
+      "definitions": [
+        {
+          "def": "參見「拾翻」條。"
+        }
+      ],
+      "pinyin": "shī"
+    },
+    {
+      "bopomofo": "ㄕㄜˋ",
+      "definitions": [
+        {
+          "def": "參見「拾級」條。"
+        }
+      ],
+      "pinyin": "shè"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "手",
+  "stroke_count": 9,
+  "title": "拾"
+}

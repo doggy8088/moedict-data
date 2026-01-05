@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˊ",
+      "definitions": [
+        {
+          "def": "黏土。",
+          "quote": [
+            "《書經．禹貢》：「厥土赤埴，墳草木漸包。」",
+            "《荀子．性惡》：「故陶人埏埴而為器，然則器生於工人之偽，非故生於人之性也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "土地。",
+          "quote": [
+            "漢．揚雄《法言．修身》：「擿埴索塗，冥行而已。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhí"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "土",
+  "stroke_count": 11,
+  "title": "埴"
+}

@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄥˇ",
+      "definitions": [
+        {
+          "def": "直馳、奔跑。",
+          "example": [
+            "如：「馳騁」。"
+          ],
+          "quote": [
+            "《詩經．小雅．節南山》：「我瞻四方，蹙蹙靡所騁。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "施展、放開。",
+          "example": [
+            "如：「騁志」、「騁辭」。"
+          ],
+          "quote": [
+            "《荀子．天論》：「因物而多之，孰與騁能而化之？」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chěng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "馬",
+  "stroke_count": 17,
+  "title": "騁"
+}

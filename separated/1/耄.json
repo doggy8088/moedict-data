@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄠˋ",
+      "definitions": [
+        {
+          "def": "年老。",
+          "quote": [
+            "《國語．周語下》：「爾老耄矣。」",
+            "宋．宋濂〈送東陽馬生序〉：「今雖耄老，未有所成，猶幸預君子之列，而承天子之寵光。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "昏亂。",
+          "quote": [
+            "《書經．微子》：「吾家耄遜于荒。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "mào"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "老",
+  "stroke_count": 10,
+  "title": "耄"
+}

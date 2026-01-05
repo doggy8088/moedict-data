@@ -1,0 +1,62 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "閉目。",
+          "example": [
+            "如：「死不瞑目」。"
+          ],
+          "quote": [
+            "《晉書．卷九四．楊軻傳》：「潁川荀鋪，好奇之士也，造而談經，軻瞑目不答。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "昏暗。",
+          "quote": [
+            "唐．李白〈涇川送族弟錞〉詩：「望極落日盡，秋深瞑猿悲。」",
+            "宋．陸游〈風雲晝晦夜遂大雪〉詩：「草木盡偃伏，道路瞑不分。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "míng"
+    },
+    {
+      "bopomofo": "ㄇㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "參見「瞑眩」條。"
+        }
+      ],
+      "pinyin": "miàn"
+    },
+    {
+      "bopomofo": "（又音）ㄇㄧㄥˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）mǐng"
+    },
+    {
+      "bopomofo": "ㄇㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "睡，同「眠」。",
+          "quote": [
+            "《文選．嵇康．養生論》：「內懷殷憂，則達旦不瞑。」"
+          ]
+        }
+      ],
+      "pinyin": "mián"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "目",
+  "stroke_count": 15,
+  "title": "瞑"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄢˋ",
+      "definitions": [
+        {
+          "def": "跳躍。",
+          "quote": [
+            "清．洪昇《長生殿．第一七齣》：「馬蹄兒潑剌剌旋風赸。」",
+            "徐朔方．注：「赸，跳躍。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "離開、散去。",
+          "quote": [
+            "元．王實甫《西廂記．第三本．第二折》：「你也赸，我也赸；請先生休訕，早尋個酒闌人散。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shàn"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "走",
+  "stroke_count": 10,
+  "title": "赸"
+}

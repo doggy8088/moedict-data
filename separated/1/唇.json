@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「脣」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄓㄣ",
+      "definitions": [
+        {
+          "def": "驚駭。",
+          "quote": [
+            "《說文解字．口部》：「唇，驚也，從口辰聲。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhēn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "口",
+  "stroke_count": 10,
+  "title": "唇"
+}

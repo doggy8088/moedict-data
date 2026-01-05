@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄨㄥˋ",
+      "definitions": [
+        {
+          "def": "用竹葉等包裹糯米和作料，蒸煮熟的角形食品。俗稱為「粽子」。通常在端午節時包食。如：「鹼粽」、「鹹粽」。也稱為「角黍」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zòng"
+    },
+    {
+      "bopomofo": "（又音）ㄓㄨㄥˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）zhòng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "米",
+  "stroke_count": 14,
+  "title": "粽"
+}

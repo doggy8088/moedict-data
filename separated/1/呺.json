@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄠ",
+      "definitions": [
+        {
+          "def": "外大而中空、虛大。",
+          "quote": [
+            "《集韻．平聲．宵韻》：「呺，呺然，虛大貌。」",
+            "《莊子．逍遙遊》：「非不呺然大也，吾為其無用而揞之。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiāo"
+    },
+    {
+      "bopomofo": "ㄏㄠˊ",
+      "definitions": [
+        {
+          "def": "號叫、吼叫。",
+          "quote": [
+            "《莊子．齊物論》：「是唯無作，作則萬竅怒呺。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "háo"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "口",
+  "stroke_count": 8,
+  "title": "呺"
+}

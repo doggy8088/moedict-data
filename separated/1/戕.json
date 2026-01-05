@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "殺害、傷害。",
+          "example": [
+            "如：「自戕」、「戕害」。"
+          ],
+          "quote": [
+            "《孟子．告子上》：「將戕賊杞柳，而後以為桮棬也。」",
+            "漢．曹操〈蒿里行〉：「勢利使人爭，嗣還自相戕。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiáng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "戈",
+  "stroke_count": 8,
+  "title": "戕"
+}

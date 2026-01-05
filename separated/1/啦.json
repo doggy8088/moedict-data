@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄚ",
+      "definitions": [
+        {
+          "def": "形容歌唱、歡呼時的聲音。",
+          "example": [
+            "如：「這首歌怎麼這麼多啦字，唱起來啦個不停。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "lā"
+    },
+    {
+      "bopomofo": "˙ㄌㄚ",
+      "definitions": [
+        {
+          "def": "了(．ㄌㄜ)、啊(．ㄚ)二字的合音，作用同「了」(．ㄌㄜ)，但語氣較重。",
+          "example": [
+            "如：「好啦！」、「他來啦！」、「別作夢啦！」。"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "la"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "口",
+  "stroke_count": 11,
+  "title": "啦"
+}

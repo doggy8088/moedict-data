@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "疾病。",
+          "example": [
+            "如：「小恙」、「別來無恙」。"
+          ],
+          "quote": [
+            "唐．陸龜蒙〈記事〉詩：「春歸迨秋末，固自嬰微恙。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "憂慮。",
+          "quote": [
+            "《史記．卷一一二．平津侯傳》：「君不幸罹霜露之病，何恙不已。」",
+            "唐．司馬貞．索隱：「恙，憂也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yàng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "恙"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧ",
+      "definitions": [
+        {
+          "def": "調味用的細碎辛辣食物或菜末。",
+          "quote": [
+            "元．關漢卿《望江亭．第一折》：「這出家的要餐松啗柏，熬齏受淡。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "粉碎。",
+          "example": [
+            "如：「齏骨粉身」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jī"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "齊",
+  "stroke_count": 23,
+  "title": "齏"
+}

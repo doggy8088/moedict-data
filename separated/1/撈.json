@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄠˊ",
+      "definitions": [
+        {
+          "def": "參見「撈什子」條。"
+        }
+      ],
+      "pinyin": "láo"
+    },
+    {
+      "bopomofo": "ㄌㄠ",
+      "definitions": [
+        {
+          "def": "從水中取出東西。",
+          "example": [
+            "如：「撈魚」、「撈蝦」、「打撈」。"
+          ],
+          "quote": [
+            "唐．舒元輿〈坊州按獄〉詩：「山禿逾高採，水窮益深撈。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "獲得、以不正當的手段取得。",
+          "example": [
+            "如：「撈油水」、「他趁機撈了一筆。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lāo"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "手",
+  "stroke_count": 15,
+  "title": "撈"
+}

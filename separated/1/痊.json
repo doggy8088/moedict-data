@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩㄢˊ",
+      "definitions": [
+        {
+          "def": "病除、康復。",
+          "example": [
+            "如：「痊癒」。"
+          ],
+          "quote": [
+            "南朝宋．謝靈運〈辨宗論．荅王衛軍問〉：「譬如藥驗者疾易痊。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "quán"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "疒",
+  "stroke_count": 11,
+  "title": "痊"
+}

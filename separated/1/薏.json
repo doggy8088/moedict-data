@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˋ",
+      "definitions": [
+        {
+          "def": "蓮子中心的胚芽，味甚苦。",
+          "quote": [
+            "《爾雅．釋草》：「荷，芙蕖，……，其實蓮，其根藕，其中的，的中薏。」",
+            "邢昺疏引陸璣曰：「的中有青為薏，味甚苦。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「薏苡」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yì"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "艸",
+  "stroke_count": 17,
+  "title": "薏"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙ",
+      "definitions": [
+        {
+          "def": "涼風。",
+          "quote": [
+            "唐．宋華〈蟬鳴〉詩：「肅肅爾庭，遠近涼颸。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "疾風。",
+          "quote": [
+            "唐．羅隱〈蟋蟀〉詩：「頑颸斃芳，吹愁夕長。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "sī"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "風",
+  "stroke_count": 18,
+  "title": "颸"
+}

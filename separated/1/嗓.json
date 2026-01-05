@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄤˇ",
+      "definitions": [
+        {
+          "def": "喉嚨。",
+          "example": [
+            "如：「他說話說的嗓子都啞了」。"
+          ],
+          "quote": [
+            "《兒女英雄傳．第二七回》：「嘴也說酸了，嗓子也說乾了。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "sǎng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "口",
+  "stroke_count": 13,
+  "title": "嗓"
+}

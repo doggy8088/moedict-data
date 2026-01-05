@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「趕」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄑㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "動物翹著尾巴跑。",
+          "quote": [
+            "《說文解字．走部》：「赶，舉尾走也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "馬奔馳。",
+          "quote": [
+            "《集韻．平聲．仙韻》：「赶，馬走。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qián"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "走",
+  "stroke_count": 10,
+  "title": "赶"
+}

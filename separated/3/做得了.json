@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄨㄛˋ　ㄉㄜˊ　˙ㄌㄜ",
+      "definitions": [
+        {
+          "def": "做成功、做好了。"
+        }
+      ],
+      "pinyin": "zuò dé le"
+    },
+    {
+      "bopomofo": "ㄗㄨㄛˋ　˙ㄉㄜ　ㄌㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "可以做、能做。",
+          "example": [
+            "如：「這點事我還做得了。」"
+          ]
+        }
+      ],
+      "pinyin": "zuò de liǎo"
+    }
+  ],
+  "title": "做得了"
+}

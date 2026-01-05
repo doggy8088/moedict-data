@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧˊ",
+      "definitions": [
+        {
+          "def": "化學上指由一個氧原子連結兩個烴基而成的有機化合物，多為液體。",
+          "example": [
+            "如：「乙醚」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mí"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "酉",
+  "stroke_count": 17,
+  "title": "醚"
+}

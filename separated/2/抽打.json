@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄡ　ㄉㄚˇ",
+      "definitions": [
+        {
+          "def": "鞭打。",
+          "example": [
+            "如：「他被鞭子抽打得渾身是傷。」"
+          ]
+        }
+      ],
+      "pinyin": "chōu dǎ"
+    },
+    {
+      "bopomofo": "ㄔㄡ　˙ㄉㄚ",
+      "definitions": [
+        {
+          "def": "輕輕拍打衣物除去附著的灰塵。",
+          "example": [
+            "如：「把我的衣服抽打抽打。」"
+          ]
+        }
+      ],
+      "pinyin": "chōu da"
+    }
+  ],
+  "title": "抽打"
+}

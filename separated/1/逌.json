@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "參見「逌然」、「逌爾」等條。",
+          "type": "形"
+        },
+        {
+          "def": "所。",
+          "link": [
+            "通「攸」。"
+          ],
+          "quote": [
+            "《漢書．卷二八．地理志上》：「漆、沮既從，酆水逌同。」",
+            "唐．顏師古．注：「逌，古攸字也。攸，所也。」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "yóu"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "辵",
+  "stroke_count": 11,
+  "title": "逌"
+}

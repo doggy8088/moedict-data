@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄜ",
+      "definitions": [
+        {
+          "def": "腋下。",
+          "quote": [
+            "《說文解字．肉部》：「胳，亦下也。」",
+            "清．段玉裁．注：「亦、腋，古今字。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "從肩膀到手的部分。",
+          "example": [
+            "如：「胳膊」、「胳臂」。"
+          ],
+          "link": [
+            "通「肐」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gē"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "肉",
+  "stroke_count": 10,
+  "title": "胳"
+}

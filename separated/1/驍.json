@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄠ",
+      "definitions": [
+        {
+          "def": "良馬。",
+          "quote": [
+            "《說文解字．馬部》：「驍，良馬也。」",
+            "《文選．顏延之．赭白馬賦》：「料武藝、品驍騰。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "勇武剛健。",
+          "example": [
+            "如：「驍勇」、「驍悍」。"
+          ],
+          "quote": [
+            "《史記．卷一○八．韓長孺傳》：「衛尉李廣為驍騎將軍。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiāo"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "馬",
+  "stroke_count": 22,
+  "title": "驍"
+}

@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄡˋ",
+      "definitions": [
+        {
+          "def": "教導、勸導。",
+          "example": [
+            "如：「誘導」、「諄諄善誘」。"
+          ],
+          "quote": [
+            "《論語．子罕》：「夫子循循然善誘人。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "用言語、行動來打動別人，使人上當。",
+          "example": [
+            "如：「引誘」、「誘惑」、「誘騙」。"
+          ],
+          "quote": [
+            "《書經．費誓》：「竊馬牛，誘臣妾，汝則有常刑！」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yòu"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "言",
+  "stroke_count": 14,
+  "title": "誘"
+}

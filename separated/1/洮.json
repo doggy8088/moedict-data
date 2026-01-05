@@ -1,0 +1,49 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄠˊ",
+      "definitions": [
+        {
+          "def": "盥洗。",
+          "quote": [
+            "《書經．顧命》：「甲子，王乃洮頮水。」",
+            "唐．孔穎達．正義：「頮是洗面，知洮為盥手。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "淘洗。",
+          "example": [
+            "如：「洮米」。"
+          ],
+          "link": [
+            "通「淘」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「洮河」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "táo"
+    },
+    {
+      "bopomofo": "ㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "湖泊名。位於大陸地區江蘇省溧陽、金壜兩縣境內。",
+          "link": [
+            "也稱為「長蕩湖」、「長塘湖」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yáo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洮"
+}

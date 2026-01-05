@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄚ",
+      "definitions": [
+        {
+          "def": "女性第三人稱。",
+          "example": [
+            "如：「她是我妹妹。」"
+          ],
+          "type": "代"
+        }
+      ],
+      "pinyin": "tā"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "女",
+  "stroke_count": 6,
+  "title": "她"
+}

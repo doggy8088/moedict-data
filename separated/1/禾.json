@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄜˊ",
+      "definitions": [
+        {
+          "def": "穀類植物的總稱。",
+          "quote": [
+            "《詩經．豳風．七月》：「十月納禾稼。」",
+            "唐．李紳〈古風〉詩二首之二：「鋤禾日當午，汗滴禾下土。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有禾實。",
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "hé"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "禾",
+  "stroke_count": 5,
+  "title": "禾"
+}

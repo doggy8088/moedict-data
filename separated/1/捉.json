@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄛ",
+      "definitions": [
+        {
+          "def": "握住、拿。",
+          "example": [
+            "如：「捉襟見肘」。"
+          ],
+          "quote": [
+            "南朝宋．劉義慶《世說新語．容止》：「自以形陋不足雄遠國，使崔季珪代，帝自捉刀立床頭。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "逮捕、抓住。",
+          "example": [
+            "如：「捕捉」、「活捉」、「捉賊」、「捕風捉影」、「貓捉老鼠」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "戲弄。",
+          "example": [
+            "如：「捉弄」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhuō"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "手",
+  "stroke_count": 10,
+  "title": "捉"
+}

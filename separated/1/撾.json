@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄚ",
+      "definitions": [
+        {
+          "def": "鞭打、敲擊。",
+          "example": [
+            "如：「撾鼓」。"
+          ],
+          "quote": [
+            "《聊齋志異．卷四．辛十四娘》：「仰見高閎，以策撾門。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "抓、抓住。",
+          "quote": [
+            "《西遊記．第三三回》：「就於雲端裡伸下手來，馬上撾人。」",
+            "《儒林外史．第一六回》：「撾著了這一件，掉了那一件。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhuā"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "手",
+  "stroke_count": 16,
+  "title": "撾"
+}

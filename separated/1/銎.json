@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩㄥ",
+      "definitions": [
+        {
+          "def": "斧上裝柄的部分。",
+          "quote": [
+            "《說文解字．金部》：「銎，斤斧穿也。」",
+            "清．段玉裁．注：「謂斤斧之孔所以受柄者。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "戈矛之類的刀刃下口。",
+          "quote": [
+            "《清史稿．卷一○○．樂志七》：「蓄銳淬戈銎，選堅製兜鍪。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiōng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "金",
+  "stroke_count": 14,
+  "title": "銎"
+}

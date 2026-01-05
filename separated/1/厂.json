@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄢˇ",
+      "definitions": [
+        {
+          "def": "山邊可以居住人的崖洞。",
+          "quote": [
+            "《說文解字．厂部》：「厂，山石之厓巖，人可居。」",
+            "清．段玉裁．注：「厓，山邊也；巖者，厓也；人可居者，謂其下可居也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "hǎn"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "厂",
+  "stroke_count": 2,
+  "title": "厂"
+}

@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "面對。",
+          "link": [
+            "通「向」。"
+          ],
+          "quote": [
+            "唐．柳宗元〈梓人傳〉：「或執斧斤，或執刀鋸，皆環立嚮之。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "傾向。",
+          "quote": [
+            "《史記．卷四七．孔子世家》：「雖不能至，然心嚮往之。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "引導。",
+          "example": [
+            "如：「嚮導」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xiàng"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "口",
+  "stroke_count": 18,
+  "title": "嚮"
+}

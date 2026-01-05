@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "參見「蝤蠐」條。",
+          "type": "名"
+        },
+        {
+          "def": "一種昆蟲。通「蝣」。參見「蜉蝣」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiú"
+    },
+    {
+      "bopomofo": "ㄐㄧㄡ",
+      "definitions": [
+        {
+          "def": "參見「蝤蛑」條。"
+        }
+      ],
+      "pinyin": "jiū"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "虫",
+  "stroke_count": 15,
+  "title": "蝤"
+}

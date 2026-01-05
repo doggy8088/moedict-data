@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄤ",
+      "definitions": [
+        {
+          "def": "繫在馬頸上的繩子。",
+          "example": [
+            "如：「韁繩」、「脫韁野馬」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiāng"
+    },
+    {
+      "bopomofo": "（又音）ㄍㄤ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）gāng"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "革",
+  "stroke_count": 22,
+  "title": "韁"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄛˊ　ㄓㄨㄥˋ",
+      "definitions": [
+        {
+          "antonyms": "忽視",
+          "def": "注重，側重某一方面。",
+          "example": [
+            "如：「著重語文訓練」。"
+          ],
+          "synonyms": "偏重,注重,重視,側重"
+        },
+        {
+          "def": "沉重。",
+          "example": [
+            "如：「他心情著重。」"
+          ]
+        }
+      ],
+      "pinyin": "zhuó zhòng"
+    }
+  ],
+  "title": "著重"
+}

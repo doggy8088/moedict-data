@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄡˊ",
+      "definitions": [
+        {
+          "def": "眼珠，眼睛裡的瞳仁。",
+          "example": [
+            "如：「眼眸」。"
+          ],
+          "quote": [
+            "宋．李清照〈鳳凰臺上憶吹簫．香冷金猊〉詞：「記取樓前綠水，應念我、終日凝眸。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "眼睛。",
+          "example": [
+            "如：「明眸皓齒」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "móu"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "目",
+  "stroke_count": 11,
+  "title": "眸"
+}

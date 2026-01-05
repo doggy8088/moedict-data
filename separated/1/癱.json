@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄢ",
+      "definitions": [
+        {
+          "def": "肢體發生麻痺現象。",
+          "example": [
+            "如：「自從中風以來，他左邊的身子整個都癱了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "躺坐。",
+          "example": [
+            "如：「走了半天的路，一回來，他整個人就癱在沙發上了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "極度疲倦，無法動彈。",
+          "example": [
+            "如：「我已經癱了，別再叫我做事了。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "參見「癱瘓」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "tān"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "疒",
+  "stroke_count": 24,
+  "title": "癱"
+}

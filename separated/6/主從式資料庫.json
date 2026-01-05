@@ -1,0 +1,14 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨˇ　ㄗㄨㄥˋ　ㄕˋ　ㄗ　ㄌㄧㄠˋ　ㄎㄨˋ",
+      "definitions": [
+        {
+          "def": "一種由前端及後端所構成的資料庫型態。為英語CLIENT/SEVER DATABASE 的義譯。前端通常是指使用者在工作站上操作的資枓庫應用程式，而後端則是資料庫伺服器。"
+        }
+      ],
+      "pinyin": "zhǔ zòng shì zī liào kù"
+    }
+  ],
+  "title": "主從式資料庫"
+}

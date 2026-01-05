@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "羞辱、汙蔑。",
+          "quote": [
+            "《詩經．小雅．小宛》：「夙興夜寐，毋忝爾所生。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "自稱的謙詞。有輕賤、侮辱的意思。",
+          "example": [
+            "如：「忝居」、「忝為人師」、「忝列門牆」。"
+          ],
+          "quote": [
+            "《西遊記．第九回》：「孩兒叨賴母親福庇，忝中狀元，欽賜遊街。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "tiǎn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "心",
+  "stroke_count": 8,
+  "title": "忝"
+}

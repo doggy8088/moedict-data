@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "河川名。為黃河支流，水道屢經變遷，今所稱汴水約在大陸地區河南省滎陽縣境。",
+          "link": [
+            "也稱為「汴河」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "大陸地區河南省省會開封的別稱。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有汴壽。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "biàn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "水",
+  "stroke_count": 7,
+  "title": "汴"
+}

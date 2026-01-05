@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄢˋ",
+      "definitions": [
+        {
+          "def": "沒有花紋圖案的絲綢。",
+          "quote": [
+            "漢．董仲舒《春秋繁露．度制》：「庶人衣縵。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "沒有裝飾的車子。",
+          "quote": [
+            "《國語．晉語五》：「乘縵、不舉，策於上帝。」",
+            "三國吳．韋昭．注：「縵，車無文。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "màn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "糸",
+  "stroke_count": 17,
+  "title": "縵"
+}

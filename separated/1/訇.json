@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄥ",
+      "definitions": [
+        {
+          "def": "形容巨大的聲音。",
+          "quote": [
+            "唐．李白〈夢遊天姥吟留別〉詩：「洞天石扇，訇然中開。」",
+            "唐．韓愈〈華山女〉詩：「不知誰人暗相報，訇然震動如雷霆。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "參見「阿訇」條。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如古代有訇琦。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "hōng"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "言",
+  "stroke_count": 9,
+  "title": "訇"
+}

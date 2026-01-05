@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄜˋ",
+      "definitions": [
+        {
+          "def": "意外相遇。",
+          "quote": [
+            "《爾雅．釋詁下》：「遻，見也。」",
+            "晉．郭璞．注：「行而相值即見。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "è"
+    },
+    {
+      "bopomofo": "ㄨˋ",
+      "definitions": [
+        {
+          "def": "牴觸、冒犯。",
+          "quote": [
+            "《列子．黃帝》：「死生驚懼，不入乎其胸，是故遻物而不慴。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "wù"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "辵",
+  "stroke_count": 16,
+  "title": "遻"
+}

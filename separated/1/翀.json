@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄥ",
+      "definitions": [
+        {
+          "def": "向上直飛。",
+          "quote": [
+            "《廣韻．平聲．東韻》：「翀，直上飛也。」",
+            "三國魏．杜摯〈贈毌丘荊州詩〉：「鵠飛舉萬里，一飛翀昊蒼。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chōng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "羽",
+  "stroke_count": 10,
+  "title": "翀"
+}

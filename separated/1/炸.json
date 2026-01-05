@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄚˋ",
+      "definitions": [
+        {
+          "def": "用火藥、炸彈等進行爆破。",
+          "example": [
+            "如：「炸山」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "東西爆裂。",
+          "example": [
+            "如：「爆炸」、「熱水瓶突然炸了！」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "突然發怒、生氣。",
+          "example": [
+            "如：「他聽見這話，登時炸了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhà"
+    },
+    {
+      "bopomofo": "ㄓㄚˊ",
+      "definitions": [
+        {
+          "def": "一種烹飪方法。把食物投入多量的沸油中，直至外皮成金黃色即可撈起。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhá"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "火",
+  "stroke_count": 9,
+  "title": "炸"
+}

@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥˋ　ㄉㄨˊ",
+      "definitions": [
+        {
+          "def": "將一個詞或一個詞組中的某些音節的音讀得強些、重些，稱為「重讀」。"
+        }
+      ],
+      "pinyin": "zhòng dú"
+    },
+    {
+      "bopomofo": "ㄔㄨㄥˊ　ㄉㄨˊ",
+      "definitions": [
+        {
+          "def": "重新再讀。",
+          "example": [
+            "如：「這篇文章請再重讀一遍好嗎？」"
+          ]
+        }
+      ],
+      "pinyin": "chóng dú"
+    }
+  ],
+  "title": "重讀"
+}

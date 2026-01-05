@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨˊ",
+      "definitions": [
+        {
+          "def": "鋤頭之類的農具。",
+          "quote": [
+            "《國語．齊語》：「惡金以鑄鉏、夷、斤、斸，試諸壤土。」",
+            "唐．韓愈〈鳳翔隴州節度使李公墓誌銘〉：「益市耕牛、鑄鎛、釤、鉏、斸，以給農之不能自具者。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "砍、斫。",
+          "example": [
+            "如：「斸稻」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhú"
+    }
+  ],
+  "non_radical_stroke_count": 21,
+  "radical": "斤",
+  "stroke_count": 25,
+  "title": "斸"
+}

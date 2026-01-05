@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄨㄛˋ　ㄈㄟˋ",
+      "definitions": [
+        {
+          "def": "廢棄。",
+          "example": [
+            "如：「這些破舊家具都該作廢了。」"
+          ]
+        },
+        {
+          "antonyms": "生效,作數",
+          "def": "表示無效。",
+          "example": [
+            "如：「身分證遺失，應登報聲明作廢。」"
+          ],
+          "synonyms": "取消"
+        }
+      ],
+      "pinyin": "zuò fèi"
+    }
+  ],
+  "title": "作廢"
+}

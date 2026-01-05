@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "照耀。",
+          "quote": [
+            "漢．王充《論衡．宣漢》：「燭燿齋宮，十有餘日。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "炫耀。",
+          "quote": [
+            "《淮南子．脩務》：「察於辭者，不可燿以名。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yào"
+    },
+    {
+      "bopomofo": "ㄩㄝˋ",
+      "definitions": [
+        {
+          "def": "銷鎔。",
+          "quote": [
+            "《漢書．卷三○．藝文志》：「後世燿金為刃，割革為甲，器械甚備。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yuè"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "火",
+  "stroke_count": 18,
+  "title": "燿"
+}

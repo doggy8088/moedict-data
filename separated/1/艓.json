@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "小船。",
+          "quote": [
+            "《宋書．卷七四．沈攸之傳》：「輕艓一萬，截其津要。」",
+            "唐．杜甫〈最能行〉：「富豪有錢駕大舸，貧窮取給行艓子。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dié"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "舟",
+  "stroke_count": 15,
+  "title": "艓"
+}

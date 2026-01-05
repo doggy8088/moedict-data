@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄢˋ",
+      "definitions": [
+        {
+          "def": "前臂與手掌相連的關節部位。",
+          "example": [
+            "如：「手腕」、「扼腕」。"
+          ],
+          "link": [
+            "也稱為「腕子」。"
+          ],
+          "quote": [
+            "《墨子．大取》：「斷指與斷腕，利於天下，相若無擇也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "wàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "肉",
+  "stroke_count": 12,
+  "title": "腕"
+}

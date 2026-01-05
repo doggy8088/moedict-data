@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨˇ",
+      "definitions": [
+        {
+          "def": "一種烹飪方法。用醬油、蔥、薑、酒等佐料，加水烹煮食物，使之入味。",
+          "example": [
+            "如：「滷蛋」、「滷牛肉」、「滷豆腐」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lǔ"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "水",
+  "stroke_count": 14,
+  "title": "滷"
+}

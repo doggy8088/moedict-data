@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄣ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「砧」。"
+          ]
+        }
+      ],
+      "pinyin": "zhēn"
+    },
+    {
+      "bopomofo": "ㄕㄣˋ",
+      "definitions": [
+        {
+          "def": "桑樹的果實。",
+          "quote": [
+            "晉．曹毗〈涉江賦〉：「紫蓮被翠波而抗英，碧椹乘天岸而星懸。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "木頭上所生的菌類。",
+          "quote": [
+            "北周．庾信〈對雨詩〉：「濕楊生細椹，爛草變初螢。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shèn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "木",
+  "stroke_count": 13,
+  "title": "椹"
+}

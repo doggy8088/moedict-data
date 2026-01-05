@@ -1,0 +1,43 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄤˋ",
+      "definitions": [
+        {
+          "def": "前往。",
+          "quote": [
+            "《說文解字．辵部》：「迋，往也。」",
+            "《左傳．襄公二十八年》：「君使子展迋勞於東門之外而傲。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "wàng"
+    },
+    {
+      "bopomofo": "ㄍㄨㄤˇ",
+      "definitions": [
+        {
+          "def": "欺騙。",
+          "quote": [
+            "《詩經．鄭風．揚之水》：「無信人之言，人實迋女。」",
+            "《左傳．定公十年》：「是我迋吾兄也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "恐懼。",
+          "quote": [
+            "《左傳．昭公二十一年》：「子無我迋，不幸而後亡。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "guǎng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "辵",
+  "stroke_count": 8,
+  "title": "迋"
+}

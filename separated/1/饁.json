@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "送飯給在田裡工作的人吃。",
+          "quote": [
+            "《詩經．豳風．七月》：「同我婦子，饁彼南畝，田畯至喜。」",
+            "《左傳．僖公三十三年》：「見冀缺耨，其妻饁之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yè"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "食",
+  "stroke_count": 18,
+  "title": "饁"
+}

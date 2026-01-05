@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄡˋ",
+      "definitions": [
+        {
+          "def": "表面有皺紋的紡織品。",
+          "example": [
+            "如：「湖縐」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "有皺紋的。",
+          "example": [
+            "如：「縐紗」、「縐布」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhòu"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "糸",
+  "stroke_count": 16,
+  "title": "縐"
+}

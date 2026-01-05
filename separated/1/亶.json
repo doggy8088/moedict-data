@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄢˇ",
+      "definitions": [
+        {
+          "def": "誠然、真實、實在。",
+          "quote": [
+            "《詩經．小雅．常棣》：「宜爾家室，樂爾妻帑。是究是圖，亶其然乎。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "姓。如漢代有亶誦。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "dǎn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "亠",
+  "stroke_count": 13,
+  "title": "亶"
+}

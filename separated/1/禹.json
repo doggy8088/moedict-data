@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˇ",
+      "definitions": [
+        {
+          "def": "傳說中的一種蟲。",
+          "quote": [
+            "《說文解字．禸部》：「禹，蟲也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "人名。夏代開國之君。相傳因治水有功，得舜讓位，立國為夏。",
+          "link": [
+            "也稱為「大禹」、「夏禹」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如金代有禹顯。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yǔ"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "禸",
+  "stroke_count": 9,
+  "title": "禹"
+}

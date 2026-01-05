@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˋ",
+      "definitions": [
+        {
+          "def": "才藝，專門的本領。",
+          "example": [
+            "如：「演技」、「絕技」、「雜技」、「口技」、「一技之長」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "工匠。",
+          "quote": [
+            "《荀子．富國》：「故百技所成，所以養一人也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jì"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "手",
+  "stroke_count": 7,
+  "title": "技"
+}

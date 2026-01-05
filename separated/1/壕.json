@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄠˊ",
+      "definitions": [
+        {
+          "def": "護城河。",
+          "quote": [
+            "《集韻．平聲．豪韻》：「壕，城下池，通作濠。」",
+            "唐．許渾〈故洛城〉詩：「鴉噪暮雲歸古堞，雁迷寒雨下空壕。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "戰場上所挖掘的深溝。",
+          "example": [
+            "如：「戰壕」、「防空壕」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "háo"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "土",
+  "stroke_count": 17,
+  "title": "壕"
+}

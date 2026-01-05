@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧˋ",
+      "definitions": [
+        {
+          "def": "結、結合、訂立。",
+          "example": [
+            "如：「締交」、「締約」、「締結」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "建立、建造。",
+          "example": [
+            "如：「締創」、「締造」。"
+          ],
+          "quote": [
+            "《西京雜記．卷六》：「（劉）歆欲撰漢書，編錄漢事，未得締構而亡。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "約束、制止。",
+          "example": [
+            "如：「取締不法商人。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dì"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "糸",
+  "stroke_count": 15,
+  "title": "締"
+}

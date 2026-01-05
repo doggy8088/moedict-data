@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄠˋ",
+      "definitions": [
+        {
+          "def": "祭壇四周的界域。",
+          "quote": [
+            "《說文解字．土部》：「垗，畔也，為四畔界，祭其中。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "葬地。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷九下．釋邱》：「垗，葬地也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhào"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "土",
+  "stroke_count": 9,
+  "title": "垗"
+}

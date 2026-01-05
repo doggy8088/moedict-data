@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄣˋ",
+      "definitions": [
+        {
+          "def": "不銳利。",
+          "example": [
+            "如：「鈍刀」、「鈍器」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "笨、呆、蠢。",
+          "example": [
+            "如：「遲鈍」、「愚鈍」、「魯鈍」。"
+          ],
+          "quote": [
+            "元．楊景賢《劉行首．第三折》：「休笑我妝鈍妝呆，看了幾千場柳凋花謝。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "dùn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "金",
+  "stroke_count": 12,
+  "title": "鈍"
+}

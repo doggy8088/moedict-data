@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄥ",
+      "definitions": [
+        {
+          "def": "樂器名。即大鐘。古代的一種懸吊樂器，敲擊發聲。祭祀時放在廟堂的西邊。",
+          "quote": [
+            "《書經．益稷》：「笙鏞以間，鳥獸蹌蹌。」",
+            "漢．孔安國．傳：「鏞，大鍾。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yōng"
+    },
+    {
+      "bopomofo": "（又音）ㄩㄥˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yúng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "金",
+  "stroke_count": 19,
+  "title": "鏞"
+}

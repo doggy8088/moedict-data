@@ -1,0 +1,50 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄥˇ",
+      "definitions": [
+        {
+          "def": "混沌不分的樣子。",
+          "example": [
+            "如：「庬澒」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "měng"
+    },
+    {
+      "bopomofo": "ㄆㄤˊ",
+      "definitions": [
+        {
+          "def": "大。",
+          "link": [
+            "通「厖」、「龐」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "páng"
+    },
+    {
+      "bopomofo": "ㄇㄤˊ",
+      "definitions": [
+        {
+          "def": "豐厚。",
+          "link": [
+            "通「厖」。"
+          ],
+          "quote": [
+            "《詩經．商頌．長發》：「受小共大共，為下國駿庬，何天之龍。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "máng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "广",
+  "stroke_count": 10,
+  "title": "庬"
+}

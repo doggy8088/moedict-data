@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄤˊ　ㄐㄧˋ",
+      "definitions": [
+        {
+          "antonyms": "健忘",
+          "def": "記憶力特強。",
+          "quote": [
+            "《大戴禮記．保傅》：「博聞強記，接洽而善對者謂之承。」"
+          ]
+        }
+      ],
+      "pinyin": "qiáng jì"
+    },
+    {
+      "bopomofo": "ㄑㄧㄤˇ　ㄐㄧˋ",
+      "definitions": [
+        {
+          "def": "勉強記住。",
+          "example": [
+            "如：「讀書需求了解，強記無益。」"
+          ]
+        }
+      ],
+      "pinyin": "qiǎng jì"
+    }
+  ],
+  "title": "強記"
+}

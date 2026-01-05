@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄥ",
+      "definitions": [
+        {
+          "def": "厭惡。",
+          "example": [
+            "如：「愛憎分明」、「面目可憎」。"
+          ],
+          "quote": [
+            "《史記．卷九九．叔孫通傳》：「叔孫通儒服，漢王憎之。」",
+            "唐．李中〈落花〉詩：「酷恨西園雨，生憎南陌風。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zēng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "心",
+  "stroke_count": 15,
+  "title": "憎"
+}

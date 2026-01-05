@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "謹慎選擇。",
+          "example": [
+            "如：「遴選」。"
+          ],
+          "quote": [
+            "《新唐書．卷一一七．魏玄同傳》：「太平多士，則遴柬髦俊而使之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lín"
+    },
+    {
+      "bopomofo": "ㄌㄧㄣˋ",
+      "definitions": [
+        {
+          "def": "貪吝。",
+          "link": [
+            "通「吝」。"
+          ],
+          "quote": [
+            "《漢書．卷五三．景十三王傳．魯恭王劉餘傳》：「子安王光嗣，初好音樂輿馬，晚節遴，唯恐不足於財。」",
+            "唐．顏師古．注：「遴，與吝同，猶言貪嗇也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "lìn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "辵",
+  "stroke_count": 16,
+  "title": "遴"
+}

@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄨˊ",
+      "definitions": [
+        {
+          "def": "水鳥或爬蟲類趾間的薄膜。",
+          "example": [
+            "如：「鵝蹼」、「鴨蹼」。"
+          ],
+          "quote": [
+            "《爾雅．釋鳥》：「鳧鴈醜，其足　蹼。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pú"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "足",
+  "stroke_count": 19,
+  "title": "蹼"
+}

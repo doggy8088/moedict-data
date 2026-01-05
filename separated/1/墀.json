@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔˊ",
+      "definitions": [
+        {
+          "def": "臺階上的平地。",
+          "example": [
+            "如：「丹墀」、「玉墀」。"
+          ],
+          "quote": [
+            "《字彙．土部》：「墀，階上地也。」",
+            "《文選．班固．西都賦》：「玄墀釦砌，玉階彤庭。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chí"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "土",
+  "stroke_count": 15,
+  "title": "墀"
+}

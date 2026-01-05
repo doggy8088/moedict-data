@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄤˇ",
+      "definitions": [
+        {
+          "def": "行走快速的樣子。",
+          "quote": [
+            "《玉篇．足部》：「躟，行疾貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "倉促。",
+          "quote": [
+            "《文選．傅毅．舞賦》：「擾躟就駕，僕夫正策。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "rǎng"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "足",
+  "stroke_count": 24,
+  "title": "躟"
+}

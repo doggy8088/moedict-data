@@ -1,0 +1,64 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨˇ",
+      "definitions": [
+        {
+          "def": "動物體內支持身體的支架組織。",
+          "example": [
+            "如：「筋骨」、「接骨」、「脊椎骨」、「脫胎換骨」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "支撐物體的架子。",
+          "example": [
+            "如：「龍骨」、「鋼骨」、「傘骨」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "氣概、風格。",
+          "example": [
+            "如：「傲骨」、「風骨」。"
+          ],
+          "quote": [
+            "唐．王維〈少年行〉四首之二：「敦知不向邊庭苦，縱死猶聞俠骨香。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如隋代有骨儀。",
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǔ"
+    },
+    {
+      "bopomofo": "ㄍㄨˊ",
+      "definitions": [
+        {
+          "def": "參見「骨頭」、「骨碌」等條。"
+        }
+      ],
+      "pinyin": "gú"
+    },
+    {
+      "bopomofo": "ㄍㄨ",
+      "definitions": [
+        {
+          "def": "參見「骨朵兒」條。"
+        }
+      ],
+      "pinyin": "gū"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "骨",
+  "stroke_count": 10,
+  "title": "骨"
+}

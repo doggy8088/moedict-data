@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "白色。",
+          "quote": [
+            "《玉篇．白部》：「皫，白色也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "色澤不美的。",
+          "quote": [
+            "明．張自烈《正字通．白部》：「皫，凡物色不澤美者皆曰皫。」",
+            "《禮記．內則》：「鳥皫色而沙鳴鬱，豕望視而交睫腥。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "piǎo"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "白",
+  "stroke_count": 20,
+  "title": "皫"
+}

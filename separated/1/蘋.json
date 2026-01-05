@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "植物名。一種蕨類的隱花植物。蘋科蘋屬。生在淺水中，葉有長柄，由四片小葉生在葉柄頂端形成一複葉，葉柄下部歧出的小枝上生有孢子囊，四片小葉形成的複葉彷彿  田字。全草可入藥。草甘、寒滑，汁為清涼劑、利尿劑。",
+          "link": [
+            "也稱為「白蘋」、「田字草  」、「四葉菜」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pín"
+    },
+    {
+      "bopomofo": "ㄆㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "參見「蘋果」條。"
+        }
+      ],
+      "pinyin": "píng"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "艸",
+  "stroke_count": 20,
+  "title": "蘋"
+}

@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "飲。",
+          "quote": [
+            "唐．韓愈、孟郊〈納涼聯句〉：「車馬獲同驅，酒醪欣共欶。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shuò"
+    },
+    {
+      "bopomofo": "ㄙㄡˋ",
+      "definitions": [
+        {
+          "def": "咳嗽。",
+          "link": [
+            "同「嗽」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sòu"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "欠",
+  "stroke_count": 11,
+  "title": "欶"
+}

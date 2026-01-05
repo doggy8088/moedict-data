@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄡˇ",
+      "definitions": [
+        {
+          "def": "地支的第二位。",
+          "type": "名"
+        },
+        {
+          "def": "時辰名。約當凌晨一點到三點。",
+          "type": "名"
+        },
+        {
+          "def": "傳統戲劇中，扮演滑稽可笑人物的喜劇腳色。",
+          "example": [
+            "如：「小丑」、「文丑」、「武丑」。"
+          ],
+          "quote": [
+            "元．馬致遠《青衫淚．第二折》：「丑扮小閑引淨扮劉一郎上。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如南朝齊有丑千。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "chǒu"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "一",
+  "stroke_count": 4,
+  "title": "丑"
+}

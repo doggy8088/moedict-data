@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄞˊ",
+      "definitions": [
+        {
+          "def": "舉起。",
+          "example": [
+            "如：「抬頭挺胸」、「高抬貴手」、「抬高」。"
+          ],
+          "type": "助"
+        },
+        {
+          "def": "兩人以上共同扛舉東西。",
+          "example": [
+            "如：「抬轎子」、「抬擔架」。"
+          ],
+          "type": "助"
+        },
+        {
+          "def": "抬槓。",
+          "example": [
+            "如：「少跟我抬槓」、「三人抬不過個『理』字」。"
+          ],
+          "type": "助"
+        },
+        {
+          "def": "合夥騙人。",
+          "example": [
+            "如：「他們倆抬我一人兒。」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "tái"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "手",
+  "stroke_count": 8,
+  "title": "抬"
+}

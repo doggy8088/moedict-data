@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄤˋ",
+      "definitions": [
+        {
+          "def": "姓。如明代有鄺埜。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "kuàng"
+    },
+    {
+      "bopomofo": "（又音）ㄍㄨㄤˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）guǎng"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "邑",
+  "stroke_count": 18,
+  "title": "鄺"
+}

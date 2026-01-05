@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧˋ",
+      "definitions": [
+        {
+          "def": "用手捶拍胸部。",
+          "quote": [
+            "《廣韻．入聲．陌韻》：「擗，撫心也。」",
+            "《孝經．喪親章》：「擗踊哭泣，哀以送之。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "掰開、拂開。",
+          "example": [
+            "如：「擗玉米」。"
+          ],
+          "quote": [
+            "《楚辭．屈原．九歌．湘夫人》：「罔薜荔兮為帷，擗蕙櫋兮既張。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pì"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "手",
+  "stroke_count": 16,
+  "title": "擗"
+}

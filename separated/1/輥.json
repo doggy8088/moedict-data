@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄣˇ",
+      "definitions": [
+        {
+          "def": "車轂勻整的樣子。",
+          "quote": [
+            "《說文解字．車部》：「輥，轂齊等貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "能滾動的圓柱形機件。",
+          "example": [
+            "如：「軋輥」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "翻轉、滾動。",
+          "quote": [
+            "宋．陸游〈夢中作〉詩：「春風又作無情計，滿路楊花輥雪球。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gǔn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "車",
+  "stroke_count": 15,
+  "title": "輥"
+}

@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "第二人稱。你的敬稱。多用於長輩。亦泛指你們。",
+          "example": [
+            "如：「您好？」、「您老人家要保重身體。」"
+          ],
+          "quote": [
+            "元．張國賓《合汗衫．第一折》：「您言冬至我言春。」"
+          ],
+          "type": "代"
+        }
+      ],
+      "pinyin": "nín"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "心",
+  "stroke_count": 11,
+  "title": "您"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄣ",
+      "definitions": [
+        {
+          "def": "一種向內砍刺、削平木頭的工具。柄長，體呈單斜面或雙斜面，頂端有斧刃。青銅錛始見殷商，春秋戰國時數量增多，有不少流傳至後代。",
+          "link": [
+            "也稱為「錛子」、「錛鋤」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用錛子砍削。",
+          "example": [
+            "如：「把這塊大木頭錛開。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bēn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "金",
+  "stroke_count": 16,
+  "title": "錛"
+}

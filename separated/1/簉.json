@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄠˋ",
+      "definitions": [
+        {
+          "def": "副的、附屬的。",
+          "example": [
+            "如：「簉室」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zào"
+    },
+    {
+      "bopomofo": "（又音）ㄔㄡˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）chòu"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "竹",
+  "stroke_count": 17,
+  "title": "簉"
+}

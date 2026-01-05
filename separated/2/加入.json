@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄚ　ㄖㄨˋ",
+      "definitions": [
+        {
+          "def": "增加進去。",
+          "example": [
+            "如：「加入一點蛋花，這道玉米濃湯就完成了。」"
+          ]
+        },
+        {
+          "antonyms": "退出",
+          "def": "參加。",
+          "example": [
+            "如：「歡迎加入我們童子軍服務的行列。」"
+          ],
+          "synonyms": "列入"
+        }
+      ],
+      "pinyin": "jiā rù"
+    }
+  ],
+  "title": "加入"
+}

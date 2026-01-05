@@ -1,0 +1,47 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄥˋ",
+      "definitions": [
+        {
+          "def": "度量物體重量的器具。",
+          "example": [
+            "如：「磅秤」、「彈簧秤」。"
+          ],
+          "link": [
+            "同「稱」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量輕重。",
+          "link": [
+            "同「稱」。"
+          ],
+          "quote": [
+            "《紅樓夢．第一二回》：「王夫人命鳳姐秤二兩給他。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chèng"
+    },
+    {
+      "bopomofo": "ㄆㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "衡量物體輕重的工具。",
+          "example": [
+            "如：「天秤」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "píng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "禾",
+  "stroke_count": 10,
+  "title": "秤"
+}

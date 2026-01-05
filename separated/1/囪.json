@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄨㄥ",
+      "definitions": [
+        {
+          "def": "爐灶通煙的孔道。",
+          "link": [
+            "俗稱為「煙囪」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "cōng"
+    },
+    {
+      "bopomofo": "ㄔㄨㄤ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「窗」。"
+          ]
+        }
+      ],
+      "pinyin": "chuāng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "囗",
+  "stroke_count": 7,
+  "title": "囪"
+}

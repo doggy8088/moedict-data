@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄣˋ",
+      "definitions": [
+        {
+          "def": "完畢。",
+          "example": [
+            "如：「竣工」、「完竣」。"
+          ],
+          "quote": [
+            "《三國演義．第六一回》：「便差軍數萬築濡須塢，曉夜併工，刻期告竣。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jùn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "立",
+  "stroke_count": 12,
+  "title": "竣"
+}

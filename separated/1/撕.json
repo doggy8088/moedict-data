@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙ",
+      "definitions": [
+        {
+          "def": "用手指將東西扯裂或使它離開附著處。",
+          "example": [
+            "如：「將紙撕成兩半。」、「把畫從牆壁撕下來。」、「將煮熟的雞肉撕成絲。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sī"
+    },
+    {
+      "bopomofo": "ㄒㄧ",
+      "definitions": [
+        {
+          "def": "參見「提撕」條。"
+        }
+      ],
+      "pinyin": "xī"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "手",
+  "stroke_count": 15,
+  "title": "撕"
+}

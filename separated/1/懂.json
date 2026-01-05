@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "明白、了解。",
+          "example": [
+            "如：「懂道理」、「懂事」、「看懂了」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「瞢懂」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "dǒng"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "心",
+  "stroke_count": 16,
+  "title": "懂"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄟˊ",
+      "definitions": [
+        {
+          "def": "形容衣服很長。",
+          "quote": [
+            "《說文解字．衣部》：「裴，長衣貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "猶豫不決。通「徘」。參見「裴回」條。",
+          "type": "動"
+        },
+        {
+          "def": "姓。如晉朝有裴楷，唐朝有裴度。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "péi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "衣",
+  "stroke_count": 14,
+  "title": "裴"
+}

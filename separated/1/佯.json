@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "假裝、偽裝。",
+          "example": [
+            "如：「佯笑」、「佯作不知」。"
+          ],
+          "quote": [
+            "《紅樓夢．第五七回》：「寶玉心下明白，因恐紫鵑回去，故又或作佯狂之態。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "中國少數民族之一。屬西南僰撣族系。今散布於大陸地區貴州省東部山區，以耕山、漁、獵為生。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yáng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "佯"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩˋ",
+      "definitions": [
+        {
+          "def": "發酒瘋，因酒醉而發怒。",
+          "example": [
+            "如：「酗酒」。"
+          ],
+          "quote": [
+            "《書經．無逸》：「無若殷王受之迷亂，酗于酒德哉！」",
+            "《北史．卷七二．牛弘傳》：「弟弼，好酒而酗，嘗醉射殺弘駕車牛。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xù"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "酉",
+  "stroke_count": 11,
+  "title": "酗"
+}

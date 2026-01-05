@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄥ",
+      "definitions": [
+        {
+          "def": "傷痛、哀痛。",
+          "quote": [
+            "《詩經．大雅．桑柔》：「哀恫中國，具贅卒荒。」",
+            "《文選．張衡．思玄賦》：「尚前良之遺風兮，恫後辰而無及。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "悲痛。",
+          "quote": [
+            "《聊齋志異．卷二．嬰寧》：「君倘不惜煩賣，使地下人消此怨恫。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tōng"
+    },
+    {
+      "bopomofo": "ㄉㄨㄥˋ",
+      "definitions": [
+        {
+          "def": "參見「恫喝」、「恫嚇」等條。"
+        }
+      ],
+      "pinyin": "dòng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "心",
+  "stroke_count": 9,
+  "title": "恫"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄢˋ",
+      "definitions": [
+        {
+          "def": "轉動眼睛以示意。",
+          "quote": [
+            "《史記．卷七．項羽本紀》：「須臾，梁眴籍曰：『可行矣！』」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "目眩。",
+          "link": [
+            "通「眩」。"
+          ],
+          "quote": [
+            "《文選．班固．西都賦》：「攀井幹而未半，目眴轉而意迷。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xuàn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "目",
+  "stroke_count": 11,
+  "title": "眴"
+}

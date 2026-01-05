@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄡˋ",
+      "definitions": [
+        {
+          "def": "腐惡的臭氣。",
+          "quote": [
+            "《說文解字．歺部》：「殠，腐氣也。」",
+            "《漢書．卷六七．楊王孫傳》：「其穿下不亂泉，上不泄殠。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chòu"
+    },
+    {
+      "bopomofo": "（又音）ㄒㄧㄡˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）xiù"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "歹",
+  "stroke_count": 14,
+  "title": "殠"
+}

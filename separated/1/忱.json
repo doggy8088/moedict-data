@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄣˊ",
+      "definitions": [
+        {
+          "def": "心意、實情。",
+          "example": [
+            "如：「熱忱」。"
+          ],
+          "quote": [
+            "《老殘遊記．第一七回》：「前日種種承情，已託人瑞兄代達謝忱。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "相信、信任。",
+          "quote": [
+            "《詩經．大雅．大明》：「天難忱斯，不易維王。」",
+            "漢．毛亨．傳：「忱，信也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chén"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "心",
+  "stroke_count": 7,
+  "title": "忱"
+}

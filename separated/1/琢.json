@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "雕磨玉石。",
+          "example": [
+            "如：「琢磨」、「精雕細琢」。"
+          ],
+          "quote": [
+            "《禮記．學記》：「玉不琢，不成器。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "仔細推敲。",
+          "quote": [
+            "唐．貫休〈寄匡山紀公〉詩：「寄言無別事，琢句似終身。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhuó"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "玉",
+  "stroke_count": 12,
+  "title": "琢"
+}

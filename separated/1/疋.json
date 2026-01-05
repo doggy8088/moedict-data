@@ -1,0 +1,61 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧˇ",
+      "definitions": [
+        {
+          "def": "量詞。計算布帛類紡織品的單位。",
+          "example": [
+            "如：「兩疋布」。"
+          ],
+          "link": [
+            "同「匹」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pǐ"
+    },
+    {
+      "bopomofo": "ㄕㄨ",
+      "definitions": [
+        {
+          "def": "腳。",
+          "quote": [
+            "《說文解字．疋部》：「疋，足也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        },
+        {
+          "def": "記。",
+          "quote": [
+            "《廣韻．上聲．語韻》：「疋，記也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shū"
+    },
+    {
+      "bopomofo": "ㄧㄚˇ",
+      "definitions": [
+        {
+          "def": "雅的古字。",
+          "quote": [
+            "《說文解字．疋部》：「疋，古文以為詩大雅字。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yǎ"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "疋",
+  "stroke_count": 5,
+  "title": "疋"
+}

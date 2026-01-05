@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨˇ　ㄅㄢˇ",
+      "definitions": [
+        {
+          "antonyms": "機靈,活潑",
+          "def": "不靈活。",
+          "example": [
+            "如：「他的動作很古板。」"
+          ]
+        },
+        {
+          "def": "固執守舊，不合時宜。",
+          "example": [
+            "如：「你那古板的思想，早已跟不上時代了。」"
+          ],
+          "synonyms": "拘泥"
+        }
+      ],
+      "pinyin": "gǔ bǎn"
+    }
+  ],
+  "title": "古板"
+}

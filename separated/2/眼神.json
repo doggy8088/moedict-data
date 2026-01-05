@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˇ　˙ㄕㄣ",
+      "definitions": [
+        {
+          "def": "北方方言。眼色。",
+          "example": [
+            "如：「他頻頻向我使眼神，好像在暗示些什麼！」"
+          ]
+        }
+      ],
+      "pinyin": "yǎn shen"
+    },
+    {
+      "bopomofo": "ㄧㄢˇ　ㄕㄣˊ",
+      "definitions": [
+        {
+          "def": "眼睛的神態。",
+          "example": [
+            "如：「瞧他的眼神似乎是不高興的樣子。」"
+          ]
+        },
+        {
+          "def": "北方方言。眼力。"
+        }
+      ],
+      "pinyin": "yǎn shén"
+    }
+  ],
+  "title": "眼神"
+}

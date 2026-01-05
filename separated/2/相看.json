@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄤ　ㄎㄢ",
+      "definitions": [
+        {
+          "def": "相互觀看。",
+          "quote": [
+            "唐．李白〈獨坐敬亭山〉詩：「相看兩不厭，只有敬亭山。」"
+          ]
+        }
+      ],
+      "pinyin": "xiāng kān"
+    },
+    {
+      "bopomofo": "ㄒㄧㄤ　˙ㄎㄢ",
+      "definitions": [
+        {
+          "def": "視、察。",
+          "example": [
+            "如：「伺機相看」。"
+          ]
+        }
+      ],
+      "pinyin": "xiāng kan"
+    }
+  ],
+  "title": "相看"
+}

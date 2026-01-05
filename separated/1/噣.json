@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄡˋ",
+      "definitions": [
+        {
+          "def": "鳥嘴。",
+          "link": [
+            "同「咮」。"
+          ],
+          "quote": [
+            "《史記．卷四三．趙世家》：「中衍人面鳥噣。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhòu"
+    },
+    {
+      "bopomofo": "ㄓㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "鳥啄食。",
+          "link": [
+            "同「啄」。"
+          ],
+          "quote": [
+            "《戰國策．楚策四》：「黃雀因是以俯噣白粒，仰棲茂樹，鼓翅奮翼。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhuó"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "口",
+  "stroke_count": 16,
+  "title": "噣"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄤ",
+      "definitions": [
+        {
+          "def": "人體心臟下、橫膈膜上的部位，古代認為是藥力無法到達的地方。",
+          "example": [
+            "如：「病入膏肓」。"
+          ],
+          "quote": [
+            "《左傳．成公十年》：「疾不可為也，在肓之上，膏之下。」",
+            "《晉書．卷五六．孫楚傳》：「夫療膏肓之疾者，必進苦口之藥。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "huāng"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "肉",
+  "stroke_count": 7,
+  "title": "肓"
+}

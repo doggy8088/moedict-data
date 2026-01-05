@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄠˇ",
+      "definitions": [
+        {
+          "def": "將東西置於炭火等熱源附近，使其燻熟。",
+          "example": [
+            "如：「烤肉」、「烤番薯」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "用火烘乾。",
+          "example": [
+            "如：「衣服被雨淋溼了，趕快拿去烤乾。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "藉火取暖。",
+          "example": [
+            "如：「烤手」、「烤火」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kǎo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "火",
+  "stroke_count": 10,
+  "title": "烤"
+}

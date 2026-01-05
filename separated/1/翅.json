@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔˋ",
+      "definitions": [
+        {
+          "def": "鳥類及昆蟲的翼，通常用來飛行。",
+          "example": [
+            "如：「大鵬展翅」、「蟲兒舒翅」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "沙魚的鰭。",
+          "example": [
+            "如：「魚翅」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chì"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "羽",
+  "stroke_count": 10,
+  "title": "翅"
+}

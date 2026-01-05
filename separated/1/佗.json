@@ -1,0 +1,54 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄛ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「它」。"
+          ],
+          "quote": [
+            "《文選．曹丕．燕歌行》：「慊慊思歸戀故鄉，何為淹留寄佗方？」"
+          ],
+          "type": "代"
+        }
+      ],
+      "pinyin": "tuō"
+    },
+    {
+      "bopomofo": "ㄊㄚ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「他」。"
+          ],
+          "quote": [
+            "《說文解字．人部》「它」字．清．段玉裁．注：「其字或叚佗為之，又俗作他。」",
+            "《文選．陸機．文賦》：「佗日殆可謂曲盡其妙。」"
+          ],
+          "type": "代"
+        }
+      ],
+      "pinyin": "tā"
+    },
+    {
+      "bopomofo": "ㄊㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "負荷。",
+          "quote": [
+            "《漢書．卷六九．趙充國傳》：「以一馬自佗負三十日食。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tuó"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "人",
+  "stroke_count": 7,
+  "title": "佗"
+}

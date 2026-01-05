@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄜˋ",
+      "definitions": [
+        {
+          "def": "鉤子。",
+          "quote": [
+            "《玉篇．金部》：「鉻，鉤。」",
+            "《抱朴子．外篇．君道》：「文則琳琅墮於筆端，武則鉤鉻摧於指掌。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "（chromium，Cr）化學元素。原子序24。過渡金屬元素之一，色灰黑如鋼，質堅，鎔點頗高，接觸空氣不起氧化，其化合物可作顏料。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gè"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "金",
+  "stroke_count": 14,
+  "title": "鉻"
+}

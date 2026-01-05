@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧ",
+      "definitions": [
+        {
+          "def": "木階，登高的器具或設備。",
+          "example": [
+            "如：「樓梯」、「竹梯」、「電梯」、「雲梯」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "形狀像樓梯一樣。",
+          "example": [
+            "如：「梯田」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "爬。",
+          "quote": [
+            "唐．元稹《鶯鶯傳》：「既望之夕，張因梯甚樹而踰焉。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tī"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "木",
+  "stroke_count": 11,
+  "title": "梯"
+}

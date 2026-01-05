@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄣˋ　ㄒㄧㄥˊ",
+      "definitions": [
+        {
+          "antonyms": "停止　2.終止",
+          "def": "向前行走。",
+          "example": [
+            "如：「隊伍向目的地進行」。"
+          ]
+        },
+        {
+          "def": "事情依照次序向前推動、辦理。",
+          "example": [
+            "如：「這事正在進行中。」"
+          ],
+          "synonyms": "舉行,實行"
+        }
+      ],
+      "pinyin": "jìn xíng"
+    }
+  ],
+  "title": "進行"
+}

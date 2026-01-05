@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄜˊ",
+      "definitions": [
+        {
+          "def": "畏懼、恐懼。",
+          "quote": [
+            "《莊子．達生》：「死生驚懼，不入乎其胸中，是故迕物而不慴。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "懾服。",
+          "quote": [
+            "《文選．枚乘．七發》：「恐虎豹，慴鷙鳥。」",
+            "《晉書．卷二三．樂志下》：「威風震勁蜀，武烈慴強吳。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhé"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "心",
+  "stroke_count": 14,
+  "title": "慴"
+}

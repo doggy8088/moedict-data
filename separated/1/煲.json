@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄠ",
+      "definitions": [
+        {
+          "def": "用慢火熬煮食物。",
+          "example": [
+            "如：「煲粥」、「煲湯」、「雞煲飯」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bāo"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "火",
+  "stroke_count": 13,
+  "title": "煲"
+}

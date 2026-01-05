@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "崩落、墜落。",
+          "example": [
+            "如：「陊落」。"
+          ],
+          "quote": [
+            "《文選．張衡．西京賦》：「程巧致功，期不陁陊。」",
+            "三國吳．薛綜．注：「言皆程擇好匠，令盡致其功，夫既牢又固不傾陊也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "duò"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "阜",
+  "stroke_count": 9,
+  "title": "陊"
+}

@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄠˋ",
+      "definitions": [
+        {
+          "def": "乾的、缺少水分的。",
+          "example": [
+            "如：「乾燥」、「燥材」、「天乾物燥」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "內心焦急不安。",
+          "example": [
+            "如：「燥灼」、「急燥」。"
+          ],
+          "link": [
+            "通「躁」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zào"
+    },
+    {
+      "bopomofo": "ㄙㄠˋ",
+      "definitions": [
+        {
+          "def": "剁成細碎的肉。",
+          "example": [
+            "如：「肉燥」、「燥子」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "sào"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "火",
+  "stroke_count": 17,
+  "title": "燥"
+}

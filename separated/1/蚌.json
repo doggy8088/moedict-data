@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄤˋ",
+      "definitions": [
+        {
+          "def": "動物名。軟體動物門斧足綱。體軟有殼，大者長八九寸，能產珠，殼可製器。",
+          "link": [
+            "也稱為「二枚貝」、「蛤蚌」、「蛤蜊」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bàng"
+    },
+    {
+      "bopomofo": "（又音）ㄅㄥˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）bèng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "虫",
+  "stroke_count": 10,
+  "title": "蚌"
+}

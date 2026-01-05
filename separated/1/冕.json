@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "古時大夫以上的王侯所戴的禮帽。",
+          "quote": [
+            "《字彙．冂部》：「古者諸侯、大夫皆有冕，但以旒之多寡別耳。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "專指王冠。",
+          "example": [
+            "如：「加冕典禮」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "miǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "冂",
+  "stroke_count": 11,
+  "title": "冕"
+}

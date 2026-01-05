@@ -1,0 +1,46 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "蚌的別名。",
+          "quote": [
+            "《說文解字．玉部》「玭」字．清．段玉裁．注：「玭，本是蚌名……。韋昭曰：『玭，蚌也。』」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "蚌珠、珍珠。",
+          "quote": [
+            "《文選．何晏．景福殿賦》：「流羽毛之威蕤，垂環玭之琳琅。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pín"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄧˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）pí"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）pián"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "玉",
+  "stroke_count": 8,
+  "title": "玭"
+}

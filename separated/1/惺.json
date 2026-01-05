@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄥ",
+      "definitions": [
+        {
+          "def": "參見「惺惺」、「惺忪」等條。"
+        }
+      ],
+      "pinyin": "xīng"
+    },
+    {
+      "bopomofo": "ㄒㄧㄥˇ",
+      "definitions": [
+        {
+          "def": "覺悟、清醒。",
+          "quote": [
+            "《廣韻．上聲．靜韻》：「惺，惺悟。」",
+            "《抱朴子．內篇．極言》：「始皇惺悟，信世間之必有仙道。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xǐng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "心",
+  "stroke_count": 12,
+  "title": "惺"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄢˇ",
+      "definitions": [
+        {
+          "def": "害羞慚愧而臉紅。",
+          "example": [
+            "如：「赧顏」、「羞赧」。"
+          ],
+          "quote": [
+            "《孟子．滕文公下》：「觀其色赧赧然，非由之所知也。」",
+            "唐．沈既濟《任氏傳》：「鄭子赧而隱。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "nǎn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "赤",
+  "stroke_count": 11,
+  "title": "赧"
+}

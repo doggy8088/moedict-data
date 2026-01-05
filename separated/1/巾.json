@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄣ",
+      "definitions": [
+        {
+          "def": "擦洗用的布。",
+          "example": [
+            "如：「毛巾」、「手巾」、「浴巾」。"
+          ],
+          "quote": [
+            "唐．杜甫〈憶昔行〉：「巾拂香餘搗藥塵，階除灰死燒丹火。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "覆蓋或纏繞用的布。",
+          "example": [
+            "如：「頭巾」、「領巾」、「圍巾」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jīn"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "巾",
+  "stroke_count": 3,
+  "title": "巾"
+}

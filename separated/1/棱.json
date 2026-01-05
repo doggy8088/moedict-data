@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄥˊ",
+      "definitions": [
+        {
+          "def": "木材的四角交接處稱為「棱」。",
+          "quote": [
+            "《說文解字．木部》：「棱，柧也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "威嚴。",
+          "quote": [
+            "《後漢書．卷六六．王允傳》：「允性剛棱疾惡。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "léng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "木",
+  "stroke_count": 12,
+  "title": "棱"
+}

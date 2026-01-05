@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄨㄥ",
+      "definitions": [
+        {
+          "def": "堵塞不通。",
+          "quote": [
+            "《莊子．天地》：「五臭薰鼻，困惾中顙。」",
+            "唐．成玄英．疏：「惾，塞也。言鼻耽五臭，故壅塞不通，而中傷顙額。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zōng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "心",
+  "stroke_count": 12,
+  "title": "惾"
+}

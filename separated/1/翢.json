@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄠˋ",
+      "definitions": [
+        {
+          "def": "大旗。",
+          "link": [
+            "同「纛」。"
+          ],
+          "quote": [
+            "《爾雅．釋言》：「翢，纛也。」",
+            "晉．郭璞．注：「今之羽葆幢。」",
+            "《集韻．平聲．豪韻》：「纛，舞者所執幢。或作翢。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dào"
+    },
+    {
+      "bopomofo": "ㄓㄡ",
+      "definitions": [
+        {
+          "def": "翢翢：古代的一種鳥。",
+          "quote": [
+            "《韓非子．說林下》：「鳥有翢翢者，重首而尾屈。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhōu"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "羽",
+  "stroke_count": 14,
+  "title": "翢"
+}

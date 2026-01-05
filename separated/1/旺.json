@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄤˋ",
+      "definitions": [
+        {
+          "def": "興盛。",
+          "example": [
+            "如：「六畜興旺」。"
+          ],
+          "quote": [
+            "《紅樓夢．第八八回》：「此刻還算咱們家裡正旺的時候兒，他們就敢打架。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "熾盛、猛烈。",
+          "quote": [
+            "《老殘遊記．第一六回》：「屋內火盆旺著呢，快向屋裡烘去罷。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "wàng"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "日",
+  "stroke_count": 8,
+  "title": "旺"
+}

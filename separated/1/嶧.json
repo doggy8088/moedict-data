@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˋ",
+      "definitions": [
+        {
+          "def": "參見「嶧山」條。",
+          "type": "名"
+        },
+        {
+          "def": "山勢連綿不斷的樣子。",
+          "quote": [
+            "《爾雅．釋山》：「屬者嶧，獨者蜀。」",
+            "宋．邢昺．疏：「言山形相連  屬，駱驛然不絕者名嶧。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yì"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "山",
+  "stroke_count": 16,
+  "title": "嶧"
+}

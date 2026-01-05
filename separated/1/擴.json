@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "張大、放大、開拓。",
+          "example": [
+            "如：「擴展」、「擴張」、「擴音器」。"
+          ],
+          "quote": [
+            "《孟子．公孫丑上》：「凡有四端於我者，知皆擴而充之矣。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kuò"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "手",
+  "stroke_count": 18,
+  "title": "擴"
+}

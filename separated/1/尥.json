@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "走路時足脛相交。",
+          "quote": [
+            "《說文解字．尢部》：「尥，行脛相交也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "跛行。",
+          "quote": [
+            "元．戴侗《六書故．卷九．人》：「今人謂筋骨弱，舉足不隨為尥掉。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "牲口用後腿往後踢。參見「尥蹶子」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "liào"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "尢",
+  "stroke_count": 6,
+  "title": "尥"
+}

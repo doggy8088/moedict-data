@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄢˇ　ㄍㄨㄥ",
+      "definitions": [
+        {
+          "antonyms": "長工",
+          "def": "零工、臨時工。",
+          "example": [
+            "如：「她在工廠裡做散工。」"
+          ],
+          "synonyms": "短工"
+        }
+      ],
+      "pinyin": "sǎn gōng"
+    },
+    {
+      "bopomofo": "ㄙㄢˋ　ㄍㄨㄥ",
+      "definitions": [
+        {
+          "def": "工地、工廠於每日工作結束後，讓員工解散休息，稱為「散工」。"
+        }
+      ],
+      "pinyin": "sàn gōng"
+    }
+  ],
+  "title": "散工"
+}

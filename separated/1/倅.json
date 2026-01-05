@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "副的。",
+          "quote": [
+            "《周禮．夏官．戎僕》：「戎僕掌馭戎車，掌王倅車之政。」",
+            "《漢書．卷六九．趙充國傳》：「發郡騎及屬國胡騎伉健各千，倅馬什二，就草，為田者遊兵。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "副官。",
+          "example": [
+            "如：「郡倅」、「縣倅」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "cuì"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "倅"
+}

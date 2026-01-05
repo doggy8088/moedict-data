@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄣ",
+      "definitions": [
+        {
+          "def": "行走的樣子。",
+          "quote": [
+            "《說文解字．人部》：「侁，行貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "眾多。",
+          "quote": [
+            "晉．傅咸〈皇太子釋奠頌〉：「濟濟儒生，侁侁胄子。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "shēn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "侁"
+}

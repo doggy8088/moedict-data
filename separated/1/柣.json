@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˊ",
+      "definitions": [
+        {
+          "def": "門檻。即門下所設的橫木。",
+          "quote": [
+            "《爾雅．釋宮》：「柣謂之閾，棖謂之楔。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhí"
+    },
+    {
+      "bopomofo": "ㄉㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "桔柣：春秋時鄭都的城門名稱。",
+          "quote": [
+            "《左傳．莊公二十八年》：「秋，子元以車六百乘伐鄭，入於桔柣之門。」",
+            "晉．杜預．注：「桔柣，鄭遠郊之門也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dié"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "木",
+  "stroke_count": 9,
+  "title": "柣"
+}

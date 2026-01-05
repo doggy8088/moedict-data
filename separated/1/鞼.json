@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "有紋彩的皮革。",
+          "quote": [
+            "《說文解字．革部》：「鞼，革繡也。」",
+            "《墨子．節用中》：「凡天下群百工，輪車鞼匏，陶冶梓匠，使各從事其所能。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "折斷。",
+          "quote": [
+            "《淮南子．原道》：「疏達而不悖，堅強而不鞼。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "guì"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "革",
+  "stroke_count": 21,
+  "title": "鞼"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄤ",
+      "definitions": [
+        {
+          "def": "誠實的樣子。",
+          "quote": [
+            "《莊子．人間世》：「且德厚信矼，未達人氣。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "qiāng"
+    },
+    {
+      "bopomofo": "ㄐㄧㄤ",
+      "definitions": [
+        {
+          "def": "石橋。",
+          "quote": [
+            "《玉篇．石部》：「矼，石橋也。」",
+            "宋．歐陽修〈廬山高贈同年劉凝之歸南康〉詩：「水聲聒聒亂人語，六月飛雪灑石矼。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiāng"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "石",
+  "stroke_count": 8,
+  "title": "矼"
+}

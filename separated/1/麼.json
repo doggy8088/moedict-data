@@ -1,0 +1,64 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄛˊ",
+      "definitions": [
+        {
+          "def": "細小。",
+          "quote": [
+            "《列子．湯問》：「江浦之間生麼蟲，其名曰：『焦螟』。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "mó"
+    },
+    {
+      "bopomofo": "ㄇㄚˊ",
+      "definitions": [
+        {
+          "def": "置於語尾，表疑問的語氣。",
+          "example": [
+            "如：「幹麼」。"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "má"
+    },
+    {
+      "bopomofo": "˙ㄇㄚ",
+      "definitions": [
+        {
+          "def": "表疑問語氣。同「嗎」(一)。",
+          "quote": [
+            "唐．李中〈聽蟬寄朐山孫明府〉詩：「不知陶靖節，還動此心麼？」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "ma"
+    },
+    {
+      "bopomofo": "˙ㄇㄜ",
+      "definitions": [
+        {
+          "def": "語助詞。表有所斟酌語氣。",
+          "example": [
+            "如：「不要你的錢麼，你又硬塞過來。」"
+          ],
+          "type": "助"
+        },
+        {
+          "def": "參見「甚麼」、「這麼」、「那麼」等條。",
+          "type": "綴"
+        }
+      ],
+      "pinyin": "me"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "麻",
+  "stroke_count": 14,
+  "title": "麼"
+}

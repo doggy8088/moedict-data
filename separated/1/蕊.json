@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "植物的生殖器官。有雄蕊、雌蕊之分。",
+          "type": "名"
+        },
+        {
+          "def": "花苞、花。",
+          "quote": [
+            "唐．杜甫〈花底〉詩：「紫萼扶千蕊，黃鬚照萬花。」",
+            "唐．黃巢〈題菊花〉詩：「颯颯西風滿院栽，蕊寒香冷蝶難來。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "ruǐ"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "艸",
+  "stroke_count": 16,
+  "title": "蕊"
+}

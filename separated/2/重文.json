@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥˋ　ㄨㄣˊ",
+      "definitions": [
+        {
+          "def": "注重文事。",
+          "example": [
+            "如：「重文輕武」。"
+          ]
+        }
+      ],
+      "pinyin": "zhòng wén"
+    },
+    {
+      "bopomofo": "ㄔㄨㄥˊ　ㄨㄣˊ",
+      "definitions": [
+        {
+          "def": "重出的異體字，一字而列出兩種以上的形體。如說文解字以小篆為主，而各部篆文下所附的古文、篆文及其他異體字，即稱為「重文」。"
+        }
+      ],
+      "pinyin": "chóng wén"
+    }
+  ],
+  "title": "重文"
+}

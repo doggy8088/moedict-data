@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄨ",
+      "definitions": [
+        {
+          "def": "跌倒而伏在地上。",
+          "quote": [
+            "《漢書．卷四七．梁孝王傳》：「貪生畏死，即詐僵仆陽病。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "傾倒、橫陳。",
+          "quote": [
+            "唐．柳宗元〈永州韋使君新堂記〉：「或立或仆。」",
+            "宋．王安石〈遊褒禪山記〉：「有碑仆道，其文漫滅。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pū"
+    },
+    {
+      "bopomofo": "（又音）ㄈㄨˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）fù"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "人",
+  "stroke_count": 4,
+  "title": "仆"
+}

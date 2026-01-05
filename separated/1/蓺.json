@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˋ",
+      "definitions": [
+        {
+          "def": "種植。",
+          "link": [
+            "通「藝」。"
+          ],
+          "quote": [
+            "《詩經．齊風．南山》：「蓺麻如之何？衡從其畝。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "才能。",
+          "quote": [
+            "《史記．卷三三．魯周公世家》：「旦巧能，多才多蓺，能事鬼神。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yì"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "艸",
+  "stroke_count": 15,
+  "title": "蓺"
+}

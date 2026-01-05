@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄢ",
+      "definitions": [
+        {
+          "def": "山頂。",
+          "quote": [
+            "《詩經．唐風．采苓》：「采苓采苓，首陽之巔。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "最高的。",
+          "example": [
+            "如：「巔峰」、「巔頂」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "diān"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "山",
+  "stroke_count": 22,
+  "title": "巔"
+}

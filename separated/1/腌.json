@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄤ",
+      "definitions": [
+        {
+          "def": "參見「腌臢」條。"
+        }
+      ],
+      "pinyin": "āng"
+    },
+    {
+      "bopomofo": "ㄧㄢ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「醃」。"
+          ]
+        }
+      ],
+      "pinyin": "yān"
+    },
+    {
+      "bopomofo": "（又音）ㄚ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）ā"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "肉",
+  "stroke_count": 12,
+  "title": "腌"
+}

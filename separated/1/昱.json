@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˋ",
+      "definitions": [
+        {
+          "def": "日光。",
+          "quote": [
+            "《廣韻．入聲．屋韻》：「昱，日光。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "照耀。",
+          "quote": [
+            "漢．揚雄《太玄經．卷一○．太玄告》：「日以昱乎晝，月以昱乎夜。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yù"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "日",
+  "stroke_count": 9,
+  "title": "昱"
+}

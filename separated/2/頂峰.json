@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄥˇ　ㄈㄥ",
+      "definitions": [
+        {
+          "antonyms": "山腳　2.起點",
+          "def": "山的頂端、最高處。",
+          "example": [
+            "如：「歷經數小時的努力，終於攀上頂峰。」"
+          ]
+        },
+        {
+          "def": "比喻達到極致、最佳的境界。",
+          "example": [
+            "如：「他的事業在今年達到最頂峰。」"
+          ],
+          "synonyms": "顛峰"
+        }
+      ],
+      "pinyin": "dǐng fēng"
+    }
+  ],
+  "title": "頂峰"
+}

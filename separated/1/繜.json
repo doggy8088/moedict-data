@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄨㄣ",
+      "definitions": [
+        {
+          "def": "古代婦女所穿的小衣。",
+          "quote": [
+            "《說文解字．糸部》：「繜，薉貉中女子無褲，以帛為脛空，用絮補核名曰繜衣，狀如襜褕。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zūn"
+    },
+    {
+      "bopomofo": "ㄗㄨㄣˇ",
+      "definitions": [
+        {
+          "def": "折損、抑制。",
+          "link": [
+            "通「撙」。"
+          ],
+          "quote": [
+            "《荀子．不苟》：「君子能則寬容易直以開道人，不能則恭敬繜  絀以畏事人。」",
+            "唐．楊倞．注：「繜與撙同，絀與黜同，謂自撙節貶損。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zǔn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "糸",
+  "stroke_count": 18,
+  "title": "繜"
+}

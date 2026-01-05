@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄠˋ",
+      "definitions": [
+        {
+          "def": "土地南北的長度。",
+          "quote": [
+            "《文選．揚雄．羽獵賦．序》：「北繞黃山濱渭而東，周袤數百里。」",
+            "《新唐書．卷九三．李靖傳》：「築卻月城，延袤十餘里，為掎角。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mào"
+    },
+    {
+      "bopomofo": "（又音）ㄇㄡˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）mòu"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "衣",
+  "stroke_count": 11,
+  "title": "袤"
+}

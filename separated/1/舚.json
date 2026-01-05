@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「蜂」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄊㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "吐舌。",
+          "quote": [
+            "唐．韓愈〈喜侯喜至贈張籍張徹〉詩：「雜作承間聘，交驚舌互?。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tiàn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "舌",
+  "stroke_count": 19,
+  "title": "舚"
+}

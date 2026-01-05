@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「啾」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄐㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "用牙齒啃咬、咀嚼。",
+          "example": [
+            "如：「噍食」、「噍咀」。"
+          ],
+          "quote": [
+            "漢．王充《論衡．道虛》：「口齒以噍食，孔竅以注瀉。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jiào"
+    },
+    {
+      "bopomofo": "ㄐㄧㄠ",
+      "definitions": [
+        {
+          "def": "焦急、急促。",
+          "quote": [
+            "《禮記．樂記》：「是故其哀心感者，其聲噍以殺。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jiāo"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "口",
+  "stroke_count": 15,
+  "title": "噍"
+}

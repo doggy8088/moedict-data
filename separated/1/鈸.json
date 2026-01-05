@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄚˊ",
+      "definitions": [
+        {
+          "def": "樂器名。一種銅製的打擊樂器。直徑約三十至三十五公分，周邊扁平而中央凸起的圓銅片。兩片相擊便可發出渾厚的聲音。在戲曲、秧歌及民間樂隊中普遍應用。",
+          "link": [
+            "也稱為「銅鈸」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bá"
+    },
+    {
+      "bopomofo": "（又音）ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）bó"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "金",
+  "stroke_count": 13,
+  "title": "鈸"
+}

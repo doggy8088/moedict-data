@@ -1,0 +1,57 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄜˇ",
+      "definitions": [
+        {
+          "def": "口乾想喝水的感覺。",
+          "example": [
+            "如：「望梅止渴」。"
+          ],
+          "quote": [
+            "南朝宋．劉義慶《世說新語．假譎》：「前有大梅林，饒子，甘酸，可以解渴。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "急切。",
+          "example": [
+            "如：「渴望」、「渴念」、「渴求」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "kě"
+    },
+    {
+      "bopomofo": "ㄏㄜˊ",
+      "definitions": [
+        {
+          "def": "反流的水。",
+          "quote": [
+            "唐．柳宗元〈袁家渴記〉：「楚越之間方言，謂水之反流者為渴，音若衣褐之褐。渴上與南館高嶂合，下與百家瀨合。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "hé"
+    },
+    {
+      "bopomofo": "ㄐㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "乾涸、枯竭。",
+          "quote": [
+            "《廣韻．入聲．薛韻》：「渴，水盡也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jié"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "水",
+  "stroke_count": 12,
+  "title": "渴"
+}

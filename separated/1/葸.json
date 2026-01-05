@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧˇ",
+      "definitions": [
+        {
+          "def": "畏懼、退縮。",
+          "quote": [
+            "《論語．泰伯》：「恭而無禮則勞，慎而無禮則葸。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "面無表情的樣子。",
+          "quote": [
+            "《大戴禮記．曾子立事》：「人言善而色葸焉，近於不說其言。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xǐ"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "艸",
+  "stroke_count": 13,
+  "title": "葸"
+}

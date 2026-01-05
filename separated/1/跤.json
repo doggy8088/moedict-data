@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄠ",
+      "definitions": [
+        {
+          "def": "筋斗、跟頭。",
+          "example": [
+            "如：「摔跤」、「他跌了一跤。」"
+          ],
+          "quote": [
+            "《喻世明言．卷二六．沈小官一鳥害七命》：「一跤倒在柳樹邊。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiāo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "足",
+  "stroke_count": 13,
+  "title": "跤"
+}

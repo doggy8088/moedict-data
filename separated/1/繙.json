@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄢ",
+      "definitions": [
+        {
+          "def": "反覆。",
+          "quote": [
+            "《莊子．天道》：「往見老聃，而老聃不許，於是繙十二經以說。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "將某種語言文字譯成另一種語言文字。",
+          "example": [
+            "如：「繙譯」。"
+          ],
+          "link": [
+            "通「翻」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "旗子。",
+          "quote": [
+            "唐．儲光羲〈昭聖觀〉詩：「扶橑盡蟠木，步檐多畫繙。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fān"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "糸",
+  "stroke_count": 18,
+  "title": "繙"
+}

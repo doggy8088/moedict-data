@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄢ",
+      "definitions": [
+        {
+          "def": "參見「萹蓄」條。"
+        }
+      ],
+      "pinyin": "piān"
+    },
+    {
+      "bopomofo": "ㄅㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "萹豆：植物名。一年生草本植物。夏間結實成莢，莢果成新月形，內含白色或黑色種子。可供食用或藥用。也作「扁豆」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "biǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "艸",
+  "stroke_count": 13,
+  "title": "萹"
+}

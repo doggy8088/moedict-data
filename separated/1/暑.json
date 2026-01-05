@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨˇ",
+      "definitions": [
+        {
+          "def": "炎熱的夏天。",
+          "example": [
+            "如：「盛暑」、「酷暑」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "熱。",
+          "example": [
+            "如：「避暑」、「溽暑」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "炎熱的。",
+          "example": [
+            "如：「暑天」、「暑氣」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "shǔ"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "日",
+  "stroke_count": 12,
+  "title": "暑"
+}

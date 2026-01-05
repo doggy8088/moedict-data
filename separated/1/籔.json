@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨˋ",
+      "definitions": [
+        {
+          "def": "量詞。古代計算容積的單位。十六斗稱為「籔」。",
+          "quote": [
+            "《玉篇．竹部》：「籔，十六斗曰籔。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shù"
+    },
+    {
+      "bopomofo": "ㄙㄡˇ",
+      "definitions": [
+        {
+          "def": "過濾米的竹器。",
+          "quote": [
+            "《說文解字．竹部》：「籔，炊䉛也。」",
+            "清．段玉裁．注：「本漉米具也。既浚乾，則可炊矣。故名炊䉛。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "sǒu"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "竹",
+  "stroke_count": 21,
+  "title": "籔"
+}

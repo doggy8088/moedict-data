@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "農作物收成不好。",
+          "example": [
+            "如：「歉收」、「歉年」。"
+          ],
+          "quote": [
+            "《宋史．卷三四七．黃廉傳》：「是使民遇豐年而思歉歲也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "對不起別人的心情。",
+          "example": [
+            "如：「抱歉」、「道歉」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiàn"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "欠",
+  "stroke_count": 14,
+  "title": "歉"
+}

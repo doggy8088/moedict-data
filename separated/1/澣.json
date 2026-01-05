@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄢˇ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「浣」。"
+          ]
+        }
+      ],
+      "pinyin": "huǎn"
+    },
+    {
+      "bopomofo": "（又音）ㄨㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）wǎn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "水",
+  "stroke_count": 16,
+  "title": "澣"
+}

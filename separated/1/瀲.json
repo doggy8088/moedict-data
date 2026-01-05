@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "水邊。",
+          "quote": [
+            "《文選．潘岳．西征賦》：「華蓮爛於淥沼，青蕃蔚乎翠瀲。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "水滿溢而波動的樣子。",
+          "quote": [
+            "宋．蘇軾〈飲湖上初晴後雨〉詩二首之二：「水光瀲灩晴方好，山色空濛雨亦奇。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "liàn"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "水",
+  "stroke_count": 20,
+  "title": "瀲"
+}

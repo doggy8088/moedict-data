@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˊ",
+      "definitions": [
+        {
+          "def": "九嶷山：山名。在大陸地區湖南省寧遠縣，相傳舜葬於此。",
+          "link": [
+            "也稱為「蒼梧山」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yí"
+    },
+    {
+      "bopomofo": "ㄋㄧˋ",
+      "definitions": [
+        {
+          "def": "參見「嶷嶷」、「嶷岌」等條。"
+        }
+      ],
+      "pinyin": "nì"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "山",
+  "stroke_count": 17,
+  "title": "嶷"
+}

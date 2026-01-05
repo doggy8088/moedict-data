@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "動物名。節肢動物門甲殼綱。全身被有甲殼，頭胸多扁平而廣闊，有五對足，第一對變形為螯，橫行甚速。腹部分數節屈折於胸部之下，俗稱為「臍」，雄的臍尖，雌的臍圓。鹹、淡水皆產，種類甚多。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiè"
+    },
+    {
+      "bopomofo": "（又音）ㄒㄧㄝˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）xiě"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "虫",
+  "stroke_count": 19,
+  "title": "蟹"
+}

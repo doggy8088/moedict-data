@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄢˇ",
+      "definitions": [
+        {
+          "def": "眼睛快速一瞥的樣子。",
+          "quote": [
+            "《說文解字．目部》：「睒，暫視貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "窺視。",
+          "quote": [
+            "漢．揚雄《太玄經．卷六．瞢》：「瞢復睒天，不睹其軫。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shǎn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "目",
+  "stroke_count": 13,
+  "title": "睒"
+}

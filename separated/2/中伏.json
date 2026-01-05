@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄥ　ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "三伏的第二伏。指夏至後第四庚日。",
+          "link": [
+            "也稱為「二伏」。"
+          ]
+        }
+      ],
+      "pinyin": "zhōng fú"
+    },
+    {
+      "bopomofo": "ㄓㄨㄥˋ　ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "中了敵人的埋伏。",
+          "example": [
+            "如：「都怪我太不小心，不然我們也不會中伏！」"
+          ]
+        }
+      ],
+      "pinyin": "zhòng fú"
+    }
+  ],
+  "title": "中伏"
+}

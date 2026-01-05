@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄤˊ　ㄍㄨㄥ",
+      "definitions": [
+        {
+          "def": "強而有力的攻擊。",
+          "example": [
+            "如：「一切準備就緒，只要時機成熟，便可發動強攻。」"
+          ]
+        }
+      ],
+      "pinyin": "qiáng gōng"
+    },
+    {
+      "bopomofo": "ㄑㄧㄤˇ　ㄍㄨㄥ",
+      "definitions": [
+        {
+          "antonyms": "智取",
+          "def": "豁出全力，不計一切的攻擊。",
+          "example": [
+            "如：「情勢迫在眉睫，只有強攻才能有所轉機。」"
+          ]
+        }
+      ],
+      "pinyin": "qiǎng gōng"
+    }
+  ],
+  "title": "強攻"
+}

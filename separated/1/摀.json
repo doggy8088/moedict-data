@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨˇ",
+      "definitions": [
+        {
+          "def": "遮掩。",
+          "example": [
+            "如：「摀住眼睛」、「摀上嘴巴」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "密封起來，使其不透氣。",
+          "example": [
+            "如：「放在罐子裡摀幾天。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "wǔ"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "手",
+  "stroke_count": 13,
+  "title": "摀"
+}

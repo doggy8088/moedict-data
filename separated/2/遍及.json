@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄢˋ　ㄐㄧˊ",
+      "definitions": [
+        {
+          "def": "廣布各個角落。",
+          "example": [
+            "如：「他的恩德遍及天下。」"
+          ],
+          "synonyms": "普遍﹑普及﹑廣泛"
+        }
+      ],
+      "pinyin": "biàn jí"
+    },
+    {
+      "bopomofo": "ㄆㄧㄢˋ　ㄐㄧˊ",
+      "definitions": [
+        {
+          "def": "到處分布。",
+          "example": [
+            "如：「一部出色的作品，其讀者群必然遍及各階層。」"
+          ],
+          "synonyms": "普及"
+        }
+      ],
+      "pinyin": "piàn jí"
+    }
+  ],
+  "title": "遍及"
+}

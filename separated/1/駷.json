@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "搖動馬銜使馬行走。",
+          "quote": [
+            "《公羊傳．定公八年》：「臨南駷馬。」",
+            "漢．何休．解詁：「捶馬銜走。」",
+            "唐．李白〈天馬歌〉：「天馬奔，戀君軒，駷躍驚矯浮雲翻。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "sǒng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "馬",
+  "stroke_count": 17,
+  "title": "駷"
+}

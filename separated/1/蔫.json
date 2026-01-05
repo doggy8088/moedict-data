@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢ",
+      "definitions": [
+        {
+          "def": "枯萎、不新鮮的。",
+          "quote": [
+            "唐．韓偓〈春盡日〉詩：「樹頭初日照西簷，樹底蔫花夜雨霑。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yān"
+    },
+    {
+      "bopomofo": "ㄋㄧㄢ",
+      "definitions": [
+        {
+          "def": "精神委靡不振。",
+          "example": [
+            "如：「蔫溜溜」、「蔫不悄聲」、「氣索神蔫」、「他病了，氣色顯得有點蔫。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "niān"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "艸",
+  "stroke_count": 15,
+  "title": "蔫"
+}

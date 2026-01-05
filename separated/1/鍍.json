@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨˋ",
+      "definitions": [
+        {
+          "def": "用電解的方法將一種金屬塗在他種金屬的外表。",
+          "example": [
+            "如：「電鍍」、「鍍銀」。"
+          ],
+          "quote": [
+            "《玉篇．金部》：「鍍，金鍍物也。」",
+            "《水滸傳．第一三回》：「身披一副鐵葉攢成鎧甲，腰繫一條鍍金獸面束帶。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dù"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "金",
+  "stroke_count": 17,
+  "title": "鍍"
+}

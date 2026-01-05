@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄜˋ",
+      "definitions": [
+        {
+          "def": "儉省。",
+          "example": [
+            "如：「吝嗇」、「慳嗇」。"
+          ],
+          "quote": [
+            "《管子．五輔》：「纖嗇省用，以備飢饉。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "耕作的事。",
+          "link": [
+            "通「穡」。"
+          ],
+          "quote": [
+            "《漢書．卷一○．成帝紀》：「服田力嗇，乃亦有秋。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "sè"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "口",
+  "stroke_count": 13,
+  "title": "嗇"
+}

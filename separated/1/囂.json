@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄠ",
+      "definitions": [
+        {
+          "def": "嘈雜、喧嘩。",
+          "example": [
+            "如：「喧囂」、「叫囂」、「甚囂塵上」。"
+          ],
+          "quote": [
+            "《左傳．成公十六年》：「陳不違晦，在陳而囂。」",
+            "晉．杜預．注：「囂，喧譁也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "放肆。",
+          "example": [
+            "如：「囂張」。"
+          ],
+          "quote": [
+            "唐．柳宗元〈憎王孫文．序〉：「王孫之德躁以囂，勃諍號呶。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiāo"
+    }
+  ],
+  "non_radical_stroke_count": 18,
+  "radical": "口",
+  "stroke_count": 21,
+  "title": "囂"
+}

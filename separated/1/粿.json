@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄛˇ",
+      "definitions": [
+        {
+          "def": "常見的臺灣民俗食品。用糯米製成，口味有多種。閩語發音近似ㄍㄨㄟˋ　ｇｕèｉ　。",
+          "example": [
+            "如：「芋粿」、「碗粿」、「油蔥粿」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "guǒ"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "米",
+  "stroke_count": 14,
+  "title": "粿"
+}

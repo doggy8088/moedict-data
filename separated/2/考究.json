@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄠˇ　ㄐㄧㄡˋ",
+      "definitions": [
+        {
+          "def": "推求、探究。",
+          "quote": [
+            "《魏書．卷四八．高允傳》：「先所論者，本不注心，及更考究，果如君語。」"
+          ],
+          "synonyms": "查究"
+        }
+      ],
+      "pinyin": "kǎo jiù"
+    },
+    {
+      "bopomofo": "ㄎㄠˇ　˙ㄐㄧㄡ",
+      "definitions": [
+        {
+          "def": "精美。",
+          "example": [
+            "如：「她穿的服飾很考究。」"
+          ],
+          "synonyms": "精緻"
+        }
+      ],
+      "pinyin": "kǎo jiu"
+    }
+  ],
+  "title": "考究"
+}

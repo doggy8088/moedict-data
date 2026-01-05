@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨˊ",
+      "definitions": [
+        {
+          "def": "物在穴中的樣子。",
+          "quote": [
+            "《說文解字．穴部》：「窋，物在穴中貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "窟。",
+          "quote": [
+            "漢．趙曄《吳越春秋．王僚使公子光傳》：「公子光伏甲士於窋室中，具酒而請王僚。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhú"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "穴",
+  "stroke_count": 10,
+  "title": "窋"
+}

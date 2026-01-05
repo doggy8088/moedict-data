@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄤˊ",
+      "definitions": [
+        {
+          "def": "參見「瀼瀼」條。"
+        }
+      ],
+      "pinyin": "ráng"
+    },
+    {
+      "bopomofo": "ㄖㄤˋ",
+      "definitions": [
+        {
+          "def": "山間的溪流通到江裡去的，蜀人多稱為「瀼」。明．張自烈《正字通．水部》：「瀼，夔州澗水橫通山谷間，市人謂之瀼，居人分其左右謂瀼東、瀼西」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "ràng"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "水",
+  "stroke_count": 20,
+  "title": "瀼"
+}

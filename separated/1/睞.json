@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄞˋ",
+      "definitions": [
+        {
+          "def": "目中瞳仁不正。",
+          "quote": [
+            "《說文解字．目部》：「睞，目童子不正也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "看。",
+          "quote": [
+            "南朝宋．謝靈運〈登上戍石鼓山〉詩：「極目睞左闊，迴顧眺右狹。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "顧念。",
+          "example": [
+            "如：「青睞」、「盼睞」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lài"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "目",
+  "stroke_count": 13,
+  "title": "睞"
+}

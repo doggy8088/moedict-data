@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄎㄞˋ",
+      "definitions": [
+        {
+          "def": "咳嗽。",
+          "quote": [
+            "《說文解字．欠部》：「欬，逆氣也。」",
+            "清．段玉裁．注：「含吸之欲其下，而气乃逆上是曰欬。」",
+            "宋．蘇軾〈石鐘山記〉：「又有若老人欬且笑於山谷中者。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "（讀音）kài"
+    },
+    {
+      "bopomofo": "（語音）ㄎㄜˊ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）ké"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "欠",
+  "stroke_count": 10,
+  "title": "欬"
+}

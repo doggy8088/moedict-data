@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄢˋ",
+      "definitions": [
+        {
+          "def": "將玻璃、金屬等局部加熱、熔化，或以熔點較低的玻璃、金屬等修補接縫處，使彼此相連接，稱為「銲」。",
+          "example": [
+            "如：「銅銲」、「電銲」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hàn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "金",
+  "stroke_count": 15,
+  "title": "銲"
+}

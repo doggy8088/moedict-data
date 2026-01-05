@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "繫船的石墩或鐵錨。",
+          "quote": [
+            "唐．韓愈〈正議大夫尚書左丞孔公墓誌銘〉：「蕃舶之至泊步，有下碇之稅。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "船停泊放錨以固定船身。",
+          "example": [
+            "如：「碇泊」。"
+          ],
+          "quote": [
+            "宋．蘇軾《東坡志林．卷一．記遊．記過合浦》：「是日六月晦，無月，碇宿大海中。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dìng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "石",
+  "stroke_count": 13,
+  "title": "碇"
+}

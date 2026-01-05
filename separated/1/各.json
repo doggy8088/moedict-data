@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄜˋ",
+      "definitions": [
+        {
+          "def": "指代一定群體中的不同個體本身。",
+          "example": [
+            "如：「各自」。"
+          ],
+          "quote": [
+            "《論語．公冶長》：「盍各言爾志？」"
+          ],
+          "type": "代"
+        },
+        {
+          "def": "每。",
+          "example": [
+            "如：「各個」。"
+          ],
+          "quote": [
+            "《史記．卷一二三．大宛傳》：「令外國客遍觀各倉庫府藏之積。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "gè"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "口",
+  "stroke_count": 6,
+  "title": "各"
+}

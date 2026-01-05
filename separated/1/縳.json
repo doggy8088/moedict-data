@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄢˋ",
+      "definitions": [
+        {
+          "def": "白色細絹。",
+          "quote": [
+            "《說文解字．糸部》：「縳，白鮮卮也。」",
+            "《集韻．去聲．線韻》：「縳，雙縳，緻繒也，紡熟絲為之。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhuàn"
+    },
+    {
+      "bopomofo": "ㄔㄨㄢˊ",
+      "definitions": [
+        {
+          "def": "縛、綁。",
+          "quote": [
+            "《左傳．襄公二十五年》：「閭丘嬰以帷縛其妻而載之，與申鮮虞乘而出。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chuán"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "糸",
+  "stroke_count": 17,
+  "title": "縳"
+}

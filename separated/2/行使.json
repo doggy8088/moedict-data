@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄥˊ　ㄕˇ",
+      "definitions": [
+        {
+          "antonyms": "放棄",
+          "def": "使用、實行。",
+          "example": [
+            "如：「行使職權」。"
+          ],
+          "quote": [
+            "清．顧炎武〈錢糧論下〉：「明之初，嘗禁民不得行使金銀，犯者准奸惡論。」"
+          ],
+          "synonyms": "使用"
+        }
+      ],
+      "pinyin": "xíng shǐ"
+    },
+    {
+      "bopomofo": "ㄒㄧㄥˊ　ㄕˋ",
+      "definitions": [
+        {
+          "def": "古代稱使者為「行使」。",
+          "quote": [
+            "《左傳．桓公十一年》唐．孔穎達．正義：「行使被執，例稱行人。」"
+          ]
+        }
+      ],
+      "pinyin": "xíng shì"
+    }
+  ],
+  "title": "行使"
+}

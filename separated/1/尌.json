@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨˋ",
+      "definitions": [
+        {
+          "def": "豎立。",
+          "link": [
+            "通「樹」。"
+          ],
+          "quote": [
+            "《說文解字．壴部》：「尌，立也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "姓。如春秋時鄭國有尌拊。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shù"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "寸",
+  "stroke_count": 12,
+  "title": "尌"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄤˋ",
+      "definitions": [
+        {
+          "def": "物體體積變大。",
+          "example": [
+            "如：「膨脹」、「熱脹冷縮」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "形容飲食過飽，腸胃不舒服的感覺。",
+          "example": [
+            "如：「胃脹」、「肚子很脹」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "浮腫。",
+          "example": [
+            "如：「皮膚腫脹」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhàng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "肉",
+  "stroke_count": 12,
+  "title": "脹"
+}

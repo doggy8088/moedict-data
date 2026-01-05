@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄟˇ",
+      "definitions": [
+        {
+          "def": "水邊乾枯的土。",
+          "quote": [
+            "《說文解字．水部》：「氿，水厓枯土也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "由旁側流出的。",
+          "quote": [
+            "《詩經．小雅．大東》：「有冽氿泉，無浸穫薪。」",
+            "漢．毛亨．傳：「側出曰氿泉。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "guǐ"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "水",
+  "stroke_count": 5,
+  "title": "氿"
+}

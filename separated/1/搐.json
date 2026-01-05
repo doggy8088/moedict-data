@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨˋ",
+      "definitions": [
+        {
+          "def": "筋肉牽動。",
+          "example": [
+            "如：「抽搐」。"
+          ],
+          "quote": [
+            "《漢書．卷四八．賈誼傳》：「一二指搐，身慮亡聊。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chù"
+    },
+    {
+      "bopomofo": "ㄔㄡ",
+      "definitions": [
+        {
+          "def": "參見「搐風」條。"
+        }
+      ],
+      "pinyin": "chōu"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "手",
+  "stroke_count": 13,
+  "title": "搐"
+}

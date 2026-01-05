@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "形容下雨的聲音。",
+          "quote": [
+            "唐．貫林〈酷吏詞〉：「霰雨灂灂，風吼如斸。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "形容波浪激盪的聲音。",
+          "quote": [
+            "《文選．郭璞．江賦》：「砯巖鼓作，漰湱澩灂。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "zhuó"
+    },
+    {
+      "bopomofo": "ㄐㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "塗在車轅上的漆。《集韻．去聲．笑韻》：「灂，車轅漆也。」《周禮．冬官考工記．輈人》:「良輈環灂，自伏兔不至軌。」",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiào"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "水",
+  "stroke_count": 20,
+  "title": "灂"
+}

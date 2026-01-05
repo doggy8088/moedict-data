@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "用火燒或高溫加熱等法，使物質去掉雜質，變得精純或堅硬。",
+          "example": [
+            "如：「煉油」、「提煉」。"
+          ],
+          "quote": [
+            "漢．王充《論衡．談天》：「銷煉五石補蒼天。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "用火久熬，炮製藥石。",
+          "example": [
+            "如：「煉藥」、「煉丹」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "燒。",
+          "example": [
+            "如：「真金不怕火煉」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "liàn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "火",
+  "stroke_count": 13,
+  "title": "煉"
+}

@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛˇ",
+      "definitions": [
+        {
+          "def": "腳有殘疾，走起來身體歪歪斜斜，不能平衡。",
+          "example": [
+            "如：「跛腳」、「跛子」。"
+          ],
+          "quote": [
+            "《穀梁傳．成公十年》：「衛孫良夫跛。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "bǒ"
+    },
+    {
+      "bopomofo": "ㄅㄧˋ",
+      "definitions": [
+        {
+          "def": "歪斜、偏倚。",
+          "quote": [
+            "《禮記．曲禮上》：「遊毋倨，立毋跛。」",
+            "唐．孔穎達．正義：「跛，偏也，謂挈舉一足，一足蹋也。立宜如齊，雙足並立不得偏也。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "bì"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "足",
+  "stroke_count": 12,
+  "title": "跛"
+}

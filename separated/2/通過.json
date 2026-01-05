@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄥ　ㄍㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "經過、通行。",
+          "example": [
+            "如：「這條路太窄，汽車不能通過。」"
+          ],
+          "synonyms": "經過　2.議定﹑議決"
+        },
+        {
+          "antonyms": "否決",
+          "def": "議案經多數表決而成立。",
+          "example": [
+            "如：「此案在議會已表決通過。」"
+          ]
+        }
+      ],
+      "pinyin": "tōng guò"
+    }
+  ],
+  "title": "通過"
+}

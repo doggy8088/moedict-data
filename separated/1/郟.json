@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄚˊ",
+      "definitions": [
+        {
+          "def": "郟縣：縣名。在大陸地區河南省省境中部，許昌縣以西。",
+          "type": "名"
+        },
+        {
+          "def": "郟山：山名。在大陸地區河南省洛陽縣北。",
+          "link": [
+            "也稱為「北邙山」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如春秋時鄭國有郟張。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiá"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "邑",
+  "stroke_count": 10,
+  "title": "郟"
+}

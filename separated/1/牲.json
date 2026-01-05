@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄥ",
+      "definitions": [
+        {
+          "def": "祭祀時所用的家畜。",
+          "example": [
+            "如：「三牲」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛指牛、羊、豬、馬等一般的家畜。",
+          "example": [
+            "如：「牲口」、「畜牲」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shēng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "牛",
+  "stroke_count": 9,
+  "title": "牲"
+}

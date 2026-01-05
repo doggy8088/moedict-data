@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗˇ",
+      "definitions": [
+        {
+          "def": "紅、藍合成的顏色。",
+          "quote": [
+            "《論語．陽貨》：「惡紫之奪朱也，惡鄭聲之亂雅樂也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有紫景望。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zǐ"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "糸",
+  "stroke_count": 12,
+  "title": "紫"
+}

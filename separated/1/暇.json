@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄚˊ",
+      "definitions": [
+        {
+          "def": "空閒。",
+          "example": [
+            "如：「閒暇」、「應接不暇」、「自顧不暇」。"
+          ],
+          "quote": [
+            "《孟子．梁惠王上》：「此惟救死而恐不贍，奚暇治禮義哉？」",
+            "唐．韓愈〈與于襄陽書〉：「雖遇其人，未暇禮耶。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "從容、悠閒。",
+          "quote": [
+            "南朝宋．劉義慶《世說新語．任誕》：「謝便起舞，神意甚暇。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiá"
+    },
+    {
+      "bopomofo": "（又音）ㄒㄧㄚˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）xià"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "日",
+  "stroke_count": 13,
+  "title": "暇"
+}

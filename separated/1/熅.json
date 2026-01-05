@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄣˊ",
+      "definitions": [
+        {
+          "def": "有濃煙而無焰的火。",
+          "quote": [
+            "《漢書．卷五四．蘇建傳》：「鑿地為坎，置熅火，覆武其上，蹈其背以出血。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yún"
+    },
+    {
+      "bopomofo": "ㄩㄣˋ",
+      "definitions": [
+        {
+          "def": "使用熱力將東西弄平。",
+          "link": [
+            "同「熨」。"
+          ],
+          "quote": [
+            "《集韻．去聲．焮韻》：「熅，以火伸物。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yùn"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "火",
+  "stroke_count": 14,
+  "title": "熅"
+}

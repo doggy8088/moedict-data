@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨˇ",
+      "definitions": [
+        {
+          "def": "同等的、相同的。",
+          "quote": [
+            "《集韻．去聲．莫韻》：「仵，同也。」",
+            "《莊子．天下》：「以堅白同異之辯相訾，以觭偶不仵之辭相應。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "姓。如明代有仵瑜。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "wǔ"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "人",
+  "stroke_count": 6,
+  "title": "仵"
+}

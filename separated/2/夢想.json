@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄥˋ　ㄒㄧㄤˇ",
+      "definitions": [
+        {
+          "antonyms": "事實",
+          "def": "妄想、空想。",
+          "example": [
+            "如：「不努力就想要有成就，那簡直是夢想。」"
+          ],
+          "synonyms": "理想﹑空想﹑幻想﹑妄想"
+        },
+        {
+          "def": "渴想。",
+          "example": [
+            "如：「她從小就夢想有一架鋼琴。」"
+          ]
+        }
+      ],
+      "pinyin": "mèng xiǎng"
+    }
+  ],
+  "title": "夢想"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄝˊ",
+      "definitions": [
+        {
+          "def": "高齡、高壽。",
+          "quote": [
+            "《說文解字．老部》：「耋，年八十曰耋。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛指老年人。",
+          "quote": [
+            "《公羊傳．宣公十二年》：「使師一二耋老而綏馬。」",
+            "唐．劉禹錫〈唐故尚書主客員外郎盧公集序〉：「三至郎署，坐成遺耋。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dié"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "老",
+  "stroke_count": 12,
+  "title": "耋"
+}

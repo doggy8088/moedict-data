@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄚ",
+      "definitions": [
+        {
+          "def": "美、好。",
+          "example": [
+            "如：「佳人」、「佳景」、「佳音」。"
+          ],
+          "quote": [
+            "《文選．曹植．與楊德祖書》：「文之佳惡，吾自得之。」",
+            "《文選．陶淵明．雜詩二首之一》：「山氣日夕佳，飛鳥相與還。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "姓。如明代有佳正。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiā"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "佳"
+}

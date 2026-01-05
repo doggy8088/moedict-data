@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄢ",
+      "definitions": [
+        {
+          "def": "罐甕之類盛食物的陶土器。",
+          "quote": [
+            "唐．陸龜蒙〈京口與友生話別〉詩：「蜀酒時傾瓿，吳蝦遍發坩。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「坩堝」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gān"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "土",
+  "stroke_count": 8,
+  "title": "坩"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˋ",
+      "definitions": [
+        {
+          "def": "豬隻喘氣。",
+          "quote": [
+            "《說文解字．豕部》：「豷，豕息也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "人名。夏朝寒浞的兒子。",
+          "quote": [
+            "《左傳．襄公四年》：「寒浞殺羿，因其室生子澆及豷。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yì"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "豕",
+  "stroke_count": 19,
+  "title": "豷"
+}

@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄤ　ㄒㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "東南西北上下等區別。",
+          "quote": [
+            "《紅樓夢．第三九回》：「按著劉姥姥說的方向地名，著茗煙去先踏看明白，回來再做主意。」"
+          ]
+        },
+        {
+          "def": "面對的方位。",
+          "example": [
+            "如：「朝目標方向前進。」"
+          ],
+          "synonyms": "目標"
+        }
+      ],
+      "pinyin": "fāng xiàng"
+    },
+    {
+      "bopomofo": "ㄈㄤ　˙ㄒㄧㄤ",
+      "definitions": [
+        {
+          "def": "情勢。",
+          "example": [
+            "如：「看方向做事。」"
+          ]
+        }
+      ],
+      "pinyin": "fāng xiang"
+    }
+  ],
+  "title": "方向"
+}

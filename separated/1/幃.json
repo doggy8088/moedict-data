@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄟˊ",
+      "definitions": [
+        {
+          "def": "香囊。",
+          "quote": [
+            "《楚辭．屈原．離騷》：「椒專佞以慢慆兮，樧又欲充夫佩幃。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "帳幕。",
+          "link": [
+            "通「帷」。"
+          ],
+          "quote": [
+            "《後漢書．卷四九．仲長統傳》：「垂露成幃，張霄成幄。」",
+            "唐．李白〈春思〉詩：「春風不相識，何事入羅幃？」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "wéi"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "巾",
+  "stroke_count": 12,
+  "title": "幃"
+}

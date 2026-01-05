@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄥˋ",
+      "definitions": [
+        {
+          "def": "薪資。以前單指官員所得的薪資、酬勞。",
+          "example": [
+            "如：「薪俸」、「月俸」、「高官厚俸」。"
+          ],
+          "quote": [
+            "《儒林外史．第七回》：「到七日上，李老爺果然奉旨出獄，只罰了三個月的俸。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fèng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "俸"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（語音）ㄓㄢˋ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「暫」。"
+          ]
+        }
+      ],
+      "pinyin": "（語音）zhàn"
+    },
+    {
+      "bopomofo": "（讀音）ㄗㄢˋ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。"
+        }
+      ],
+      "pinyin": "（讀音）zàn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "足",
+  "stroke_count": 18,
+  "title": "蹔"
+}

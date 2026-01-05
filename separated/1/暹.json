@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄢ",
+      "definitions": [
+        {
+          "def": "日光升起。",
+          "quote": [
+            "宋．王安石〈和平甫舟中望九華山〉詩二首之一：「臥送秋月沒，起看朝日暹。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「暹羅」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiān"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "日",
+  "stroke_count": 16,
+  "title": "暹"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄜˊ",
+      "definitions": [
+        {
+          "def": "幽深玄妙的事物。",
+          "example": [
+            "如：「探賾索隱」。"
+          ],
+          "quote": [
+            "《易經．繫辭上》：「聖人有以見天下之賾，而擬諸其形容，象其物宜。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "幽深的。",
+          "quote": [
+            "唐．孟郊〈弔元魯山〉詩一○首之九：「將謠魯山德，賾海誰能涯？」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zé"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "貝",
+  "stroke_count": 18,
+  "title": "賾"
+}

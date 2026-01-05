@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "尺度、標準。",
+          "quote": [
+            "《楚辭．屈原．離騷》：「勉陞降以上下兮，求矩矱之所同。」",
+            "《後漢書．卷五二．崔駰傳》：「協準矱之貞度兮，同斷金之玄策。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "huò"
+    },
+    {
+      "bopomofo": "（又音）ㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）wò"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "矢",
+  "stroke_count": 19,
+  "title": "矱"
+}

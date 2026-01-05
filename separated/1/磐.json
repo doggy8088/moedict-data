@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄢˊ",
+      "definitions": [
+        {
+          "def": "巨大的石頭。",
+          "quote": [
+            "《玉篇．石部》：「磐，大石也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "徘徊不去。",
+          "link": [
+            "通「盤」。"
+          ],
+          "quote": [
+            "《後漢書．卷四一．宋意傳》：「室第相望，久磐京邑，婚姻之盛，過於本朝。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pán"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "石",
+  "stroke_count": 15,
+  "title": "磐"
+}

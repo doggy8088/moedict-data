@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄥˇ",
+      "definitions": [
+        {
+          "def": "參見「鞞琫」條。"
+        }
+      ],
+      "pinyin": "bǐng"
+    },
+    {
+      "bopomofo": "ㄅㄟ",
+      "definitions": [
+        {
+          "def": "牛鞞：縣名。漢代時設置，約在今大陸地區四川省簡陽縣東。",
+          "quote": [
+            "《廣韻．平聲．支韻》：「鞞，牛鞞縣，在蜀。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bēi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "革",
+  "stroke_count": 17,
+  "title": "鞞"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄤˊ",
+      "definitions": [
+        {
+          "def": "參見「檳榔」、「榔榆」等條。",
+          "type": "名"
+        },
+        {
+          "def": "漁人用來驅魚的長木棍。",
+          "quote": [
+            "宋．史達祖〈湘江靜．暮草堆青雲浸浦〉詞：「漁榔四起，沙鷗未落，怕愁沾詩句。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "láng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "木",
+  "stroke_count": 13,
+  "title": "榔"
+}

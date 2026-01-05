@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄥˇ",
+      "definitions": [
+        {
+          "def": "光、光亮、明亮。",
+          "quote": [
+            "《廣韻．上聲．迥韻》：「炅，光也。」",
+            "唐．李白〈明堂賦〉：「熠乎碧光之堂，炅乎瓊華之室。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "熱。",
+          "quote": [
+            "《黃帝內經素問．卷一一．舉痛論》：「卒然而痛，得炅則痛立止。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiǒng"
+    },
+    {
+      "bopomofo": "ㄍㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "姓。如漢代有炅橫。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "guì"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "火",
+  "stroke_count": 8,
+  "title": "炅"
+}

@@ -1,0 +1,17 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄥˇ　ㄔㄨˊ",
+      "definitions": [
+        {
+          "def": "數學上指被除數除以除數，所得的商數為整數，餘數為零。",
+          "example": [
+            "如：「六可以被三整除。」"
+          ]
+        }
+      ],
+      "pinyin": "zhěng chú"
+    }
+  ],
+  "title": "整除"
+}

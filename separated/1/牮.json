@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "用木柱拉正、支撐傾斜的房屋。",
+          "quote": [
+            "《字彙．牛部》：「牮，屋斜用牮。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "用土石擋水。",
+          "quote": [
+            "《字彙．牛部》：「牮，以土石遮水亦曰牮。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jiàn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "牛",
+  "stroke_count": 9,
+  "title": "牮"
+}

@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "河川名。在大陸地區陝西省沔縣境，為漢水的上流。",
+          "type": "名"
+        },
+        {
+          "def": "水流充滿的樣子。",
+          "quote": [
+            "《詩經．小雅．沔水》：「沔彼流水，朝宗于海。」",
+            "唐．李白〈送黃鐘之鄱陽謁張使君序〉：「湖水演沔，勗哉是行。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "miǎn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "水",
+  "stroke_count": 7,
+  "title": "沔"
+}

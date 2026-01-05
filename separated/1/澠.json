@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄣˇ",
+      "definitions": [
+        {
+          "def": "參見「澠池」條。"
+        }
+      ],
+      "pinyin": "mǐn"
+    },
+    {
+      "bopomofo": "ㄕㄥˊ",
+      "definitions": [
+        {
+          "def": "河川名。源出大陸地區山東省臨淄縣西北古齊城外，西北流經博興縣東南，注入時水。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shéng"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "水",
+  "stroke_count": 16,
+  "title": "澠"
+}

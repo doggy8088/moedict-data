@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˋ　ㄓㄤˇ",
+      "definitions": [
+        {
+          "def": "眼看著長高或長大。",
+          "example": [
+            "如：「才短短一個月，小狗見長不少。」"
+          ]
+        }
+      ],
+      "pinyin": "jiàn zhǎng"
+    },
+    {
+      "bopomofo": "ㄐㄧㄢˋ　ㄔㄤˊ",
+      "definitions": [
+        {
+          "def": "顯出特有的專長。",
+          "example": [
+            "如：「他以繪畫見長。」"
+          ]
+        }
+      ],
+      "pinyin": "jiàn cháng"
+    }
+  ],
+  "title": "見長"
+}

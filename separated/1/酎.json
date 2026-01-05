@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄡˋ",
+      "definitions": [
+        {
+          "def": "多重加工而釀成的醇酒。",
+          "quote": [
+            "《說文解字．酉部》：「酎，三重醇酒也。」",
+            "《禮記．月令》：「天子飲酎，用禮樂。」",
+            "漢．鄭玄．注：「酎之言醇也，謂重釀之酒也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhòu"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "酉",
+  "stroke_count": 10,
+  "title": "酎"
+}

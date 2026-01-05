@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄥˊ",
+      "definitions": [
+        {
+          "def": "遮蓋。",
+          "link": [
+            "通「蒙」。"
+          ],
+          "quote": [
+            "宋．趙師俠〈點絳脣．日暖風暄〉詞：「瑩徹精神，映月唯宜夜，幪香帕，倩風扶下，碎玉殘妝卸。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "méng"
+    },
+    {
+      "bopomofo": "ㄇㄥˇ",
+      "definitions": [
+        {
+          "def": "參見「幪幪」條。"
+        }
+      ],
+      "pinyin": "měng"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "巾",
+  "stroke_count": 17,
+  "title": "幪"
+}

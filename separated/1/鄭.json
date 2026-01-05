@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄥˋ",
+      "definitions": [
+        {
+          "def": "國名。周朝諸侯國之一。故址位於今大陸地區河南省新鄭縣。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有鄭成功。",
+          "type": "名"
+        },
+        {
+          "def": "謹慎、莊重。",
+          "example": [
+            "如：「鄭重其事」。"
+          ],
+          "quote": [
+            "《三國志．卷二五．魏書．高堂隆傳》：「殷勤鄭重，欲必覺寤陛下。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "zhèng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "邑",
+  "stroke_count": 15,
+  "title": "鄭"
+}

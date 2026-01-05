@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄥ",
+      "definitions": [
+        {
+          "def": "用兕牛角製成的飲酒器物。",
+          "example": [
+            "如：「杯觥交錯」。"
+          ],
+          "quote": [
+            "《詩經．周南．卷耳》：「我姑酌兕觥，維以不永傷。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "豐盛。",
+          "quote": [
+            "《國語．越語下》：「諺有之曰：『觥飯不及壺飧。』」",
+            "三國吳．韋昭．注：「觥，大也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "gōng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "角",
+  "stroke_count": 13,
+  "title": "觥"
+}

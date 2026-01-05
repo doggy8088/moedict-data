@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄣ",
+      "definitions": [
+        {
+          "def": "長的樣子。",
+          "quote": [
+            "《詩經．小雅．魚藻》：「魚在在藻，有莘其尾。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "眾多。",
+          "example": [
+            "如：「莘莘學子」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "姓。如宋代有莘融。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shēn"
+    },
+    {
+      "bopomofo": "（又音）ㄒㄧㄣ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）xīn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "艸",
+  "stroke_count": 11,
+  "title": "莘"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "鑄造金屬器物的模型。",
+          "quote": [
+            "漢．董仲舒〈賢良策〉：「上之化下，下之從上，猶泥之在鈞，唯甄者之所為；猶金之在鎔，惟冶者之所鑄。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用火融化金屬。",
+          "quote": [
+            "南朝陳．徐陵〈天台山館徐則法師碑〉：「玉粒雖軟，金膏未鎔。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "róng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "金",
+  "stroke_count": 18,
+  "title": "鎔"
+}

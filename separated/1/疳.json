@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄢ",
+      "definitions": [
+        {
+          "def": "中醫上指局部潰爛、化膿的症狀。",
+          "example": [
+            "如：「牙疳」、「下疳」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gān"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "疒",
+  "stroke_count": 10,
+  "title": "疳"
+}

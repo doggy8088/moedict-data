@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "傷病。",
+          "quote": [
+            "《說文解字．疒部》：「瘣，病也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "高峻。",
+          "quote": [
+            "《史記．卷一一七．司馬相如傳》：「阜陵別島，崴磈崴瘣。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "huì"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "疒",
+  "stroke_count": 15,
+  "title": "瘣"
+}

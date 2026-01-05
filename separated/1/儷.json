@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˋ",
+      "definitions": [
+        {
+          "def": "配偶。",
+          "example": [
+            "如：「賢伉儷」。"
+          ],
+          "quote": [
+            "《左傳．成公十一年》：「鳥獸猶不失儷。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "成雙成對的。",
+          "example": [
+            "如：「儷影」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "文字成對偶、對仗的。",
+          "example": [
+            "如：「儷辭」、「儷句」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "lì"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "人",
+  "stroke_count": 21,
+  "title": "儷"
+}

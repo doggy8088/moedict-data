@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨ",
+      "definitions": [
+        {
+          "def": "紡粗的絲。",
+          "quote": [
+            "《玉篇．糸部》：「綀，紡麤絲。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "一種像苧布的紡織品。",
+          "quote": [
+            "宋．范成大《桂海虞衡志．志器》：「綀子出兩江州洞，大略似苧布，有花紋者謂之花綀。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shū"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "糸",
+  "stroke_count": 13,
+  "title": "綀"
+}

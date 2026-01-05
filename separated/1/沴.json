@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˋ",
+      "definitions": [
+        {
+          "def": "水流不順暢。",
+          "quote": [
+            "《說文解字．水部》：「沴，水不利也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "惡氣、災病。",
+          "quote": [
+            "唐．殷堯藩〈冬至酬劉使君〉詩：「漸喜一陽從地復，卻憐群沴逐冰消。」",
+            "宋．文天祥〈正氣歌〉：「如此再寒暑，百沴自辟易。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lì"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "水",
+  "stroke_count": 8,
+  "title": "沴"
+}

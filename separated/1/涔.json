@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄣˊ",
+      "definitions": [
+        {
+          "def": "水多的樣子。",
+          "quote": [
+            "《淮南子．說林》：「宮池涔則溢，旱則涸。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "流不停的樣子。",
+          "quote": [
+            "《文選．江淹．雜體詩．謝法曹》：「芳塵未歇席，涔淚猶在袂。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "cén"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "水",
+  "stroke_count": 10,
+  "title": "涔"
+}

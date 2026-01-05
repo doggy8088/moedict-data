@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄢ",
+      "definitions": [
+        {
+          "def": "尖銳。",
+          "quote": [
+            "《集韻．平聲．鹽韻》：「鋟，《博雅》：銳也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "雕刻。",
+          "quote": [
+            "宋．陸子虡〈劍南詩稿跋〉：「門人請以鋟梓。」",
+            "《清史稿．卷二七．天文志二》：「圈內規面及上側面皆鋟二十四時，時各四刻。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiān"
+    },
+    {
+      "bopomofo": "（又音）ㄑㄧㄣˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）qǐn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "金",
+  "stroke_count": 15,
+  "title": "鋟"
+}

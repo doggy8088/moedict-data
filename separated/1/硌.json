@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄜˋ",
+      "definitions": [
+        {
+          "def": "碰到堅硬不平的東西而引起損傷或痛苦。",
+          "quote": [
+            "清．蒲松齡《富貴神仙．第三回》：「自己鋪下草，找了一塊半頭磚，嫌硌頭，又使衣服墊。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gè"
+    },
+    {
+      "bopomofo": "ㄌㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "山上的大石。",
+          "quote": [
+            "《玉篇．石部》：「硌，山上大石。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "luò"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "石",
+  "stroke_count": 11,
+  "title": "硌"
+}

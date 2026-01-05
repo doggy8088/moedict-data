@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˋ",
+      "definitions": [
+        {
+          "def": "發狂的。",
+          "quote": [
+            "《淮南子．氾論》：「畏罪而恐誅，則因猘狗之驚，以殺子陽。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "凶狠、蠻橫。",
+          "quote": [
+            "元．郝經〈青州山行〉：「初從霸國後，往往逞兇猘。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhì"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "犬",
+  "stroke_count": 11,
+  "title": "猘"
+}

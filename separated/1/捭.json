@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄞˇ",
+      "definitions": [
+        {
+          "def": "兩手橫開向外旁擊。",
+          "quote": [
+            "《說文解字．手部》：「捭，兩手擊也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "開。參見「捭闔」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "bǎi"
+    },
+    {
+      "bopomofo": "ㄅㄛˋ",
+      "definitions": [
+        {
+          "def": "分開。",
+          "link": [
+            "通「擘」。"
+          ],
+          "quote": [
+            "《禮記．禮運》：「夫禮之初，始諸飲食其燔黍、捭豚……。」",
+            "唐．孔穎達．正義：「或捭析豚肉，加於燒石之上而孰之，故云：『捭豚』。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bò"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "手",
+  "stroke_count": 11,
+  "title": "捭"
+}

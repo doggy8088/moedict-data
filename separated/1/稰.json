@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩ",
+      "definitions": [
+        {
+          "def": "晚熟的稻。",
+          "quote": [
+            "《字彙．禾部》：「稰，熟穫曰稰，即今晚稻。」",
+            "《禮記．內則》：「稻、粱、白黍、黃粱、稰、穛。」",
+            "漢．鄭玄．注：「熟穫曰稰，生穫曰穛。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xū"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "禾",
+  "stroke_count": 14,
+  "title": "稰"
+}

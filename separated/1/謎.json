@@ -1,0 +1,46 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧˊ",
+      "definitions": [
+        {
+          "def": "影射事物或文字的隱語。",
+          "example": [
+            "如：「猜謎」、「燈謎」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "令人難以明白、理解的事理。",
+          "example": [
+            "如：「宇宙的神祕奧妙，對人類來說仍是個謎。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mí"
+    },
+    {
+      "bopomofo": "（又音）ㄇㄟˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）mèi"
+    },
+    {
+      "bopomofo": "（又音）ㄇㄧˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）mì"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "言",
+  "stroke_count": 17,
+  "title": "謎"
+}

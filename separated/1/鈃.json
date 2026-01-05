@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "古代的一種酒器。外形似鐘，長頸。",
+          "quote": [
+            "《說文解字．金部》：「鈃，似鍾而長頸。」",
+            "清．段玉裁．注：「古酒鍾有腹有頸，蓋大其下，小其上也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "古代用來盛羹湯的器具。",
+          "link": [
+            "通「鉶」。"
+          ],
+          "quote": [
+            "《新唐書．卷一一．禮樂志一》：「簋、鈃、籩、豆在堂上，俱東側階之北。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xíng"
+    },
+    {
+      "bopomofo": "ㄐㄧㄢ",
+      "definitions": [
+        {
+          "def": "人名用字。如戰國時有宋鈃。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiān"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "金",
+  "stroke_count": 12,
+  "title": "鈃"
+}

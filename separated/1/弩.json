@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄨˇ",
+      "definitions": [
+        {
+          "def": "用機械力量發射的硬弓。",
+          "example": [
+            "如：「連弩」、「萬弩齊發」、「劍拔弩張」。"
+          ],
+          "quote": [
+            "《史記．卷一○八．韓長孺傳》：「且彊弩之極，矢不能穿魯縞。」",
+            "《文選．賈誼．過秦論》：「良將勁弩，守要害之處。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "nǔ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "弓",
+  "stroke_count": 8,
+  "title": "弩"
+}

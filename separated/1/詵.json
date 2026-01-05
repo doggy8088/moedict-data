@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄣ",
+      "definitions": [
+        {
+          "def": "發言、詢問。",
+          "quote": [
+            "《說文解字．言部》：「詵，致言也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「詵詵」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "shēn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "言",
+  "stroke_count": 13,
+  "title": "詵"
+}

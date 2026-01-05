@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕ",
+      "definitions": [
+        {
+          "def": "動物名。寄生在人、動物和植物上的小型昆蟲。頭小，口突，腹大，無翅，以吸食動物血液或植物體液為生。會傳染疾病。",
+          "type": "名"
+        },
+        {
+          "def": "比喻占著職位不做事的人。",
+          "quote": [
+            "《商君書．說民》：「民貧則弱，國富則淫，淫則有蝨，有蝨則弱。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shī"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "虫",
+  "stroke_count": 15,
+  "title": "蝨"
+}

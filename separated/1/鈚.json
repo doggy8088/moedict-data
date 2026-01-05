@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧˊ",
+      "definitions": [
+        {
+          "def": "箭頭較薄而闊，箭桿較長的箭。",
+          "quote": [
+            "唐．杜甫〈七月三日亭午已後校熱退晚加小涼穩睡有詩因論壯年樂事戲呈元二十一曹長〉詩：「長鈚逐狡兔，突羽當滿月。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pí"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄧ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）pī"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "金",
+  "stroke_count": 12,
+  "title": "鈚"
+}

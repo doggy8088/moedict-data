@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "美好、美貌。",
+          "quote": [
+            "《文選．宋玉．高唐賦》：「晢兮若姣姬揚袂，鄣日而望所思。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jiǎo"
+    },
+    {
+      "bopomofo": "（又音）ㄐㄧㄠ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）jiāo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "女",
+  "stroke_count": 9,
+  "title": "姣"
+}

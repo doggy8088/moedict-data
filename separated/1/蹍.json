@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢˇ",
+      "definitions": [
+        {
+          "def": "踐踏。",
+          "quote": [
+            "《莊子．庚桑楚》：「蹍市人之足，則辭以放驁。」",
+            "南朝宋．劉義慶《世說新語．忿狷》：「雞子於地圓轉未止，仍下地以屐齒蹍之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhǎn"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "足",
+  "stroke_count": 17,
+  "title": "蹍"
+}

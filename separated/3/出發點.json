@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨ　ㄈㄚ　ㄉㄧㄢˇ",
+      "definitions": [
+        {
+          "antonyms": "目的地",
+          "def": "起點。",
+          "example": [
+            "如：「選手們都已在出發點，準備起跑。」"
+          ],
+          "synonyms": "起點"
+        },
+        {
+          "def": "動機。",
+          "example": [
+            "如：「他的話雖然語氣稍重，但出發點是為你好。」"
+          ]
+        }
+      ],
+      "pinyin": "chū fā diǎn"
+    }
+  ],
+  "title": "出發點"
+}

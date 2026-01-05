@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄠˇ",
+      "definitions": [
+        {
+          "def": "乾癟枯瘦的。如：「枯槁」、「槁木死灰」。《墨子．耕柱》：「舍今之人而譽先王，是譽槁骨也」。",
+          "type": "形"
+        },
+        {
+          "def": "枯木。",
+          "quote": [
+            "《商君書．弱民》：「秦師至鄢郢，舉若振槁。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǎo"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "木",
+  "stroke_count": 14,
+  "title": "槁"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄛ",
+      "definitions": [
+        {
+          "def": "可放東西或用來讀書、吃飯的家具。",
+          "example": [
+            "如：「餐桌」、「書桌」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算菜餚、酒席、賓客等的單位。",
+          "example": [
+            "如：「五桌菜」、「兩桌酒席」、「三桌客人」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhuō"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "木",
+  "stroke_count": 10,
+  "title": "桌"
+}

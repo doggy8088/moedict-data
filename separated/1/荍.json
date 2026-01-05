@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "錦葵的別名。參見「錦葵」條。",
+          "type": "名"
+        },
+        {
+          "def": "麥子。",
+          "link": [
+            "通「蕎」。"
+          ],
+          "quote": [
+            "明．李時珍《本草綱目．卷二二．穀部．蕎麥》：「時珍曰：『蕎麥之莖弱而翹然，易長易收，磨麵如麥，如曰蕎、曰荍，而與麥同名也。』」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiáo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "艸",
+  "stroke_count": 10,
+  "title": "荍"
+}

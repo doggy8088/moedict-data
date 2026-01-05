@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄡ",
+      "definitions": [
+        {
+          "def": "憂愁的樣子。",
+          "quote": [
+            "《說文解字．心部》：「怮，憂貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "含怒不說話的樣子。",
+          "quote": [
+            "《廣韻．平聲．尤韻》：「怮，含怒不言。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yōu"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "心",
+  "stroke_count": 8,
+  "title": "怮"
+}

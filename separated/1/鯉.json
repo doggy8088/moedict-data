@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˇ",
+      "definitions": [
+        {
+          "def": "動物名。鯉目鯉科。體長，側扁而肥，被銀鱗，體表呈網狀紋。口內無齒，前端有二對鬚。雜食性，產於淡水水域。肉質鮮美。",
+          "type": "名"
+        },
+        {
+          "def": "參見「鯉素」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "lǐ"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "魚",
+  "stroke_count": 18,
+  "title": "鯉"
+}

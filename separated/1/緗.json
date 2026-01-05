@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄤ",
+      "definitions": [
+        {
+          "def": "淺黃色的絲織品。",
+          "quote": [
+            "《後漢書．卷三○．輿服志下》：「賈人，緗縹而已。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "淺黃色的。",
+          "example": [
+            "如：「緗荷」、「緗梅」。"
+          ],
+          "quote": [
+            "《樂府詩集．卷二八．相和歌辭三．古辭．陌上桑》：「緗綺為下裙，紫綺為上襦。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiāng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "糸",
+  "stroke_count": 15,
+  "title": "緗"
+}

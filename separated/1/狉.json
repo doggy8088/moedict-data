@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧ",
+      "definitions": [
+        {
+          "def": "狸子。",
+          "quote": [
+            "《集韻．平聲．脂韻》：「狉，狸子。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「狉狉」條。",
+          "type": "副"
+        }
+      ],
+      "pinyin": "pī"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "犬",
+  "stroke_count": 8,
+  "title": "狉"
+}

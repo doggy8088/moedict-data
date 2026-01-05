@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "冒煙的樣子。",
+          "quote": [
+            "《集韻．入聲．屑韻》：「炔，煙貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "姓。如春秋時齊國有炔欽。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "guì"
+    },
+    {
+      "bopomofo": "ㄑㄩㄝ",
+      "definitions": [
+        {
+          "def": "有機化合物的一類。分子結構含碳，為一碳三鍵的不飽和烴類。如：「乙炔」。或讀　為ㄐㄩㄝˊ　jué。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "quē"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "火",
+  "stroke_count": 8,
+  "title": "炔"
+}

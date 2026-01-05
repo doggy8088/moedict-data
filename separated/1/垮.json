@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄚˇ",
+      "definitions": [
+        {
+          "def": "坍塌、倒塌。",
+          "example": [
+            "如：「牆垮了。」、「房子垮了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "比喻失敗。",
+          "example": [
+            "如：「垮臺」、「他把父親畢生的事業搞垮了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kuǎ"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "土",
+  "stroke_count": 9,
+  "title": "垮"
+}

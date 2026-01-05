@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄣˋ",
+      "definitions": [
+        {
+          "def": "豬圈。",
+          "quote": [
+            "《玉篇．囗部》：「圂，豕所居也。」",
+            "《漢書．卷二七．五行志中之下》：「豕出圂，壞都灶，銜其鬴六七枚置殿前。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "廁所。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷七上．釋宮》：「圂，廁也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "hùn"
+    },
+    {
+      "bopomofo": "ㄏㄨㄢˋ",
+      "definitions": [
+        {
+          "def": "家畜。",
+          "link": [
+            "同「豢」。"
+          ],
+          "quote": [
+            "《禮記．少儀》：「君子不食圂腴，小子走而不趨。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "huàn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "囗",
+  "stroke_count": 10,
+  "title": "圂"
+}

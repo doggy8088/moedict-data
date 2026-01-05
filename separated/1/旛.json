@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄢ",
+      "definitions": [
+        {
+          "def": "狹長而下垂的旗幟。",
+          "quote": [
+            "《說文解字．{[3ac3]}部》：「旛，旛胡也。謂旗幅之下垂者。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛指旌旗。",
+          "quote": [
+            "唐．劉禹錫〈西塞山懷古〉詩：「千尋鐵鎖沉江底，一片降旛出石頭。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fān"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "方",
+  "stroke_count": 18,
+  "title": "旛"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄠ　ㄆㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "切削物體使平滑。",
+          "example": [
+            "如：「這木材要先削平了才能用。」"
+          ]
+        }
+      ],
+      "pinyin": "xiāo píng"
+    },
+    {
+      "bopomofo": "ㄒㄩㄝˋ　ㄆㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "平定。",
+          "quote": [
+            "《儒林外史．第一回》：「不數年間，吳王削平禍亂，定鼎應天，天下一統，建國號大明，年號洪武。」"
+          ]
+        }
+      ],
+      "pinyin": "xuè píng"
+    }
+  ],
+  "title": "削平"
+}

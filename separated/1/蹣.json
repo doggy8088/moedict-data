@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄢˊ",
+      "definitions": [
+        {
+          "def": "踰越。",
+          "example": [
+            "如：「蹣山渡水」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mán"
+    },
+    {
+      "bopomofo": "ㄆㄢˊ",
+      "definitions": [
+        {
+          "def": "參見「蹣跚」條。"
+        }
+      ],
+      "pinyin": "pán"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "足",
+  "stroke_count": 18,
+  "title": "蹣"
+}

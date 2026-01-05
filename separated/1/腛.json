@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "豐厚的脂肪。",
+          "quote": [
+            "《玉篇．肉部》：「腛，厚脂也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "豐厚的。",
+          "quote": [
+            "《周禮．冬官考工記．鮑人》：「欲其柔滑而腛脂之，則需。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "wò"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "肉",
+  "stroke_count": 13,
+  "title": "腛"
+}

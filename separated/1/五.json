@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨˇ",
+      "definitions": [
+        {
+          "def": "介於四與六之間的自然數。如：「三、四、五、六……。」大寫作「伍」，阿拉伯數字作「5」。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有五京。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "wǔ"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "二",
+  "stroke_count": 4,
+  "title": "五"
+}

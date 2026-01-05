@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄢˇ",
+      "definitions": [
+        {
+          "def": "用棍棒來回輾平、壓薄。",
+          "example": [
+            "如：「擀麵」、「擀餃子皮」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gǎn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "手",
+  "stroke_count": 16,
+  "title": "擀"
+}

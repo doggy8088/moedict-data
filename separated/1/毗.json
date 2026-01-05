@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧˊ",
+      "definitions": [
+        {
+          "def": "輔助、輔佐。",
+          "example": [
+            "如：「毗輔」、「毗佐」。"
+          ],
+          "quote": [
+            "《書經．微子之命》：「永綏厥位，毗予一人。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "連接。",
+          "example": [
+            "如：「毗鄰」、「毗連」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pí"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "比",
+  "stroke_count": 9,
+  "title": "毗"
+}

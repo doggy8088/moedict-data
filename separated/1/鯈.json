@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄡˊ",
+      "definitions": [
+        {
+          "def": "動物名。即白鰷。脊椎動物亞門硬骨魚綱條鰭亞綱。產於淡水，身體狹長，背淡黑色，腹白，鱗細。清．徐珂《清稗類鈔．動物類．白鰷》：「白鰷即鯈魚」。",
+          "link": [
+            "也稱為「鰷魚」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chóu"
+    },
+    {
+      "bopomofo": "（又音）ㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yóu"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "魚",
+  "stroke_count": 18,
+  "title": "鯈"
+}

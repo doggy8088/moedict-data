@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄣˊ",
+      "definitions": [
+        {
+          "def": "天干的第九位。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有壬士亨。",
+          "type": "名"
+        },
+        {
+          "def": "奸佞。",
+          "quote": [
+            "《書經．皋陶謨》：「何畏乎巧言令色孔壬。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "盛大。",
+          "quote": [
+            "《詩經．小雅．賓之初筵》：「百禮既至，有壬有林。」",
+            "漢．毛亨．傳：「壬，大；林，君也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "rén"
+    }
+  ],
+  "non_radical_stroke_count": 1,
+  "radical": "士",
+  "stroke_count": 4,
+  "title": "壬"
+}

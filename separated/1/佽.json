@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘˋ",
+      "definitions": [
+        {
+          "def": "幫助。",
+          "quote": [
+            "《詩經．唐風．杕杜》：「人無兄弟，胡不佽焉？」",
+            "漢．毛亨．傳：「佽，助也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「佽飛」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "cì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "佽"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕˋ",
+      "definitions": [
+        {
+          "def": "古代車子前面可供憑依的橫木。",
+          "quote": [
+            "《左傳．莊公十年》：「登軾而望之。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "古人靠著車前的橫木以表示尊敬。",
+          "quote": [
+            "《淮南子．脩務》：「魏文侯過其閭而軾之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "車",
+  "stroke_count": 13,
+  "title": "軾"
+}

@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "荒遠偏僻的地方。",
+          "quote": [
+            "《說文解字．艸部》：「艽，遠荒。」",
+            "《詩經．小雅．小明》：「我征徂西，至于艽野。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "獸蓐，野獸巢穴裡的墊草。",
+          "quote": [
+            "《淮南子．原道》：「禽獸有艽，人民有室。」",
+            "漢．高誘．注：「艽，蓐也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiú"
+    },
+    {
+      "bopomofo": "ㄐㄧㄠ",
+      "definitions": [
+        {
+          "def": "參見「秦艽」條。"
+        }
+      ],
+      "pinyin": "jiāo"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "艸",
+  "stroke_count": 6,
+  "title": "艽"
+}

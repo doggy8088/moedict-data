@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄣ",
+      "definitions": [
+        {
+          "def": "男女未經法定手續而私自發生性行為。",
+          "example": [
+            "如：「他最近姘上了個娼婦，整夜不歸。」"
+          ],
+          "quote": [
+            "《廣韻．平聲．耕韻》：「蒼頡篇曰：『男女私合曰姘。』」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "與人私合的。",
+          "example": [
+            "如：「姘夫」、「姘婦」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pīn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "女",
+  "stroke_count": 9,
+  "title": "姘"
+}

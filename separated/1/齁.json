@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄡ",
+      "definitions": [
+        {
+          "def": "參見「齁齁」條。",
+          "type": "名"
+        },
+        {
+          "def": "甚、非常。多表不滿意的意思。",
+          "example": [
+            "如：「齁苦」、「齁鹹」、「齁熱」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "hōu"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "鼻",
+  "stroke_count": 19,
+  "title": "齁"
+}

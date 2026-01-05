@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "覆蓋。",
+          "quote": [
+            "《集韻．平聲．青韻》：「帡，覆蓋也。」",
+            "清．洪昇《長生殿．第三七齣》：「更  斷魂落魄蒙帡覆。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "帳幔、帷幕。",
+          "example": [
+            "如：「帡幪」、「帡幃」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "píng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "巾",
+  "stroke_count": 9,
+  "title": "帡"
+}

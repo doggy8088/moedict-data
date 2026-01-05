@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄣˋ",
+      "definitions": [
+        {
+          "def": "植物名。禾本科藎草屬，一年生草本。莖纖細，末端分歧成數枝，蔓延於地面，莖頂豎立。葉長卵形或針形。開紫色或白色花。莖汁可作黃色染料。",
+          "type": "名"
+        },
+        {
+          "def": "忠愛、忠誠。",
+          "example": [
+            "如：「忠藎」。"
+          ],
+          "quote": [
+            "《詩經．大雅．文王》：「王之藎臣，無念爾祖。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jìn"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "艸",
+  "stroke_count": 18,
+  "title": "藎"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄢˋ",
+      "definitions": [
+        {
+          "def": "魚游來游去的樣子。",
+          "quote": [
+            "《說文解字．水部》：「汕，魚游水貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "用竹子編成的捕魚工具。",
+          "quote": [
+            "《爾雅．釋器》：「罺謂之汕。」",
+            "晉．郭璞．注：「今之撩罟。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shàn"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "水",
+  "stroke_count": 6,
+  "title": "汕"
+}

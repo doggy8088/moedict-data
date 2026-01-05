@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "寒冷。",
+          "quote": [
+            "《玉篇．水部》：「沷，寒也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "疏通水流。",
+          "quote": [
+            "明．張自烈《正字通．水部》：「沷，渫也，通流也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "fú"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "水",
+  "stroke_count": 8,
+  "title": "沷"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄜˊ",
+      "definitions": [
+        {
+          "def": "一種有底、蓋，可以相合的盛物器具。",
+          "example": [
+            "如：「禮盒」、「紙盒」、「餅乾盒」、「火柴盒」、「鉛筆盒」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算盒裝物的單位。",
+          "example": [
+            "如：「一盒糖果」、「三百盒喜餅」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "hé"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "皿",
+  "stroke_count": 11,
+  "title": "盒"
+}

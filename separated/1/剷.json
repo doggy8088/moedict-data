@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄢˇ",
+      "definitions": [
+        {
+          "def": "割除。",
+          "quote": [
+            "唐．柳宗元〈鈷鉧潭西小邱記〉：「剷刈穢草，伐去惡木。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "削平。",
+          "link": [
+            "通「剗」。"
+          ],
+          "quote": [
+            "唐．杜牧〈原十六衛〉：「於是府兵內剷，邊兵外作。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chǎn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "刀",
+  "stroke_count": 13,
+  "title": "剷"
+}

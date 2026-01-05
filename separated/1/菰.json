@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨ",
+      "definitions": [
+        {
+          "def": "植物名。禾本科菰屬，多年生草本。莖細長而尖，扁平，高一公尺餘。葉叢生，呈 狹長形。嫩莖可供食用，俗稱為「茭白筍」。果實稱為「彫胡米」，可供煮食。",
+          "type": "名"
+        },
+        {
+          "def": "大陸江南地區稱菌類植物為「菰」。",
+          "link": [
+            "同「菇」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gū"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "艸",
+  "stroke_count": 12,
+  "title": "菰"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄣ",
+      "definitions": [
+        {
+          "def": "一種砍樹用的器具。",
+          "quote": [
+            "《孟子．梁惠王上》：「斧斤以時入山林，材木不可勝用也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算重量的單位。公制一公斤等於一千公克；一臺斤等於零點六公斤；一市斤等於零點五公斤。",
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jīn"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "斤",
+  "stroke_count": 4,
+  "title": "斤"
+}

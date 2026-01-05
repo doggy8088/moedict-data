@@ -1,0 +1,46 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄣˋ",
+      "definitions": [
+        {
+          "def": "很、非常。",
+          "example": [
+            "如：「甚多」、「甚好」、「甚佳」。"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "過分、過度。",
+          "example": [
+            "如：「欺人太甚」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "shèn"
+    },
+    {
+      "bopomofo": "（又音）ㄕㄜˊ",
+      "definitions": [
+        {
+          "def": "(二)之又音。"
+        }
+      ],
+      "pinyin": "（又音）shé"
+    },
+    {
+      "bopomofo": "ㄕㄣˊ",
+      "definitions": [
+        {
+          "def": "參見「甚麼」條。"
+        }
+      ],
+      "pinyin": "shén"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "甘",
+  "stroke_count": 9,
+  "title": "甚"
+}

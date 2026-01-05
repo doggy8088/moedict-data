@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄚˊ",
+      "definitions": [
+        {
+          "def": "一種樹木。即椰子樹。",
+          "quote": [
+            "《說文解字．木部》：「枒，木也。」",
+            "《文選．左思．蜀都賦》：「其樹則有木蘭梫桂，杞櫹椅桐，棕枒楔樅。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「枒杈」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "yá"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "木",
+  "stroke_count": 8,
+  "title": "枒"
+}

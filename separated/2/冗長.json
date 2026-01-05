@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨㄥˇ　ㄓㄤˋ",
+      "definitions": [
+        {
+          "def": "多餘而無適用。",
+          "quote": [
+            "《文選．陸機．文賦》：「要辭達而理舉，故無取乎冗長。」"
+          ]
+        }
+      ],
+      "pinyin": "rǒng zhàng"
+    },
+    {
+      "bopomofo": "ㄖㄨㄥˇ　ㄔㄤˊ",
+      "definitions": [
+        {
+          "antonyms": "簡短,簡潔",
+          "def": "文辭枝蔓而長。",
+          "example": [
+            "如：「這篇文章過於冗長而欠精鍊。」"
+          ],
+          "synonyms": "冗雜,蕪雜"
+        }
+      ],
+      "pinyin": "rǒng cháng"
+    }
+  ],
+  "title": "冗長"
+}

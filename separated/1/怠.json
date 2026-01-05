@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄞˋ",
+      "definitions": [
+        {
+          "def": "鬆懈、懶惰。",
+          "example": [
+            "如：「怠惰」、「懈怠」。"
+          ],
+          "quote": [
+            "唐．韓愈〈原毀〉：「怠者不能修，而忌者畏人修。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "輕慢不莊重。",
+          "example": [
+            "如：「怠慢」。"
+          ],
+          "quote": [
+            "《漢書．卷三六．楚元王劉交傳》：「醴酒不設，王之意怠。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "疲倦、疲累。",
+          "example": [
+            "如：「倦怠」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "dài"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "心",
+  "stroke_count": 9,
+  "title": "怠"
+}

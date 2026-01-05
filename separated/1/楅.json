@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "古代盛列弓箭的器具。",
+          "quote": [
+            "《儀禮．鄉射禮》：「命弟子設楅。」",
+            "漢．鄭玄．注：「楅，猶幅也，所以承笴齊矢者。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「楅衡」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "fú"
+    },
+    {
+      "bopomofo": "（又音）ㄅㄧˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）bì"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "木",
+  "stroke_count": 13,
+  "title": "楅"
+}

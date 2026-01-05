@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄣ",
+      "definitions": [
+        {
+          "def": "樂器名。一種古代吹奏樂器。多為平底卵形，大小不一，吹孔在頂端，音孔或五或六，雙手捧之而吹。有石製、骨製，然以陶製為主，相傳為伏羲所創。",
+          "quote": [
+            "《詩經．小雅．何人斯》：「伯氏吹壎，仲氏吹篪。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xūn"
+    },
+    {
+      "bopomofo": "（又音）ㄒㄩㄢ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）xuān"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "土",
+  "stroke_count": 17,
+  "title": "壎"
+}

@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄞˊ",
+      "definitions": [
+        {
+          "def": "大筏，以竹木編成，可浮於水上。",
+          "quote": [
+            "《後漢書．卷一七．岑彭傳》：「九年，公孫述遣其將　任滿、田戎、程汎，將數萬人乘枋箄下江關，擊破馮駿及田鴻、李玄等。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pái"
+    },
+    {
+      "bopomofo": "ㄅㄟ",
+      "definitions": [
+        {
+          "def": "古代置於甑底，防止食物掉落鍋中的竹蓆。",
+          "quote": [
+            "南朝宋．劉義慶《世說新語．夙惠》：「炊忘箸箄，飯落釜中。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bēi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "竹",
+  "stroke_count": 14,
+  "title": "箄"
+}

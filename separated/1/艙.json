@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄤ",
+      "definitions": [
+        {
+          "def": "船或飛機裡可以容納客人及貨物的空間。",
+          "example": [
+            "如：「客艙」、「貨艙」、「機艙」、「船艙」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "cāng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "舟",
+  "stroke_count": 16,
+  "title": "艙"
+}

@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄠ",
+      "definitions": [
+        {
+          "def": "傳說中能發洪水，像龍一類的動物。",
+          "link": [
+            "也稱為「蛟龍」。"
+          ],
+          "quote": [
+            "漢．王充《論衡．龍虛》：「蛟則龍之類也，蛟龍見而雲雨至，雲雨至則雷電擊。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiāo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "虫",
+  "stroke_count": 12,
+  "title": "蛟"
+}

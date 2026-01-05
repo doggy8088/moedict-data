@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄤ",
+      "definitions": [
+        {
+          "def": "樂器名。即小鏜鑼。一種形似小銅盤的打擊樂器。",
+          "link": [
+            "俗稱為「鏜兒」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "形容鐘鼓聲或鑼聲。",
+          "quote": [
+            "《詩經．邶風．擊鼓》：「擊鼓其鏜，踊躍用兵。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "tāng"
+    },
+    {
+      "bopomofo": "ㄊㄤˊ",
+      "definitions": [
+        {
+          "def": "一種機器加工的方法。參見「鏜床」、「鏜孔」等條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "táng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "金",
+  "stroke_count": 19,
+  "title": "鏜"
+}

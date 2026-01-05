@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄥ",
+      "definitions": [
+        {
+          "def": "玉光。",
+          "quote": [
+            "《說文解字．玉部》：「瑛，玉光也。」",
+            "晉．庾闡〈涉江賦〉：「明月晞光以夕耀，金沙逐波而吐瑛。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "美玉、美石。",
+          "quote": [
+            "晉．傅咸〈申懷賦〉：「何天施之弘普，廁瓦礫于瓊瑛。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yīng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "玉",
+  "stroke_count": 13,
+  "title": "瑛"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩㄢ",
+      "definitions": [
+        {
+          "def": "悔改。",
+          "example": [
+            "如：「怙惡不悛」。"
+          ],
+          "quote": [
+            "唐．白居易〈策林一．十六議祥瑞〉：「故王者不懼妖之不滅，而懼過之不悛。」",
+            "明．陸灼《艾子後語．凍兒譎諫》：「每加榎楚而不悛。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "quān"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "悛"
+}

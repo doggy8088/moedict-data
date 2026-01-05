@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄥ",
+      "definitions": [
+        {
+          "def": "身體前面頸下腹上的部分。",
+          "example": [
+            "如：「挺胸」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "心中、內心。",
+          "example": [
+            "如：「胸有大志」。"
+          ],
+          "quote": [
+            "宋．蘇軾〈篔簹谷偃竹記〉：「畫竹必先得成竹於胸中。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "指人的氣量、懷抱。",
+          "example": [
+            "如：「心胸狹窄」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiōng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "肉",
+  "stroke_count": 10,
+  "title": "胸"
+}

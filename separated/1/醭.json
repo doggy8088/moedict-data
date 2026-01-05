@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄨˊ",
+      "definitions": [
+        {
+          "def": "醋、酒或醬油等放久後，表面上所生的白點黴菌。",
+          "link": [
+            "也稱為「醭兒」。"
+          ],
+          "quote": [
+            "唐．白居易〈臥疾來早晚〉詩：「酒甕全生醭，歌筵半委塵。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛指一般物體所長的白色黴菌。",
+          "quote": [
+            "宋．楊萬里〈風雨〉詩：「梅天筆墨都生醭，棐几文書懶拂塵。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bú"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄨˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）pú"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "酉",
+  "stroke_count": 19,
+  "title": "醭"
+}

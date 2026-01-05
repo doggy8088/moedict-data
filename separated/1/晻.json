@@ -1,0 +1,43 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄢˇ",
+      "definitions": [
+        {
+          "def": "陰暗不明的樣子。",
+          "quote": [
+            "《漢書．卷九．元帝紀》：「然而陰陽未調，三光晻昧。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "昏暗的。參見「晻世」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "ǎn"
+    },
+    {
+      "bopomofo": "ㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "參見「晻晻」條。"
+        }
+      ],
+      "pinyin": "yǎn"
+    },
+    {
+      "bopomofo": "（又音）ㄢˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）àn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "日",
+  "stroke_count": 12,
+  "title": "晻"
+}

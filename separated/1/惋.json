@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄢˋ",
+      "definitions": [
+        {
+          "def": "痛惜、驚嘆。",
+          "example": [
+            "如：「惋惜」。"
+          ],
+          "quote": [
+            "《戰國策．秦策二》：「受欺於張儀，王必惋之。」",
+            "《文選．陸機．文賦》：「故時撫空懷而自惋，吾未識夫開塞之所由。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "wàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "心",
+  "stroke_count": 11,
+  "title": "惋"
+}

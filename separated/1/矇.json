@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄥˊ",
+      "definitions": [
+        {
+          "def": "盲人。有眼珠而看不見。",
+          "quote": [
+            "《詩經．大雅．靈臺》：「鼉鼓逢逢，矇瞍奏公。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "méng"
+    },
+    {
+      "bopomofo": "ㄇㄥ",
+      "definitions": [
+        {
+          "def": "欺騙。",
+          "example": [
+            "如：「別說瞎話矇人。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "胡亂猜對或得到。",
+          "example": [
+            "如：「我能得獎是矇上的。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mēng"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "目",
+  "stroke_count": 19,
+  "title": "矇"
+}

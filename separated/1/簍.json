@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄡˇ",
+      "definitions": [
+        {
+          "def": "用竹或荊條等編成有孔的盛物器具。",
+          "example": [
+            "如：「魚簍」、「字紙簍」。"
+          ],
+          "quote": [
+            "唐．唐彥謙〈蟹〉詩：「扳拖網取賽多，篾簍挑將水邊貨。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算簍裝物的單位。",
+          "example": [
+            "如：「一簍香蕉」、「兩簍橘子」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lǒu"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "竹",
+  "stroke_count": 17,
+  "title": "簍"
+}

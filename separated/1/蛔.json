@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄟˊ",
+      "definitions": [
+        {
+          "def": "動物名。圓形動物門蛔蟲科。形似蚯蚓而無環節，色白或米黃，寄居於人或家畜的腸內，能引起腸痛、吐瀉等毛病。",
+          "link": [
+            "俗稱為「蛔蟲」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "huí"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "虫",
+  "stroke_count": 12,
+  "title": "蛔"
+}

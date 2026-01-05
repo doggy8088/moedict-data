@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄡ",
+      "definitions": [
+        {
+          "def": "古代一種兩側有縐摺的喪服。",
+          "quote": [
+            "《玉篇．衣部》：「袧，喪服。」",
+            "《儀禮．喪服》：「凡衰，外　削幅，裳，內削幅，幅三袧。」",
+            "漢．鄭玄．注：「袧者，謂辟兩側，空中央也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gōu"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "衣",
+  "stroke_count": 11,
+  "title": "袧"
+}

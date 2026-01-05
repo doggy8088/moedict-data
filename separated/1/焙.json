@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄟˋ",
+      "definitions": [
+        {
+          "def": "用微火加熱使東西乾燥。",
+          "example": [
+            "如：「烘焙」、「焙茶」。"
+          ],
+          "quote": [
+            "唐．皮日休〈寄懷南陽潤卿〉詩：「醉來渾忘移花處，病起空聞焙藥香。」",
+            "清．陳章〈採茶歌〉：「焙成粒粒比蓮心，誰知儂比蓮心苦。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bèi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "火",
+  "stroke_count": 12,
+  "title": "焙"
+}

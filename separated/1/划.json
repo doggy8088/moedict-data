@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄚˊ",
+      "definitions": [
+        {
+          "def": "撥水前進。",
+          "example": [
+            "如：「划船」、「划龍舟」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "計算、合算。",
+          "example": [
+            "如：「你看這樣做划得來嗎？」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "huá"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "刀",
+  "stroke_count": 6,
+  "title": "划"
+}

@@ -1,0 +1,67 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄚ",
+      "definitions": [
+        {
+          "def": "張口舒氣。",
+          "example": [
+            "如：「哈氣」、「哈欠」。"
+          ],
+          "quote": [
+            "《浮生六記．卷二．閒情記趣》：「捉鴨開口哈之，婢嫗偶釋手，鴨顛其頸作吞噬狀，驚而大哭。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "彎。",
+          "example": [
+            "如：「鞠躬哈腰」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "形容笑聲。",
+          "example": [
+            "如：「哈哈大笑」。"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "表得意或滿意。",
+          "example": [
+            "如：「哈！這下你慘了。」"
+          ],
+          "type": "歎"
+        },
+        {
+          "def": "姓。如明代有哈銘。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "hā"
+    },
+    {
+      "bopomofo": "ㄎㄚ",
+      "definitions": [
+        {
+          "def": "參見「哈喇」條。"
+        }
+      ],
+      "pinyin": "kā"
+    },
+    {
+      "bopomofo": "ㄏㄚˇ",
+      "definitions": [
+        {
+          "def": "參見「哈巴」條。"
+        }
+      ],
+      "pinyin": "hǎ"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "口",
+  "stroke_count": 9,
+  "title": "哈"
+}

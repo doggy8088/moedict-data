@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄡˋ",
+      "definitions": [
+        {
+          "def": "用鼻子聞氣味。",
+          "quote": [
+            "《莊子．人間世》：「嗅之，則使人狂酲，三日而不已。」",
+            "宋．蘇軾．次韻子由所居六詠．之四：「何以娛醉客，時嗅砌下花。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xiù"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "口",
+  "stroke_count": 13,
+  "title": "嗅"
+}

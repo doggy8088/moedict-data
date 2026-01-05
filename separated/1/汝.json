@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄨˇ",
+      "definitions": [
+        {
+          "def": "你。",
+          "quote": [
+            "《書經．堯典》：「汝能庸命，巽朕位。」",
+            "宋．陸游〈戰城南〉詩：「詔書許汝以不死，股栗何為汗如洗！」"
+          ],
+          "type": "代"
+        },
+        {
+          "def": "參見「汝水」條。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有汝訥。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "rǔ"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "水",
+  "stroke_count": 6,
+  "title": "汝"
+}

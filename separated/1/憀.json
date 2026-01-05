@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "依賴。",
+          "quote": [
+            "《淮南子．兵略》：「上下不相寧，吏民不相憀。」",
+            "漢．高誘．注：「憀，賴。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "悲恨。",
+          "quote": [
+            "唐．陸龜蒙〈自遣詩〉三○首之一四：「誰使寒鴉意緒嬌，雲晴山晚動情憀。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "liáo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "心",
+  "stroke_count": 14,
+  "title": "憀"
+}

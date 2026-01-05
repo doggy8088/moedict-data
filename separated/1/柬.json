@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "信件、請帖。",
+          "example": [
+            "如：「書柬」、「請柬」。"
+          ],
+          "link": [
+            "通「簡」。"
+          ],
+          "quote": [
+            "《紅樓夢．第四八回》：「明日我補一個柬來，請你入社。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "選擇。",
+          "link": [
+            "通「揀」。"
+          ],
+          "quote": [
+            "《荀子．修身》：「安燕而血氣不惰，柬理也。」",
+            "唐．楊倞．注：「言柬擇其事理所宜。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jiǎn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "木",
+  "stroke_count": 9,
+  "title": "柬"
+}

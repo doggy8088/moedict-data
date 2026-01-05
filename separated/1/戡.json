@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄢ",
+      "definitions": [
+        {
+          "def": "克、平定。",
+          "example": [
+            "如：「戡亂」、「戡平」。"
+          ],
+          "quote": [
+            "《書經．西伯戡黎》：「西伯既戡黎，祖伊恐，奔告于王。」",
+            "《新唐書．卷一三七．郭子儀傳》：「昔回紇涉萬里，戡大憝，助復二京，我與若等休戚同之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kān"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "戈",
+  "stroke_count": 13,
+  "title": "戡"
+}

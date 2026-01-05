@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄢ",
+      "definitions": [
+        {
+          "def": "眼睛枯陷不明。",
+          "quote": [
+            "《說文解字．目部》：「眢，目無明也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "乾枯無水的。",
+          "quote": [
+            "《左傳．宣公十二年》：「目於眢井而拯之。」",
+            "清．陸次雲〈費宮人傳〉：「費宮人目送其死而還，服主服，匿眢井中。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yuān"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "目",
+  "stroke_count": 10,
+  "title": "眢"
+}

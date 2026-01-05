@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄢ",
+      "definitions": [
+        {
+          "def": "參見「寒暄」條。",
+          "type": "動"
+        },
+        {
+          "def": "溫暖的。",
+          "quote": [
+            "元．李文蔚《燕青博魚．第三折》：「天氣暄熱，我來這裡歇涼。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "北平方言。指鬆軟、不實的。",
+          "example": [
+            "如：「這饅頭很暄，蠻好吃的！」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xuān"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "日",
+  "stroke_count": 13,
+  "title": "暄"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "愚笨、不靈活。",
+          "example": [
+            "如：「笨拙」、「手拙」、「弄巧成拙」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "謙稱自己的。",
+          "example": [
+            "如：「拙見」、「拙作」、「拙計」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "古樸的、未加修飾的。",
+          "example": [
+            "如：「古拙」、「樸拙」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhuó"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "手",
+  "stroke_count": 8,
+  "title": "拙"
+}

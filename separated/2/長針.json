@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄤˊ　ㄓㄣ",
+      "definitions": [
+        {
+          "antonyms": "短針",
+          "def": "長度較長的針。",
+          "example": [
+            "如：「請幫我拿根長針來。」"
+          ]
+        },
+        {
+          "def": "時鐘上的分針。",
+          "example": [
+            "如：「現在長針指的是幾分了？」"
+          ],
+          "link": [
+            "也稱為「分針」。"
+          ]
+        }
+      ],
+      "pinyin": "cháng zhēn"
+    }
+  ],
+  "title": "長針"
+}

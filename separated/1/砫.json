@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨˇ",
+      "definitions": [
+        {
+          "def": "古代宗廟中安放神主的石室。",
+          "quote": [
+            "《玉篇．石部》：「砫，石室。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhǔ"
+    },
+    {
+      "bopomofo": "ㄓㄨˋ",
+      "definitions": [
+        {
+          "def": "參見「石砫縣」條。"
+        }
+      ],
+      "pinyin": "zhù"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "石",
+  "stroke_count": 10,
+  "title": "砫"
+}

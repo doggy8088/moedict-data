@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛ",
+      "definitions": [
+        {
+          "def": "踢踏、踢落。",
+          "quote": [
+            "《集韻．入聲．末韻》：「蹳，足跋物。」",
+            "《漢書．卷四一．夏侯嬰傳》：「漢王急，馬罷，虜在後，常蹳兩兒棄之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bō"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "足",
+  "stroke_count": 19,
+  "title": "蹳"
+}

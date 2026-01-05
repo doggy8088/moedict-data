@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄢˇ",
+      "definitions": [
+        {
+          "def": "內臟器官之一。近肝臟右半葉，所儲膽汁，黃綠色、味苦，助消化。",
+          "link": [
+            "也稱為「膽囊」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "勇氣，古人以為勇氣由膽發出。",
+          "example": [
+            "如：「膽怯」、「壯膽」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "器物的內部，可容納水、空氣等。",
+          "example": [
+            "如：「球膽」、「瓶膽」、「熱水瓶的內膽」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dǎn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "肉",
+  "stroke_count": 17,
+  "title": "膽"
+}

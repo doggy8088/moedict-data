@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "眼睛突出的樣子。",
+          "quote": [
+            "《說文解字．目部》：「睍，目出貌也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "眼睛小。",
+          "quote": [
+            "《廣韻．上聲．銑韻》：「睍，小目貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "參見「睍睍」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiàn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "目",
+  "stroke_count": 12,
+  "title": "睍"
+}

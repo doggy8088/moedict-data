@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˋ",
+      "definitions": [
+        {
+          "def": "登高、爬上。",
+          "quote": [
+            "《詩經．周南．卷耳》：「陟彼高岡。」",
+            "《後漢書．卷六七．黨錮傳．李膺傳》：「陟岵瞻望，惟日為歲。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "升遷、進用。",
+          "quote": [
+            "《文選．諸葛亮．出師表》：「陟罰臧否，不宜異同。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhì"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "阜",
+  "stroke_count": 10,
+  "title": "陟"
+}

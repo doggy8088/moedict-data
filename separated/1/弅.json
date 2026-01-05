@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄣˋ",
+      "definitions": [
+        {
+          "def": "山丘高起的樣子。",
+          "quote": [
+            "《莊子．知北遊》：「知北遊於元水之上，登隱弅之丘，而適遭無為謂焉。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "fèn"
+    },
+    {
+      "bopomofo": "（又音）ㄈㄣˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）fén"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "廾",
+  "stroke_count": 7,
+  "title": "弅"
+}

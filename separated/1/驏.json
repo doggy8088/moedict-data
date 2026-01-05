@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄓㄢˋ",
+      "definitions": [
+        {
+          "def": "不加鞍轡。",
+          "quote": [
+            "《清史稿．卷一．太祖本紀》：「科爾沁貝勒明安馬陷淖中，易驏馬而遁。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "（讀音）zhàn"
+    },
+    {
+      "bopomofo": "（語音）ㄔㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）chǎn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "馬",
+  "stroke_count": 22,
+  "title": "驏"
+}

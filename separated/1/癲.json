@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄢ",
+      "definitions": [
+        {
+          "def": "形容精神錯亂、言行失常。",
+          "example": [
+            "如：「瘋癲」、「癲狂」、「瞧她那般痴痴癲癲的模樣，真叫人擔心！」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "參見「癲癇」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "diān"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "疒",
+  "stroke_count": 24,
+  "title": "癲"
+}

@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨ",
+      "definitions": [
+        {
+          "def": "量詞。計算戲曲劇目的單位。",
+          "example": [
+            "如：「兩齣戲」。"
+          ],
+          "quote": [
+            "《儒林外史．第一○回》：「戲子上來參了堂，磕頭下去，打動鑼鼓，跳了一齣『加官』，演了一齣『張仙送子』，一齣『封贈』。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chū"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "齒",
+  "stroke_count": 20,
+  "title": "齣"
+}

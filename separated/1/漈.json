@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˋ",
+      "definitions": [
+        {
+          "def": "水邊、水涯。",
+          "example": [
+            "如：「涯漈」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "海底深陷處。",
+          "quote": [
+            "《元史．卷二一一．外夷傳．瑠求傳》：「西南北岸皆水，至彭湖漸低，近瑠求則謂之落漈。漈者，水趨下而不回也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jì"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "水",
+  "stroke_count": 14,
+  "title": "漈"
+}

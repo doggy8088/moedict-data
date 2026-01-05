@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "熟習、熟練。",
+          "example": [
+            "如：「嫻熟」。"
+          ],
+          "quote": [
+            "《史記．卷八四．屈原賈生傳》：「博聞彊志，明於治亂，嫻於辭令。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "文靜優雅。",
+          "example": [
+            "如：「嫻靜」、「嫻雅」。"
+          ],
+          "quote": [
+            "三國魏．曹植〈靜思賦〉：「夫何美女之嫻妖，紅顏曄而流光。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xián"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "女",
+  "stroke_count": 15,
+  "title": "嫻"
+}

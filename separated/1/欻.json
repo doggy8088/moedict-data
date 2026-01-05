@@ -1,0 +1,48 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨ",
+      "definitions": [
+        {
+          "def": "忽然、突然。",
+          "quote": [
+            "《文選．張衡．西京賦》：「神山崔巍，欻從背見。」",
+            "《隋書．卷二二．五行志上》：「未至數里，野火欻起。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "hū"
+    },
+    {
+      "bopomofo": "ㄒㄩˋ",
+      "definitions": [
+        {
+          "def": "有所吹起。",
+          "quote": [
+            "《說文解字．欠部》：「欻，有所吹起。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xù"
+    },
+    {
+      "bopomofo": "ㄔㄨㄚ",
+      "definitions": [
+        {
+          "def": "形容急促或有節奏的聲音。",
+          "example": [
+            "如：「欻的一聲」、「欻欻的腳步聲」。"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "chuā"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "欠",
+  "stroke_count": 12,
+  "title": "欻"
+}

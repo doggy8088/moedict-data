@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˊ",
+      "definitions": [
+        {
+          "def": "山勢高峻。",
+          "example": [
+            "如：「岌峨」、「岌嶪」。"
+          ],
+          "quote": [
+            "《爾雅．釋山》：「小山岌，大山峘。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "危險。參見「岌岌」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "jí"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "山",
+  "stroke_count": 7,
+  "title": "岌"
+}

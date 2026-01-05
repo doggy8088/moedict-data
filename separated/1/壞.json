@@ -1,0 +1,62 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄞˋ",
+      "definitions": [
+        {
+          "def": "損毀。",
+          "example": [
+            "如：「破壞」、「我一不小心把門撞壞了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "腐爛。",
+          "example": [
+            "如：「腐壞」、「這些菜擱到明天就會壞掉。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "陰險、狡詐。",
+          "example": [
+            "如：「你別與我使壞心眼兒。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "不好的。",
+          "example": [
+            "如：「不要在背後說人壞話。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "極。",
+          "example": [
+            "如：「氣極敗壞」、「忙了一整天，真把我累壞了。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "huài"
+    },
+    {
+      "bopomofo": "ㄍㄨㄞˋ",
+      "definitions": [
+        {
+          "def": "毀。",
+          "quote": [
+            "《漢書．卷三○．藝文志》：「武帝末，魯共王壞孔子宅，欲以廣其宮。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "guài"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "土",
+  "stroke_count": 19,
+  "title": "壞"
+}

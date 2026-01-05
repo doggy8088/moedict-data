@@ -1,0 +1,62 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄤˇ",
+      "definitions": [
+        {
+          "def": "肩部和肩以下、肘以上的部位。",
+          "example": [
+            "如：「肩膀」、「膀子」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "鳥禽類的兩翼。",
+          "example": [
+            "如：「翅膀」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bǎng"
+    },
+    {
+      "bopomofo": "ㄅㄤˋ",
+      "definitions": [
+        {
+          "def": "參見「弔膀子」條。"
+        }
+      ],
+      "pinyin": "bàng"
+    },
+    {
+      "bopomofo": "ㄆㄤˊ",
+      "definitions": [
+        {
+          "def": "參見「膀胱」條。"
+        }
+      ],
+      "pinyin": "páng"
+    },
+    {
+      "bopomofo": "ㄆㄤ",
+      "definitions": [
+        {
+          "def": "肌肉浮腫。",
+          "example": [
+            "如：「眼皮兒哭得膀膀的。」"
+          ],
+          "quote": [
+            "《集韻．平聲．唐韻》：「膀，脹也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pāng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "肉",
+  "stroke_count": 14,
+  "title": "膀"
+}

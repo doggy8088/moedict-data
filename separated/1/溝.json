@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄡ",
+      "definitions": [
+        {
+          "def": "水道、凹槽。",
+          "example": [
+            "如：「田溝」、「陰溝」、「壕溝」。"
+          ],
+          "quote": [
+            "《周禮．冬官考工記．匠人》：「九夫為井，井間廣四尺，深四尺謂之溝。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "挖通、疏通。",
+          "quote": [
+            "《管子．度地》：「地高則溝之，下則隄之，命之曰金城。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gōu"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "水",
+  "stroke_count": 13,
+  "title": "溝"
+}

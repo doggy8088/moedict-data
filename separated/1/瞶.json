@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "盲人、瞎子。",
+          "quote": [
+            "三國魏．阮籍〈詠懷詩〉八二首之五七：「世有此聾瞶，芒芒將焉如。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "愚昧、糊塗。",
+          "example": [
+            "如：「昏瞶」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "guì"
+    },
+    {
+      "bopomofo": "（又音）ㄎㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）kuì"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "目",
+  "stroke_count": 17,
+  "title": "瞶"
+}

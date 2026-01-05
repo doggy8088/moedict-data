@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄠˋ",
+      "definitions": [
+        {
+          "def": "用水浸物。",
+          "example": [
+            "如：「{[fb70]}飯」。"
+          ],
+          "link": [
+            "通「泡」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pào"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "水",
+  "stroke_count": 11,
+  "title": "{[fb70]}"
+}

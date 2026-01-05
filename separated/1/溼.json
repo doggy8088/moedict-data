@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕ",
+      "definitions": [
+        {
+          "def": "水分多、含有水分的。",
+          "example": [
+            "如：「把溼毛巾擰乾。」"
+          ],
+          "quote": [
+            "宋．姜夔〈昔遊〉詩：「燎茅烘溼衣，客有見留者。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "沾水、沾潤。",
+          "example": [
+            "如：「淚溼衣襟」、「全身溼透」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "中醫六淫之一。因溼氣過大，阻滯氣的活動而致病，流行於長夏。",
+          "example": [
+            "如：「溼毒」、「風溼」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shī"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "水",
+  "stroke_count": 13,
+  "title": "溼"
+}

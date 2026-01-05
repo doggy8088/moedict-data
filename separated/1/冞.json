@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧˊ",
+      "definitions": [
+        {
+          "def": "深。",
+          "example": [
+            "如：「冞入其阻」。"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "越、更。",
+          "quote": [
+            "唐．方干〈送許溫〉詩：「壯歲分冞切，少年心正同。」",
+            "元．馬端臨〈文獻通考自序〉：「晉時分州為十九，自晉以後，為州冞多，所統冞狹。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "mí"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "冖",
+  "stroke_count": 8,
+  "title": "冞"
+}

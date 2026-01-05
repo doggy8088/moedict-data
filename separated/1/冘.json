@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "行進的樣子。",
+          "quote": [
+            "《文選．揚雄．羽獵賦》：「三軍芒然，窮冘閼與。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yín"
+    },
+    {
+      "bopomofo": "ㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "冘豫：遲疑不決。《後漢書．卷六九．竇武傳》：「武復數白誅曹節等，太后冘豫未忍，故事久不發。」《資治通鑑．卷四二．漢紀三十四．光武帝建武六年》：「囂復多設疑故，事久冘豫不決。」也作「猶豫」。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "yóu"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "冖",
+  "stroke_count": 4,
+  "title": "冘"
+}

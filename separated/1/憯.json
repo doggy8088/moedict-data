@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄢˇ",
+      "definitions": [
+        {
+          "def": "憂傷、慘痛。",
+          "quote": [
+            "《漢書．卷四九．鼂錯傳》：「法令煩憯，刑罰暴酷。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "竟。",
+          "quote": [
+            "《詩經．大雅．民勞》：「式遏寇虐，憯不畏明。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "cǎn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "心",
+  "stroke_count": 15,
+  "title": "憯"
+}

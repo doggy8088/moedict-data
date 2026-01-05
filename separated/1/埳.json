@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄢˇ",
+      "definitions": [
+        {
+          "def": "低窪凹陷的地方。",
+          "link": [
+            "同「坎」。"
+          ],
+          "quote": [
+            "《玉篇．土部》：「埳，陷也。亦與坎同。」",
+            "《莊子．秋水》：「子獨不聞夫埳井之鼃乎？」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kǎn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "土",
+  "stroke_count": 11,
+  "title": "埳"
+}

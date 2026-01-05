@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "拾取。",
+          "example": [
+            "如：「撿拾」、「撿柴」、「把垃圾撿起來。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "挑選。",
+          "quote": [
+            "《儒林外史．第三○回》：「擇一個日子，撿一個極大的地方。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jiǎn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "手",
+  "stroke_count": 16,
+  "title": "撿"
+}

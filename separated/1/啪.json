@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄚ",
+      "definitions": [
+        {
+          "def": "形容拍擊或爆裂的聲音。如：「爆竹劈里啪啦的響起來。」、「他終於受不了她那尖酸刻薄的話語，『啪』的一聲，狠狠的甩了她一個耳光。」也作「㕷」、「拍」。",
+          "type": "狀"
+        }
+      ],
+      "pinyin": "pā"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄧㄚ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）piā"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "口",
+  "stroke_count": 11,
+  "title": "啪"
+}

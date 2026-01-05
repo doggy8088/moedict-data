@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄟˊ",
+      "definitions": [
+        {
+          "def": "古人用來盛土的一種竹器，底深而有蓋。",
+          "quote": [
+            "漢．桓寬《鹽鐵論．詔聖》：「劓鼻盈蔂，斷足盈車。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "一種登山用具。",
+          "link": [
+            "通「欙」。"
+          ],
+          "quote": [
+            "《淮南子．脩務》：「水之用舟，沙之用鳩，泥之用輴，山之用蔂。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "léi"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "艸",
+  "stroke_count": 15,
+  "title": "蔂"
+}

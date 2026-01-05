@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄛˇ",
+      "definitions": [
+        {
+          "def": "堅硬的土。",
+          "quote": [
+            "《說文解字．土部》：「埵，堅土也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "鎔冶金屬的器具。",
+          "quote": [
+            "《淮南子．齊俗》：「鑪橐埵坊設，非巧冶不能以治金。」",
+            "漢．高誘．注：「鑪、橐、埵皆冶具。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "duǒ"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "土",
+  "stroke_count": 12,
+  "title": "埵"
+}

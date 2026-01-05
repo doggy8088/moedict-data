@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄠ",
+      "definitions": [
+        {
+          "def": "驕傲。",
+          "quote": [
+            "《集韻．平聲．宵韻》：「憍，矜也。」",
+            "《淮南子．道應》：「數戰則民罷，數勝則主憍。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "恣意、放縱。",
+          "quote": [
+            "《廣韻．平聲．蕭韻》：「憍，恣也。」",
+            "《後漢書．卷二六．蔡茂傳》：「外戚憍逸，賓客放濫。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jiāo"
+    },
+    {
+      "bopomofo": "（又音）ㄑㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）qiáo"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "心",
+  "stroke_count": 15,
+  "title": "憍"
+}

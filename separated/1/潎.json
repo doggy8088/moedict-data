@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧˋ",
+      "definitions": [
+        {
+          "def": "形容魚在水中游的樣子。",
+          "quote": [
+            "《集韻．去聲．祭韻》：「潎，魚游貌。」",
+            "《文選．潘岳．秋興賦 》 ：「澡秋水之涓涓兮，玩游鯈之潎潎。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pì"
+    },
+    {
+      "bopomofo": "ㄆㄧㄝ",
+      "definitions": [
+        {
+          "def": "潎洌：形容水勢相沖激的樣子。",
+          "quote": [
+            "《文選．司馬相如．上林賦》：「橫流逆折，轉騰潎洌。  」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "piē"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "水",
+  "stroke_count": 14,
+  "title": "潎"
+}

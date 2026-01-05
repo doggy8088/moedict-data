@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "強迫人去做能力不夠、或不願意做的事。",
+          "example": [
+            "如：「勉強」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "鼓勵。",
+          "example": [
+            "如：「勸勉」、「嘉勉」、「互勉」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "勤奮、努力。",
+          "example": [
+            "如：「勤勉」、「奮勉」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "miǎn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "力",
+  "stroke_count": 9,
+  "title": "勉"
+}

@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˋ",
+      "definitions": [
+        {
+          "def": "憂鬱不安。",
+          "quote": [
+            "《楚辭．屈原．天問》：「武發殺殷何所悒？載尸集戰何所急？」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "愁悶。",
+          "example": [
+            "如：「憂悒」。"
+          ],
+          "quote": [
+            "三國魏．曹植〈離友詩〉三首之二：「伊鬱悒兮情不怡。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yì"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "心",
+  "stroke_count": 10,
+  "title": "悒"
+}

@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨˇ",
+      "definitions": [
+        {
+          "def": "一種烹飪方法，將食物放入水或湯加熱烹熟。",
+          "example": [
+            "如：「煮湯」、「燒菜煮飯」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhǔ"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "火",
+  "stroke_count": 12,
+  "title": "煮"
+}

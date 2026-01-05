@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "光明、顯明。",
+          "example": [
+            "如：「焯燦」、「焯見」。"
+          ],
+          "link": [
+            "同「灼」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "照耀。",
+          "quote": [
+            "晉．庾闡〈弔賈生文〉：「煥乎若望舒燿景而焯群星，矯乎若翔鸞拊翼而逸宇宙也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhuó"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "火",
+  "stroke_count": 12,
+  "title": "焯"
+}

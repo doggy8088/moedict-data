@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨ",
+      "definitions": [
+        {
+          "def": "參見「藷蔗」條。"
+        }
+      ],
+      "pinyin": "zhū"
+    },
+    {
+      "bopomofo": "ㄕㄨˇ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "通「薯」。"
+          ]
+        }
+      ],
+      "pinyin": "shǔ"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "艸",
+  "stroke_count": 19,
+  "title": "藷"
+}

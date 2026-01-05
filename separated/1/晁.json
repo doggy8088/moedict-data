@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄠˊ",
+      "definitions": [
+        {
+          "def": "朝的古字。",
+          "quote": [
+            "《文選．揚雄．羽獵賦》：「於是天子乃以陽晁始出乎玄宮。」",
+            "唐．李善．注：「陽朝，陽明之朝。晁，古字同也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有晁補之。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "cháo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "日",
+  "stroke_count": 10,
+  "title": "晁"
+}

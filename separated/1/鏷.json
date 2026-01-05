@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄨˊ",
+      "definitions": [
+        {
+          "def": "未經鍛鍊的銅鐵。",
+          "quote": [
+            "《文選．張協．七命八首之四》：「銷踰羊頭，鏷越鍛成。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "（protactinium，Pa)化學元素。原子序91。為放射元素之一。色銀灰，鐳礦物中含鏷，可用化學法證實。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "pú"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "金",
+  "stroke_count": 20,
+  "title": "鏷"
+}

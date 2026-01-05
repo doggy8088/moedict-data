@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧˊ",
+      "definitions": [
+        {
+          "def": "用竹片、草莖等編成的墊子，可鋪設坐臥。",
+          "example": [
+            "如：「草蓆」、「竹蓆」。"
+          ],
+          "link": [
+            "通「席」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "寬大。",
+          "quote": [
+            "《詩經．鄭風．緇衣》：「緇衣之蓆兮，敝，予又改作兮。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xí"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "艸",
+  "stroke_count": 14,
+  "title": "蓆"
+}

@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨㄛ",
+      "definitions": [
+        {
+          "def": "以手撫摸。",
+          "example": [
+            "如：「摩挲」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "suō"
+    },
+    {
+      "bopomofo": "˙ㄙㄚ",
+      "definitions": [
+        {
+          "def": "參見「摩挲」(二)條。"
+        }
+      ],
+      "pinyin": "sa"
+    },
+    {
+      "bopomofo": "˙ㄕㄚ",
+      "definitions": [
+        {
+          "def": "參見「挓挲」條。"
+        }
+      ],
+      "pinyin": "sha"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "手",
+  "stroke_count": 11,
+  "title": "挲"
+}

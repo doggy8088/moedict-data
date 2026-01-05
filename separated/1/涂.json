@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨˊ",
+      "definitions": [
+        {
+          "def": "道路。",
+          "link": [
+            "通「塗」、「途」。"
+          ],
+          "quote": [
+            "《戰國策．趙策三》：「魯人投其籥，不果納，不得入於魯，將之薛，假涂於鄒。」",
+            "《漢書．卷二二．禮樂志》：「大朱涂廣，夷石為堂。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有涂天明、涂正勝。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "tú"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "水",
+  "stroke_count": 10,
+  "title": "涂"
+}

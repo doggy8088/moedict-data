@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨㄢˋ",
+      "definitions": [
+        {
+          "def": "清洗、洗滌。",
+          "example": [
+            "如：「涮碗碟」、「涮瓶子」、「涮杯子」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "一種烹飪方法。由進食者將切好的薄肉片，放入滾湯中，燙一下即刻取出，沾佐料而食。",
+          "example": [
+            "如：「涮羊肉」、「涮毛肚」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "戲弄、作弄。",
+          "example": [
+            "如：「你別涮人了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shuàn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "水",
+  "stroke_count": 11,
+  "title": "涮"
+}

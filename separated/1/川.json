@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄢ",
+      "definitions": [
+        {
+          "def": "河流。",
+          "example": [
+            "如：「河川」。"
+          ],
+          "quote": [
+            "《論語．子罕》：「子在川上曰：『逝者如斯夫，不舍晝夜。』」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "大陸地區四川省的簡稱。",
+          "type": "名"
+        },
+        {
+          "def": "一種烹飪方法。將食物置於開水中，水一開即刻撈起。",
+          "example": [
+            "如：「川肉片」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chuān"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "巛",
+  "stroke_count": 3,
+  "title": "川"
+}

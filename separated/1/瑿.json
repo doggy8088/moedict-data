@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧ",
+      "definitions": [
+        {
+          "def": "黑色的玉石。",
+          "quote": [
+            "《字彙．玉部》：「瑿，黑玉。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "黑色的琥珀。",
+          "quote": [
+            "明．宋應星《天工開物．卷下．珠玉》：「琥珀最貴者名曰瑿，紅而微帶黑，然晝見則黑，燈光下則紅甚也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yī"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "玉",
+  "stroke_count": 16,
+  "title": "瑿"
+}

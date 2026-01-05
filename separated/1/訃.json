@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˋ",
+      "definitions": [
+        {
+          "def": "報喪的文字。",
+          "quote": [
+            "唐．柳宗元〈虞鳴鶴誄〉：「捧訃號呼，匍匐增悲。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "報喪、告喪。",
+          "example": [
+            "如：「訃告」。"
+          ],
+          "quote": [
+            "漢．王充《論衡．書虛》：「齊亂，公薨，三月乃訃。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "fù"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "言",
+  "stroke_count": 9,
+  "title": "訃"
+}

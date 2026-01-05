@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄢ",
+      "definitions": [
+        {
+          "def": "熟睡時所發出的鼻息聲。",
+          "example": [
+            "如：「打鼾」、「鼻鼾如雷」。"
+          ],
+          "quote": [
+            "《廣韻．平聲．寒韻》：「鼾，臥氣激聲。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "睡覺時，發出打呼聲。",
+          "quote": [
+            "明．侯方域〈郭老僕墓誌銘〉：「司徒公怒而罵，老僕則倚壁而鼾。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hān"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "鼻",
+  "stroke_count": 17,
+  "title": "鼾"
+}

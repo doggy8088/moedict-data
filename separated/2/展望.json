@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢˇ　ㄨㄤˋ",
+      "definitions": [
+        {
+          "antonyms": "回顧",
+          "def": "遠望。",
+          "example": [
+            "如：「 展望未來」、「他在山頂上向四周展望。」"
+          ]
+        },
+        {
+          "def": "預測事務未來的發展。",
+          "example": [
+            "如：「世紀展望」。"
+          ],
+          "synonyms": "預測"
+        }
+      ],
+      "pinyin": "zhǎn wàng"
+    }
+  ],
+  "title": "展望"
+}

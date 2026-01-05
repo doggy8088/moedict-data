@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄒㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "一種皮膚病。患處發癢，生白色的鱗狀皮，會傳染。如白癬、頭癬、腳癬等。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "（讀音）xiǎn"
+    },
+    {
+      "bopomofo": "（語音）ㄒㄩㄢˇ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）xuǎn"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "疒",
+  "stroke_count": 22,
+  "title": "癬"
+}

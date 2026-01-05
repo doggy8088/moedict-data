@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄣ",
+      "definitions": [
+        {
+          "def": "古代祭天的大典。參見「禋祀」2.條。",
+          "type": "名"
+        },
+        {
+          "def": "祭祀。",
+          "quote": [
+            "《書經．舜典》：「肆類于上帝，禋于六宗。」",
+            "《國語．周語上》：「不禋於神而求福焉，神必禍之。」",
+            "三國吳．韋昭．注：「潔祀曰禋。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yīn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "示",
+  "stroke_count": 14,
+  "title": "禋"
+}

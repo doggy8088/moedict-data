@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄚ",
+      "definitions": [
+        {
+          "def": "譯音用字。",
+          "example": [
+            "如：「咖啡」、「咖哩」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kā"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "口",
+  "stroke_count": 8,
+  "title": "咖"
+}

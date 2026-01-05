@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄠ",
+      "definitions": [
+        {
+          "def": "扶搖而上的風。",
+          "link": [
+            "同「飆」。"
+          ],
+          "quote": [
+            "《說文解字．風部》：「颮，古文飆。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "biāo"
+    },
+    {
+      "bopomofo": "ㄆㄠˊ",
+      "definitions": [
+        {
+          "def": "具有突起、持續時間僅數分鐘（至少兩分鐘）、風速驟減等特徵的強風。有時亦指整　個強烈的地方性風暴而言，包括風、雲、降水、雷及閃電。",
+          "type": "名"
+        },
+        {
+          "def": "風大而急。",
+          "quote": [
+            "《文選．班固．答賓戲》：「遊說之徒，風颮電激，並起而救之。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "páo"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "風",
+  "stroke_count": 14,
+  "title": "颮"
+}

@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "小兒語。",
+          "quote": [
+            "《廣韻．平聲．歌韻》：「囉，小兒語也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「嘍囉」條。",
+          "type": "名"
+        },
+        {
+          "def": "歌曲中的襯字。",
+          "quote": [
+            "《雍熙樂府．卷一五．黃鶯兒．唱一會囉哩囉曲》：「唱一會囉哩囉，論清閑誰似我？」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "luó"
+    },
+    {
+      "bopomofo": "ㄌㄨㄛ",
+      "definitions": [
+        {
+          "def": "參見「囉嗦」條。"
+        }
+      ],
+      "pinyin": "luō"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "口",
+  "stroke_count": 22,
+  "title": "囉"
+}

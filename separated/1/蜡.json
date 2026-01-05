@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "definitions": [
+        {
+          "def": "「蠟」的異體字。"
+        }
+      ]
+    },
+    {
+      "bopomofo": "ㄓㄚˋ",
+      "definitions": [
+        {
+          "def": "一種祭禮。在周朝稱為「蜡」，於歲末大祭萬物。",
+          "quote": [
+            "《禮記．郊特牲》：「天子大蜡八，伊耆氏始為蜡。」",
+            "唐．陸德明《經典釋文．卷一二．禮記音義之二》：「蜡，祭名，夏曰清祀，殷曰嘉平，周曰蜡，秦曰臘。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhà"
+    },
+    {
+      "bopomofo": "（又音）ㄔㄚˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）chà"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "虫",
+  "stroke_count": 14,
+  "title": "蜡"
+}

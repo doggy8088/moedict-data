@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄢ",
+      "definitions": [
+        {
+          "def": "浸溼、沾溼。",
+          "link": [
+            "同「沾」。"
+          ],
+          "quote": [
+            "《文選．江淹．恨賦》：「此人但聞悲風汩起，血下霑衿。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "比喻受人恩惠。",
+          "example": [
+            "如：「霑恩」、「法雨均霑」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhān"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "雨",
+  "stroke_count": 16,
+  "title": "霑"
+}

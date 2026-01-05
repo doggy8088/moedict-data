@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧˋ",
+      "definitions": [
+        {
+          "def": "親近。",
+          "example": [
+            "如：「親暱」。"
+          ],
+          "quote": [
+            "《左傳．隱公元年》：「不義不暱，厚將崩。」",
+            "《文選．李康．運命論》：「叔孫豹之暱豎牛也，禍成於庚宗。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "nì"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "日",
+  "stroke_count": 15,
+  "title": "暱"
+}

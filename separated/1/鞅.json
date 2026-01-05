@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄤ",
+      "definitions": [
+        {
+          "def": "套在馬頸上，用以駕車的皮帶。",
+          "quote": [
+            "《左傳．襄公十八年》：「大子抽劍斷鞅乃止。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛指車馬。",
+          "quote": [
+            "晉．陶淵明〈歸園田居〉詩五首之二：「野外罕人事，窮巷寡輪鞅。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "不滿意的樣子。參見「鞅鞅」條。",
+          "type": "副"
+        }
+      ],
+      "pinyin": "yāng"
+    },
+    {
+      "bopomofo": "（又音）ㄧㄤˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）yǎng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "革",
+  "stroke_count": 14,
+  "title": "鞅"
+}

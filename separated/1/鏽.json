@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄡˋ",
+      "definitions": [
+        {
+          "def": "金屬表面所生的氧化物。",
+          "example": [
+            "如：「鐵鏽」、「銅鏽」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "生鏽。",
+          "quote": [
+            "《清史稿．卷一四○．兵志十一》：「機器今已到鄂，置閒必至鏽壞。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "恭敬。",
+          "link": [
+            "通「肅」。"
+          ],
+          "quote": [
+            "《墨子．非樂上》：「大人鏽然奏而獨聽之，將何樂得焉哉。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xiù"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "金",
+  "stroke_count": 20,
+  "title": "鏽"
+}

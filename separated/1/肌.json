@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧ",
+      "definitions": [
+        {
+          "def": "肉。",
+          "example": [
+            "如：「面黃肌瘦」。"
+          ],
+          "quote": [
+            "《漢書．卷七四．丙吉傳》：「介之推割肌以存君。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "皮膚。",
+          "quote": [
+            "《文選．宋玉．登徒子好色賦》：「肌如白雪。」",
+            "《西遊記．第七二回》：「佳人洗處冰肌滑，滌蕩塵煩玉體新。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「肌肉」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jī"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "肉",
+  "stroke_count": 6,
+  "title": "肌"
+}

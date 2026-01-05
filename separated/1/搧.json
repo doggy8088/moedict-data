@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄢ",
+      "definitions": [
+        {
+          "def": "用手摑臉。",
+          "example": [
+            "如：「搧他一個大耳光。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "搖動扇子使生風。",
+          "example": [
+            "如：「搧火」、「搧煙」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "從旁鼓動、挑撥事端。",
+          "example": [
+            "如：「搧動」、「搧惑」。"
+          ],
+          "link": [
+            "通「煽」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shān"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "手",
+  "stroke_count": 13,
+  "title": "搧"
+}

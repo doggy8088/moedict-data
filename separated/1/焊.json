@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄢˋ",
+      "definitions": [
+        {
+          "def": "乾枯、乾涸。",
+          "link": [
+            "同「漢」、「暵」。"
+          ],
+          "quote": [
+            "《集韻．上聲．旱韻》：「暵，乾也。或作熯、焊。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "",
+          "link": [
+            "通「銲」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hàn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "火",
+  "stroke_count": 11,
+  "title": "焊"
+}

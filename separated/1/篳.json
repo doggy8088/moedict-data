@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧˋ",
+      "definitions": [
+        {
+          "def": "本指以荊條編成的籬笆、門扉或其他遮擋物。後泛指以荊條或竹子編成的器物。",
+          "example": [
+            "如：「篳門」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「篳篥」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "bì"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "竹",
+  "stroke_count": 17,
+  "title": "篳"
+}

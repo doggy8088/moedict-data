@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧˋ",
+      "definitions": [
+        {
+          "def": "賜與、給予。",
+          "quote": [
+            "《詩經．小雅．巷伯》：「取彼譖人，投畀豺虎，豺虎不食。」",
+            "《左傳．隱公三年》：「王崩，周人將畀虢公政。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "酬答。",
+          "quote": [
+            "《詩經．鄘風．干旄》：「彼姝者子，何以畀之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bì"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "田",
+  "stroke_count": 8,
+  "title": "畀"
+}

@@ -1,0 +1,50 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄨˋ",
+      "definitions": [
+        {
+          "def": "碼頭，停泊船隻的地方。",
+          "example": [
+            "如：「港埠」。"
+          ],
+          "quote": [
+            "明．張自烈《正字通．土部》：「埠，舶船埠頭。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "通商的口岸。",
+          "example": [
+            "如：「商埠」、「開埠」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "地方、城市。",
+          "example": [
+            "如：「本埠」、「外埠」、「埠際」。"
+          ],
+          "quote": [
+            "清．徐珂《清稗類鈔．棍騙類．販豬仔》：「所往之地，大抵為新加坡、庇能等埠。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bù"
+    },
+    {
+      "bopomofo": "（又音）ㄈㄨˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）fù"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "土",
+  "stroke_count": 11,
+  "title": "埠"
+}

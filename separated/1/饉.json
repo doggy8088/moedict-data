@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄣˇ",
+      "definitions": [
+        {
+          "def": "蔬菜不成熟的情況。",
+          "quote": [
+            "《爾雅．釋天》：「穀不熟為饑，蔬不熟為饉。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "五穀歉收的荒年。",
+          "quote": [
+            "《晉書．卷二六．食貨志》：「兵革屢興，荒饉荐及。」",
+            "唐．白居易〈除李遜京兆尹制〉：「或紛擾之際，或荒饉之餘；威惠所加，罔不和輯。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jǐn"
+    },
+    {
+      "bopomofo": "（又音）ㄐㄧㄣˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）jìn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "食",
+  "stroke_count": 19,
+  "title": "饉"
+}

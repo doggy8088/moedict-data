@@ -1,0 +1,58 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄢ",
+      "definitions": [
+        {
+          "def": "介於二和四之間的自然數。如：「二、三、四、五……」。大寫作「参」，阿拉伯數字作「3」。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有三成志。",
+          "type": "名"
+        },
+        {
+          "def": "第三位的。",
+          "example": [
+            "如：「這次比賽他得了第三名。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "表多數或多次的。",
+          "example": [
+            "如：「舉一反三」、「三番兩次」、「一問三不知」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "sān"
+    },
+    {
+      "bopomofo": "ㄙㄢˋ",
+      "definitions": [
+        {
+          "def": "屢次、再三。參見「三思」、「三復」等條。",
+          "type": "副"
+        }
+      ],
+      "pinyin": "sàn"
+    },
+    {
+      "bopomofo": "ㄙㄚ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「仨」。"
+          ]
+        }
+      ],
+      "pinyin": "sā"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "一",
+  "stroke_count": 3,
+  "title": "三"
+}

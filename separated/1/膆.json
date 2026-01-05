@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨˋ",
+      "definitions": [
+        {
+          "def": "肥胖。",
+          "quote": [
+            "《玉篇．肉部》：「膆，肥也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "鳥類食道末端貯藏食物的囊狀部分。",
+          "link": [
+            "同「嗉」。"
+          ],
+          "quote": [
+            "《文選．潘岳．射雉賦》：「當咮值胸，裂膆破觜。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "sù"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "肉",
+  "stroke_count": 14,
+  "title": "膆"
+}

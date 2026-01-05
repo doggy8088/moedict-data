@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄥˇ",
+      "definitions": [
+        {
+          "def": "因情緒激動，而發不出聲音來。",
+          "example": [
+            "如：「哽咽」。"
+          ],
+          "quote": [
+            "《南史．卷一四．宋宗室及諸王傳下．文帝諸子傳》：「因把姬手南望慟哭，左右莫不哀哽。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "噎住、無法下嚥。",
+          "quote": [
+            "《抱朴子．外篇．任能》：「故口不容而強吞之者必哽。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gěng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "口",
+  "stroke_count": 10,
+  "title": "哽"
+}

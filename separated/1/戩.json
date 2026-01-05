@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "消滅。",
+          "link": [
+            "通「翦」。"
+          ],
+          "quote": [
+            "《說文解字．戈部》：「戩，滅也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "盡、至。參見「戩穀」條。",
+          "type": "動"
+        },
+        {
+          "def": "福祿、吉祥。",
+          "quote": [
+            "《爾雅．釋詁下》：「戩，福也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiǎn"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "戈",
+  "stroke_count": 14,
+  "title": "戩"
+}

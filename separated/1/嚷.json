@@ -1,0 +1,48 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄖㄤˇ",
+      "definitions": [
+        {
+          "def": "喊叫。",
+          "example": [
+            "如：「大嚷大叫」。"
+          ],
+          "quote": [
+            "《紅樓夢．第二回》：「那些人只嚷：『快請出甄爺來！』」",
+            "《老殘遊記．第一四回》：「半夜裡聽見人嚷說：『水下來了！』，大家聽說，都連忙起來。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "喧鬧。",
+          "example": [
+            "如：「吵嚷」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "北方方言。指斥責、責備。",
+          "example": [
+            "如：「這件事若讓媽媽知道又要嚷我了！」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "rǎng"
+    },
+    {
+      "bopomofo": "ㄖㄤ",
+      "definitions": [
+        {
+          "def": "參見「嚷嚷」條。"
+        }
+      ],
+      "pinyin": "rāng"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "口",
+  "stroke_count": 20,
+  "title": "嚷"
+}

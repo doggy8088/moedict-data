@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄣˊ",
+      "definitions": [
+        {
+          "def": "樂器名。古代銅製打擊樂器。",
+          "quote": [
+            "《周禮．地官．鼓人》：「以金錞和鼓。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chún"
+    },
+    {
+      "bopomofo": "ㄉㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "矛戟柄末端的平底金屬套。",
+          "quote": [
+            "《詩經．秦風．小戎》：「俴駟孔群，厹矛鋈錞，蒙伐有苑。」",
+            "《淮南子．說林》：「錞之與刃，孰先弊也？」",
+            "漢．高誘．注：「錞，矜下銅鐏也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "duì"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "金",
+  "stroke_count": 16,
+  "title": "錞"
+}

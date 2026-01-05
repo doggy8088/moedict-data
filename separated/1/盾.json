@@ -1,0 +1,48 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄣˋ",
+      "definitions": [
+        {
+          "def": "一種抵禦敵人矢刃等攻擊，保護己身安全的兵器。",
+          "example": [
+            "如：「盾牌」、「籐盾」、「金劍神盾」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "比喻支持或援助的力量。",
+          "example": [
+            "如：「深厚的民意基礎是他強而有力的後盾。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "盾形的物品。多用作獎牌或紀念品。",
+          "example": [
+            "如：「銀盾」、「金盾」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "荷蘭、越南、印尼等國貨幣單位的簡稱。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "dùn"
+    },
+    {
+      "bopomofo": "（又音）ㄕㄨㄣˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）shǔn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "目",
+  "stroke_count": 9,
+  "title": "盾"
+}

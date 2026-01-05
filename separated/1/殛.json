@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˊ",
+      "definitions": [
+        {
+          "def": "殺死。",
+          "example": [
+            "如：「電殛」、「雷殛」。"
+          ],
+          "quote": [
+            "《書經．舜典》：「殛鯀于羽山。」",
+            "《三國演義．第四○回》：「故主有靈，必當殛汝！」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "懲罰。",
+          "quote": [
+            "漢．蔡琰〈胡笳十八拍〉：「我不負神兮，神何殛我越荒州？」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jí"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "歹",
+  "stroke_count": 13,
+  "title": "殛"
+}

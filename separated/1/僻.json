@@ -1,0 +1,50 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄆㄧˋ",
+      "definitions": [
+        {
+          "def": "偏遠的、幽隱的。",
+          "example": [
+            "如：「偏僻」、「窮鄉僻壤」。"
+          ],
+          "quote": [
+            "唐．白居易〈琵琶行〉：「潯陽地僻無音樂，終歲不聞絲竹聲。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "奇異而不常見的。",
+          "example": [
+            "如：「冷僻」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "邪惡不正的。",
+          "example": [
+            "如：「邪僻」。"
+          ],
+          "quote": [
+            "《紅樓夢．第二九回》：「及如今稍明時事，又看了些邪書僻傳。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "（讀音）pì"
+    },
+    {
+      "bopomofo": "（語音）ㄅㄟˋ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）bèi"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "人",
+  "stroke_count": 15,
+  "title": "僻"
+}

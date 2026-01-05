@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄣ",
+      "definitions": [
+        {
+          "def": "嫁娶之事。",
+          "example": [
+            "如：「論及婚嫁」。"
+          ],
+          "quote": [
+            "《易經．屯卦．六四》：「乘馬班如，求婚媾，往吉，無不利。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "結婚。",
+          "quote": [
+            "《國語．晉語四》：「同姓不婚，惡不殖也。」",
+            "唐．杜甫〈贈衛八處士〉詩：「昔別君未婚，兒女忽成行。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hūn"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "女",
+  "stroke_count": 11,
+  "title": "婚"
+}

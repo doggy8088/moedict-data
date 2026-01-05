@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄢˋ",
+      "definitions": [
+        {
+          "def": "日光。",
+          "quote": [
+            "《集韻．去聲．霰韻》：「昡，日光。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "光彩耀眼。",
+          "quote": [
+            "漢．陸賈《新語．至德》：「刻桷丹楹，昡曜靡麗。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "迷惑、欺惑。",
+          "quote": [
+            "《楚辭．屈原．離騷》：「世幽昧以昡曜兮，孰云察余之善惡。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xuàn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "日",
+  "stroke_count": 9,
+  "title": "昡"
+}

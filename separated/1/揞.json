@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄢˇ",
+      "definitions": [
+        {
+          "def": "掩藏。",
+          "quote": [
+            "《廣雅疏證．卷四．釋詁》：「揞，藏也。」",
+            "元．喬吉〈一枝花．雲髫金雀翹套．梁州第七〉曲：「儹科，鬥喊，風聲兒惹起如何揞。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "按敷。",
+          "example": [
+            "如：「手上破了皮，用點藥把傷口揞上。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "ǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "手",
+  "stroke_count": 12,
+  "title": "揞"
+}

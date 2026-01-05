@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧˋ",
+      "definitions": [
+        {
+          "def": "除去，多指削掉毛髮。",
+          "example": [
+            "如：「剃頭」、「剃髮」、「剃鬍子」。"
+          ],
+          "quote": [
+            "《水滸傳．第四回》：「剃髮人只一刀，盡皆剃了。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tì"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "刀",
+  "stroke_count": 9,
+  "title": "剃"
+}

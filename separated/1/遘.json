@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄡˋ",
+      "definitions": [
+        {
+          "def": "遇見、遭遇。",
+          "quote": [
+            "《說文解字．辵部》：「遘，遇也。」",
+            "《聊齋志異．卷一．青鳳》：「適與婢子戲，遘此大厄。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "製造、造成。",
+          "link": [
+            "同「構」。"
+          ],
+          "quote": [
+            "《文選．王粲．七哀詩二首之一》：「西京亂無象，豺虎方遘患。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "gòu"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "辵",
+  "stroke_count": 14,
+  "title": "遘"
+}

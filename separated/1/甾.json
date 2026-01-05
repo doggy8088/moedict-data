@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗ",
+      "definitions": [
+        {
+          "def": "古代盛酒漿的陶器。",
+          "quote": [
+            "《說文解字．田部》：「甾，東楚名缶曰淄。」",
+            "清．段玉裁．注：「缶下曰瓦器，所以盛酒漿。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zī"
+    },
+    {
+      "bopomofo": "ㄗㄞ",
+      "definitions": [
+        {
+          "def": "災禍。",
+          "quote": [
+            "《史記．卷六．秦始皇本紀》：「闡并天下，甾害絕息，永偃戎兵。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zāi"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "田",
+  "stroke_count": 8,
+  "title": "甾"
+}

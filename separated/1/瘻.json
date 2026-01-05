@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄡˋ",
+      "definitions": [
+        {
+          "def": "一種脖子腫大的症狀。",
+          "quote": [
+            "《說文解字．疒部》：「瘻，頸腫也。」",
+            "唐．柳宗元〈捕蛇者說〉：「可 以已大風、攣踠、瘻、癘，去死肌，殺三蟲。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "常流膿水、不能收口的膿瘍。",
+          "example": [
+            "如：「肛瘻」、「痔瘻」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "膨脹、腫脹。",
+          "quote": [
+            "《淮南子．說山》：「貍頭愈鼠，雞頭已瘻。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lòu"
+    },
+    {
+      "bopomofo": "ㄌㄩˊ",
+      "definitions": [
+        {
+          "def": "參見「痀瘻」條。"
+        }
+      ],
+      "pinyin": "lǘ"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "疒",
+  "stroke_count": 16,
+  "title": "瘻"
+}

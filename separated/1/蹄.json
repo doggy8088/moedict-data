@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧˊ",
+      "definitions": [
+        {
+          "def": "獸足趾端的角質變形物，後借以通稱獸足。",
+          "example": [
+            "如：「馬蹄」、「牛蹄」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "古代的一種捕獸器。",
+          "example": [
+            "如：「筌蹄」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "踢。",
+          "quote": [
+            "唐．柳宗元〈三戒．黔之驢〉：「驢不勝怒，蹄之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tí"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "足",
+  "stroke_count": 16,
+  "title": "蹄"
+}

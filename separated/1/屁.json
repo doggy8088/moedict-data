@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧˋ",
+      "definitions": [
+        {
+          "def": "由肛門排出的臭氣。",
+          "example": [
+            "如：「臭屁」、「放屁」、「屁滾尿流」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "形容令人不屑的。",
+          "example": [
+            "如：「屁話」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pì"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "尸",
+  "stroke_count": 7,
+  "title": "屁"
+}

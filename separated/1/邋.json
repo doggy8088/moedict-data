@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄚˊ",
+      "definitions": [
+        {
+          "def": "參見「邋遢」條。或讀為ㄌㄚ　lā。"
+        }
+      ],
+      "pinyin": "lá"
+    },
+    {
+      "bopomofo": "ㄌㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "邋邋：旌旗搖動的樣子。",
+          "quote": [
+            "《古文苑．卷一．周宣王石鼓文》：「君子員員，邋邋員斿。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "踐踏、踰越。",
+          "link": [
+            "同「躐」。"
+          ],
+          "quote": [
+            "清．毛奇齡〈復陸雅坪編修問降一等書〉：「夫闌階邋級與堂上通呼吸，已屬怪事，而況限之在降階一等之地。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "liè"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "辵",
+  "stroke_count": 19,
+  "title": "邋"
+}

@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "中醫上指皮膚出現紫色或白色的小點，久而蔓延成疔。",
+          "link": [
+            "俗稱為「白癜風」、「紫癜風」。"
+          ],
+          "quote": [
+            "明．張自烈《正字通．疒部》：「癜，癜風，斑片也，有紫白二種。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "diàn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "疒",
+  "stroke_count": 18,
+  "title": "癜"
+}

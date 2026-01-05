@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄟˊ",
+      "definitions": [
+        {
+          "def": "顴骨。",
+          "quote": [
+            "《易經．夬卦．九三》：「壯于頄，有凶。」",
+            "三國魏．王弼．注：「頄，面權也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kuí"
+    },
+    {
+      "bopomofo": "（又音）ㄑㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）qiú"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "頁",
+  "stroke_count": 11,
+  "title": "頄"
+}

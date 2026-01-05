@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "清酒。",
+          "quote": [
+            "《文選．左思．蜀都賦》：「觴以清醥，鮮以紫鱗。」",
+            "宋．沈端節〈念奴嬌．湖山照影〉詞：「餘芳難並，破愁惟有馨醥。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "酒清。",
+          "quote": [
+            "宋．歐陽修〈答呂公著見贈〉詩：「醁醅寒且醥，清唱婉而遲。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "piǎo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "酉",
+  "stroke_count": 18,
+  "title": "醥"
+}

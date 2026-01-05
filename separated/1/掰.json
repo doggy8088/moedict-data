@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄞ",
+      "definitions": [
+        {
+          "def": "用雙手使勁將東西分開。",
+          "quote": [
+            "《紅樓夢．第六○回》：「便把手內的糕一塊一塊的掰了，擲  打著雀兒頑。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "胡扯、亂吹。",
+          "example": [
+            "如：「瞎掰」、「亂掰」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bāi"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "手",
+  "stroke_count": 12,
+  "title": "掰"
+}

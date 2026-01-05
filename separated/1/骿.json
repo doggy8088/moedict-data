@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄢˊ",
+      "definitions": [
+        {
+          "def": "肋骨並連成一片。",
+          "quote": [
+            "《說文解字．骨部》：「骿，並脅也。」",
+            "《國語．晉語四》：「聞其骿脅，欲觀 其狀。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "手掌腳底所生的繭。",
+          "example": [
+            "如：「骿胝」。"
+          ],
+          "link": [
+            "通「胼」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "pián"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "骨",
+  "stroke_count": 16,
+  "title": "骿"
+}

@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˊ",
+      "definitions": [
+        {
+          "def": "參見「逶迤」條。"
+        }
+      ],
+      "pinyin": "yí"
+    },
+    {
+      "bopomofo": "ㄧˇ",
+      "definitions": [
+        {
+          "def": "斜行延伸。",
+          "link": [
+            "同「迆」。"
+          ],
+          "quote": [
+            "唐．柳宗元〈問答．晉問〉：「晉之故封，太行掎之，首陽起之，黃河迤之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yǐ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "辵",
+  "stroke_count": 9,
+  "title": "迤"
+}

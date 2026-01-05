@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨ",
+      "definitions": [
+        {
+          "def": "嘔吐。",
+          "quote": [
+            "《說文解字．欠部》：「歍，心有所惡，若吐也。」",
+            "《山海經．大荒北經》：「共工之臣名曰相繇，九首蛇身，自環，食於九土，其所歍所尼，即為源澤。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "wū"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "欠",
+  "stroke_count": 14,
+  "title": "歍"
+}

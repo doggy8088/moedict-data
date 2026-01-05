@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄟˋ　ㄓˋ",
+      "definitions": [
+        {
+          "def": "地位、職位。",
+          "example": [
+            "如：「請你在公司裡安排一個位置給他。」"
+          ]
+        },
+        {
+          "def": "所在的地方。",
+          "example": [
+            "如：「房子的位置，是在日月潭附近。」"
+          ],
+          "synonyms": "位子"
+        }
+      ],
+      "pinyin": "wèi zhì"
+    }
+  ],
+  "title": "位置"
+}

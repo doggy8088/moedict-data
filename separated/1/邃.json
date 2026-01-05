@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "深遠。",
+          "example": [
+            "如：「深邃」。"
+          ],
+          "quote": [
+            "唐．柳宗元〈至小邱西小石潭記〉：「坐潭上，四面竹樹環合，寂寥無人，淒神寒骨，悄愴幽邃。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "精通。",
+          "quote": [
+            "《漢書．卷四二．任敖傳》：「蒼凡好書，無所不觀，無所不通，而尤邃律曆。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "suì"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "辵",
+  "stroke_count": 18,
+  "title": "邃"
+}

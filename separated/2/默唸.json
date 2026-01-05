@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄛˋ　ㄋㄧㄢˋ",
+      "definitions": [
+        {
+          "antonyms": "誦讀",
+          "def": "不出聲暗唸。",
+          "example": [
+            "如：「看他嘴巴嚅動，不知默唸些什麼。」"
+          ],
+          "synonyms": "默讀"
+        },
+        {
+          "def": "背誦。",
+          "example": [
+            "如：「這篇稿子，我必須在今晚默唸起來，否則就來不及了。」"
+          ]
+        }
+      ],
+      "pinyin": "mò niàn"
+    }
+  ],
+  "title": "默唸"
+}

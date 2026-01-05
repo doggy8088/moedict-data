@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄡˋ",
+      "definitions": [
+        {
+          "def": "白天。",
+          "example": [
+            "如：「白晝」、「晝伏夜出」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "地名。春秋齊邑，故址約位於今大陸地區山東省臨淄縣西北。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhòu"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "日",
+  "stroke_count": 11,
+  "title": "晝"
+}

@@ -1,0 +1,47 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "液體排放、氣體散逸。",
+          "example": [
+            "如：「洩洪」、「瓦斯外洩」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "發散、發抒。",
+          "example": [
+            "如：「洩恨」、「發洩」。"
+          ],
+          "quote": [
+            "《聊齋志異．卷八．夢狼》：「我等來，為一 邑之民洩冤憤耳。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "透露、露出。",
+          "example": [
+            "如：「洩密」、「洩底」、「洩露」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xiè"
+    },
+    {
+      "bopomofo": "ㄧˋ",
+      "definitions": [
+        {
+          "def": "參見「洩洩」條。"
+        }
+      ],
+      "pinyin": "yì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洩"
+}

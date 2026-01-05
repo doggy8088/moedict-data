@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨˇ",
+      "definitions": [
+        {
+          "def": "看見。",
+          "example": [
+            "如：「有目共睹」、「睹物思人」。"
+          ],
+          "quote": [
+            "《莊子．秋水》：「始吾弗信，今我睹子之難窮也，吾非至於子之門，則殆矣。」",
+            "《紅樓夢．第九九回》：「賈母等一則怕他招受寒暑，二則恐他睹景傷情。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dǔ"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "目",
+  "stroke_count": 13,
+  "title": "睹"
+}

@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄛˊ",
+      "definitions": [
+        {
+          "def": "古時的一種狗。",
+          "quote": [
+            "《廣韻．入聲．鐸韻》：「猼，犬名。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "傳說中的野獸。",
+          "link": [
+            "同「{[90c7]}」。"
+          ],
+          "quote": [
+            "《集韻．入聲．鐸韻》：「猼，獸名；似人有翼。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bó"
+    },
+    {
+      "bopomofo": "ㄆㄠˊ",
+      "definitions": [
+        {
+          "def": "參見「猼且」條。"
+        }
+      ],
+      "pinyin": "páo"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "犬",
+  "stroke_count": 13,
+  "title": "猼"
+}

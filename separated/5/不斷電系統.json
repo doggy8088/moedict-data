@@ -1,0 +1,14 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄨˋ　ㄉㄨㄢˋ　ㄉㄧㄢˋ　ㄒㄧˋ　ㄊㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "電腦的周邊設備之一。電腦記憶體若遇停電會使資料流失，故設有「不斷電系統」(UPS，Uninterruptible Power System），可提供足夠的時間讓使用者將資料存入磁碟內，並按照正常操作程序關機。"
+        }
+      ],
+      "pinyin": "bù duàn diàn xì tǒng"
+    }
+  ],
+  "title": "不斷電系統"
+}

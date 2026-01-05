@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧˋ",
+      "definitions": [
+        {
+          "def": "火盛的樣子。",
+          "quote": [
+            "《廣韻．入聲．昔韻》：「燡，火甚之貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "光明的樣子。",
+          "quote": [
+            "《文選．王延壽．魯靈光殿賦》：「汨磑磑以璀璨，赫燡燡而爥坤。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yì"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "火",
+  "stroke_count": 17,
+  "title": "燡"
+}

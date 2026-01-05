@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄡ",
+      "definitions": [
+        {
+          "def": "揣測、忖度。",
+          "quote": [
+            "《後漢書．卷五八．虞詡傳》：「以詡譸之，知其無能為也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "參見「譸張」條。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhōu"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "言",
+  "stroke_count": 21,
+  "title": "譸"
+}

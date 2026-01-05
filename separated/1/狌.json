@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄥ",
+      "definitions": [
+        {
+          "def": "鼬鼠。江東人稱為「鼪」。",
+          "quote": [
+            "《集韻．去聲．勁韻》：「狌，鼠屬。」",
+            "《莊子．秋水》：「騏驥驊騮，一日而馳千里，捕鼠不如狸狌。」",
+            "唐．陸德明《經典釋文．卷二七．莊子音義中》：「狌，崔本作鼬。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shēng"
+    },
+    {
+      "bopomofo": "ㄒㄧㄥ",
+      "definitions": [
+        {
+          "def": "同「猩」。參見「猩猩」條。"
+        }
+      ],
+      "pinyin": "xīng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "犬",
+  "stroke_count": 8,
+  "title": "狌"
+}

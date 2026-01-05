@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄠˋ",
+      "definitions": [
+        {
+          "def": "勸勉。",
+          "quote": [
+            "《漢書．卷一○．成帝紀》：「先帝劭農，薄其租稅，寵其彊力，令與孝弟同科。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "優美、高尚。",
+          "example": [
+            "如：「才劭」、「年高德劭」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "shào"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "力",
+  "stroke_count": 7,
+  "title": "劭"
+}

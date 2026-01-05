@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄞˇ",
+      "definitions": [
+        {
+          "def": "兒子。",
+          "quote": [
+            "漢．揚雄《方言．卷一○》：「崽者，子也。湘沅之會，凡言是子者，謂之崽；若東齊言子矣。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "幼小的動物。",
+          "example": [
+            "如：「貓崽」、「狗下崽兒了。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「崽子」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zǎi"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "山",
+  "stroke_count": 12,
+  "title": "崽"
+}

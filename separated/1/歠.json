@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "飲、喝。",
+          "quote": [
+            "《禮記．曲禮上》：「毋刺齒，毋歠醢。」",
+            "宋．陸游〈立秋後四日雨〉詩：「杯泛鵝兒供小歠，碓舂雲子喜新嘗。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "可喝的羹湯。",
+          "quote": [
+            "《戰國策．燕策一》：「即酒酣樂，進熱歠，即因反斗擊之。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chuò"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "欠",
+  "stroke_count": 19,
+  "title": "歠"
+}

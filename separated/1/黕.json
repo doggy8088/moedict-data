@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄢˇ",
+      "definitions": [
+        {
+          "def": "黑色汙垢。",
+          "quote": [
+            "《楚辭．宋玉．九辯》：「竊不自聊而願忠兮，或黕點而汙之。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "烏黑、黝黑。",
+          "quote": [
+            "《文選．潘岳．藉田賦》：「青壇蔚其嶽立兮，翠幕黕以雲布。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "dǎn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "黑",
+  "stroke_count": 16,
+  "title": "黕"
+}

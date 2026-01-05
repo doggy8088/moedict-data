@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄣˇ",
+      "definitions": [
+        {
+          "def": "如何。表疑問、詢問之意。",
+          "example": [
+            "如：「怎麼」、「怎說」、「怎想」。"
+          ],
+          "quote": [
+            "宋．李清照〈聲聲慢．尋尋覓覓〉詞：「這次第，怎一個愁字了得。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "zěn"
+    },
+    {
+      "bopomofo": "（又音）ㄗㄜˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）zě"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "心",
+  "stroke_count": 9,
+  "title": "怎"
+}

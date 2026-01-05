@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄣˋ",
+      "definitions": [
+        {
+          "def": "瞳仁、黑眼珠。",
+          "quote": [
+            "《廣韻．上聲．軫韻》：「眹，目童子也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "預兆、跡象。",
+          "link": [
+            "通「朕」。"
+          ],
+          "quote": [
+            "《莊子．齊物論》：「若有真宰，而特不得其眹。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhèn"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "目",
+  "stroke_count": 11,
+  "title": "眹"
+}

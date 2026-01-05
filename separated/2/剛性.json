@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄤ　ㄒㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "剛硬而不變形的性質。"
+        },
+        {
+          "def": "物體對於變形的抵抗本領。"
+        }
+      ],
+      "pinyin": "gāng xìng"
+    },
+    {
+      "bopomofo": "ㄍㄤ　˙ㄒㄧㄥ",
+      "definitions": [
+        {
+          "def": "剛強的性質或性情。",
+          "quote": [
+            "《紅樓夢．第六○回》：「呸！你這下流沒剛性的，也只好受這些毛崽子的氣。」"
+          ]
+        }
+      ],
+      "pinyin": "gāng xing"
+    }
+  ],
+  "title": "剛性"
+}

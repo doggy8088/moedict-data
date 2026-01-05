@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˊ",
+      "definitions": [
+        {
+          "def": "婦人的頭飾。",
+          "quote": [
+            "《廣韻．入聲．物韻》：「髴，婦人首飾。」",
+            "宋．歐陽修〈班班林間鳩寄內〉詩：「又云子亦病，蓬首不加髴。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「髣髴」條。",
+          "type": "副"
+        }
+      ],
+      "pinyin": "fú"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "髟",
+  "stroke_count": 15,
+  "title": "髴"
+}

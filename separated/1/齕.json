@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄜˊ",
+      "definitions": [
+        {
+          "def": "用牙齒咬。",
+          "quote": [
+            "《荀子．正論》：「彼乃將食其肉而齕其骨也。」",
+            "《聊齋志異．卷四．促織》：「俄見小蟲躍起，張尾伸鬚，直齕敵領。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "hé"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "齒",
+  "stroke_count": 18,
+  "title": "齕"
+}

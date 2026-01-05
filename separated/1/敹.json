@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄠˊ",
+      "definitions": [
+        {
+          "def": "縫紉、修補。",
+          "example": [
+            "如：「敹貼邊」。"
+          ],
+          "quote": [
+            "《書經．費誓》：「善敹乃甲冑，敿乃干。」",
+            "唐．孔穎達．正義：「敹，謂穿徹之，謂甲繩有斷絕，當使敹理穿治之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "liáo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "攴",
+  "stroke_count": 15,
+  "title": "敹"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˊ",
+      "definitions": [
+        {
+          "def": "堅固、牢固。",
+          "quote": [
+            "《玉篇．人部》：「侄，牢也，堅也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "",
+          "link": [
+            "同「姪」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhí"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "侄"
+}

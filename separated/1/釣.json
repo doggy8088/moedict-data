@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "用餌引誘魚類或其他水生動物上鉤。",
+          "example": [
+            "如：「釣魚」、「釣蝦」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "騙取、誘取。",
+          "example": [
+            "如：「沽名釣譽」。"
+          ],
+          "quote": [
+            "《淮南子．主術》：「虞君好寶，而晉獻以璧馬釣之。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "釣鉤的簡稱。",
+          "example": [
+            "如：「等魚兒上釣。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有釣宏。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "diào"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "金",
+  "stroke_count": 11,
+  "title": "釣"
+}

@@ -1,0 +1,50 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄥˊ",
+      "definitions": [
+        {
+          "def": "以針線綴補。",
+          "example": [
+            "如：「縫合傷口」。"
+          ],
+          "quote": [
+            "唐．孟郊〈遊子吟〉：「臨行密密縫，意恐遲遲歸。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "féng"
+    },
+    {
+      "bopomofo": "ㄈㄥˋ",
+      "definitions": [
+        {
+          "def": "縫合的地方。",
+          "example": [
+            "如：「衣縫」、「鞋縫」。"
+          ],
+          "quote": [
+            "《水滸傳．第二回》：「頭戴遮塵暖帽，身穿直縫寬衫。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "空隙。",
+          "example": [
+            "如：「門縫」、「牆縫」、「裂縫」。"
+          ],
+          "quote": [
+            "唐．鄭巢〈題崔行先石室別墅〉詩：「桂蔭生野菌，石縫結寒澌。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "fèng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "糸",
+  "stroke_count": 17,
+  "title": "縫"
+}

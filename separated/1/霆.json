@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "突然暴起的雷聲。",
+          "example": [
+            "如：「雷霆」。"
+          ],
+          "quote": [
+            "《說文解字．雨部》：「霆，雷餘聲也鈴鈴，所以挺出萬物。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "閃電。",
+          "quote": [
+            "《玉篇．雨部》：「霆，電也。」",
+            "《淮南子．兵略》：「疾雷不及塞耳，疾霆不暇掩目。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tíng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "雨",
+  "stroke_count": 15,
+  "title": "霆"
+}

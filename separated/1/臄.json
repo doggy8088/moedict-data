@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "口內上顎彎曲的地方。",
+          "quote": [
+            "《說文解字．谷部》：「{[92cf]}，口上阿也。臄，或从豦肉。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "取脾、腎等置於腸內燒炙而成的食品。",
+          "quote": [
+            "《集韻．入聲．藥韻》：「臄，切肉也。取脾、腎寘腸炙之曰臄。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jué"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "肉",
+  "stroke_count": 17,
+  "title": "臄"
+}

@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "鑄造器物的模子。",
+          "example": [
+            "如：「模型」、「紙型」。"
+          ],
+          "quote": [
+            "《淮南子．脩務》：「明鏡之始下型，矇然未見形容。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "典範、法式。",
+          "example": [
+            "如：「典型」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "式樣、種類。",
+          "example": [
+            "如：「血型」、「新型」、「髮型」、「臉型」、「流線型」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xíng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "土",
+  "stroke_count": 9,
+  "title": "型"
+}

@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄨㄢˇ",
+      "definitions": [
+        {
+          "def": "溫和、溫暖。",
+          "example": [
+            "如：「春暖花開」。"
+          ],
+          "quote": [
+            "《墨子．節用中》：「冬服紺緅之衣，輕且暖。」",
+            "宋．歐陽修〈采桑子．春深雨過西湖好〉詞：「蝶亂蜂喧，晴日催花暖欲然。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "使冷的變溫熱。",
+          "example": [
+            "如：「暖酒」、「把手伸過來暖一下。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "nuǎn"
+    },
+    {
+      "bopomofo": "ㄒㄩㄢ",
+      "definitions": [
+        {
+          "def": "參見「暖暖」、「暖姝」條。"
+        }
+      ],
+      "pinyin": "xuān"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "日",
+  "stroke_count": 13,
+  "title": "暖"
+}

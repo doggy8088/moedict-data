@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨˇ",
+      "definitions": [
+        {
+          "def": "黑色的公羊。",
+          "quote": [
+            "《說文解字．羊部》：「羖，夏羊牡曰羖。」",
+            "《爾雅．釋畜》：「牝羖。」",
+            "晉．郭璞．注：「今人便以牂羖為白黑羊。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǔ"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "羊",
+  "stroke_count": 10,
+  "title": "羖"
+}

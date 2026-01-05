@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "引誘、挑逗。《說文解字．言部》：「誂，相呼誘也。」《戰國策．秦策一》：「楚人有兩妻者，人誂其長者，詈之；誂其少者，少者許之。」也作「挑」。",
+          "type": "動"
+        }
+      ],
+      "pinyin": "tiǎo"
+    },
+    {
+      "bopomofo": "ㄉㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "突然。",
+          "quote": [
+            "《淮南子．兵略》：「況以三軍之眾，赴水火而不還踵乎，雖誂合刃於天下，誰敢在於上者。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "diào"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "言",
+  "stroke_count": 13,
+  "title": "誂"
+}

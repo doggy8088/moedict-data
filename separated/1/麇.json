@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄣ",
+      "definitions": [
+        {
+          "def": "動物名。即獐。哺乳綱偶蹄目。似鹿而小，無角。性機警，善跳躍。",
+          "quote": [
+            "《說文解字．鹿部》：「麇，獐也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jūn"
+    },
+    {
+      "bopomofo": "ㄑㄩㄣˊ",
+      "definitions": [
+        {
+          "def": "成群。",
+          "example": [
+            "如：「麇集」。"
+          ],
+          "quote": [
+            "《左傳．昭公五年》：「求諸侯而麇至。」",
+            "晉．杜預．注：「麇，群也。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "qún"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "鹿",
+  "stroke_count": 16,
+  "title": "麇"
+}

@@ -1,0 +1,63 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄚˇ",
+      "definitions": [
+        {
+          "def": "表示疑問。",
+          "example": [
+            "如：「哪天？」、「哪裡人？」"
+          ],
+          "type": "代"
+        },
+        {
+          "def": "怎，表示反問。",
+          "example": [
+            "如：「哪知」、「哪能」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "nǎ"
+    },
+    {
+      "bopomofo": "ㄋㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "參見「哪吒」條。"
+        }
+      ],
+      "pinyin": "nuó"
+    },
+    {
+      "bopomofo": "ㄋㄟˇ",
+      "definitions": [
+        {
+          "def": "表示疑問。為「哪（ㄋㄚˇ）一」合音成ㄋㄞˇ，再轉成ㄋㄟˇ。",
+          "example": [
+            "如：「哪天我們去看場電影？」"
+          ],
+          "type": "代"
+        }
+      ],
+      "pinyin": "něi"
+    },
+    {
+      "bopomofo": "˙ㄋㄚ",
+      "definitions": [
+        {
+          "def": "表疑問。",
+          "quote": [
+            "《兒女英雄傳．第七回》：「人家大師傅叫我住這兒勸你，可沒說准你出這個門兒，你那兒走哇？守著錢糧兒過去，你又走哪？」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "na"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "口",
+  "stroke_count": 10,
+  "title": "哪"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄗㄢˋ",
+      "definitions": [
+        {
+          "def": "周代地方行政組織之一，百家聚居一處稱為「酇」。",
+          "quote": [
+            "《周禮．地官．遂人》：「五家為鄰，五鄰為里，四里為酇。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "縣名。漢置，南朝梁時廢，約在今大陸地區湖北省光化縣舊縣北。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zàn"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "邑",
+  "stroke_count": 22,
+  "title": "酇"
+}

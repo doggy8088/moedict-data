@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（語音）ㄏㄠˇ",
+      "definitions": [
+        {
+          "def": "地名。約在今大陸地區陝西省鄠縣、盩厔縣之間。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有郝賢。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "（語音）hǎo"
+    },
+    {
+      "bopomofo": "（讀音）ㄏㄜˋ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。"
+        }
+      ],
+      "pinyin": "（讀音）hè"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "邑",
+  "stroke_count": 10,
+  "title": "郝"
+}

@@ -1,0 +1,47 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧˋ",
+      "definitions": [
+        {
+          "def": "參見「薜荔」、「薜羅」等條。"
+        }
+      ],
+      "pinyin": "bì"
+    },
+    {
+      "bopomofo": "ㄅㄛˋ",
+      "definitions": [
+        {
+          "def": "一種藥草。",
+          "quote": [
+            "《爾雅．釋草》：「薜，山蘄。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "山麻，生於山中。",
+          "quote": [
+            "《爾雅．釋草》：「薜，山麻。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "破裂。",
+          "link": [
+            "通「劈」。"
+          ],
+          "quote": [
+            "《周禮．冬官考工記．旊人》：「凡陶旊之事，髻墾薜暴，不入市。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bò"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "艸",
+  "stroke_count": 17,
+  "title": "薜"
+}

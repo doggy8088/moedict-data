@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨˊ",
+      "definitions": [
+        {
+          "def": "動物未出生時，在胎中死去。",
+          "quote": [
+            "《字彙．歹部》：「殰，未及生而胎敗也。」",
+            "《禮記．樂記》：「胎生者不殰，而卵生者不殈，則樂之道歸焉耳。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dú"
+    }
+  ],
+  "non_radical_stroke_count": 15,
+  "radical": "歹",
+  "stroke_count": 19,
+  "title": "殰"
+}

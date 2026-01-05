@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（語音）ㄨㄚ",
+      "definitions": [
+        {
+          "def": "形容小孩子的啼哭聲。",
+          "quote": [
+            "《書經．益稷》：「啟呱呱而泣。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "（語音）wā"
+    },
+    {
+      "bopomofo": "ㄍㄨㄚ",
+      "definitions": [
+        {
+          "def": "參見「咭咭呱呱」條。"
+        }
+      ],
+      "pinyin": "guā"
+    },
+    {
+      "bopomofo": "（讀音）ㄍㄨ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。"
+        }
+      ],
+      "pinyin": "（讀音）gū"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "口",
+  "stroke_count": 8,
+  "title": "呱"
+}

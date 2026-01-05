@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄠˋ　ㄒㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "蠻橫殘暴的舉動。",
+          "quote": [
+            "《孟子．滕文公下》：「世衰道微，邪說暴行有作。」"
+          ],
+          "synonyms": "暴舉"
+        }
+      ],
+      "pinyin": "bào xìng"
+    },
+    {
+      "bopomofo": "ㄆㄨˋ　ㄒㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "在日光底下行走。",
+          "quote": [
+            "《淮南子．說山》：「足蹍地而為跡，暴行而為影。」"
+          ]
+        }
+      ],
+      "pinyin": "pù xíng"
+    }
+  ],
+  "title": "暴行"
+}

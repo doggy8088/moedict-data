@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄚ",
+      "definitions": [
+        {
+          "def": "綴在衣物上的花邊。",
+          "example": [
+            "如：「褟縧子」、「褟邊兒」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "貼身穿的短衫。",
+          "example": [
+            "如：「汗褟兒」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tā"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "衣",
+  "stroke_count": 16,
+  "title": "褟"
+}

@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˊ",
+      "definitions": [
+        {
+          "def": "參見「挃挃」條。",
+          "type": "名"
+        },
+        {
+          "def": "撞。",
+          "quote": [
+            "《太平廣記．卷三四一．韋浦》：「主人有稚兒戲于門下，乃見歸以手挃其背，稚兒即驚悶絕，食頃不寤。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhí"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "手",
+  "stroke_count": 9,
+  "title": "挃"
+}

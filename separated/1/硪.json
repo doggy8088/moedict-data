@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄜˊ",
+      "definitions": [
+        {
+          "def": "石巖。",
+          "quote": [
+            "《廣韻．平聲．歌韻》：「硪，《說文》曰：『石巖也。』」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "é"
+    },
+    {
+      "bopomofo": "ㄜˇ",
+      "definitions": [
+        {
+          "def": "參見「砐硪」條。"
+        }
+      ],
+      "pinyin": "ě"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "石",
+  "stroke_count": 12,
+  "title": "硪"
+}

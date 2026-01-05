@@ -1,0 +1,42 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄣˊ",
+      "definitions": [
+        {
+          "def": "水蒸氣遇冷，凝成細水滴，懸浮在空中的團狀物體。",
+          "example": [
+            "如：「白雲」、「烏雲蔽日」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "雲南省的簡稱。",
+          "example": [
+            "如：「雲貴高原」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如唐代有雲朝霞。",
+          "type": "名"
+        },
+        {
+          "def": "比喻多。",
+          "example": [
+            "如：「萬商雲集」。"
+          ],
+          "quote": [
+            "《文選．賈誼．過秦論》：「天下雲集而響應，嬴糧而景從。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "yún"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "雨",
+  "stroke_count": 12,
+  "title": "雲"
+}

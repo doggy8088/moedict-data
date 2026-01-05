@@ -1,0 +1,51 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄚˋ",
+      "definitions": [
+        {
+          "def": "分開、分界。",
+          "example": [
+            "如：「劃分」、「劃定界線」。"
+          ],
+          "link": [
+            "同「畫」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "設計、籌謀。",
+          "example": [
+            "如：「籌劃」、「計劃」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "huà"
+    },
+    {
+      "bopomofo": "ㄏㄨㄚˊ",
+      "definitions": [
+        {
+          "def": "用刀子或其他利器從物體表面拖拉而過。",
+          "example": [
+            "如：「一不小心在手上劃了一道傷口。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "擦掠。",
+          "example": [
+            "如：「劃火柴」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "huá"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "刀",
+  "stroke_count": 14,
+  "title": "劃"
+}

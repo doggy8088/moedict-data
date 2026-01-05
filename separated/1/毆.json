@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄡ",
+      "definitions": [
+        {
+          "def": "擊、打。",
+          "example": [
+            "如：「鬥毆」、「毆打」。"
+          ],
+          "quote": [
+            "《紅樓夢．第四回》：「兩家爭買一婢，各不相讓，以致毆傷人命。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "ōu"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "殳",
+  "stroke_count": 15,
+  "title": "毆"
+}

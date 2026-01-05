@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄨㄢ",
+      "definitions": [
+        {
+          "def": "拋擲、投入。",
+          "quote": [
+            "《集韻．平聲．桓韻》：「攛，擲也。」",
+            "《水滸傳．第三二回》：「武行者把那兩個屍首，都攛在火裡燒了。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "匆促行事。",
+          "example": [
+            "如：「事前不準備好，臨時現攛。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "發怒。",
+          "example": [
+            "如：「才說完，他就跟我攛啦！」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "cuān"
+    }
+  ],
+  "non_radical_stroke_count": 18,
+  "radical": "手",
+  "stroke_count": 21,
+  "title": "攛"
+}

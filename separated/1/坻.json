@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔˊ",
+      "definitions": [
+        {
+          "def": "水中高地。",
+          "quote": [
+            "《詩經．秦風．蒹葭》：「溯游從之，宛在水中坻。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "chí"
+    },
+    {
+      "bopomofo": "ㄉㄧˇ",
+      "definitions": [
+        {
+          "def": "參見「寶坻縣」條。"
+        }
+      ],
+      "pinyin": "dǐ"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "土",
+  "stroke_count": 8,
+  "title": "坻"
+}

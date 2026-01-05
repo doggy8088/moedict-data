@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄜ",
+      "definitions": [
+        {
+          "def": "女子的人名用字。",
+          "quote": [
+            "《說文解字．女部》：「妸，女字也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "ē"
+    },
+    {
+      "bopomofo": "（又音）ㄜˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）ě"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "女",
+  "stroke_count": 8,
+  "title": "妸"
+}

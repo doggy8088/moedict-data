@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄣˋ",
+      "definitions": [
+        {
+          "def": "父祖被及子孫的恩澤。",
+          "example": [
+            "如：「父廕」、「餘廕」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "庇護。",
+          "example": [
+            "如：「庇廕」、「廕庇」。"
+          ],
+          "quote": [
+            "《管子．君臣上》：「夫為人君者，廕德於人者也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yìn"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "广",
+  "stroke_count": 14,
+  "title": "廕"
+}

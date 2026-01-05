@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "供題字用的長方形木板或石板，通常高懸在門上、牆上。",
+          "example": [
+            "如：「匾額」、「橫匾」。"
+          ],
+          "quote": [
+            "《紅樓夢．第八回》：「個個都好。怎麼寫的這們好了，明兒也替我寫一個匾。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "圓形淺邊的竹器，形似小篩子。",
+          "example": [
+            "如：「竹匾」、「針線匾」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "biǎn"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "匸",
+  "stroke_count": 11,
+  "title": "匾"
+}

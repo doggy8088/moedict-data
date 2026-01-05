@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔˋ",
+      "definitions": [
+        {
+          "def": "盯著看。",
+          "quote": [
+            "《說文解字．目部》：「眙，直視也。」",
+            "《楚辭．屈原．九章．思美人》：「思美人兮，攬涕而佇眙。」",
+            "《史記．卷一二六．滑稽傳．淳于髡傳》：「六博投壺，相引為曹，握手無罰，目眙不禁。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chì"
+    },
+    {
+      "bopomofo": "ㄧˊ",
+      "definitions": [
+        {
+          "def": "參見「盱眙」條。"
+        }
+      ],
+      "pinyin": "yí"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "目",
+  "stroke_count": 10,
+  "title": "眙"
+}

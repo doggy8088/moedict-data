@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄥ",
+      "definitions": [
+        {
+          "def": "形容重物落地或撞擊的巨大聲響。",
+          "example": [
+            "如：「他生氣的砰的一聲關上門。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "形容槍枝發射的聲音。",
+          "example": [
+            "如：「砰的一聲，他被射中了。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "pēng"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "石",
+  "stroke_count": 10,
+  "title": "砰"
+}

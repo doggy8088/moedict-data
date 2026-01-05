@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˊ",
+      "definitions": [
+        {
+          "def": "區域。",
+          "quote": [
+            "《管子．侈靡》：「王者上事，霸者生功，言重本，是為十禺。」",
+            "唐．尹知章．注：「禺，猶區也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yú"
+    },
+    {
+      "bopomofo": "ㄩˋ",
+      "definitions": [
+        {
+          "def": "一種長尾猿。長尾，赤目。",
+          "quote": [
+            "《山海經．南山經》：「（招搖之山）有獸焉，其狀如禺而白耳，伏行人走。」",
+            "晉．郭璞．注：「禺似獼猴而大，赤目長尾。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yù"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "禸",
+  "stroke_count": 9,
+  "title": "禺"
+}

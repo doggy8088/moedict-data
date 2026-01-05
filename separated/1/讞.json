@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "審判定罪。",
+          "example": [
+            "如：「三審定讞」。"
+          ],
+          "quote": [
+            "《集韻．去聲．線韻》：「讞，議罪也。」",
+            "《漢書．卷五．景帝紀》：「諸獄疑，若雖文致於法而於人心不厭者，輒讞之。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yàn"
+    }
+  ],
+  "non_radical_stroke_count": 20,
+  "radical": "言",
+  "stroke_count": 27,
+  "title": "讞"
+}

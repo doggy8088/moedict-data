@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄤ",
+      "definitions": [
+        {
+          "def": "形容玉石相撞擊的聲音。",
+          "quote": [
+            "《詩經．小雅．采芑》：「朱芾斯皇，有瑲蔥珩。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "形容音樂聲。",
+          "quote": [
+            "《荀子．富國》：「鐘鼓喤喤，管磬瑲瑲。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "形容鈴聲。",
+          "quote": [
+            "《詩經．小雅．采芑》：「方叔率止，約軧錯衡，八鸞瑲瑲。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "qiāng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "玉",
+  "stroke_count": 14,
+  "title": "瑲"
+}

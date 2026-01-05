@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄤˊ",
+      "definitions": [
+        {
+          "def": "一種草。莖葉皆粗硬，穗如粟，可採食。",
+          "link": [
+            "也稱為「莨尾」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "láng"
+    },
+    {
+      "bopomofo": "ㄌㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "參見「薯莨」條。"
+        }
+      ],
+      "pinyin": "liáng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "艸",
+  "stroke_count": 11,
+  "title": "莨"
+}

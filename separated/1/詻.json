@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄜˋ",
+      "definitions": [
+        {
+          "def": "爭辯是非曲直。",
+          "quote": [
+            "《說文解字．言部》：「詻，論訟也。」",
+            "《廣雅疏證．卷六上．釋訓》：「詻詻，語也。」",
+            "《墨子．親士》：「君必有弗弗之臣，上必有詻詻之士。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "è"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "言",
+  "stroke_count": 13,
+  "title": "詻"
+}

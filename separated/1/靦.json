@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "慚愧的。",
+          "quote": [
+            "《文選．左思．魏都賦》：「有靦瞢容，神惢形茹。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "厚顏、不以為恥。",
+          "quote": [
+            "《南史．卷六一．陳伯之傳》：「將軍獨靦顏借命，驅馳氈裘之長，寧不哀哉！」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tiǎn"
+    },
+    {
+      "bopomofo": "ㄇㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "參見「靦腆」條。"
+        }
+      ],
+      "pinyin": "miǎn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "面",
+  "stroke_count": 16,
+  "title": "靦"
+}

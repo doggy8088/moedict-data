@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "鹹。",
+          "example": [
+            "如：「鹺魚」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "鹽。參見「鹺使」、「鹺務」等條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "cuó"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "鹵",
+  "stroke_count": 21,
+  "title": "鹺"
+}

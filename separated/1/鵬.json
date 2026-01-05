@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄥˊ",
+      "definitions": [
+        {
+          "def": "古書上記載的一種大鳥，傳說能一飛數千里。",
+          "quote": [
+            "《莊子．逍遙遊》：「北冥有魚，其名為鯤，鯤之大不知其幾千里也，化而為鳥，其名為鵬，鵬之背不知其幾千里也。怒而飛，其翼若垂天之雲。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "péng"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "鳥",
+  "stroke_count": 19,
+  "title": "鵬"
+}

@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄡ",
+      "definitions": [
+        {
+          "def": "參見「啁啾」、「啁噍」等條。"
+        }
+      ],
+      "pinyin": "zhōu"
+    },
+    {
+      "bopomofo": "ㄔㄠˊ",
+      "definitions": [
+        {
+          "def": "戲謔、調笑。",
+          "example": [
+            "如：「詼啁」。"
+          ],
+          "link": [
+            "同「嘲」、「謿」。"
+          ],
+          "quote": [
+            "《三國志．卷四四．蜀書．費褘傳》：「孫權性既滑稽，嘲啁無方。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "cháo"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "口",
+  "stroke_count": 11,
+  "title": "啁"
+}

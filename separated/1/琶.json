@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄆㄚˊ",
+      "definitions": [
+        {
+          "def": "參見「琵琶」條。"
+        }
+      ],
+      "pinyin": "（讀音）pá"
+    },
+    {
+      "bopomofo": "（語音）˙ㄆㄚ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）pa"
+    },
+    {
+      "bopomofo": "（又音）˙ㄅㄚ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）ba"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "玉",
+  "stroke_count": 12,
+  "title": "琶"
+}

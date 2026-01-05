@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄜˋ",
+      "definitions": [
+        {
+          "def": "形容雞叫的聲音。",
+          "quote": [
+            "《玉篇．口部》：「呝，雞聲。亦作呃。」"
+          ],
+          "type": "狀"
+        },
+        {
+          "def": "氣逆上衝。",
+          "example": [
+            "如：「食飽氣呃」。"
+          ],
+          "quote": [
+            "明．張自烈《正字通．口部》：「呃，方書有呃逆症，氣逆上衝作聲也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "è"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "口",
+  "stroke_count": 7,
+  "title": "呃"
+}

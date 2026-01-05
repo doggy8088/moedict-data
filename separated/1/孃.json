@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "母親。",
+          "example": [
+            "如：「爹孃」。"
+          ],
+          "quote": [
+            "《玉篇．女部》：「孃，母也。」",
+            "唐．杜甫〈兵車行〉：「耶孃妻子走相送，塵埃不見咸陽橋。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "niáng"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "女",
+  "stroke_count": 20,
+  "title": "孃"
+}

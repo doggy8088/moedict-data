@@ -1,0 +1,53 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄠˊ",
+      "definitions": [
+        {
+          "def": "舀東西的器具。",
+          "example": [
+            "如：「鐵勺」、「湯勺」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞：(1) 計算容量的單位。公制一勺等於百分之一公升。也稱為「公勺」。(2)計算勺子容裝物的單位。如：「一勺水」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "sháo"
+    },
+    {
+      "bopomofo": "ㄕㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。",
+          "type": "名"
+        },
+        {
+          "def": "(二)之又音。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "shuò"
+    },
+    {
+      "bopomofo": "ㄓㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "周公所制作的樂名。",
+          "quote": [
+            "《禮記．內則》：「十有三年，學樂，誦詩，舞勺。」",
+            "漢．鄭玄．注：「先學勺，後學象，文武之次也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhuó"
+    }
+  ],
+  "non_radical_stroke_count": 1,
+  "radical": "勹",
+  "stroke_count": 3,
+  "title": "勺"
+}

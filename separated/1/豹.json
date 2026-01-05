@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄠˋ",
+      "definitions": [
+        {
+          "def": "動物名。哺乳綱食肉目。似虎較小，毛黃褐色，背有黑圓斑。性凶猛，能上樹捕食其他獸類，傷害人畜。",
+          "link": [
+            "也稱為「豹子」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如三國時魏國有豹皮公。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "bào"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "豸",
+  "stroke_count": 10,
+  "title": "豹"
+}

@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "官署，古代官吏辦公的地方。",
+          "example": [
+            "如：「官廨」、「公廨」。"
+          ],
+          "quote": [
+            "漢．王充《論衡．感虛》：「猶地有郵亭，為長吏廨也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiè"
+    },
+    {
+      "bopomofo": "（又音）ㄐㄧㄝˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）jiè"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "广",
+  "stroke_count": 16,
+  "title": "廨"
+}

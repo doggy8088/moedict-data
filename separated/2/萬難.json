@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄢˋ　ㄋㄢˊ",
+      "definitions": [
+        {
+          "antonyms": "極易",
+          "def": "極難。",
+          "example": [
+            "如：「此事阻礙很多，萬難成功。」"
+          ]
+        }
+      ],
+      "pinyin": "wàn nán"
+    },
+    {
+      "bopomofo": "ㄨㄢˋ　ㄋㄢˋ",
+      "definitions": [
+        {
+          "def": "各種困難。",
+          "example": [
+            "如：「排除萬難」。"
+          ]
+        }
+      ],
+      "pinyin": "wàn nàn"
+    }
+  ],
+  "title": "萬難"
+}

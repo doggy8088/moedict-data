@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄈㄨˇ",
+      "definitions": [
+        {
+          "def": "低頭、低下。與「仰」相對。",
+          "quote": [
+            "《易經．繫辭上》：「仰以觀於天文，俯以察於地理。」",
+            "《孟子．盡心上》：「仰不愧於天，俯不怍於人。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "舊時公文書信中請求允許的謙辭。",
+          "example": [
+            "如：「俯允」、「俯念」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "fǔ"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "俯"
+}

@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄠˋ",
+      "definitions": [
+        {
+          "def": "裝有利刃，用以刮平的工具，如刮平木材的鉋子，刮平銅鐵的鋼鉋等。",
+          "type": "名"
+        },
+        {
+          "def": "刷馬毛的鐵刷。",
+          "example": [
+            "如：「馬鉋」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用鉋子削刮東西。",
+          "example": [
+            "如：「請把這塊木料鉋薄一些。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "鋤地使平。",
+          "example": [
+            "如：「鉋地」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "bào"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "金",
+  "stroke_count": 13,
+  "title": "鉋"
+}

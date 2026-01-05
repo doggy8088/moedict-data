@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄧˇ",
+      "definitions": [
+        {
+          "def": "已故的母親。",
+          "example": [
+            "如：「先妣」、「如喪考妣」。"
+          ],
+          "quote": [
+            "《說文解字．女部》：「妣，歿母也。」",
+            "《禮記．曲禮下》：「生曰父、曰母、曰妻，死曰考、曰妣、曰嬪。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bǐ"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "女",
+  "stroke_count": 7,
+  "title": "妣"
+}

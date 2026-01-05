@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄠ",
+      "definitions": [
+        {
+          "def": "走路輕快的樣子。",
+          "quote": [
+            "《說文解字．走部》：「趬，行輕貌。」",
+            "《後漢書．卷六○上．馬融傳》：「或輕訬趬悍，廋疏嶁領。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "高起、向上翹起。",
+          "quote": [
+            "《西遊記．第三三回》：「說了誓，將身一縱，把尾子趬了一趬。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiāo"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "走",
+  "stroke_count": 19,
+  "title": "趬"
+}

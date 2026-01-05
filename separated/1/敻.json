@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄥˋ",
+      "definitions": [
+        {
+          "def": "營求。",
+          "quote": [
+            "《說文解字．{[2510e]}部》：「敻，營求也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "廣闊遙遠。",
+          "quote": [
+            "《穀梁傳．文公十四年》：「過宋鄭滕薛，敻入千乘之國，欲變人之主。」",
+            "唐．李華〈弔古戰場文〉：「浩浩乎平沙無垠，敻不見人。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "xiòng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "攴",
+  "stroke_count": 15,
+  "title": "敻"
+}

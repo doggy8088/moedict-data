@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄠˇ",
+      "definitions": [
+        {
+          "def": "明亮的樣子。",
+          "quote": [
+            "《說文解字．木部》：「杲，明也。」",
+            "《詩經．衛風．伯兮》：「其雨其雨，杲杲出日。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "姓。如元代有杲元啟。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǎo"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "木",
+  "stroke_count": 8,
+  "title": "杲"
+}

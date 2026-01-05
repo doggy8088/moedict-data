@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄢˇ",
+      "definitions": [
+        {
+          "def": "視、看。",
+          "quote": [
+            "《文選．馬融．長笛賦》：「長矕遠引，旋復迴皇。」",
+            "唐．韓愈〈贈張籍〉詩：「顧視窗壁間，親戚競覘矕。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "被、覆。",
+          "quote": [
+            "《文選．班固．答賓戲》：「浮英華湛道德，矕龍虎之文舊矣。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "mǎn"
+    },
+    {
+      "bopomofo": "（又音）ㄇㄢˊ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）mán"
+    }
+  ],
+  "non_radical_stroke_count": 19,
+  "radical": "目",
+  "stroke_count": 24,
+  "title": "矕"
+}

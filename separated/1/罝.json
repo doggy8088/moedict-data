@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩ",
+      "definitions": [
+        {
+          "def": "捕捉兔子的網。",
+          "quote": [
+            "《說文解字．网部》：「罝，兔网也。」",
+            "《詩經．周南．兔罝》：「肅肅兔罝，施于中林。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "泛稱捕捉鳥獸的網子。",
+          "quote": [
+            "《文選．張衡．西京賦》：「結罝百里，迒杜蹊塞。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jū"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "网",
+  "stroke_count": 10,
+  "title": "罝"
+}

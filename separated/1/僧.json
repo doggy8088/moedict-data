@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄥ",
+      "definitions": [
+        {
+          "def": "和尚，出家修行的人。",
+          "example": [
+            "如：「老僧入定」。"
+          ],
+          "quote": [
+            "唐．賈島〈題李凝幽居〉詩：「鳥宿池邊樹，僧敲月下門。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如唐代有僧可朋。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "sēng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "人",
+  "stroke_count": 14,
+  "title": "僧"
+}

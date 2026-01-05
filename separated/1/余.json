@@ -1,0 +1,45 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˊ",
+      "definitions": [
+        {
+          "def": "我，表第一人稱。",
+          "quote": [
+            "《文選．班彪．北征賦》：「余遭世之顛覆兮，罹填塞之阨災。」",
+            "《文選．陸機．歎逝賦》：「余將老而為客。」"
+          ],
+          "type": "代"
+        },
+        {
+          "def": "剩下、多餘。",
+          "link": [
+            "同「餘」。"
+          ],
+          "quote": [
+            "《周禮．地官．委人》：「凡其余，聚以待頒賜。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有余靖。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yú"
+    },
+    {
+      "bopomofo": "ㄒㄩˊ",
+      "definitions": [
+        {
+          "def": "參見「余余」、「余吾鎮」等條。"
+        }
+      ],
+      "pinyin": "xú"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "人",
+  "stroke_count": 7,
+  "title": "余"
+}

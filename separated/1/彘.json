@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓˋ",
+      "definitions": [
+        {
+          "def": "豬。",
+          "example": [
+            "如：「野彘」。"
+          ],
+          "quote": [
+            "《孟子．梁惠王上》：「雞、豚、狗、彘之畜，無失其時，七十者可以食肉矣。」",
+            "《商君書．兵守》：「老弱之軍，使牧牛馬羊彘。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhì"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "彐",
+  "stroke_count": 12,
+  "title": "彘"
+}

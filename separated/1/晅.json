@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄢ",
+      "definitions": [
+        {
+          "def": "日氣。",
+          "quote": [
+            "《集韻．平聲．元韻》：「晅，日氣也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "晒乾。",
+          "quote": [
+            "明．張自烈《正字通．日部》：「晅，日氣曝也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xuān"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "日",
+  "stroke_count": 10,
+  "title": "晅"
+}

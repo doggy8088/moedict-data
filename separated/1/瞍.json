@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙㄡˇ",
+      "definitions": [
+        {
+          "def": "瞎子。",
+          "quote": [
+            "《國語．周語上》：「故天子聽政，使公卿至於列士獻詩，瞽獻曲，史獻書，師箴，瞍賦，矇誦。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "瞎，眼睛沒有眼珠。",
+          "quote": [
+            "《詩經．大雅．靈臺》：「鼉鼓逢逢，矇瞍奏公。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "sǒu"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "目",
+  "stroke_count": 15,
+  "title": "瞍"
+}

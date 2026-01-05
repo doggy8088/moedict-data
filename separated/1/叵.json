@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄛˇ",
+      "definitions": [
+        {
+          "def": "「不可」二字的合音。",
+          "example": [
+            "如：「居心叵測」。"
+          ],
+          "quote": [
+            "《後漢書．卷七五．呂布傳》：「（呂）布目（劉）備曰：『大耳兒，最叵信！』」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "遂、故、於是。表原因。",
+          "quote": [
+            "《後漢書．卷一三．隗囂傳》：「帝知其終不為用，叵欲討之。」"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "pǒ"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "口",
+  "stroke_count": 5,
+  "title": "叵"
+}

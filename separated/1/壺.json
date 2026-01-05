@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨˊ",
+      "definitions": [
+        {
+          "def": "以陶土或金屬製成的容器。小口大腹，通常用來盛裝酒漿、茶水或其他東西。",
+          "example": [
+            "如：「水壺」、「酒壺」、「茶壺」、「鼻煙壺」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算壺裝物的單位。",
+          "example": [
+            "如：「一壺水」、「兩壺茶」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有壺遂。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "hú"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "士",
+  "stroke_count": 12,
+  "title": "壺"
+}

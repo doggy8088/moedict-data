@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄢˋ",
+      "definitions": [
+        {
+          "def": "捐棄。",
+          "quote": [
+            "清．陳善〈蝶戀花．萬化途中〉詞：「噩夢中年拚怨斷。一往淒迷，事與浮雲幻。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "豁出去。",
+          "example": [
+            "如：「拚命」、「拚死」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "爭鬥。",
+          "example": [
+            "如：「拚個你死我活。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "pàn"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "手",
+  "stroke_count": 8,
+  "title": "拚"
+}

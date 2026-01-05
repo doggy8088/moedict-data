@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕˊ",
+      "definitions": [
+        {
+          "def": "損耗、虧損。",
+          "example": [
+            "如：「侵蝕」、「腐蝕」、「蝕本」。"
+          ],
+          "quote": [
+            "宋．梅堯臣〈劉原甫古錢勸酒〉詩：「精銅不蠹蝕，肉好鉤婉全。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "消失、損缺。",
+          "example": [
+            "如：「日全蝕」、「月偏蝕」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "shí"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "虫",
+  "stroke_count": 14,
+  "title": "蝕"
+}

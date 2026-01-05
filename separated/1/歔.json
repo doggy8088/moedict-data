@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩ",
+      "definitions": [
+        {
+          "def": "張口或由鼻孔出氣。",
+          "quote": [
+            "《老子．第二十九章》：「故物或行或隨，或歔或吹。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "嘆息、抽氣。",
+          "quote": [
+            "唐．杜甫〈羌村〉詩：「鄰人滿牆頭，感歎亦歔欷。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xū"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "欠",
+  "stroke_count": 16,
+  "title": "歔"
+}

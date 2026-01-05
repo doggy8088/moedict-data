@@ -1,0 +1,23 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄢˇ",
+      "definitions": [
+        {
+          "def": "大。",
+          "quote": [
+            "《說文解字．日部》：「昄，大也。」",
+            "《詩經．大雅．卷阿》：「爾土宇昄章，亦孔之厚矣。」",
+            "漢．毛亨．傳：「昄，大也。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "bǎn"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "日",
+  "stroke_count": 8,
+  "title": "昄"
+}

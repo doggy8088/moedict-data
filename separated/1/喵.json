@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄠ",
+      "definitions": [
+        {
+          "def": "形容貓叫的聲音。",
+          "example": [
+            "如：「小貓喵喵的叫個不停。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "miāo"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "口",
+  "stroke_count": 12,
+  "title": "喵"
+}

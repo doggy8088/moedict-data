@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄨˇ",
+      "definitions": [
+        {
+          "def": "替人養育或照顧小孩的婦人。",
+          "example": [
+            "如：「保姥」、「乳姥」。"
+          ],
+          "link": [
+            "同「姆」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "老婦。",
+          "quote": [
+            "《晉書．卷八○．王羲之傳》：「會稽有孤居姥養一鵝，善鳴，求市未能得。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mǔ"
+    },
+    {
+      "bopomofo": "ㄌㄠˇ",
+      "definitions": [
+        {
+          "def": "參見「姥姥」條。"
+        }
+      ],
+      "pinyin": "lǎo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "女",
+  "stroke_count": 9,
+  "title": "姥"
+}

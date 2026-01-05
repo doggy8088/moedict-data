@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄜˋ",
+      "definitions": [
+        {
+          "def": "兩指之間。",
+          "quote": [
+            "《說文解字．手部》：「扐，易筮，再扐而後卦。」",
+            "《易經．繫辭上》：「歸奇於扐以象閏。五歲再閏，故再扐而後卦。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lè"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "手",
+  "stroke_count": 5,
+  "title": "扐"
+}

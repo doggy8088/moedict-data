@@ -1,0 +1,40 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "譬喻。",
+          "quote": [
+            "《廣韻．上聲．銑韻》：「俔，譬喻。」",
+            "《詩經．大雅．大明》：「大邦有子，俔天之妹。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "qiàn"
+    },
+    {
+      "bopomofo": "ㄒㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "古代船上用來觀測風向的羽毛。",
+          "quote": [
+            "《淮南子．齊俗》：「辟若俔之見風也，無須臾之閒定矣。」",
+            "漢．高誘．注：「俔，候風者也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "恐懼的樣子。通「睍」。參見「俔俔」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiàn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "人",
+  "stroke_count": 9,
+  "title": "俔"
+}

@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "（讀音）ㄙㄨㄛ",
+      "definitions": [
+        {
+          "def": "捼莏：兩手相互搓摩。",
+          "quote": [
+            "《集韻．平聲．支韻》：「莏，捼莏，澤手也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "（讀音）suō"
+    },
+    {
+      "bopomofo": "（語音）ㄘㄨㄛ",
+      "definitions": [
+        {
+          "def": "(一)之語音。"
+        }
+      ],
+      "pinyin": "（語音）cuō"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "艸",
+  "stroke_count": 11,
+  "title": "莏"
+}

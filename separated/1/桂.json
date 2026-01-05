@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "參見「肉桂」、「桂樹」等條。",
+          "type": "名"
+        },
+        {
+          "def": "傳說月中有桂樹，故以桂借指月亮。",
+          "quote": [
+            "唐．李嶠〈人日侍宴大明宮恩賜綵縷人勝應制〉詩：「桂吐半輪迎此夜，蓂開七葉應今朝。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "大陸地區廣西省的簡稱。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有桂褒。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "guì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "木",
+  "stroke_count": 10,
+  "title": "桂"
+}

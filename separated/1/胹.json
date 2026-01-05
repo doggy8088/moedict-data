@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄦˊ",
+      "definitions": [
+        {
+          "def": "熟爛。",
+          "quote": [
+            "《說文解字．肉部》：「胹，爛也。」"
+          ],
+          "type": "副"
+        },
+        {
+          "def": "煮。",
+          "quote": [
+            "《楚辭．屈原．招魂》：「胹鱉炮羔，有柘漿些。」",
+            "明．李時珍《本草綱目．卷五一．獸部．熊》：「其足名蹯，為八珍之一。古人重之，然胹之難熟。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "ér"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "肉",
+  "stroke_count": 10,
+  "title": "胹"
+}

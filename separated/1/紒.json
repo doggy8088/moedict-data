@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˋ",
+      "definitions": [
+        {
+          "def": "結髮為髻。",
+          "quote": [
+            "《儀禮．士冠禮》：「將冠者，采衣，紒。」",
+            "漢．鄭玄．注：「紒，結髮，古文紒為結。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "髮結、髮髻。",
+          "quote": [
+            "晉．干寶《搜神記．卷七》：「兵士以絳囊縳紒。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jì"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "糸",
+  "stroke_count": 10,
+  "title": "紒"
+}

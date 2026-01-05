@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄚˋ　ㄏㄢˊ",
+      "definitions": [
+        {
+          "def": "古代西域和北方各國對君王的稱呼。",
+          "example": [
+            "如：「成吉思汗是蒙古一族中有名的大汗。」"
+          ]
+        }
+      ],
+      "pinyin": "dà hán"
+    },
+    {
+      "bopomofo": "ㄉㄚˋ　ㄏㄢˋ",
+      "definitions": [
+        {
+          "def": "形容汗流不停的樣子。",
+          "example": [
+            "如：「小男孩樓上樓下跑來跑去，弄得滿身大汗。」"
+          ]
+        }
+      ],
+      "pinyin": "dà hàn"
+    }
+  ],
+  "title": "大汗"
+}

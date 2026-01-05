@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄢ",
+      "definitions": [
+        {
+          "def": "小襦、短襖。",
+          "quote": [
+            "《玉篇．衣部》：「襳，小襦也，襌襦也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "飾於婦人上衣的長帶。",
+          "quote": [
+            "《文選．司馬相如．子虛賦》：「蜚襳垂髾。」",
+            "李善注引司馬彪曰：「襳，褂飾也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xiān"
+    }
+  ],
+  "non_radical_stroke_count": 17,
+  "radical": "衣",
+  "stroke_count": 23,
+  "title": "襳"
+}

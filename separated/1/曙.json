@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨˋ",
+      "definitions": [
+        {
+          "def": "天剛亮，破曉時分。",
+          "quote": [
+            "《楚辭．屈原．九章．悲回風》：「涕泣交而凄凄兮，思不眠以至曙。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "拂曉時的。",
+          "example": [
+            "如：「曙日」、「曙光」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "shù"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "日",
+  "stroke_count": 17,
+  "title": "曙"
+}

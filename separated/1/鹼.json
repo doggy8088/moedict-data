@@ -1,0 +1,22 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "化學上指在水溶液中可解離出氫氧根的化合物，如氫氧化鈉。亦指可供給電子或接受氫離子的化合物，如氨。",
+          "type": "名"
+        },
+        {
+          "def": "主要成分為碳酸鈉的物質。性滑而味鹹澀，可用來洗衣服、去油垢，為製造肥皂、玻璃等的原料。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiǎn"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "鹵",
+  "stroke_count": 24,
+  "title": "鹼"
+}

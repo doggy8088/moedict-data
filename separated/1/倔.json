@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "強硬、固執。",
+          "quote": [
+            "漢．桓寬《鹽鐵論．論功》：「倔強倨敖，自稱老夫。」",
+            "《宋史．卷三六○．趙鼎傳》：「檜見之曰：『此老倔強猶昔。』」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "jué"
+    },
+    {
+      "bopomofo": "ㄐㄩㄝˋ",
+      "definitions": [
+        {
+          "def": "脾氣大、言語粗率。",
+          "example": [
+            "如：「這個人說的話好倔！」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "juè"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "人",
+  "stroke_count": 10,
+  "title": "倔"
+}

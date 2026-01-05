@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄠˇ",
+      "definitions": [
+        {
+          "def": "敲擊。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷三上．釋詁》：「攷，擊也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "稽核、考核。",
+          "link": [
+            "同「考」。"
+          ],
+          "quote": [
+            "《周禮．夏官．大司馬》：「以待攷而賞誅。」",
+            "漢．鄭玄．注：「攷，謂考校其功。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "kǎo"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "攴",
+  "stroke_count": 6,
+  "title": "攷"
+}

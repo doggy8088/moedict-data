@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧ",
+      "definitions": [
+        {
+          "def": "參見「哩嚕」、「哩哩囉囉」等條。"
+        }
+      ],
+      "pinyin": "lī"
+    },
+    {
+      "bopomofo": "ㄌㄧˇ",
+      "definitions": [
+        {
+          "def": "量詞。英美計算長度的單位。一哩等於一千六百零九公尺。今作「英里」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "lǐ"
+    },
+    {
+      "bopomofo": "˙ㄌㄧ",
+      "definitions": [
+        {
+          "def": "置於句末，表示肯定的語氣。",
+          "quote": [
+            "《京本通俗小說．西山一窟鬼》：「休取笑，若嫁得這個官人，可知好哩！」",
+            "元．無名氏《衣襖車．第二折》：「你見麼，兀那一個番將，敲冰飲馬哩！」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "li"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "口",
+  "stroke_count": 10,
+  "title": "哩"
+}

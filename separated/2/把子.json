@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄚˇ　˙ㄗ",
+      "definitions": [
+        {
+          "def": "異姓兄弟。",
+          "example": [
+            "如：「拜把子」。"
+          ]
+        },
+        {
+          "def": "傳統戲劇中武戲武器及起打的姿勢。"
+        }
+      ],
+      "pinyin": "bǎ zi"
+    },
+    {
+      "bopomofo": "ㄅㄚˋ　˙ㄗ",
+      "definitions": [
+        {
+          "def": "器具上便於用手拿的部分，稱為「把子」。",
+          "example": [
+            "如：「門把子」、「車把子」。"
+          ]
+        }
+      ],
+      "pinyin": "bà zi"
+    }
+  ],
+  "title": "把子"
+}

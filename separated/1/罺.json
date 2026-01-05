@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄠ",
+      "definitions": [
+        {
+          "def": "捕魚的小網。",
+          "quote": [
+            "唐．陸龜蒙〈漁具詩．序〉：「網罟之流曰罛、曰罾、曰罺。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "用小網捕魚。",
+          "quote": [
+            "《文選．左思．吳都賦》：「罩兩魪，罺鰝蝦。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chāo"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "网",
+  "stroke_count": 16,
+  "title": "罺"
+}

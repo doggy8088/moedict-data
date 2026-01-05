@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄧㄠ",
+      "definitions": [
+        {
+          "def": "參見「瀟水」條。",
+          "type": "名"
+        },
+        {
+          "def": "風雨狂急的樣子。",
+          "example": [
+            "如：「風雨瀟瀟」。"
+          ],
+          "quote": [
+            "宋．岳飛〈滿江紅．怒髮衝冠〉詞：「憑欄處、瀟瀟雨歇。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "xiāo"
+    }
+  ],
+  "non_radical_stroke_count": 16,
+  "radical": "水",
+  "stroke_count": 19,
+  "title": "瀟"
+}

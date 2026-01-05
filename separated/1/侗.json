@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄥˊ",
+      "definitions": [
+        {
+          "def": "參見「倥侗」條。"
+        }
+      ],
+      "pinyin": "tóng"
+    },
+    {
+      "bopomofo": "ㄉㄨㄥˋ",
+      "definitions": [
+        {
+          "def": "中國少數民族之一。參見「侗族」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "dòng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "侗"
+}

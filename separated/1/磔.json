@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄜˊ",
+      "definitions": [
+        {
+          "def": "分裂肢體。",
+          "quote": [
+            "《荀子．宥坐》：「女以諫者為必用邪？吳子胥不磔姑蘇東門外乎！」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "宰割牲畜以祭鬼神。",
+          "quote": [
+            "《禮記．月令》：「九門磔攘，以畢春氣。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "一種書法筆法。用筆時向右下斜，今稱為「捺」。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhé"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "石",
+  "stroke_count": 15,
+  "title": "磔"
+}

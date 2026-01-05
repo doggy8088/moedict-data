@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩㄝˊ",
+      "definitions": [
+        {
+          "def": "腳步迅速的樣子。",
+          "quote": [
+            "《論語．鄉黨》：「君召使擯，色勃如也，足躩如也。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "跳動。",
+          "quote": [
+            "《淮南子．精神》：「鳧浴，蝯蠼，鴟視，虎顧。」",
+            "唐．李白〈東海有勇婦〉詩：「十步兩躩躍，三呼一交兵。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jué"
+    }
+  ],
+  "non_radical_stroke_count": 20,
+  "radical": "足",
+  "stroke_count": 27,
+  "title": "躩"
+}

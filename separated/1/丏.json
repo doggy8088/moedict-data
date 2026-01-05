@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄢˇ",
+      "definitions": [
+        {
+          "def": "壅蔽不見。",
+          "quote": [
+            "《說文解字．丏部》：「丏，不見也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "古代避箭的短牆。",
+          "quote": [
+            "《字彙．一部》：「丏，避箭短牆也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "miǎn"
+    }
+  ],
+  "non_radical_stroke_count": 3,
+  "radical": "一",
+  "stroke_count": 4,
+  "title": "丏"
+}

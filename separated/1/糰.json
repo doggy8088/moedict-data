@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨㄢˊ",
+      "definitions": [
+        {
+          "def": "以米或粉等製成的圓球形食品。",
+          "example": [
+            "如：「飯糰」、「湯糰」、「糯米糰」。"
+          ],
+          "quote": [
+            "唐．白居易〈寒食日過棗糰店〉詩：「寒食棗糰店，春低楊柳枝。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tuán"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "米",
+  "stroke_count": 20,
+  "title": "糰"
+}

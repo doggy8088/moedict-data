@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "草木初生的樣子。",
+          "quote": [
+            "《說文解字．艸部》：「茁，艸初生出地貌。」",
+            "《詩經．召南．騶虞》：「彼茁者葭，壹發五豝。」",
+            "唐．孔穎達．正義：「謂草生茁茁然出。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "成長。參見「茁壯」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "zhuó"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "艸",
+  "stroke_count": 9,
+  "title": "茁"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄚˋ",
+      "definitions": [
+        {
+          "def": "參見「侘傺」條。",
+          "type": "形"
+        },
+        {
+          "def": "誇耀。",
+          "link": [
+            "通「詫」。"
+          ],
+          "quote": [
+            "《史記．卷一○八．韓長孺傳》：「即欲以侘鄙縣，驅馳國中，以夸諸侯。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "chà"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "侘"
+}

@@ -1,0 +1,21 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄩˊ",
+      "definitions": [
+        {
+          "def": "一種烹飪方法。用鹽或淨沙下鍋炒熱，再將食物用紗布等包好，埋入熱沙或熱鹽中，蓋緊鍋蓋，利用慢火燜熟。",
+          "example": [
+            "如：「鹽焗雞」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "jú"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "火",
+  "stroke_count": 11,
+  "title": "焗"
+}

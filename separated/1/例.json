@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˋ",
+      "definitions": [
+        {
+          "def": "可供比照或依據的標準。",
+          "example": [
+            "如：「慣例」、「體例」、「範例」、「史無前例」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "比類、比照。",
+          "example": [
+            "如：「以古例今」、「以此例彼」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "按規定的、照常的。",
+          "example": [
+            "如：「例行公事」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "lì"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "人",
+  "stroke_count": 8,
+  "title": "例"
+}

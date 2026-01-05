@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄢˋ",
+      "definitions": [
+        {
+          "def": "火苗、火花。",
+          "link": [
+            "同「焰」。"
+          ],
+          "quote": [
+            "《晉書．卷一○七．石季龍載記下》：「光燄照天，金石皆盡，火月餘乃滅。」",
+            "唐．杜甫〈火〉詩：「風吹巨燄作，河櫂騰煙柱。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "yàn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "火",
+  "stroke_count": 16,
+  "title": "燄"
+}

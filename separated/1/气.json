@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧˋ",
+      "definitions": [
+        {
+          "def": "雲氣。",
+          "quote": [
+            "《說文解字．气部》：「气，雲氣也。」",
+            "清．段玉裁．注：「气本雲氣，引申為凡氣之稱。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qì"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "气",
+  "stroke_count": 4,
+  "title": "气"
+}

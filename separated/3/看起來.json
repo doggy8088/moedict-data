@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄢ　ㄑㄧˇ　ㄌㄞˊ",
+      "definitions": [
+        {
+          "def": "關起來。",
+          "example": [
+            "如：「如果問不出口供，先把他看起來再說。」"
+          ]
+        }
+      ],
+      "pinyin": "kān qǐ lái"
+    },
+    {
+      "bopomofo": "ㄎㄢˋ　ㄑㄧˇ　ㄌㄞˊ",
+      "definitions": [
+        {
+          "def": "從外表上觀看。",
+          "example": [
+            "如：「最近工作忙碌，他看起來非常疲倦。」"
+          ]
+        }
+      ],
+      "pinyin": "kàn qǐ lái"
+    }
+  ],
+  "title": "看起來"
+}

@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄤ",
+      "definitions": [
+        {
+          "def": "走動、行走。",
+          "quote": [
+            "南朝宋．鮑照〈舞鶴賦〉：「始連軒以鳳蹌，終宛轉而龍躍。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "闖。",
+          "quote": [
+            "《京本通俗小說．志誠張主管》：「張主管開房門，那人蹌將入來，閃身已在燈光背後。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "行走有節奏威儀。",
+          "quote": [
+            "《詩經．齊風．猗嗟》：「巧趨蹌兮，射則臧兮。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "qiāng"
+    },
+    {
+      "bopomofo": "ㄑㄧㄤˋ",
+      "definitions": [
+        {
+          "def": "參見「踉蹌」條。"
+        }
+      ],
+      "pinyin": "qiàng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "足",
+  "stroke_count": 17,
+  "title": "蹌"
+}

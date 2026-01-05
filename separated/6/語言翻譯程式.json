@@ -1,0 +1,14 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩˇ　ㄧㄢˊ　ㄈㄢ　ㄧˋ　ㄔㄥˊ　ㄕˋ",
+      "definitions": [
+        {
+          "def": "將高階語言（如Fortran、Cobol、Basic)翻譯成計算機所能接受之機器碼的轉換程式。它包含有編譯程式（compiler）與直譯程式（interpreter）二種型態。"
+        }
+      ],
+      "pinyin": "yǔ yán fān yì chéng shì"
+    }
+  ],
+  "title": "語言翻譯程式"
+}

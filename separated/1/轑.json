@@ -1,0 +1,36 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄠˇ",
+      "definitions": [
+        {
+          "def": "車篷的骨架。",
+          "quote": [
+            "《說文解字．車部》：「轑，車蓋弓也。」",
+            "漢．劉熙《釋名．釋車》：「轑，蓋叉也，如屋構橑也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lǎo"
+    },
+    {
+      "bopomofo": "ㄌㄠˊ",
+      "definitions": [
+        {
+          "def": "用器具刮物，使其有聲。",
+          "quote": [
+            "《漢書．卷三六．楚元王劉交傳》：「嫂厭叔與客來，陽為羹盡，轑釜，客以故去。」",
+            "唐．顏師古．注：「以勺轢釜，令為聲也。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "láo"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "車",
+  "stroke_count": 19,
+  "title": "轑"
+}

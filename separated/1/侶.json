@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄩˇ",
+      "definitions": [
+        {
+          "def": "同伴。",
+          "example": [
+            "如：「伴侶」、「情侶」。"
+          ],
+          "quote": [
+            "《文選．王襃．四子講德論》：「於是相與結侶，攜手俱游。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "結為同伴。",
+          "quote": [
+            "宋．蘇軾〈赤壁賦〉：「況吾與子漁樵於江渚之上，侶魚蝦而友麋鹿。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "lǚ"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "人",
+  "stroke_count": 9,
+  "title": "侶"
+}

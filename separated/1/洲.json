@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄡ",
+      "definitions": [
+        {
+          "def": "水上的陸塊。",
+          "example": [
+            "如：「沙洲」。"
+          ],
+          "quote": [
+            "《詩經．周南．關雎》：「關關雎鳩，在河之洲。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "地理學上稱地球上的大塊陸地為「洲」。",
+          "example": [
+            "如：「亞洲」、「歐洲」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhōu"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洲"
+}

@@ -1,0 +1,34 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄨㄛˊ",
+      "definitions": [
+        {
+          "def": "纖細柔美。",
+          "example": [
+            "如：「嫋娜」、「婀娜」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "nuó"
+    },
+    {
+      "bopomofo": "ㄋㄚˋ",
+      "definitions": [
+        {
+          "def": "女子名字的用字。",
+          "example": [
+            "如：「麗娜」、「安娜」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "nà"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "女",
+  "stroke_count": 10,
+  "title": "娜"
+}

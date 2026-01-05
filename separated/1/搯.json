@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄠ",
+      "definitions": [
+        {
+          "def": "探取。",
+          "link": [
+            "同「掏」。"
+          ],
+          "quote": [
+            "唐．韓愈〈貞曜先生墓誌銘〉：「及其為詩，劌目鉥心，刃迎縷解，鉤章棘句，搯擢胃腎。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "叩、擊。",
+          "quote": [
+            "《國語．魯語下》：「請無瘠色，無洵涕，無搯膺。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "tāo"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "手",
+  "stroke_count": 13,
+  "title": "搯"
+}

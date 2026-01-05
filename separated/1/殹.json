@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧ",
+      "definitions": [
+        {
+          "def": "呻吟的聲音。見《說文解字．殳部》「殹」字．清．段玉裁．注。",
+          "type": "名"
+        },
+        {
+          "def": "用於句中或句末。相當於「兮」、「也」。",
+          "quote": [
+            "《馬王堆漢墓帛書．經法．道法》：「法者，引得失以繩，而明曲直者殹。」"
+          ],
+          "type": "助"
+        }
+      ],
+      "pinyin": "yī"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "殳",
+  "stroke_count": 11,
+  "title": "殹"
+}

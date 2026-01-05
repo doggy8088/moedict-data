@@ -1,0 +1,20 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄨㄟˋ　ㄓˇ",
+      "definitions": [
+        {
+          "def": "電腦軟硬體設備在記憶體中分配的位置。"
+        },
+        {
+          "def": "網路中每部電腦所在的位置代稱。如IP Address。單獨電腦上網，必須透過IP Addre　ss才可以在不同的網路上傳送資料。",
+          "link": [
+            "也稱為「站址」。"
+          ]
+        }
+      ],
+      "pinyin": "wèi zhǐ"
+    }
+  ],
+  "title": "位址"
+}

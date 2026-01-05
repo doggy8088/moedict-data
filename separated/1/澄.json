@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄥˊ",
+      "definitions": [
+        {
+          "def": "水靜止而清澈。",
+          "quote": [
+            "南朝齊．謝朓〈晚登三山還望京邑〉詩：「餘霞散成綺，澄江靜如練。」",
+            "唐．陳子昂〈薛大夫山亭宴序〉：「披翠微而列坐，左對青山；俯磐石而開襟，右臨澄水。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "chéng"
+    },
+    {
+      "bopomofo": "ㄉㄥˋ",
+      "definitions": [
+        {
+          "def": "使沉澱、清澈。",
+          "example": [
+            "如：「把這盆水澄一澄。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "dèng"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "水",
+  "stroke_count": 15,
+  "title": "澄"
+}

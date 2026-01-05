@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄝˋ",
+      "definitions": [
+        {
+          "def": "高大的山。",
+          "link": [
+            "同「嶽」。"
+          ],
+          "quote": [
+            "《文選．孔稚珪．北山移文》：「偶吹草堂，濫巾北岳。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "對妻子父母長輩的稱呼。",
+          "example": [
+            "如：「岳父」、「岳母」。"
+          ],
+          "quote": [
+            "《聊齋志異．卷二．水莽草》：「既婿矣，而不拜岳，妾復何心？」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有岳飛。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "yuè"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "山",
+  "stroke_count": 8,
+  "title": "岳"
+}

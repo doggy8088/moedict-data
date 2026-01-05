@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕ",
+      "definitions": [
+        {
+          "def": "",
+          "link": [
+            "同「溼」。"
+          ]
+        }
+      ],
+      "pinyin": "shī"
+    },
+    {
+      "bopomofo": "ㄒㄧˊ",
+      "definitions": [
+        {
+          "def": "低溼的地方。",
+          "quote": [
+            "《集韻．入聲．緝韻》：「隰，《說文》：『坂下溼也。』或作濕。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "xí"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "水",
+  "stroke_count": 17,
+  "title": "濕"
+}

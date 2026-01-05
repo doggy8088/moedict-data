@@ -1,0 +1,49 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄧㄤˊ",
+      "definitions": [
+        {
+          "def": "廣大的海域。",
+          "example": [
+            "如：「太平洋」、「大西洋」、「印度洋」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "舊指比較現代的事物。",
+          "example": [
+            "如：「土洋並用」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "俗稱銀元為「洋」。",
+          "example": [
+            "如：「龍洋」、「五百塊現大洋」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "廣大的。",
+          "example": [
+            "如：「汪洋大海」。"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "外國的。",
+          "example": [
+            "如：「洋人」、「洋貨」、「洋酒」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "yáng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洋"
+}

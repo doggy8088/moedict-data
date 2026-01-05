@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "秋天。",
+          "link": [
+            "通「旼」。"
+          ],
+          "quote": [
+            "《說文解字．日部》：「旻，秋天也。」",
+            "《書經．多士》：「旻天大降喪于殷。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "天空。",
+          "quote": [
+            "晉．陶淵明〈自祭文〉：「茫茫大塊，悠悠高旻。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "mín"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "日",
+  "stroke_count": 8,
+  "title": "旻"
+}

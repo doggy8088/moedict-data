@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄒㄩㄝˋ",
+      "definitions": [
+        {
+          "def": "消滅、滅亡。",
+          "link": [
+            "通「滅」。"
+          ],
+          "quote": [
+            "《詩經．小雅．正月》：「褒以烕之。」",
+            "《文選．潘岳．西征賦》：「赫赫宗周，烕為亡國。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "xuè"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "火",
+  "stroke_count": 10,
+  "title": "烕"
+}

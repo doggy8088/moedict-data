@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄨㄣˋ",
+      "definitions": [
+        {
+          "def": "眨眼、眼珠轉動。",
+          "quote": [
+            "《列子．湯問》：「爾先學不瞬，而後可言射矣。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "比喻短暫的時間。",
+          "quote": [
+            "宋．蘇軾〈赤壁賦〉：「蓋將自其變者而觀之，天地曾不能以一瞬。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shùn"
+    }
+  ],
+  "non_radical_stroke_count": 12,
+  "radical": "目",
+  "stroke_count": 17,
+  "title": "瞬"
+}

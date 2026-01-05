@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "青白色的綢布。",
+          "quote": [
+            "《楚辭．王襃．九懷．通路》：「紅采兮騂衣，翠縹兮為裳。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "淡青色。即月白色。",
+          "quote": [
+            "清．錢謙益〈後飲酒〉詩七首之一：「但餘六長瓶，味甘色復縹。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "piǎo"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄧㄠˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）piào"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "糸",
+  "stroke_count": 17,
+  "title": "縹"
+}

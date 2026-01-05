@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄨㄤˊ",
+      "definitions": [
+        {
+          "def": "人有病痛而倚靠休養的樣子。",
+          "quote": [
+            "《說文解字．疒部》：「疒，倚也。人有疾痛也，象倚箸之形。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "疾病。",
+          "quote": [
+            "《廣韻．平聲．陽韻》：「疒，病也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "chuáng"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "疒",
+  "stroke_count": 5,
+  "title": "疒"
+}

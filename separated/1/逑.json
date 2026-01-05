@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "聚合。",
+          "quote": [
+            "《說文解字．辵部》：「逑，斂聚也。」",
+            "《詩經．大雅．民勞》：「惠此中國，以為民逑。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "配偶。",
+          "quote": [
+            "《詩經．周南．關雎》：「窈窕淑女，君子好逑。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "qiú"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "辵",
+  "stroke_count": 11,
+  "title": "逑"
+}

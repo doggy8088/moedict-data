@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄚˊ",
+      "definitions": [
+        {
+          "def": "參見「蝦蟆」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "má"
+    },
+    {
+      "bopomofo": "（又音）˙ㄇㄚ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）ma"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "虫",
+  "stroke_count": 17,
+  "title": "蟆"
+}

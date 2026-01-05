@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄢˇ　ㄉㄠˋ",
+      "definitions": [
+        {
+          "def": "趕忙到達。",
+          "example": [
+            "如：「等他趕到時，飛機已經起飛了。」"
+          ]
+        }
+      ],
+      "pinyin": "gǎn dào"
+    },
+    {
+      "bopomofo": "ㄍㄢˇ　˙ㄉㄠ",
+      "definitions": [
+        {
+          "def": "等到。",
+          "example": [
+            "如：「趕到有困難，再用這筆錢。」"
+          ]
+        }
+      ],
+      "pinyin": "gǎn dao"
+    }
+  ],
+  "title": "趕到"
+}

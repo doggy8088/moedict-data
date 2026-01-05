@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄞˇ",
+      "definitions": [
+        {
+          "def": "乳房。",
+          "link": [
+            "通「奶」。"
+          ],
+          "quote": [
+            "《玉篇．女部》：「嬭，乳也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "母親。",
+          "quote": [
+            "清．王念孫《廣雅疏證．卷六下．釋親》：「嬭，母也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "nǎi"
+    }
+  ],
+  "non_radical_stroke_count": 14,
+  "radical": "女",
+  "stroke_count": 17,
+  "title": "嬭"
+}

@@ -1,0 +1,14 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄠ　ㄨㄣˊ　ㄅㄣˇ　ㄔㄨㄢˊ　ㄕㄨ　ㄒㄧㄝˊ　ㄉㄧㄥˋ",
+      "definitions": [
+        {
+          "def": "一種全球資訊網（ WWW）上的通訊協定。為英文 Internet HyperText Transfer Prot-ocol的義譯。也就是個人要求端和伺服端的溝通語言，藉此，要求端可提出要求，伺服端可作相對的回應。縮稱為HTTP。"
+        }
+      ],
+      "pinyin": "chāo wén běn chuán shū xié dìng"
+    }
+  ],
+  "title": "超文本傳輸協定"
+}

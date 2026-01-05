@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄠ",
+      "definitions": [
+        {
+          "def": "瀰漫。",
+          "example": [
+            "如：「白浪滔天」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "大水滾滾不絕的樣子。參見「滔滔」條。",
+          "type": "形"
+        }
+      ],
+      "pinyin": "tāo"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "水",
+  "stroke_count": 13,
+  "title": "滔"
+}

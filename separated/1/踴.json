@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄥˇ",
+      "definitions": [
+        {
+          "def": "跳躍。",
+          "example": [
+            "如：「一踴而起」。"
+          ],
+          "link": [
+            "同「踊」。"
+          ],
+          "quote": [
+            "唐．柳宗元〈晉問〉：「掉躃擁踴，以登夫歷山之垂。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "物價上漲。",
+          "link": [
+            "同「踊」。"
+          ],
+          "quote": [
+            "《後漢書．卷六○上．馬融傳》：「會羌虜飆起，邊方擾亂，米穀踴貴。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yǒng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "足",
+  "stroke_count": 16,
+  "title": "踴"
+}

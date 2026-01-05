@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄟˊ",
+      "definitions": [
+        {
+          "def": "美石。",
+          "quote": [
+            "唐．釋玄應《一切經音義．卷二．大般涅槃經》：「石之美好曰：『玫』，圓好曰：『瑰』。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「玫瑰」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "méi"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "玉",
+  "stroke_count": 8,
+  "title": "玫"
+}

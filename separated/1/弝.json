@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄚˋ",
+      "definitions": [
+        {
+          "def": "弓中央手握的部分。",
+          "quote": [
+            "元．熊忠《古今韻會舉要．去聲．禡韻》：「弝，弓弣中手執處也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "柄。",
+          "quote": [
+            "唐．李賀〈申胡子觱篥歌〉：「朔客騎白馬，劍弝懸蘭纓。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bà"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "弓",
+  "stroke_count": 7,
+  "title": "弝"
+}

@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄞˋ",
+      "definitions": [
+        {
+          "def": "裝東西的器物。",
+          "example": [
+            "如：「口袋」、「背袋」、「衣袋」、「布袋」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "具有容納或盛裝作用的部位或器具。",
+          "example": [
+            "如：「腦袋」、「旱煙袋」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "量詞。計算袋裝物的單位。",
+          "example": [
+            "如：「他買了一袋米。」、「他一天抽兩袋煙。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "dài"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "衣",
+  "stroke_count": 11,
+  "title": "袋"
+}

@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄠˇ",
+      "definitions": [
+        {
+          "def": "用土石築成的小城。",
+          "quote": [
+            "《十六國春秋輯補．卷四○．前秦錄．苻登傳》：「據險築堡以自固。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "工事堅固的陣地。",
+          "example": [
+            "如：「碉堡」、「橋頭堡」、「灘頭堡」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "北方人稱村落為「堡」。",
+          "example": [
+            "如：「張家堡」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "bǎo"
+    },
+    {
+      "bopomofo": "（又音）ㄆㄨˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）pù"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "土",
+  "stroke_count": 12,
+  "title": "堡"
+}

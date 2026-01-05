@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "草莖。",
+          "example": [
+            "如：「麥莛兒」。"
+          ],
+          "quote": [
+            "《說文解字．艸部》：「莛，莖也。」",
+            "《漢書．卷六五．東方朔傳》：「以筦闚天，以蠡測海，以莛撞鐘。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "房屋上的橫梁。",
+          "quote": [
+            "《莊子．齊物論》：「故為是舉莛與楹，厲與西施，恢恑憰怪，道通為一。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tíng"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "艸",
+  "stroke_count": 11,
+  "title": "莛"
+}

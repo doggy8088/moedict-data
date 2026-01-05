@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧˋ",
+      "definitions": [
+        {
+          "def": "惡瘡。",
+          "quote": [
+            "《禮記．月令》：「行春令則蝗蟲為敗，水泉咸竭，民多疥癘。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "瘟疫。",
+          "quote": [
+            "《左傳．哀公元年》：「在國，天有菑癘。」",
+            "晉．杜預．注：「癘，疾疫也。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "lì"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "疒",
+  "stroke_count": 18,
+  "title": "癘"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄥˊ",
+      "definitions": [
+        {
+          "def": "水流向上噴湧。",
+          "quote": [
+            "《玉篇．水部》：「滕，《詩》曰：『百川沸滕。』水上涌也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "國名。西周諸侯國之一。故址約在今大陸地區山東省滕縣一帶。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如明代有滕宗智。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "téng"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "水",
+  "stroke_count": 15,
+  "title": "滕"
+}

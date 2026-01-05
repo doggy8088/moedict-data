@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄦˇ",
+      "definitions": [
+        {
+          "def": "（erbium，Er）化學元素。原子序68。稀土金屬元素之一。存於火成岩中，具銀色光澤，質軟，能使水分解。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "ěr"
+    },
+    {
+      "bopomofo": "ㄦˋ",
+      "definitions": [
+        {
+          "def": "鉤狀飾品。",
+          "quote": [
+            "《宋書．卷一八．禮志五》：「第六品以下，加不得服金鈿、綾、錦、錦繡、七緣綺、貂豽裘、金叉環珥。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "èr"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "金",
+  "stroke_count": 14,
+  "title": "鉺"
+}

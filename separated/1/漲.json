@@ -1,0 +1,44 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄤˋ",
+      "definitions": [
+        {
+          "def": "物體擴張。",
+          "example": [
+            "如：「漲大」。"
+          ],
+          "link": [
+            "通「脹」。"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "瀰漫。",
+          "quote": [
+            "《南史．卷九．陳武帝本紀》：「縱火燒柵，煙塵漲天。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhàng"
+    },
+    {
+      "bopomofo": "ㄓㄤˇ",
+      "definitions": [
+        {
+          "def": "上升、提高。",
+          "example": [
+            "如：「漲價」、「水位暴漲」、「行情看漲」。"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "zhǎng"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "水",
+  "stroke_count": 14,
+  "title": "漲"
+}

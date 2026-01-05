@@ -1,0 +1,38 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄔㄡˊ",
+      "definitions": [
+        {
+          "def": "繁、多。",
+          "example": [
+            "如：「地窄人稠」。"
+          ],
+          "quote": [
+            "宋．謝枋得〈蠶婦吟〉：「子規啼徹四更時，起視蠶稠怕葉稀。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "深濃、厚密。",
+          "example": [
+            "如：「濃稠」、「粥太稠了。」"
+          ],
+          "quote": [
+            "唐．杜甫〈送韋十六評事充同谷郡防禦判官〉詩：「古色沙土裂，積陰雪雲稠。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "姓。如漢代有稠雕。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "chóu"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "禾",
+  "stroke_count": 13,
+  "title": "稠"
+}

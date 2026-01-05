@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "細微的聲音。",
+          "quote": [
+            "《說文解字．口部》：「嘒，小聲也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "光芒微弱。",
+          "quote": [
+            "《詩經．召南．小星》：「嘒彼小星，三五在東。」",
+            "唐．劉禹錫〈楚望賦〉：「三星嘒其曉中，植物颯以飄英。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "huì"
+    }
+  ],
+  "non_radical_stroke_count": 11,
+  "radical": "口",
+  "stroke_count": 14,
+  "title": "嘒"
+}

@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩㄝˋ",
+      "definitions": [
+        {
+          "def": "動物名。鳥綱雀形目。形似烏鴉，尾長六、七寸。背黑，肩、腹、翼皆白。叫聲吵雜，古時以鵲噪為喜兆，故稱為「喜鵲」。今為燕雀類鴉科大型鳥類的通稱。如樹鵲、臺灣藍鵲等。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "què"
+    },
+    {
+      "bopomofo": "（又音）ㄑㄧㄠˇ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）qiǎo"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "鳥",
+  "stroke_count": 19,
+  "title": "鵲"
+}

@@ -1,0 +1,30 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄧㄢ",
+      "definitions": [
+        {
+          "def": "大陸地區雲南省的簡稱。秦漢時，雲南省為滇國地，故簡稱為「滇」。",
+          "type": "名"
+        },
+        {
+          "def": "湖泊名。參見「滇池」條。",
+          "type": "名"
+        },
+        {
+          "def": "國名。戰國時楚威王大將莊蹻所建，故址在今大陸地區雲南省東部滇池附近。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如漢代有滇零、滇良。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "diān"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "水",
+  "stroke_count": 13,
+  "title": "滇"
+}

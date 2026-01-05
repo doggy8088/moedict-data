@@ -1,0 +1,27 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄩˋ",
+      "definitions": [
+        {
+          "def": "（chlorine，Cl）化學元素。原子序17。非金屬元素之一。氯氣為黃綠色氣體，比空氣重，有毒，具臭味。可供漂白、消毒等用途。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "lǜ"
+    },
+    {
+      "bopomofo": "（又音）ㄌㄨˋ",
+      "definitions": [
+        {
+          "def": "(一)之又音。"
+        }
+      ],
+      "pinyin": "（又音）lù"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "气",
+  "stroke_count": 12,
+  "title": "氯"
+}

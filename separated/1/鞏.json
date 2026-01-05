@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄍㄨㄥˇ",
+      "definitions": [
+        {
+          "def": "以皮革綑束東西。",
+          "quote": [
+            "《說文解字．革部》：「鞏，以韋束也。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "牢固。",
+          "example": [
+            "如：「鞏固國防」。"
+          ],
+          "quote": [
+            "《詩經．大雅．瞻卬》：「藐藐昊天，無不克鞏。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "姓。如漢代有鞏攸。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "gǒng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "革",
+  "stroke_count": 15,
+  "title": "鞏"
+}

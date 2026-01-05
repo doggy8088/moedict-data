@@ -1,0 +1,35 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄇㄧㄝ",
+      "definitions": [
+        {
+          "def": "形容羊叫的聲音。",
+          "example": [
+            "如：「羋！羋！羋！牧童趕著羊群往山腳下去了。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "miē"
+    },
+    {
+      "bopomofo": "ㄇㄧˇ",
+      "definitions": [
+        {
+          "def": "(一)之讀音。",
+          "type": "狀"
+        },
+        {
+          "def": "姓。如戰國時齊國有羋嬰。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "mǐ"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "羊",
+  "stroke_count": 8,
+  "title": "羋"
+}

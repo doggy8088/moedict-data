@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧˊ",
+      "definitions": [
+        {
+          "def": "蒐錄後整理。",
+          "example": [
+            "如：「編輯」、「比輯舊聞，憤而成篇。」"
+          ],
+          "quote": [
+            "《漢書．卷三○．藝文志》：「夫子既卒，門人相與輯而論篹，故謂之《論語》。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "量詞。計算叢書或期刊出版的單位。",
+          "example": [
+            "如：「《辭典學叢刊》總共有三輯。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "jí"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "車",
+  "stroke_count": 16,
+  "title": "輯"
+}

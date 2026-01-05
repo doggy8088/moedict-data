@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄩㄥˇ",
+      "definitions": [
+        {
+          "def": "水從下向上冒出。",
+          "example": [
+            "如：「泉湧」。"
+          ],
+          "quote": [
+            "唐．杜甫〈秋興〉詩八首之一：「江間波浪兼天湧 ，塞上風雲接地陰。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "像水一樣的衝出。",
+          "example": [
+            "如：「風起雲湧」、「一大群人湧了出來。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "yǒng"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "水",
+  "stroke_count": 12,
+  "title": "湧"
+}

@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄩㄢˊ",
+      "definitions": [
+        {
+          "def": "沒有輻的車輪。",
+          "quote": [
+            "《說文解字．車部》：「輇，無輻也。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "衡量。",
+          "quote": [
+            "《集韻．平聲．仙韻》：「輇，量度也。」",
+            "清．朱鶴齡〈吳弘人示余漢槎秋笳集感而有作〉詩：「方今網羅開，輇材咸得試。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "quán"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "車",
+  "stroke_count": 13,
+  "title": "輇"
+}

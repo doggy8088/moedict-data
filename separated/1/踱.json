@@ -1,0 +1,24 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄉㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "一步一步慢慢的走。常用來表示處在悠閒或思慮的狀態中。",
+          "example": [
+            "如：「踱方步」、「踱來踱去」。"
+          ],
+          "quote": [
+            "《文明小史．第三四回》：「到第四日上，有一個秀才……躬身曲背的踱進店來。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "duò"
+    }
+  ],
+  "non_radical_stroke_count": 9,
+  "radical": "足",
+  "stroke_count": 16,
+  "title": "踱"
+}

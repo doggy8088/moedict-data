@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄘㄨㄛ",
+      "definitions": [
+        {
+          "def": "兩手反覆相揉、磨擦。",
+          "example": [
+            "如：「搓湯圓」、「搓麻繩」。"
+          ],
+          "quote": [
+            "《兒女英雄傳．第一四回》：「說著急得搓手頓足，滿面流淚。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "將物置於手中運轉。",
+          "quote": [
+            "《兒女英雄傳．第一五回》：「他一隻手，只管得兒楞楞的，得兒楞楞的，搓著那副鐵球。」"
+          ],
+          "type": "動"
+        }
+      ],
+      "pinyin": "cuō"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "手",
+  "stroke_count": 13,
+  "title": "搓"
+}

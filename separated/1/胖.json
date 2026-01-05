@@ -1,0 +1,37 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄤˋ",
+      "definitions": [
+        {
+          "def": "身體豐肥、脂肪多。",
+          "example": [
+            "如：「肥胖」、「胖娃兒」。"
+          ],
+          "quote": [
+            "《文明小史．第二六回》：「原來是一位女學生身體太胖了，椅子不結實，腿兒折了，幾乎仰翻過去。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pàng"
+    },
+    {
+      "bopomofo": "ㄆㄢˊ",
+      "definitions": [
+        {
+          "def": "安泰寬舒。",
+          "quote": [
+            "《禮記．大學》：「富潤屋，德潤身，心廣體胖。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "pán"
+    }
+  ],
+  "non_radical_stroke_count": 5,
+  "radical": "肉",
+  "stroke_count": 9,
+  "title": "胖"
+}

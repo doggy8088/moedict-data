@@ -1,0 +1,32 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄋㄠˋ",
+      "definitions": [
+        {
+          "def": "爛泥。",
+          "example": [
+            "如：「泥淖」。"
+          ],
+          "quote": [
+            "《左傳．成公十六年》：「欒、范以其族夾公行，陷于淖。」",
+            "《聊齋志異．卷一．王成》：「見往來行人，踐淖沒脛，心畏苦之。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "溼潤。",
+          "quote": [
+            "《管子．地員》：「五粟之狀，淖而不肕。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "nào"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "水",
+  "stroke_count": 11,
+  "title": "淖"
+}

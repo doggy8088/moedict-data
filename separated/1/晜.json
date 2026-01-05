@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄎㄨㄣ",
+      "definitions": [
+        {
+          "def": "兄。",
+          "link": [
+            "同「昆」。"
+          ],
+          "quote": [
+            "《爾雅．釋親》：「晜，兄也。」",
+            "宋．陸游〈幽居即事〉詩九首之五：「野人求其類，金墺實弟晜。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "kūn"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "日",
+  "stroke_count": 11,
+  "title": "晜"
+}

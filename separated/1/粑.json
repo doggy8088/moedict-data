@@ -1,0 +1,25 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄅㄚ",
+      "definitions": [
+        {
+          "def": "譯音用字。參見「糌粑」條。",
+          "type": "名"
+        },
+        {
+          "def": "表乾扁的食物。",
+          "example": [
+            "如：「鍋粑」。"
+          ],
+          "type": "綴"
+        }
+      ],
+      "pinyin": "bā"
+    }
+  ],
+  "non_radical_stroke_count": 4,
+  "radical": "米",
+  "stroke_count": 10,
+  "title": "粑"
+}

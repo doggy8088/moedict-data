@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄆㄧㄥˊ",
+      "definitions": [
+        {
+          "def": "參見「洴澼絖」條。",
+          "type": "動"
+        },
+        {
+          "def": "形容水聲或鑼鼓聲。",
+          "example": [
+            "如：「洴淜」。"
+          ],
+          "quote": [
+            "明．徐霖《繡襦記．第三一齣》：「洴洴澎澎，  叮叮咚咚，打著鐃鈸，持齋把素念彌陀。」"
+          ],
+          "type": "狀"
+        }
+      ],
+      "pinyin": "píng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "水",
+  "stroke_count": 9,
+  "title": "洴"
+}

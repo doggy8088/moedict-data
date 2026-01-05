@@ -1,0 +1,56 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄏㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "水多的樣子。",
+          "quote": [
+            "《廣韻．去聲．泰韻》：「濊，《說文》曰水多貌。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "深厚、深廣。",
+          "quote": [
+            "《文選．司馬相如．難蜀父老》：「漢興七十有八載，德茂在乎天也，威武紛紜，湛恩汪濊。」"
+          ],
+          "type": "形"
+        },
+        {
+          "def": "醜陋、汙穢。",
+          "link": [
+            "通「穢」。"
+          ],
+          "quote": [
+            "《漢書．卷七八．蕭望之傳》：「龍者，宣帝時與張子蟜等待詔，以行汙濊不進。」"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "huì"
+    },
+    {
+      "bopomofo": "ㄏㄨㄛˋ",
+      "definitions": [
+        {
+          "def": "參見「濊濊」條。"
+        }
+      ],
+      "pinyin": "huò"
+    },
+    {
+      "bopomofo": "ㄨㄟˋ",
+      "definitions": [
+        {
+          "def": "參見「濊貊」條。"
+        }
+      ],
+      "pinyin": "wèi"
+    }
+  ],
+  "non_radical_stroke_count": 13,
+  "radical": "水",
+  "stroke_count": 16,
+  "title": "濊"
+}

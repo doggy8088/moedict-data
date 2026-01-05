@@ -1,0 +1,41 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄓㄚˊ",
+      "definitions": [
+        {
+          "def": "書信。",
+          "example": [
+            "如：「信劄」。"
+          ],
+          "link": [
+            "同「札」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "公文。",
+          "example": [
+            "如：「劄子」。"
+          ],
+          "link": [
+            "同「札」。"
+          ],
+          "quote": [
+            "《兒女英雄傳．第二回》：「安老爺自從接了調署的劄文，便一面打發家眷到高堰通判任所。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "筆記。如清朝趙翼有《廿二史劄記》。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "zhá"
+    }
+  ],
+  "non_radical_stroke_count": 8,
+  "radical": "竹",
+  "stroke_count": 14,
+  "title": "劄"
+}

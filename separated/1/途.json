@@ -1,0 +1,31 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄨˊ",
+      "definitions": [
+        {
+          "def": "道路。",
+          "example": [
+            "如：「旅途」、「半途而廢」。"
+          ],
+          "quote": [
+            "《文選．陶淵明．歸去來辭》：「寔迷途其未遠，覺今是而昨非。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "方面、範圍。",
+          "example": [
+            "如：「用途」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "tú"
+    }
+  ],
+  "non_radical_stroke_count": 7,
+  "radical": "辵",
+  "stroke_count": 11,
+  "title": "途"
+}

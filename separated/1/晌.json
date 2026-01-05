@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕㄤˇ",
+      "definitions": [
+        {
+          "def": "正午。",
+          "example": [
+            "如：「晌午」。"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "一會兒、片刻的時間。",
+          "example": [
+            "如：「他呆了半晌。」"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "shǎng"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "日",
+  "stroke_count": 10,
+  "title": "晌"
+}

@@ -1,0 +1,28 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄌㄧㄡˊ",
+      "definitions": [
+        {
+          "def": "同「劉」。",
+          "quote": [
+            "《玉篇．金部》：「鎦，古劉字。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "（lutecium，Lu）化學元素。原子序71。為鐿中分出的稀土金屬。",
+          "link": [
+            "也稱為「鑥」。"
+          ],
+          "type": "名"
+        }
+      ],
+      "pinyin": "liú"
+    }
+  ],
+  "non_radical_stroke_count": 10,
+  "radical": "金",
+  "stroke_count": 18,
+  "title": "鎦"
+}

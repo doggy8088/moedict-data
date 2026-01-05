@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄕˊ",
+      "definitions": [
+        {
+          "def": "數目字，為九加一的總和。大寫為「拾」，阿拉伯數字作「10」。",
+          "type": "名"
+        },
+        {
+          "def": "二一四部首之一。",
+          "type": "名"
+        },
+        {
+          "def": "滿足、完滿。",
+          "example": [
+            "如：「十足」、「十全十美」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "shí"
+    }
+  ],
+  "non_radical_stroke_count": 0,
+  "radical": "十",
+  "stroke_count": 2,
+  "title": "十"
+}

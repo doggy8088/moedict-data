@@ -1,0 +1,39 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄊㄢˊ",
+      "definitions": [
+        {
+          "def": "延及、蔓延。",
+          "quote": [
+            "《詩經．周南．葛覃》：「葛之覃兮，施于中谷。」",
+            "南朝梁．劉勰《文心雕龍．頌讚》：「比類寓意，又覃及細物矣。」"
+          ],
+          "type": "動"
+        },
+        {
+          "def": "深。",
+          "example": [
+            "如：「覃思」、「覃深」。"
+          ],
+          "type": "副"
+        }
+      ],
+      "pinyin": "tán"
+    },
+    {
+      "bopomofo": "ㄑㄧㄣˊ",
+      "definitions": [
+        {
+          "def": "姓。如明代有覃應充。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "qín"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "襾",
+  "stroke_count": 12,
+  "title": "覃"
+}

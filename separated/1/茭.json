@@ -1,0 +1,26 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄐㄧㄠ",
+      "definitions": [
+        {
+          "def": "餵食家畜的乾草。",
+          "quote": [
+            "《說文解字．艸部》：「茭，乾芻。」",
+            "《書經．費誓》：「魯人三郊三遂，峙乃芻茭，無敢不多，汝則有大刑。」"
+          ],
+          "type": "名"
+        },
+        {
+          "def": "參見「茭白」條。",
+          "type": "名"
+        }
+      ],
+      "pinyin": "jiāo"
+    }
+  ],
+  "non_radical_stroke_count": 6,
+  "radical": "艸",
+  "stroke_count": 10,
+  "title": "茭"
+}

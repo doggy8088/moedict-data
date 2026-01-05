@@ -1,0 +1,33 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄙˋ",
+      "definitions": [
+        {
+          "def": "介於三和五之間的自然數。如：「三、四、五、六……」。大寫作「肆」，阿拉伯數字作 「4」。",
+          "type": "名"
+        },
+        {
+          "def": "古代樂譜上用來表示音階的符號。",
+          "type": "名"
+        },
+        {
+          "def": "姓。如宋代有四象。",
+          "type": "名"
+        },
+        {
+          "def": "第四的。",
+          "example": [
+            "如：「四更天」、「四年級」、「四品官」。"
+          ],
+          "type": "形"
+        }
+      ],
+      "pinyin": "sì"
+    }
+  ],
+  "non_radical_stroke_count": 2,
+  "radical": "囗",
+  "stroke_count": 5,
+  "title": "四"
+}

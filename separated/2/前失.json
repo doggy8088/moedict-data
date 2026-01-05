@@ -1,0 +1,29 @@
+{
+  "heteronyms": [
+    {
+      "bopomofo": "ㄑㄧㄢˊ　ㄕ",
+      "definitions": [
+        {
+          "def": "已往的過失。",
+          "quote": [
+            "《後漢書．卷五六．張晧傳》：「雖追前失，悔之何逮！」"
+          ]
+        }
+      ],
+      "pinyin": "qián shī"
+    },
+    {
+      "bopomofo": "ㄑㄧㄢˊ　˙ㄕ",
+      "definitions": [
+        {
+          "def": "馬失前足。",
+          "quote": [
+            "《三國演義．第一一六回》：「戰馬前失，姜維跌在地上。」"
+          ]
+        }
+      ],
+      "pinyin": "qián shi"
+    }
+  ],
+  "title": "前失"
+}
